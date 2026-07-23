@@ -139,13 +139,14 @@ USE_TZ = True
 STATIC_URL = 'static/'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
-# Email Settings (console for local testing / SMTP ready)
-EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+# Real Gmail SMTP Settings
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = '' # Set your Gmail here
-EMAIL_HOST_PASSWORD = '' # Set your Gmail App Password here
+EMAIL_HOST_USER = 'imtahanlaridnizcilik@gmail.com'
+EMAIL_HOST_PASSWORD = 'gygnzevmbrrfpylr'
+DEFAULT_FROM_EMAIL = 'Dənizçilik İmtahanları <imtahanlaridnizcilik@gmail.com>'
 
 # Questions JSON files directory
 QUESTIONS_DIR = BASE_DIR / 'static' / 'questions'

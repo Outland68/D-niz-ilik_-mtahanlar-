@@ -140,19 +140,25 @@ def send_reset_code_view(request):
         'user_id': user.id
     }
 
-    # Send Email (Outputted to console log during dev/test & ready for Gmail SMTP)
+    # Send Email via Gmail SMTP
     from django.core.mail import send_mail
     subject = "Dənizçilik İmtahanları - Şifrə Sıfırlama Kodu"
-    message = f"Hərvaxtınız xeyir {user.username},\n\nŞifrənizi sıfırlamaq üçün təsdiq kodunuz: {code}\n\nBu kodu heç kimlə paylaşmayın."
+    message = f"Hərvaxtınız xeyir {user.username},\n\nŞifrənizi sıfırlamaq üçün təsdiq kodunuz: {code}\n\nBu kodu heç kimlə paylaşmayın.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
     
     try:
-        send_mail(subject, message, settings.EMAIL_HOST_USER or 'noreply@denizchilik.az', [user.email], fail_silently=True)
+        send_mail(
+            subject, 
+            message, 
+            settings.DEFAULT_FROM_EMAIL, 
+            [user.email], 
+            fail_silently=False
+        )
     except Exception as e:
-        print("Email error:", e)
+        print("Gmail SMTP Exception:", e)
+        return Response({'error': 'E-poçt göndərilərkən xəta baş verdi. Xahiş olunur bir az sonra yenidən cəhd edin.'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
     return Response({
-        'message': f'6 rəqəmli təsdiq kodu {user.email} ünvanına göndərildi!',
-        'dev_code': code # Provided for easy testing in browser!
+        'message': f'6 rəqəmli təsdiq kodu {user.email} ünvanına göndərildi!'
     })
 
 
