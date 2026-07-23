@@ -174,17 +174,23 @@ def verify_reset_code_view(request):
         return Response({'error': 'Yeni şifrə ən azı 8 simvol olmalıdır.'}, status=status.HTTP_400_BAD_REQUEST)
 
     user = User.objects.filter(email=email).first() or User.objects.filter(username=email).first()
-    if not user or user.email not in RESET_CODES:
+    if not user:
+        return Response({'error': 'İstifadəçi tapılmadı.'}, status=status.HTTP_400_BAD_REQUEST)
+
+    # Check key by user.email or input email
+    target_key = user.email if user.email in RESET_CODES else email
+    if target_key not in RESET_CODES:
         return Response({'error': 'Sıfırlama sorğusu tapılmadı və ya vaxtı bitib.'}, status=status.HTTP_400_BAD_REQUEST)
 
-    saved_info = RESET_CODES[user.email]
-    if saved_info['code'] != code:
+    saved_info = RESET_CODES[target_key]
+    if str(saved_info['code']).strip() != str(code).strip():
         return Response({'error': 'Daxil etdiyiniz 6 rəqəmli kod yanlışdır!'}, status=status.HTTP_400_BAD_REQUEST)
 
     # Success: set new password & delete used code
     user.set_password(new_password)
     user.save()
-    del RESET_CODES[user.email]
+    if target_key in RESET_CODES:
+        del RESET_CODES[target_key]
 
     return Response({'message': 'Şifrəniz uğurla yeniləndi! İndi daxil ola bilərsiniz.'})
 
