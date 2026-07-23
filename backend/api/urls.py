@@ -1,0 +1,25 @@
+from django.urls import path, include
+from rest_framework.routers import DefaultRouter
+from .views import (
+    CategoryViewSet, CertificateViewSet,
+    login_view, register_view, refresh_token_view, change_password_view,
+    send_reset_code_view, verify_reset_code_view,
+    logout_view, me_view
+)
+
+router = DefaultRouter()
+router.register(r'categories', CategoryViewSet)
+router.register(r'certificates', CertificateViewSet, basename='certificate')
+
+urlpatterns = [
+    path('', include(router.urls)),
+    # Auth endpoints
+    path('auth/login/', login_view, name='auth-login'),
+    path('auth/register/', register_view, name='auth-register'),
+    path('auth/refresh/', refresh_token_view, name='auth-refresh'),
+    path('auth/send-reset-code/', send_reset_code_view, name='auth-send-reset-code'),
+    path('auth/verify-reset-code/', verify_reset_code_view, name='auth-verify-reset-code'),
+    path('auth/logout/', logout_view, name='auth-logout'),
+    path('auth/change-password/', change_password_view, name='auth-change-password'),
+    path('auth/me/', me_view, name='auth-me'),
+]

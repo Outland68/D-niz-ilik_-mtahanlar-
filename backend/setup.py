@@ -1,0 +1,111 @@
+# -*- coding: utf-8 -*-
+import os
+import django
+import sys
+
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "core.settings")
+django.setup()
+
+from django.contrib.auth.models import User
+from api.models import Category, Certificate
+
+# ── 1. Create superuser if not exists ──────────────────
+if not User.objects.filter(username='admin').exists():
+    User.objects.create_superuser('admin', 'admin@example.com', 'admin123')
+    print("Superuser created: admin / admin123")
+else:
+    print("Superuser 'admin' already exists.")
+
+# ── 2. Re-seed categories ──────────────────────────────
+Category.objects.all().delete()
+c1 = Category.objects.create(name='Sıravi heyət hazırlığı üzrə',           icon_name='Anchor',    color='bg-blue-500/20 text-blue-400')
+c2 = Category.objects.create(name='Xüsusi hazırlıq şəhadətnamələri üzrə',  icon_name='FileBadge', color='bg-emerald-500/20 text-emerald-400')
+c3 = Category.objects.create(name='Sertifikat diplom üzrə',                 icon_name='Award',     color='bg-amber-500/20 text-amber-400')
+print("Categories seeded.")
+
+# ── 3. Xüsusi hazırlıq şəhadətnamələri üzrə (Category 2) ──
+special_certs = {
+    "Safety familiarization basic training and instruction for all seafarers": None,
+    "Gəmi sürücülərinin təkmilləşdirilməsi (istismar)": None,
+    "Gəmi elektrik mexaniklərinin təkmilləşdirilməsi": None,
+    "Gəmi mexaniklərinin təkmilləşdirilməsi (idarəetmə)": None,
+    "Gəmi sürücülərinin təkmilləşdirilməsi (idarəetmə)": None,
+    "Gəmi mexaniklərinin təkmilləşdirilməsi (istismar səviyyəsində)": None,
+    "Əmniyyətli İdarəetmə Haqqında Beynəlxalq Məcəllə": "special/eibm.json",
+    "İzdihamın idarə olunması üzrə hazırlıq": None,
+    "İnert qaz sistemi": None,
+    "Yanğınla mübarizə geniş proqram üzrə": None,
+    "Təhlükəli və zərərli yüklərin daşınması": None,
+    "Sərnişinlərə bilavasitə xidmət göstərən heyət üyələri": None,
+    "Sərnişinlərin, yükün və gəmi gövdəsinin təhlükəsizliyi üzrə hazırlıq": None,
+    "Sürətli xilasetmə qayıq mütəxəssisi": None,
+    "Sürətli olmayan xilasedici qayıqlar və sallar üzrə mütəxəssis": None,
+    "Radar, avtomatik radar müşahidə vasitələri, kapitan körpüsü komandası və axtarış xilasetmə (idarəetmə səviyyəsində)": None,
+    "Radar müşahidəsi və təsviri, avtomatik radar müşahidəsi vasitələrinin istismarı (istismar səviyyəsində)": None,
+    "Qlobal Dəniz Fəlakət və Əmniyyətli Rabitə Sisteminin Ümumi Rayon Operatoru": None,
+    "Neft və Kimyəvi-İlkin": None,
+    "Neft tankerlərində-geniş": None,
+    "Maşın şöbəsi resurslarının idarə olunması": None,
+    "Liman vasitələrinin mühafizəyə məsul": None,
+    "Liderlik və birgə iş fəaliyyəti": None,
+    "Kimyəvi maddə daşıyan tankerlərdə yük əməliyyatlarına dair geniş proqram üzrə hazırlıq": None,
+    "Kapitan Körpüsü Resurslarının İdarə Olunması": None,
+    "ISPS-3": None,
+    "ISPS-2": None,
+    "ISPS-1": None,
+    "Gəminin idarə olunması və manevr edilməsi": None,
+    "Gəmi əmniyyətliyi üzrə Məsul Şəxs": None,
+    "Gəmidə tibbi nəzarət": None,
+    "Gəmidə ilk tibbi yardım": None,
+    "Gəmi qazanalizatorları və onların istismarı": None,
+    "Elektron Xəritə Displeyinin və İnformasiya Sistemlərinin İstismar Qaydaları": None,
+    "Bütün dənizçilər üçün təhlükəsizlik üzrə tanışlıq, ilkin hazırlıq və təlimat": None,
+    "Böhran zamanı idarəetmə və insan davranışı üzrə hazırlıq": None,
+    "1000 volt və artıq olan gərginlik sistemlərinin təhlükəsiz istismarı və onlara texniki nəzarət": None,
+    "Xam Neftlə Yuyulma Sistemi": None
+}
+
+for name, json_file in special_certs.items():
+    Certificate.objects.create(category=c2, name=name, json_file=json_file)
+
+print(f"Xüsusi hazırlıq şəhadətnamələri üzrə: {len(special_certs)} certificates seeded.")
+
+# ── 4. Sertifikat diplom üzrə (Category 3) ──
+cert_map = {
+    "Axtarış xilasetmə əməliyyatların koordinasiyası (IAMSAR)":                                                    None,
+    "Beynəlxalq dəniz hüququ":                                                                                      None,
+    "Gəmilərin Toqquşmasının Qarşısını Alınmasına dair Beynalxalq Qaydalar (Colreg-72)":                           "certdip/colreg_72.json",
+    "Gəminin dayanaqlığı":                                                                                          None,
+    "Gəminin idarə edilməsi":                                                                                       None,
+    "Naviqasiya təhlükələrin çəpərlənmə sistemi (IALA)":                                                           None,
+    "Radar ARPA":                                                                                                   None,
+    "Səfərin planlaşdırılması- Dənizçilik astronomiyası":                                                          None,
+    "Səfərin planlaşdırılması-Meteorologiya":                                                                       None,
+    "Səfərin planlaşdırılması - Naviqasiya":                                                                       None,
+    "Yük əməliyyatları":                                                                                            None,
+    "İngilis dili (göyərtə heyəti üçün)":                                                                         None,
+    "Gəmi energetik qurğuları və onların istismarı":                                                               None,
+    "Gəmi konstruksiyası və Gəmi dayanıqlılığı":                                                                   None,
+    "Gəmi köməkçi buxar qazanları":                                                                                None,
+    "Gəmi köməkçi mexanizmləri":                                                                                    None,
+    "Gəmi soyuducu qurğuları":                                                                                      None,
+    "İngilis dili (maşın heyəti üçün)":                                                                            None,
+    "MARPOL 73-78":                                                                                                 "certdip/marpol_73_78.json",
+    "Yanğından mühafizə və xilasedici vasitələr":                                                                  None,
+    "Aşağı elektrik gərginliyi sistemləri":                                                                        None,
+    "Baş mühərriklərin və köməkçi mexanizmlərin avtomatik idarəetmə sistemlərinin işinə nəzarət":                 None,
+    "Bütün gəmidaxili rabitə sistemlərinin istismarı":                                                             None,
+    "Elektrik generatorlarının və paylayıcı sistemlərinin istismarı":                                              None,
+    "Elektrik sistemlərinin və avadanlıqlarının xüsusiyyətləri":                                                   None,
+    "Elektrik və elektron avadanlıqlarının istismarı və texniki xidmətin göstərilməsi":                            None,
+    "Elektrik və elektron avadanlığın istismarı":                                                                   None,
+    "Elektrik və elektron nəzarət avadanlıqlarının idarəedilməsi":                                                 None,
+    "Gəmi elektrik avadanlıqlarının istismarı":                                                                    None,
+    "Gəmi mexaniki qurğularının iş prinsipinə dair anlayışlar":                                                    None,
+}
+
+for name, json_file in cert_map.items():
+    Certificate.objects.create(category=c3, name=name, json_file=json_file)
+
+print(f"Sertifikat diplom üzrə: {len(cert_map)} certificates seeded.")
+print("\nDone!")

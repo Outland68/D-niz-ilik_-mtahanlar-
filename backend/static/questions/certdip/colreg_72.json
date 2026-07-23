@@ -1,0 +1,41 @@
+{
+  "certificate": "Gəmilərin Toqquşmasının Qarşısını Alınmasına dair Beynalxalq Qaydalar (Colreg-72)",
+  "questions": [
+    {
+      "id": "q001",
+      "question": "COLREG-72 qaydalarına görə, dayanmış gəmi gecə vaxtı hansı işıqları yandırmalıdır?",
+      "options": {
+        "A": "Yalnız yaşıl işıq",
+        "B": "Yan işıqlar",
+        "C": "Gövdənin üzərindən görünən ağ işıq",
+        "D": "Qırmızı işıq"
+      },
+      "correct_answer": "C",
+      "explanation": "COLREG-72 Qayda 30: Lövbərdə dayanan gəmi – ağ dairəvi işıq."
+    },
+    {
+      "id": "q002",
+      "question": "Dar kanalda hərəkət edən gəmi hansı qaydaya əməl etməlidir?",
+      "options": {
+        "A": "Kanalın ortası ilə hərəkət etməlidir",
+        "B": "Kanalın sağ tərəfi ilə mümkün qədər yaxın getməlidir",
+        "C": "Kanalın sol tərəfindən getməlidir",
+        "D": "Həmişə motoru söndürməlidir"
+      },
+      "correct_answer": "B",
+      "explanation": "COLREG-72 Qayda 9: Dar kanallarda gəmi, kanalın sağ tərəfi boyunca hərəkət etməlidir."
+    },
+    {
+      "id": "q003",
+      "question": "Aşağıdakılardan hansı 'idarəolunmayan gəmi' kimi təsnif edilir?",
+      "options": {
+        "A": "Sürəti azaldılmış gəmi",
+        "B": "Qeyri-adi vəziyyət nəticəsində manevr etmə qabiliyyətini itirmiş gəmi",
+        "C": "Yük daşıyan gəmi",
+        "D": "Sürəti 5 düyündən az olan gəmi"
+      },
+      "correct_answer": "B",
+      "explanation": "COLREG-72 Qayda 3(f): İdarəolunmayan gəmi - qeyri-adi vəziyyət nəticəsində COLREG-ə uyğun manevr etmə qabiliyyətini itirmiş gəmidir."
+    }
+  ]
+}
