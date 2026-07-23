@@ -79,6 +79,9 @@ def register_view(request):
     if User.objects.filter(username=username).exists():
         return Response({'error': 'Bu istifadəçi adı artıq götürülüb.'}, status=status.HTTP_400_BAD_REQUEST)
 
+    if email and User.objects.filter(email=email).exists():
+        return Response({'error': 'Bu e-poçt ünvanı artıq istifadə olunur. Başqa e-poçt daxil edin və ya daxil olun.'}, status=status.HTTP_400_BAD_REQUEST)
+
     user = User.objects.create_user(username=username, email=email, password=password)
     refresh = RefreshToken.for_user(user)
 
