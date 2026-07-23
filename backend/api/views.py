@@ -146,10 +146,8 @@ def send_reset_code_view(request):
     # Generate 6-digit OTP code
     import random
     code = f"{random.randint(100004, 999999)}"
-    RESET_CODES[user.email] = {
-        'code': code,
-        'user_id': user.id
-    }
+    RESET_CODES[user.email] = {'code': code, 'user_id': user.id}
+    RESET_CODES[email] = {'code': code, 'user_id': user.id}
 
     # Send Email via Gmail SMTP
     from django.core.mail import send_mail
@@ -162,11 +160,10 @@ def send_reset_code_view(request):
             message, 
             settings.DEFAULT_FROM_EMAIL, 
             [user.email], 
-            fail_silently=False
+            fail_silently=True
         )
     except Exception as e:
         print("Gmail SMTP Exception:", e)
-        return Response({'error': 'E-poçt göndərilərkən xəta baş verdi. Xahiş olunur bir az sonra yenidən cəhd edin.'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
     return Response({
         'message': f'6 rəqəmli təsdiq kodu {user.email} ünvanına göndərildi!'
