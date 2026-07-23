@@ -29,16 +29,24 @@ def login_view(request):
     Body: { "username": "...", "password": "..." }
     Returns: { "access": "...", "refresh": "...", "user": { ... } }
     """
-    username = request.data.get('username')
-    password = request.data.get('password')
+    username_input = request.data.get('username', '').strip()
+    password = request.data.get('password', '').strip()
 
-    if not username or not password:
+    if not username_input or not password:
         return Response(
-            {'error': 'İstifadəçi adı və şifrə tələb olunur.'},
+            {'error': 'İstifadəçi adı / E-poçt və şifrə tələb olunur.'},
             status=status.HTTP_400_BAD_REQUEST
         )
 
-    user = authenticate(username=username, password=password)
+    # Check if input is email or username
+    user_obj = User.objects.filter(username=username_input).first() or User.objects.filter(email=username_input).first()
+    if not user_obj:
+        return Response(
+            {'error': 'İstifadəçi adı və ya şifrə yanlışdır.'},
+            status=status.HTTP_401_UNAUTHORIZED
+        )
+
+    user = authenticate(username=user_obj.username, password=password)
     if user is None:
         return Response(
             {'error': 'İstifadəçi adı və ya şifrə yanlışdır.'},
