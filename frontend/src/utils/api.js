@@ -1,4 +1,4 @@
-const BASE_URL = 'http://127.0.0.1:8000/api';
+const BASE_URL = 'https://d-niz-ilik-mtahanlar-1.onrender.com/api';
 
 // ─── Token helpers ───────────────────────────────────
 export const getAccessToken = () => localStorage.getItem('access_token');
