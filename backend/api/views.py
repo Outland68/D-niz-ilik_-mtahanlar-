@@ -140,21 +140,26 @@ def register_view(request):
         'password': password
     }
 
-    # Send confirmation code via Gmail SMTP
+    # Send confirmation code via Gmail SMTP in a background thread to prevent Gunicorn timeout crashes
+    import threading
     from django.core.mail import send_mail
+
+    def send_email_thread(subject, message, from_email, recipient_list):
+        try:
+            send_mail(subject, message, from_email, recipient_list, fail_silently=True)
+        except Exception as e:
+            print("Background SMTP Exception:", e)
+
     subject = "Dənizçilik İmtahanları - Qeydiyyat Təsdiq Kodu"
     message = f"Hərvaxtınız xeyir,\n\nDənizçilik İmtahanları platformasında qeydiyyatdan keçmək üçün təsdiq kodunuz: {code}\n\nBu kodu qeydiyyat pəncərəsinə daxil edərək hesabınızı aktivləşdirin.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
     
-    try:
-        send_mail(
-            subject, 
-            message, 
-            settings.DEFAULT_FROM_EMAIL, 
-            [email], 
-            fail_silently=True
-        )
-    except Exception as e:
-        print("Register Gmail SMTP Exception:", e)
+    # Start thread
+    thread = threading.Thread(
+        target=send_email_thread,
+        args=(subject, message, settings.DEFAULT_FROM_EMAIL, [email])
+    )
+    thread.daemon = True
+    thread.start()
 
     return Response({
         'message': f'6 rəqəmli qeydiyyat təsdiq kodu {email} ünvanına göndərildi!',
@@ -265,21 +270,25 @@ def send_reset_code_view(request):
     RESET_CODES[user.email] = {'code': code, 'user_id': user.id}
     RESET_CODES[email] = {'code': code, 'user_id': user.id}
 
-    # Send Email via Gmail SMTP
+    # Send Email via Gmail SMTP in background thread
+    import threading
     from django.core.mail import send_mail
+
+    def send_reset_thread(subject, message, from_email, recipient_list):
+        try:
+            send_mail(subject, message, from_email, recipient_list, fail_silently=True)
+        except Exception as e:
+            print("Background SMTP Reset Exception:", e)
+
     subject = "Dənizçilik İmtahanları - Şifrə Sıfırlama Kodu"
     message = f"Hərvaxtınız xeyir {user.username},\n\nŞifrənizi sıfırlamaq üçün təsdiq kodunuz: {code}\n\nBu kodu heç kimlə paylaşmayın.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
     
-    try:
-        send_mail(
-            subject, 
-            message, 
-            settings.DEFAULT_FROM_EMAIL, 
-            [user.email], 
-            fail_silently=True
-        )
-    except Exception as e:
-        print("Gmail SMTP Exception:", e)
+    thread = threading.Thread(
+        target=send_reset_thread,
+        args=(subject, message, settings.DEFAULT_FROM_EMAIL, [user.email])
+    )
+    thread.daemon = True
+    thread.start()
 
     return Response({
         'message': f'6 rəqəmli təsdiq kodu {user.email} ünvanına göndərildi!'

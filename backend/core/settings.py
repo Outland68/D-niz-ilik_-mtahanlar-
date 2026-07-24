@@ -146,6 +146,7 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'imtahanlaridnizcilik@gmail.com'
 EMAIL_HOST_PASSWORD = 'gygn zevm brrf pylr'
+EMAIL_TIMEOUT = 5 # Prevent server hang-ups if Google is unreachable (Max 5 seconds timeout)
 DEFAULT_FROM_EMAIL = 'Dənizçilik İmtahanları <imtahanlaridnizcilik@gmail.com>'
 
 # Questions JSON files directory
