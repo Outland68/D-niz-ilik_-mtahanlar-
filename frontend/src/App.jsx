@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate, useLocation, useNavigate } from 'react-router-dom';
+import { Analytics } from '@vercel/analytics/react';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import MainMenu from './pages/MainMenu';
@@ -38,6 +39,7 @@ function App() {
   return (
     <Router>
       <SessionChecker />
+      <Analytics />
       <div className="min-h-screen bg-gradient-to-br from-dark to-dark-paper text-light flex flex-col items-center justify-between p-4 relative overflow-x-hidden">
         {/* Decorative background circles for modern look */}
         <div className="fixed top-[-10%] left-[-10%] w-[40vw] h-[40vw] bg-primary/20 rounded-full blur-[120px] pointer-events-none"></div>
