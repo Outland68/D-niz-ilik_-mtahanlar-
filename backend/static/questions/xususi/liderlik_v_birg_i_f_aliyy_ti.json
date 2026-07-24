@@ -1,0 +1,797 @@
+{
+  "certificate": "Liderlik vә birgə iş fəaliyyəti",
+  "questions": [
+    {
+      "id": "q001",
+      "question": "1. Manila düzәlişlәrinә әsasәn “Liderlik vә birgә iş fәaliyyәti” kursu hansı tarixdәn etibarәn dәnizçilәrin hazırlanması üzrә bütün tәdris müәssәlәrindә hәyata keçirilmәlidir?",
+      "options": {
+        "A": "01 iyul 2012-ci il",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q002",
+      "question": "2. “Liderlik vә birgә iş fәaliyyәti” kursu DHDNÇ-78 Beynәlxalq Mәcәllәsinin hansı bölmәlәrinin tәlәblәrinә uyğun hәyata keçirilir?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "DHDNÇ-78 Beynәlxalq Mәcәllәsinin A-II/1, A-II/2, A-III/1, A- III/2, A-III/3 vә A-III/6 bölmәlәri",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q003",
+      "question": "3. “Liderlik vә birgә iş fәaliyyәti” kursu kimlәr üçün nәzәrdә tutulub?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "Komanda heyәti üçün"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q004",
+      "question": "4. Azәrbaycan Respublikası neçәnci ildәn etibarәn Beynәlxalq Әmәk Tәşkilatının (BӘT) üzvüdür?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "12 may 1992-ci il",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Azәrbaycan Respublikasınin “Ticarәt Gәmiçiliyi Mәcәllәsi” hansı tarixdәn qüvvәdәdir?",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "C": "22 iyun 2001-ci il",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q006",
+      "question": "6. SOLAS-74/78 hansı gәmi tiplәrinә şamil olunur?",
+      "options": {
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "Beynәlxalq reyslәr edәn bütün gәmi tiplәrinә şamil edilir",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q007",
+      "question": "7. MARPOL-73/78 neçә әlavәsi hazırda qüvvәdәdir?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "6",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q008",
+      "question": "8. Liderlik dedikdә nә başa düşülür?",
+      "options": {
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "Liderlik bir nәfәrin ümumi mәqsәd naminә bir qrup insana tәsirinә әsaslanan prosesdir"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q009",
+      "question": "9. Bilik dedikdә nә başa düşülür?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "Hәr hansı vәziyyәtdә daha effektiv qәrar qәbul etmәk üçün informasiya",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q010",
+      "question": "10. Bacarıq dedikdә nә başa düşülür?",
+      "options": {
+        "A": "bütün cavablar doğrudur",
+        "B": "Tәlim vә tәcrübә zamanı göstәrilәn mәharәt",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q011",
+      "question": "11. Komanda üzvlәrinin bilik vә bacarıqlarını aşağı qiymәtlәndirәn vә qәrarların qәbul edilmәsindә komanda üzvlәrinin tәkliflәrini nәzәrә almayan rәhbәrlәr hansı liderlik tipinә aiddirlәr?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "Avtokratik liderlik",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q012",
+      "question": "12. Kitabla işlәyәn, qayda vә prosedurlara dәqiqliklә әmәl edәn liderlәr hansı liderlik tipinә aiddirlәr?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "Bürokratik liderlik",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q013",
+      "question": "13. Bürokratik liderlik tәrzinә daha uyğun olanı hansıdır?",
+      "options": {
+        "A": "Texnika ilә әlaqәli işlәr, qapalı mәkanlara daxil olduqda, tәhlükәli yük әmәliyyatları vә ya yüksәkliklәrdә işlәmәk kimi ciddi tәhlükәlәrlә әlaqәli riskli işlәr vә maliyyә әmәliyyatları",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q014",
+      "question": "14. İnsanlar hansı tәrz liderә hәvәslә tabe olurlar vә populyar bir siyasәtçi kimi onun dalınca gedirlәr?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "Xarizmatik liderlik"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q015",
+      "question": "15. Hansı tәrz liderlәr son qәrarın tam mәsuliyyәti onun üzәrindә olmasına baxmayaraq, qәrarların qәbul edilmәsi prosesinә komandanı dәvәt edirlәr?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "Demokratik vә ya iştirakçı liderlik"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q016",
+      "question": "16. Müdaxilә etmәyәn rәhbәrlik (mane olmayan) tәrzi hansı halda mәqsәdәuyğundur?",
+      "options": {
+        "A": "Komandada mütәxәssislәr vә öz vәzifәlәrini yüksәk sәviyyәdә icra etmәk qabiliyyәtinә malik insanlar işlәdiyi halda",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q017",
+      "question": "17. Hansı tәrz liderlik avtokratik şәkildә tapşırığın yerinә yetirilmәsinә yönlәnmişdir?",
+      "options": {
+        "A": "Tapşırıq yönümlü liderlik",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q018",
+      "question": "18. Bu tәrz liderlik tapşırıq yönümlü liderliyin tam әksidir. Hansı tәrz liderlәr komandanın tәşkil olunmasında vә inkişafinda onun bir üzvü kimi fәaliyyәt göstәrir?",
+      "options": {
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "İnsan yönümlü vә ya münasibәt yönümlü liderlik"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q019",
+      "question": "19. Gәmidә әnәnәvi olaraq birmәnalı şәkildә kapitanın әmrlәrinә tabe olmaq tәrzini bilmәk vә qәbul etmәk hansı liderlik tipinә aiddir?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "bütün cavablar doğrudur",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "Transakt liderlik (әmәliyyat,müqavilә)"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q020",
+      "question": "20. Hansı tәrzdә liderlәr komandalarını vәziyyәtin dәyişdirilmәsinin gәlәcәkdә sәmәrәli olacağına inandırır vә onları buna ilhamlandırır?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "Transformal liderlik",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q021",
+      "question": "21. Hansı tәrz liderlәr sırf komandanın tәlәblәrinә uyğun olaraq hәrәkәt edir vә öz fikirlәri olmur?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "Xidmәtkar liderlik",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q022",
+      "question": "22. Kapitan hansı mәsәlәlәr üzrә cavabdehlik daşıyır?",
+      "options": {
+        "A": "Gәminin tәhlükәsiz istismarı, gәmi heyәtinin, yükün tәhlükәsizliyi vә çirklәnmәnin qarşısının alınması üzrә",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "fırtınalı havada təxirə salınmaqla"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q023",
+      "question": "23. Kapitanın vәzifәsinә nә aiddir?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "Qәza vәziyyәtlәrinә daimi hazırlıq vә riskin bütün növlәrinin yaranmasının qarşısının alınması",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q024",
+      "question": "24. Heyәt üzvlәrindәn kimlәrә tәhlükәli yüklәrlә işlәmәyә icazә verilir?",
+      "options": {
+        "A": "Yalnız xüsusi hazırlıq keçmiş heyәt üzvlәrinә",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q025",
+      "question": "25. Qәza şәraitindә gәmini әn axırıncı kim tәrk edir?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "Gәmi kapitanı"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q026",
+      "question": "26. Tәlim mәqsәdilә keçirilәn yanğın hәyacanında gәmi heyәtinin hansı hissәsi iştirak edir?",
+      "options": {
+        "A": "hər 6 aydan bir keçirilən təlimlərdə",
+        "B": "Bütün heyәt",
+        "C": "bütün cavablar doğrudur",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q027",
+      "question": "27. Gәrginlik altında olan avadanlıqlarda baş vermiş yanğını söndürәrkәn ilk növbәdә nә etmәk lazımdır?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "bütün cavablar yanlışdır",
+        "D": "Qәza bölmәsini vә avadanlıqları cәrәyandan ayırmaq"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q028",
+      "question": "28. Yanğın zamanı kömәyә gәlmiş qrupa kim rәhbәrlik edir?",
+      "options": {
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "Gәmi kapitanı"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q029",
+      "question": "29. Tәhlükәli yüklәrin daşınması üzrә gәmi komissiyası hansı tәrkibdә yaradılır?",
+      "options": {
+        "A": "Kapitan, kapitanın baş kömәkçisi, baş mexanik vә bosman",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "10 uzel sürətlə manevr etdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q030",
+      "question": "30. Xәsarәtin yetirilmәsi ilә bağlı yolverilmәz riskin yoxluğu necә adlanır?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "Tәhlükәsizlik",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q031",
+      "question": "31. Potensial ziyan mәnbәyi dedikdә nә nәzәrdә tutulur?",
+      "options": {
+        "A": "Tәhlükә",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "şimal-şərq istiqamətində",
+        "D": "bütün cavablar doğrudur"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q032",
+      "question": "32. Ziyan dedikdә nә nәzәrdә tutulur?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "İnsan sağlamlığına yetirilmiş xәsarәt vә ya zәdә, әmlaka vә әtraf mühitә dәymiş zәrәr",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "bütün cavablar yanlışdır"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q033",
+      "question": "33. Nәticәlәr vacibliyinә görә hansı qaydada sıralanır?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "Pozitiv vә neqativ",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q034",
+      "question": "34. Ehtimal dedikdә nә nәzәrdә tutulur?",
+      "options": {
+        "A": "Hadisәnin baş verә bilmә ölçüsü",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q035",
+      "question": "35. Riskin qiymәtlәndirilmәsi dedikdә nә nәzәrdә tutulur?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "Riskin tәhlilinin vә dәyәrlәndirilmәsinin ümumi prosesi.",
+        "C": "bütün cavablar doğrudur",
+        "D": "gərginlik 220 V həddinə çatdıqda"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q036",
+      "question": "36. Riskin analizi dedikdә nә nәzәrdә tutulur?",
+      "options": {
+        "A": "Riskin mәnbәyinin vә kәmiyyәtcә qiymәtinin tәyin edilmәsi üçün mәlumatın sistematik olaraq istifadә edilmәsi",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q037",
+      "question": "37. Riskin neçә kateqoriyası var?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "3",
+        "C": "bütün cavablar doğrudur",
+        "D": "fırtınalı havada təxirə salınmaqla"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q038",
+      "question": "38. Aşağı sәviyyәli risklәrdә tәlәb olunan fәaliyyәt hansıdır?",
+      "options": {
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "Әlavә nәzarәt tәlәb olunmur, nәzarәtin saxlanması mәqsәdi ilә monitorinqin keçirilmәsi",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q039",
+      "question": "39. Orta sәviyyәli risklәrdә tәlәb olunan fәaliyyәtlәr hansıdır?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "Riskin azaldılması üzrә tәlәb olunan tәdbirlәr vә nәzarәt üsulları lazımı vaxtda yerinә yetirilmәlidir",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q040",
+      "question": "40. Çox yüksәk sәviyyәli riskdә tәlәb olunan fәaliyyәtlәr hansıdır?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "Risk azalana qәdәr işә başlamaq vә ya işә davam etmәk olmaz. Riskin azalmadığı tәqdirdә bütün tәdbirlәr qadağan olunur",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q041",
+      "question": "41. Dayazlıqda vә mәhdud görünüş şәraiti sәbәbindәn yaranan qәzalara hansı aiddir?",
+      "options": {
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "Gәminin saya oturması, toqquşma, saya toxunma"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q042",
+      "question": "42. Deleqasiya nәdir?",
+      "options": {
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "İşlәrin daha aşağı sәviyyәli menecerә ötürülmәsi",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q043",
+      "question": "43. Aşağıdakılardan hansı şirkәtdaxili әlaqәnin idarә edilmәsi prinsipi deyil?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "Gizli konfliktlәri tәsvir etmәk",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q044",
+      "question": "44. Bәdәnimizi yoran vәrdişlәrә aşağıdakılardan hansılar aid deyil?",
+      "options": {
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "bütün cavablar doğrudur",
+        "C": "Rejimә riayәt etmәk",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q045",
+      "question": "45. Әmniyyәtli idarәetmә haqqında Beynәlxalq Mәcәllә (ISM code) hansı sahәyә aid olan sәnәddir?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "Gәmilәrin istismarının әmniyyәtli idarә edilmәsi vә çirklәnmәnin qarşısının alınması sahәsinә aid olan sәnәddir"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q046",
+      "question": "46. MARPOL - 73/78-nin hansı әlavәsindә neft qalıqları ilә dәnizin çirklәndirilmәsinin qarşısının alınması qaydaları göstәrilir?",
+      "options": {
+        "A": "bütün cavablar doğrudur",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "1"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q047",
+      "question": "47. Effektiv ünsiyyәt qaydası hansıdır?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "Qarşınızda duran insanın diqqәtini cәlb etmәkdir",
+        "D": "gərginlik 220 V həddinə çatdıqda"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q048",
+      "question": "48. Effektiv ünsiyyәt qurmaq üçün hansı amilin varlığı zәruridir?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "Uyğunlaşma"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q049",
+      "question": "49. Aşağıdakılardan hansı düzgündür?",
+      "options": {
+        "A": "İnsanlar arxasınca getdiklәri insanı lider, tabe olduqları insanı isә menecer kimi qәbul edirlәr",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "C": "şimal-şərq istiqamətində",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q050",
+      "question": "50. Tabeçiliyinizdә olan 2 işçinin arasında işlә bağlı münaqişә yaranmışdır. Aşağıdakılardan hansı әn optimal hәll yolu ola bilәr?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "Münaqişә tәrәflәrini barışdırmaq vә münaqişәyә gәtirib çıxaran sәbәbi aradan qaldırmaq istiqamәtindә fәaliyyәt göstәrmәk",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q051",
+      "question": "51. Neftlә çirklәndirmә üzrә ziyana görә mülki mәsuliyyәt haqqında beynәlxalq konvensiya necә adlanır?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "CLC-69",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q052",
+      "question": "52. Menecerә xas olan xüsusiyyәtlәr hansıdır?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "İnzibatçıdır, әmr edәr, sistemә әsaslanaraq nәzarәt edәr"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q053",
+      "question": "53. Motivasiya nәdir?",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "İşçini işlәmәyә ruhlandıran amillәr"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q054",
+      "question": "54. Mәqsәdlәrә görә idarәetmә nәdir?",
+      "options": {
+        "A": "Tәşkilatı bölmәlәr vә fәrdi üzvlәr üçün ümumi mәqsәdlәri spesifik mәqsәdlәrә çevirmәyi hәdәflәmәkdir",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "fırtınalı havada təxirə salınmaqla"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q055",
+      "question": "55. Liderin yeganә alәti nә hesab olunur?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "Ünsiyyәt",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q056",
+      "question": "56. Aşağıdakılardan hansı liderliyin göstәricisi deyil?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "İşә lazımsız müdaxilәlәrin edilmәsi",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q057",
+      "question": "57. İdeal rәhbәr kimdir?",
+      "options": {
+        "A": "Hәm lider, hәm dә menecer xüsusiyyәtlәrinә malik olandır",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q058",
+      "question": "58. Dәnizdә gәmilәrin toqquşmasının qarşısının alınması haqqında qaydaları müəyyən edən Beynәlxalq Konvensiya necә adlanır?",
+      "options": {
+        "A": "COLREG–72",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "bütün cavablar doğrudur"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q059",
+      "question": "59. Hansı motivasiya prinsipi deyil?",
+      "options": {
+        "A": "Fәrdilik",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "bütün cavablar doğrudur"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q060",
+      "question": "60. Şirkәtin siyasәti kim tәrәfindәn hazırlanır?",
+      "options": {
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "Şirkәtin rәhbәri"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q061",
+      "question": "61. Konflikt nәdir?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "Münaqişәdir",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q062",
+      "question": "62. Aşağıdakılardan hansı münaqişәnin idarә edilmәsi yolu deyildir?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "Haqsız olanı müәyyәn etmәk vә cәzalandırmaq"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q063",
+      "question": "63. Aşağıdakılardan hansı münaqişәnin müsbәt hәlli yolu deyildir?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "Münaqişә tәrәflәrini üzlәşdirmәk",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q064",
+      "question": "64. Gәmi heyәti kimlәrdәn ibarәtdir?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "Kapitandan, digәr komanda heyәti üzvlәrindәn vә sıravi heyәtdәn"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q065",
+      "question": "65. Gәmidә motorçu kimә tabedir?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "İkinci mexanikə",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q066",
+      "question": "66. Münasibәt qurmaq üçün ilk növbәdә nәlәrә diqqәt yetirilmәsi zәruridir?",
+      "options": {
+        "A": "Duruş, sәs tonu, hәrәkәtlәr",
+        "B": "bütün cavablar yanlışdır",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    }
+  ]
+}

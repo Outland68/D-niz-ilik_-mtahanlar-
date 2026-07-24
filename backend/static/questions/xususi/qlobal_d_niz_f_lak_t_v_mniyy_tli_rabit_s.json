@@ -1,0 +1,605 @@
+{
+  "certificate": "Qlobal Dәniz Fәlakәt vә Әmniyyәtli Rabitә Sisteminin Ümumi Rayon Operatoru",
+  "questions": [
+    {
+      "id": "q001",
+      "question": "1. VHF-radiostansiyası ilә DSC rejimindә verilmiş yanlış fәlakәt siqnalı hansı kanalda lәğv edilir?",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "16 Ch"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q002",
+      "question": "2. SART-ın açıqlamasını göstәrin:",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "Radiolokasiya cavabvericisi"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q003",
+      "question": "3. HF- nin açıqlamasını göstәrin:",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "bütün cavablar yanlışdır",
+        "D": "Qısa dalğalar"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q004",
+      "question": "4. MF-nin açıqlamasını göstәrin:",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "Ara dalğalar"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Heç bir stansiya tәrәfindәn DSC fәlakət siqnalı tәsdiq olunmadıqda nә edir?",
+      "options": {
+        "A": "3,5-4,5 dәqiqәdәn bir avtomatik tәkrar olunur",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q006",
+      "question": "6. DSC-nin açıqlamasını göstәrin:",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "Rәqәmsal seçilmә çağırışı",
+        "C": "bütün cavablar doğrudur",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q007",
+      "question": "7. EPİRB-nin açıqlamasını göstәrin:",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "Qәza radiobuyu"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q008",
+      "question": "8. VHF-nin açıqlamasını göstәrin:",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "Ultra qısa dalğalar",
+        "C": "bütün cavablar doğrudur",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q009",
+      "question": "9. “Listing” hansı fәlakәt növünә aid olunur?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "Gәminin tәhlükәli kreni (meyililik)",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q010",
+      "question": "10. “Undesingnated” hansı fәlakәt növünә aid olunur?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "Tәyin olunmamış"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q011",
+      "question": "11. “Abandoning ship” hansı fәlakәt növünә aid olunur?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "Gәminin tәrk edilmәsi",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "10 uzel sürətlə manevr etdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q012",
+      "question": "12. Sәfәrә çıxmazdan әvvәl GMDSS operatoru nәyi mütlәq yoxlamalıdır?",
+      "options": {
+        "A": "Bütün radio avadanlığı vә ehtiyat enerji mәnbәlәri",
+        "B": "bütün cavablar yanlışdır",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q013",
+      "question": "13. MMSI abreviaturasını açıqlayın:",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "Dәniz mobil servis identifikasiya nömrәsi",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q014",
+      "question": "14. MMSI nömrәsini birinci üç rәqәmi nәyi göstәrir?",
+      "options": {
+        "A": "Milli mәnsubiyyәtin kodu",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q015",
+      "question": "15. Fәlakәt zamanı radioәlaqənin aparılması üçün mәslәhәt görülәn rejim hansıdır?",
+      "options": {
+        "A": "Radiotelefon rabitəsi",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "gərginlik 220 V həddinə çatdıqda"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q016",
+      "question": "16. VHF radiostansiyalar radio dalğalarının hansı diapazonunda işlәyirlәr?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "Ultra qısa dalğalar",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q017",
+      "question": "17. VHF-dә Fәlakәt,Tәcili vә Çağırış beynәlxalq kanalı hansıdır?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "16 Ch",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q018",
+      "question": "18. 16 kanalın tezliyi hansıdır?",
+      "options": {
+        "A": "bütün cavablar doğrudur",
+        "B": "156.8 MHs",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q019",
+      "question": "19. Aşağıda sadalananlardan hansı “Dupleks”kanalı hesab olunur?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "Qәbulun vә ötürülmәnin müxtәlif tezlikli kanal",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q020",
+      "question": "20. Gәmilәr arası dәnizdә üzmәnin tәhlükәsizliyi haqqında mәlumatın ötürülmәsi hansı kanalda aparılır?",
+      "options": {
+        "A": "13 Ch",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q021",
+      "question": "21. Aşağıda sadalananlardan hansı “Simpleks” kanalı hesab olunur?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "Qәbulun vә ötürülmənin eyni tezlikli kanal",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q022",
+      "question": "22. VHF radiostansiyalar DSC radionövbәsini hansı kanalda aparılır?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "70 Ch",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q023",
+      "question": "23. “Collision” hansı fәlakәt növünә aid olunur?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "Gәminin toqquşması",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q024",
+      "question": "24. MF diapazonunda Fәlakәt, Tәcili vә Çağırış beynәlxalq kanalı hansıdır?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "bütün cavablar doğrudur",
+        "C": "2182 KHs",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q025",
+      "question": "25. MF/HF radiostansiyanın hәftәlik testi kimin ünvanına göndәrilir?",
+      "options": {
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "Yalnız sahil radiostansiyasının ünvanına",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q026",
+      "question": "26. Sәrnişin gәmilәrdә VHF qәza radiostansiyalarının minimal sayı nә qәdәr olmalıdır?",
+      "options": {
+        "A": "3 әdәd",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "gərginlik 220 V həddinə çatdıqda"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q027",
+      "question": "27. 300 r/t olan gәmilәrdә qәza VHF radio stansiyalarının minimal sayı nә qәdәr olmalıdır?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "2 әdәd",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "10 uzel sürətlə manevr etdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q028",
+      "question": "28. SART-ın tәyinatı nədir?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "şimal-şərq istiqamətində",
+        "C": "Yerinin tәyin edilmәsi üçün",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q029",
+      "question": "29. Şüalanma rejimindә SART-ın iş vaxtı nә qәdәrdir?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "8 saat",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q030",
+      "question": "30. Gözlәmә rejimindә SART-ın iş vaxtı neçә saatdır?",
+      "options": {
+        "A": "96 saat",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q031",
+      "question": "31. SART haqqında sәhv müddәanı göstәrin:",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "Korpusu göy rәngdә olmalıdır"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q032",
+      "question": "32. Xilasetmә avadanlıqlarından hansı fәlakәtin yerinin koordinatlarını ötürür?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "bütün cavablar yanlışdır",
+        "D": "EPİRB"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q033",
+      "question": "33. Hansı vasitә EPİRB–nin gәmidәn avtomatik ayrılmasını tәmin edir?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "Hidrostat",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q034",
+      "question": "34. Gәminin radioavadanlığı hansı SART-ın siqnalını aşkar edir?",
+      "options": {
+        "A": "Radiolokasiya stansiyası",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q035",
+      "question": "35. Hansı anda SART ötürmәyә başlayır ?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "İş rejiminә salındıqdan vә radiolokasiya stansiya tәrafindәn şüalanmasından sonra",
+        "C": "şimal-şərq istiqamətində",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q036",
+      "question": "36. VHF qәza radiostansiyasının batareyasının gözlәmә rejimindә iş vaxtı neçә saatdır?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "72 Saat",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q037",
+      "question": "37. Neçә metr dәrinlikdә hidrostat EPIRB-ni gәmidәn avtomatik ayrılır?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "10 m-ә qәdәr",
+        "C": "bütün cavablar doğrudur",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q038",
+      "question": "38. Sadalanlardan hansı doğrudur?",
+      "options": {
+        "A": "EPIRB gәmidәn avtomatik ayrıldıkdan sonra işә düşmәlidir",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q039",
+      "question": "39. EPIRB-nin şüalanma rejimi neçә saatdır?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "48 saat",
+        "C": "bütün cavablar yanlışdır",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q040",
+      "question": "40. EPIRB-nin siqnalını hansı avadanlıq qәbul edir?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "KOSPAS-SARSAT sisteminin peyklәri",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q041",
+      "question": "41. LEOSAR (Aşağı orbitalı peyklәr) tәrәfindәn EPİRB-nin koordinatlarının dәqiq tәyin edilmәsi neçә kilometrdir?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "12-17 km",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q042",
+      "question": "42. KOSPAS-SARSAT sistemindә GEOSAR (geostasionar peyklәr) tәrәfindәn EPİRB-dәn fәlakәt signalının RCC (xilasetmә koordinasiya mәrkәzinә) çatdırılması neçə dəqiqə ərzində təmin edilir?",
+      "options": {
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "2-5 dәqiqә"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q043",
+      "question": "43. NAVTEX sisteminin tәyinatı:",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "Dәnizdә üzmәnin tәhlükәsizliyi üzrә informasiyanın gәmilәrә ötürülmәsi üçün"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q044",
+      "question": "44. Fәlakәt zamanı kömәyә aid olmayan danışıqların dayandırılması әmri aşağıdakı hansı ifadә ilә işarәlәrinir?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "SEELONCE MAYDAY",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q045",
+      "question": "45. INMARSAT sistemindә hansı peyk aid deyil",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "bütün cavablar yanlışdır",
+        "D": "LEOSAR"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q046",
+      "question": "46. Radio avadanlığının ehtiyat enerji qida mәnbәlәrinә hansı aiddir?",
+      "options": {
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "Akumulyator",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "fırtınalı havada təxirə salınmaqla"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q047",
+      "question": "47. AIS stansiyası ilә hansı mәlumat növlәri ötürülür?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "A, B, C bәndlәri",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q048",
+      "question": "48. Gәminin AIS stansiyası nә vaxt qoşulmuş vәziyyәtdә olmalıdır?",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "bütün cavablar doğrudur",
+        "C": "Daimi",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q049",
+      "question": "49. Fәlakәtə aid olan mәlumatlar vә ya danışıqlar hansı sözlә işarәlәnir?",
+      "options": {
+        "A": "MAYDAY",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "bütün cavablar yanlışdır",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q050",
+      "question": "50. Fəlakətin qısa və tam formatları arasındakı fərq nədədir?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "Fəlakətin növünün göstərilməsində",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "certificate": "Maşın şöbәsi resurslarının idarә olunması",
+  "questions": [
+    {
+      "id": "q001",
+      "question": "1. DHDNÇ-78/95 Beynalxalq Konvensiyasına son әsaslı düzәlişlәr vә әlavәlәr harada vә nә zaman edilib?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "2010-cu il, 21-25 iyun, Manilada",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q002",
+      "question": "2. DHDNÇ-78/95 Beynəlxalq Konvensiyası neçә fәsildәn ibarәtdir vә hansılardır?",
+      "options": {
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "3 fәsildәn ibarәtdir, maddәlәr, әlavәlәr vә DHDNÇ-78/95 Beynəlxalq kodeksi",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q003",
+      "question": "3. Beynəlxalq kodeks nәyi tәyin edir vә hansı hissәlәrdәn ibarәtdir?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "Әlavәlәrdә göstәrilәnlәrin daha dәrin texniki detallarını tәyin edir, A vә B hissәlәrindәn ibarәtdir",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q004",
+      "question": "4. Beynəlxalq kodeksin B hissәsi nәyi tәyin edir?",
+      "options": {
+        "A": "Dәnizçilәrin hazırlanması, diplom verilmәsi vә növbә çәkmәlәri üçün tövsiyә olunan standartları",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Beynəlxalq kodeksin A hissәsi nәyi tәyin edir?",
+      "options": {
+        "A": "Dәnizçilәrin hazırlanması, diplom verilmәsi vә növbә çәkmәlәri üçün mütlәq standartları",
+        "B": "şimal-şərq istiqamətində",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q006",
+      "question": "6. Beynəlxalq Konvensiyaya 2010-cu ildә edilmiş әlavәlәr hansı tarixdәn qüvvәyә minmişdir?",
+      "options": {
+        "A": "1 yanvar 2012 ci ildәn",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q007",
+      "question": "7. Beynəlxalq Konvensiyaya 2010-cu ildә edilmiş әlavәlәr әsasәn dәnizçilәrdә hansı xüsusiyyәtlәrin tәkmillәşdirilmәsinә istiqamәtlәnmişdir?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "Sәriştә vә bacarığa",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q008",
+      "question": "8. Beynəlxalq Konvensiyanın әlavәlәr hissәsinin III fәsli nәdәn bәhs edir?",
+      "options": {
+        "A": "Maşın bölmәlәrindә növbә aparmağa diplom verilmәsi üçün minimal mütlәq tәlәblәrdәn",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q009",
+      "question": "9. Beynalxalq Konvensiyayanın tәlәblәri hansı dәnizçilәrә şamil olunur?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "Üzv ölkәlәrin bayrağı altında üzәn gәmilәrdә işlәyәn dәnizçilәrә"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q010",
+      "question": "10. Maşın şöbәsinin resurslarının idarә olunması dedikdә nә başa düşülür?",
+      "options": {
+        "A": "Heyәtin, avadanlığın vә mәlumatın düzgün, sәmәrәli idarә edilmәsi.",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q011",
+      "question": "11. Maşın şöbәsindә heyәtin idarә edilmәsi dedikdә nә başa düşülür?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "Heyәtin ixtisasına, sәriştәsinә, tәcrübәsinә, sertifikatlarına görә yerlәşdirilmәsi",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q012",
+      "question": "12. Maşın şöbәsindә avadanlığın idarә edilmәsi dedikdә nә başa düşülür?",
+      "options": {
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "Texniki vasitәlәrin fәaliyyәtinin, istismarının, qulluğunun yüksәk sәviyyәdә tәşkil olunması",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q013",
+      "question": "13. Gәmi texniki vasitәlәrini işә salmazdan әvvәl yoxlanışı nәdәn başlamaq lazımdır?",
+      "options": {
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "Diqqәtli xarici yoxlanışdan",
+        "D": "10 uzel sürətlə manevr etdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q014",
+      "question": "14. Avtomatlaşdırılmış texniki vasitәlәr uzun müddәt işlәmәdikdә, işә hazırlayarkәn әsas nәyi yoxlamaq lazımdır?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "Avtomatika vasitәlәrini",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q015",
+      "question": "15. Mexanizmlәri avtomatik vә ya mәsafәdәn işә salınan şöbәnin girişindә hansı xәbәrdaredici lövhәlәr asılmalıdır?",
+      "options": {
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "“Diqqәt! Mexanizmilәr avtomatik buraxılır”",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "fırtınalı havada təxirə salınmaqla"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q016",
+      "question": "16. Texniki vasitәni işә salan zaman qeyri-normal sәs eşidilәrsә vә titrәyişlәr olarsa nә etmәk lazımdır?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "Texniki vasitәni saxlamaq",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q017",
+      "question": "17. Gәmi texniki vasitәlәrinin istismarında işlәdilәn nәzarәt-ölçü cihazlarının vaxtında yoxlanılmasına kim mәsuliyyәt daşıyır?",
+      "options": {
+        "A": "Baş mexanik",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "bütün cavablar doğrudur",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q018",
+      "question": "18. Gәmi texniki vasitәlәrinin zavod tәmirindәn sonra qәbulu hansı sәnәdin tәlәblәrinә uyğun aparılır?",
+      "options": {
+        "A": "Zavodlarda gәminin tәmiri qaydalarına uyğun",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "bütün cavablar doğrudur"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q019",
+      "question": "19. Gәminin manevr qeydiyyat lenti, gәmidә baş mexanikdә neçә müddәt saxlanılmalıdır?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "1 il müddәtindә",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q020",
+      "question": "20. Maşın şöbәsindә mәlumatın idarә edilmәsi dedikdә nә başa düşülür?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "Mәlumatın qeydә alınması, cavab verilmәsi, dәrk edilmәsi vә sәriştәli paylanmasıdır",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q021",
+      "question": "21. Maşın şöbәsindә mexanizmlәrin avtomatik idarәetmә sistemlәrinin söndürülmәsinә nә vaxt icazә verilir?",
+      "options": {
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "Nasazlıq olanda vә ya tәmir zamanı"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q022",
+      "question": "22. Avtomatik idarәetmә sisteminin söndürülmәsi harada qeyd olunmalıdır?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "Maşın jurnalında",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "10 uzel sürətlə manevr etdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q023",
+      "question": "23. Әgәr mühәrrikin buraxılması tәcili tәlәb olunarsa, mühәrrikin hazırlanma әmәliyyatı nәyin hesabına qısaldıla bilәr?",
+      "options": {
+        "A": "Mühәrriki qızdırmaq ixtisara salınır",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q024",
+      "question": "24. Xilasedici qayıqların mühәrriklәri vә qәza yanğınsöndürmә nasosunun mühәrriklәri әn geci neçә vaxtdan bir işә salınmalıdır?",
+      "options": {
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "bütün cavablar doğrudur",
+        "C": "1 aydan gec olmayaraq",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q025",
+      "question": "25. Maşın şöbәsindә növbә çәkәrkәn nәyi bacarmaq lazımdır?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "bütün cavablar doğrudur",
+        "C": "Resursların idarә edilmәsi prinsiplәrini, effektiv ünsiyyәti, qәtiyyәtli, sәriştәli lider olmağı",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q026",
+      "question": "26. Növbәtçi mexanik kimә tabedir?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "Növbә kömәkçisinә vә texniki vasitәlәrin istismarı üzrә baş mexanikә",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "bütün cavablar doğrudur"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q027",
+      "question": "27. Maşın şöbәsindә әsas vә kömәkçi mexanizmlәri istismar etmәk üçün nәyi bilmәk vә bacarmaq lazımdır?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "Müxtәlif şәraitlәrdә istismar qaydalarını, quruluşunu, avtomatik idarәetmә sistemlәrini"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q028",
+      "question": "28. Növbәtçi mexanik yeni növbәyә azı neçә dәqiqә qalmış maşın şöbәsinә gәlməlidir?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "10 dәqiqә",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q029",
+      "question": "29. Maşın şöbәsinә mәlumat hansı mәnbәlәrdәn daxil olur?",
+      "options": {
+        "A": "Nәzarәt-siqnal cihazlarından, heyәtdәn, avadanlığın qeyri- xarakterik işindәn",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "bütün cavablar doğrudur"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q030",
+      "question": "30. Әgәr başqa göstәriş yoxdursa, mühәrriklәrin yüksüz işlәmәsinә nә qәdәr vaxt icazә verilir?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "30 dәqiqә",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q031",
+      "question": "31. Әgәr mühәrrik demontaj olunmuş bir porşen vә şatunla işә salınarsa neçә vaxtdan sonra yoxlamaq üçün saxlanılmalıdır?",
+      "options": {
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "5-10 dәqiqә"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q032",
+      "question": "32. Mühәrrikdә indiqator diaqramı mühәrrikin hansı iş rejimindә çıxarılır?",
+      "options": {
+        "A": "hər 6 aydan bir keçirilən təlimlərdə",
+        "B": "Stabil, dәyişmәyәn iş rejimindә",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "10 uzel sürətlə manevr etdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q033",
+      "question": "33. Növbәtçi mexanik növbәni hansı hallarda növbәyә yeni gәlәn növbәtçi mexanikә tәhvil vermәli deyil?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "bütün cavablar yanlışdır",
+        "D": "Әgәr növbәyә yeni gәlәn növbәtçi mexanikin vәzifәsini lazımi sәviyyәdәb icra edә bilmәyәcәyinә әminlik varsa"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q034",
+      "question": "34. Maşın şöbәsinin növbә mexaniki nәyi tәmin etmәlidir?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "Baş vә kömәkçi qurğuların tәhlükәsiz, effektiv işini",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q035",
+      "question": "35. Maşın şöbәsi növbsinә tәyin edilәn növbәtçi mexanik vә ya sıravi heyәt üzvləri sutka әrzindә neçә saat dincәlmәlidir?",
+      "options": {
+        "A": "10 saat",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q036",
+      "question": "36. Maşın şöbәsi növbәsinә tәyin edilәn növbәtçi mexaniki vә ya sıravi heyәt üzvləri 7 sutka әrzindә neçә saat dincәlmәlidirlәr?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "77 saat",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q037",
+      "question": "37. Növbәtçi mexanik növbәni tәhvil vermәzdәn әvvәl nә etmәlidir?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "Baş vә kömәkçi qurğulara aid olan hadisәlәrin lazımi qaydada qeydiyatını aparmalıdır",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q038",
+      "question": "38. Bu sistemlәrdәn hansı baş mühәrrikin işini tәmin edәn sistemlәrdir?",
+      "options": {
+        "A": "Yanacaq, yağ, soyutma, hava, mәsafәdәn avtomatik idarәetmә",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q039",
+      "question": "39. Dәniz әtraf mühitinin çirklәnmәsinin qarşısını almaq üçün nә etmәk lazımdır?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "Beynalxalq sәnәdlәri, mübarizә metodlarını, xәbәrdarlıq tәdbirlәrini bilmәk vә әmәl etmәk",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q040",
+      "question": "40. Maşın şöbәsindә hansı rabitә vasitәlәri mövcuddur?",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "Gәmidaxili rabitә, qәza rabitәsi, teleqraf",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q041",
+      "question": "41. “Kapitan körpüsü-maşın şöbәsi” arasında telefon әlaqәsi neçә vaxtdan bir yoxlanılmalıdır?",
+      "options": {
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "Hәr gün"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q042",
+      "question": "42. Gәmi sәfәrә çıxmamışdan qabaq gәmi teleqrafını kimlәr yoxlamalıdırlar?",
+      "options": {
+        "A": "Baş kömәkçisi vә növbәtçi mexanik",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "bütün cavablar yanlışdır"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q043",
+      "question": "43. Funksiyalara görә gәmidә hansı mәsuliyyәt sәviyyәlәri tәyin edilmişdir?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "İdarәetmә, istismar, kömәkçi",
+        "D": "bütün cavablar yanlışdır"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q044",
+      "question": "44. İdarәetmә sәviyәsinә gәminin hansı heyәti aiddir?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "kapitan, baş köməkçi, baş mexanik və ikinci mexanik"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q045",
+      "question": "45. İstismar sәviyyәsinә gәminin hansı heyәti aiddir?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "növbə köməkçisi, növbətçi mexanik, elektrik mexaniki"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q046",
+      "question": "46. Kömәkçi sәviyyәsinә gәminin hansı heyәti aiddir?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "bütün cavablar doğrudur",
+        "C": "sıravi heyәt",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q047",
+      "question": "47. Sәriştәlik (bilik, anlayış, bacarıq) standartları nәdir?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "Dәnizçilәrin minimal bilik, anlayış vә bacarıq nümayiş etdirmәk qabliyyәti",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q048",
+      "question": "48. Gәmini tәrk edәrkәn sağ qalmaq üçün sәriştәliliyә dair minimal tәlәblәr hansılardır?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "Bütün xilasetmә vasitәlәrinin növlәrini bilmәk vә istifadә etmәyi bacarmaq",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q049",
+      "question": "49. Xәsarәt alanlara ilk tibbi yardımın göstәrilmәsi üçün sәriştәliliyә dair minimal tәlәblәr hansılardır?",
+      "options": {
+        "A": "Tibbi yardımın göstәrilmәsi tәlәb olunan bәdbәxt hadisәlәr zamanı tәxirәsalınmaz tәdbirlәri görmәk",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q050",
+      "question": "50. Yanğın tәhlükәsizliyi vә yanğınla mübarizә üçün sәriştәliliyә dair minimal tәlәblәr hansılardır?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "Yanğın riskinin minumuma endirilmәsi vә texniki vasitәlәri daima işә salınmağa hazır saxlamaq"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q051",
+      "question": "51. Növbətçi mexanikin insanlara qayğı göstәrilmәsi sәviyyәsindә sәriştәsinə dair minimal tәlәblәr hansılardır?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "bütün cavablar doğrudur",
+        "C": "Personalın idarә edilmәsi vә hazırlanması sahәsindә qanunları bilmәk vә әmәl etmәk",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q052",
+      "question": "52. Yanğınla mübarizә geniş proqramı üzrә qәza qruplarının tәşkili vә hazırlanması üçün sәriştәliliyә dair tәlәblәr hansılardır?",
+      "options": {
+        "A": "Fövqәladә vәziyyәtlәrdә hәrәkәt planlarını, odla mübarizә strategiyasını vә taktikasını bilmәk",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "bütün cavablar yanlışdır",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q053",
+      "question": "53. Gәmi sәfәrә çıxmamışdan әvvәl baş mexanik kapitanla mәslәhәtlәşәrkәn әvvәlcәdәn sәfәr üçün hansı tәlәbatları tәyin etmәlidir?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "bütün cavablar yanlışdır",
+        "D": "Yanacaq, su, yağ, kimyәvi maddәlәr, sәrfi materiallar, ehtiyat hissәlәri, alәtlәr"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q054",
+      "question": "54. Gәmi dәnizdә olarkәn baş mexanik maşın şöbәsindә nәyi tәmin etmәlidir?",
+      "options": {
+        "A": "Maşın şöbәsinin növbətçisinin lazımi sәviyyәdә tәhlükәsiz, sәriştәli tәşkilini",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q055",
+      "question": "55. Gәmi müxtәlif әrazilәrdә vә hava şәraitlәrindә üzәrkәn növbәtçi mexanik nә etmәlidir?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "kapitan körpüsündәn hәr an verilәn əmrin yerinә yetirilmәsinә hazır olmalıdır",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q056",
+      "question": "56. Növbәtçi mexanik gәmi çәtin keçilә bilәn vә ya sahilyanı sularda üzәrkәn gәminin manevrini necә tәmin etmәlidir?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "Әl ilә idarә edilә bilәn mexanizmlәrin dәrhal әl ilә idarә etmәyә keçmәsinә hazır olmalıdır",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q057",
+      "question": "57. Maşın şöbәsinin idarә edilmәsi üçün nәyi bilmәk vә anlamaq lazımdır?",
+      "options": {
+        "A": "bütün cavablar doğrudur",
+        "B": "Resursların bölüşdürülmәsini, prioritetlәrin tәyin edilmәsini, effektiv ünsiyyәti, liderliyi, vәzifәlәri analiz etmәyi, komanda tәrkibindә işlәmәyi",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "gərginlik 220 V həddinə çatdıqda"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q058",
+      "question": "58. Avadanlıqlara texniki xidmәtin göstәrilmәsi vә tәmiri üçün nәyi bilmәk vә anlamaq lazımdır?",
+      "options": {
+        "A": "bütün cavablar doğrudur",
+        "B": "Quruluşunu, istismar vә tәmir tәlimatlarını, xarakterik nasazlıqlarını vә tәhlükәsizlik tәdbirlәrini",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    }
+  ]
+}

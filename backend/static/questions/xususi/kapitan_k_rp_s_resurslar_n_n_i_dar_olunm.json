@@ -1,0 +1,569 @@
+{
+  "certificate": "Kapitan Körpüsü Resurslarının İdarə Olunması",
+  "questions": [
+    {
+      "id": "q001",
+      "question": "1. “I will use IMO Standart Marine Communication Phrases” ifadəsinin mənası nədir?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "Mən BDT-in Standart Dənizçilik Sözlüyündən istifadə edəcəyəm",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q002",
+      "question": "2. “From what direction are you approaching? ” ifadəsinin mənası nədir?",
+      "options": {
+        "A": "Hansı istiqamətdən siz yaxınlaşırsınız?",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q003",
+      "question": "3. Gəminin kapitan körpüsündən kapitanın növbə köməkçisi hədəfi (digər gəmini) müşahidə edir. Məsafə 5 mildir, pelenq hədəfə dəyişmir. Yaranmış vəziyyəti izah edin:",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "Hədəf təhlükəlidir, toqquşma ehtimalı var",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q004",
+      "question": "4. Gəminin həqiqi kursu HK=60°-dir, sol bort 90° kurs bucağında naviqasiya oryentiri aşkar olunub. Naviqasiya oryentirinə həqiqi pelenqi (HP) təyin edin:",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "HP = 330.00",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Gəminin həqiqi kursu HK=95°-dir, sol bort 90° kurs bucağında naviqasiya oryentiri aşkar olunub. Naviqasiya oryentirinə həqiqi pelenqi (HP) təyin edin:",
+      "options": {
+        "A": "HP = 5.00",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q006",
+      "question": "6. Naviqasiya yolçəkməsinin şərti işarələri hansı sənəddə qeyd olunub?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "Şturman xidməti üzrə tövsiyələr",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q007",
+      "question": "7. Peyk naviqasiya sistemlərindən istifadə edərkən, gəminin yerini təyin etmək üçün qəbuledici eyni zamanda ən azı neçə peykdən informasiya qəbul etməlidir?",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "4",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q008",
+      "question": "8. Gəmidən ölçülmüş kurs bucağı neçə dərəcəyə qədər ola bilər?",
+      "options": {
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "00 – 1800 sağ və ya sol bortdan"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q009",
+      "question": "9. Gəmi növbə xidməti nədən ibarətdir və kim tərəfindən idarə olunur?",
+      "options": {
+        "A": "Ümumgəmiyə (naviqasiya) – kapitanın növbə köməkçisi və maşın bölməsinə - növbətçi mexanik rəhbərlik edir",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "bütün cavablar yanlışdır"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q010",
+      "question": "10. Gəmi növbə xidməti hansı hissələrdən ibarətdir?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "Hərəkət (dənizdə) və dayanacaq (limanda) növbəçəkməsi",
+        "D": "bütün cavablar yanlışdır"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q011",
+      "question": "11. \"I am altering my course to port” ifadənin mənası nədir?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "Mən kursumu sol tərəfə dəyişirəm"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q012",
+      "question": "12. Gəminin həqiqi kursu HK=75°-dir , sağ bort 90° kurs bucağında naviqasiya oryentiri aşkar olunub. Naviqasiya oryentirinə həqiqi pelenqi (HP) təyin edin",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "HP = 165.00"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q013",
+      "question": "13. Gəmidə hansı əsas rəsmi sənədin tərtib edilməsi ilə təsdiq olunur ki, gəmidə gözlənilən reysə bütün hazırlıqlar, hesablamalar (naviqasiya cəhətdən) həyata keçirilib və gəmi tam hazırdır?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "bütün cavablar doğrudur",
+        "C": "Xüsusi nümunədə olan (Passage Plan) reys planının və onunla əlaqədar çek-listlərin tərtib edilməsi ilə",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q014",
+      "question": "14. Hansı hallarda, kapitanın növbə köməkçisi gəminin kapitan körpüsünü, növbədə dayanarkən, onu təhvil verməyə bilər və belə halda onun tərəfindən hansı tədbir görülür?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "Növbəni qəbul edən köməkçi hər hansı səbəblərə görə, öz vəzifə borclarını yerinə yetirə bilmədiyi halda kapitana məruzə edildikdə",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q015",
+      "question": "15. Gəminin həqiqi kursu HK=14°-dir , sağ bort 171° kurs bucağında naviqasiya oryentiri aşkar olunub. Naviqasiya oryentirinə həqiqi pelenqi (HP) təyin edin:",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "HP = 185.00",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q016",
+      "question": "16. Kapitan körpüsündə növbədə olarkən, hansı məqsəd ilə girokompasın və maqnit kompasının göstəricilərinin istiqamətlərini tutuşdururlar?",
+      "options": {
+        "A": "Kurs göstəricilərinin düzgün işinə nəzarət etmək üçün",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q017",
+      "question": "17. Gəminin həqiqi kursu HK = 60°, HP = 320° naviqasiya oryentiri aşkar olunub.Naviqasiya oryentirinə kurs bucağı (KB) təyin edin:",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "KB = 1000 sol bort"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q018",
+      "question": "18. Hərəkətdə olan gəminin kapitan körpüsü növbəsinin tərkibi harada və necə göstərilir?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "bütün cavablar doğrudur",
+        "C": "Gəmi kapitanının göstərişi əsasında gəmi jurnalında yazılır",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q019",
+      "question": "19. Gəminin həqiqi kursu HK =14°, HP = 195° naviqasiya oryentiri aşkar olunub.Naviqasiya oryentirinə kurs bucağı (KB) təyin edin:",
+      "options": {
+        "A": "KB = 1810 sağ bort",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "bütün cavablar yanlışdır",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q020",
+      "question": "20. Maqnit kompasının düzəlişi - ∆MKh (düzəlişi) hansı amillərdən ibarətdir?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "bütün cavablar yanlışdır",
+        "D": "Deviyasiyadan (δ) və maqnit meylindən (d), onların həcmindən"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q021",
+      "question": "21. DHDNÇ-78 məcəlləsinə əsasən, gəmi hərəkətdə olarkən, kapitan naviqasiya növbəçəkməsinin tərkibini təyin edəndə hansı faktoru nəzərə almaya bilər?",
+      "options": {
+        "A": "Üzmə rayonunda suyun duzluluğunu və şəffaflığını",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q022",
+      "question": "22. Maqnit kompasının daimi xətası (düzəlişi) hansı hallarda təyin edilir?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "Təmir və profilaktik işlərdən sonra",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q023",
+      "question": "23. Gəminin yerini krüys-pelenq üsulu ilə təyin edərkən, ölçülən pelenqlər arası bucaq neçə dərəcədən az və neçə dərəcədən çox olmamalıdır?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "300-dən az, 1500-dən çox",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q024",
+      "question": "24. Girokompasın kursoqraf lentində olan vaxt nişanları və gəmi vaxtı ilə arasında olan fərqin maksimal dərəcəsi nə qədər ola bilər?",
+      "options": {
+        "A": "bütün cavablar doğrudur",
+        "B": "10 dəqiqə",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "gərginlik 220 V həddinə çatdıqda"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q025",
+      "question": "25. BDT-nin A.861(20) qətnaməsinə (“Qara qutu” haqqında) əsasən, gəminin səfəri haqqında məlumatlar (gəmi hərəkətdə olan zaman) son neçə saat saxlanılır?",
+      "options": {
+        "A": "bütün cavablar doğrudur",
+        "B": "12 saat",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q026",
+      "question": "26. Kapitan körpüsündə “Sükanı yarım bort sağa!” və ya “Sükanı yarım bort sola!” komandası verilərkən, sükanın dönmə bucağı neçə dərəcə olmalıdır?",
+      "options": {
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "şimal-şərq istiqamətində",
+        "C": "150",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q027",
+      "question": "27. DTQABQ-72-yə əsasən hansı məsafədə vizual görünüş “məhdud görünüş” kimi sayılır?",
+      "options": {
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "DTQABQ-72-də belə bir rəqəm yoxdur",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q028",
+      "question": "28. “My vessel not under command” ifadəsinin mənası nədir?",
+      "options": {
+        "A": "Mənim gəmim idarə olunma imkanını itirmiş gəmidir",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q029",
+      "question": "29. “I will alter course to starboard ” ifadəsinin mənası nədir?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "Mən kursumu sağ tərəfə dəyişəcəyəm",
+        "C": "bütün cavablar doğrudur",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q030",
+      "question": "30. Stvor sisteminin həssaslığı nədən asılıdır?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "Stvor arası məsafədən və istiqamətdən"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q031",
+      "question": "31. “Vessels must keep clear of this area” ifadəsinin mənası nədir?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "Gəmilər bu rayondan kənar keçməlidir",
+        "C": "bütün cavablar doğrudur",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q032",
+      "question": "32. Dəniz xəritəsində göstərilən cismlərin görünmə uzaqlığı, müşahidəçinin dəniz səviyyəsindən hansı şərti göz hündürlüyünə (e) hesablanıb?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "e=5 metr",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q033",
+      "question": "33. BDT-nin və rəhbər sənədlərin tələblərinə görə gəmidə növbəçəkmə üzrə cədvəlləri kim təqdim edir?",
+      "options": {
+        "A": "Gəmi kapitanının baş köməkçisi və baş mexanik",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "şimal-şərq istiqamətində",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q034",
+      "question": "34. “Do not pass on my port side” ifadəsinin mənası nədir?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "Mənim sol tərəfimdən keçməyin"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q035",
+      "question": "35. Gəmi növbəçəkmə xidməti, zamana görə necə aparılır?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "Daimi (gecə-gündüz)"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q036",
+      "question": "36. Gəminin həqiqi kursu HK = 94.00, HP = 174.00 naviqasiya oryentiri aşkar olunub.Naviqasiya oryentirinə kurs bucağını (KB) təyin edin.",
+      "options": {
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "KB = 80.00 sağ bort",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q037",
+      "question": "37. Gəmi bələdçi ilə birlikdə gedərkən, bələdçi keçidinin mütləq növündə üzmənin naviqasiya təhlükəsizliyinə kim cavabdehdir?",
+      "options": {
+        "A": "Bələdçi",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q038",
+      "question": "38. Hansı hallarda, kapitanın növbə köməkçisi növbədə dayanarkən gəminin kapitan körpüsünü tərk edə bilər?",
+      "options": {
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "Növbəçəkmə zamanı əvəz olunmayıbsa, heç bir zaman",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q039",
+      "question": "39. Kapitanın növbə köməkçisi gəminin kapitan körpüsündə növbədə dayanarkən, sükan sisteminin idarəetməsini avtomatik rejimdən adi rejimə keçidini neçə dəfə yoxlamalıdır?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "Növbə ərzində bir dəfədən az olmayaraq"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q040",
+      "question": "40. Kapitanın növbə köməkçisi hansı hallarda kapitanın növbə üzrə sərəncamlar jurnalı ilə və daimi işləyən sərəncamları ilə tanış olur?",
+      "options": {
+        "A": "Növbəni qəbul edən zaman",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "bütün cavablar yanlışdır",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q041",
+      "question": "41. Gəminin yerini təyin edərkən, vizual üsullardan ən dəqiqi hansı sayılır?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "İki üfüqi bucaqla ölçmə üsulu",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q042",
+      "question": "42. Saya oturmuş gəminin vəziyyətini təhlil etmək üçün hansı tədbirlər görülür?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "bütün cavablar doğrudur",
+        "C": "Əl lotu ilə gəminin perimetr üzrə dərinlikləri ölçülür və cədvəl tərtib olunur",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q043",
+      "question": "43. Vizual görünüş məhdudlaşarkən, DHDNÇ-78 Məcəlləsinə əsasən, kapitanın növbə köməkçisi hansı tədbirləri mütləq yerinə yetirməlidir?",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "Duman siqnallarını verməyə başlayır, kapitanı xəbərdar edir, müşahidəçini yerləşdirir, hərəkət işıqlarını yandırır, radarı işə salır və istifadə edir",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q044",
+      "question": "44. DHDNÇ-78 Məcəlləsinə əsasən, yaxşı vizual görünüş zamanı kapitanın növbə köməkçisi radiolokatordan istifadə etməlidirmi?",
+      "options": {
+        "A": "Etməlidir",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q045",
+      "question": "45. Beynəlxalq Dəniz Təşkilatının 16 may 2008-ci il tarixli MSC.255(84) qətnaməsinə əsasən gəmidə baş verən qəzalar hansı siniflərə bölünür?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "Dəniz qəzaları, dəniz hadisəsi (insindenti)",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q046",
+      "question": "46. Kapitanın növbə köməkçisinin kapitan körpüsündə və mexanikin maşın bölməsində növbəçəkmə zamanı gəmi kapitanının və baş mexanikin olması onları cavabdehlik məsuliyyətindən azad edirmi?",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "Gəmi kapitanı və baş mexanik komandanlığı öz üzərinə götürən ana qədər məsuliyyət daşıyırlar"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q047",
+      "question": "47. DHDNÇ-78 Məcəlləsinə əsasən kapitanın növbə köməkçisi tələb olunduqda sükandan, mühərrikdən və səs siqnalı avadanlığından istifadə etməlidirmi?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "Etməlidir",
+        "D": "bütün cavablar yanlışdır"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    }
+  ]
+}

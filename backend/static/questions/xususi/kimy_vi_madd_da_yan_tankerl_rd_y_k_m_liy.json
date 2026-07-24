@@ -1,0 +1,605 @@
+{
+  "certificate": "Kimyәvi maddә daşıyan tankerlәrdә yük әmәliyyatlarına dair geniş proqram üzrә hazırlıq",
+  "questions": [
+    {
+      "id": "q001",
+      "question": "1. Kimyәvi yük daşıyan tankerlәrin tikilmәsini tәnzimlәyәn әsas rәhbәr sәnәd hansıdır?",
+      "options": {
+        "A": "Kimyәvi yük daşıyan tankerlәrin tikilmәsi vә tәchiz olunması mәcәllәsi (İBC)",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Tәmiz dәniz üçün rәhbәrlik.",
+      "options": {
+        "A": "1,2,3",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q003",
+      "question": "3. Yük zonasının konstruktiv müdafiәsinә görә kimyәvi yük daşıyan tankerlәr neçә tipә bölünürlәr?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "3",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q004",
+      "question": "4. I tip kimyәvi yük daşıyan tankerlәrdә yük tanklarından borta qәdәr olan mәsafә neçә metrdir?",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "11,5 metr",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. II tip kimyәvi yük daşıyan tankerlәrdә yük tanklarından borta qәdәr olan mәsafә neçә metrdir?",
+      "options": {
+        "A": "0,760 metr",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q006",
+      "question": "6. I tip kimyәvi yük daşıyan tankerlәrdә hәr bir ayrı tanklardakı yükün maksimal hәcm göstәricisi nә qәdәr olmalıdır ?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "1250 m3"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q007",
+      "question": "7. II tip kimyәvi yük daşıyan tankerlәrdә hәr bir ayrı tanklardakı yükün maksimal hәcm göstәricisi neçә m3-dir?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "3000 m3",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q008",
+      "question": "8. Kimyәvi yük daşıyan tankerlәrdә yük boru xәttlәri әn azı hansı tәzyiqә davam gәtirmәlidir?",
+      "options": {
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "10 kq/ sm2",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q009",
+      "question": "9. 1999-cu ildә vә ondan sonra tikilәn tankerlәrdә beynәlxalq tәlәblәrә görә hәr bir tankda yükün maksimal qalığı nә qәdәr olmalıdır?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "20 litr",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q010",
+      "question": "10. Kimyәvi yük daşıyan tankerlәrdә qazayırıcı sistemin neçә tipi var?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "2",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q011",
+      "question": "11. Kimyәvi yük daşıyan tankerlәrdә qazxaricedici kalonkalar üst göyәrtәdәn hansı hündürlükdә quraşdırılır?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "bütün cavablar yanlışdır",
+        "C": "7 metr",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q012",
+      "question": "12. Kimyәvi yük daşıyan tankerlәrdә qazxaricedici kalonkalar giriş dәliklәrindәn hansı tәhlükәsiz mәsafәdә quraşdırılır?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "10 metr",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Nasosların mәhsuldarlığı.",
+      "options": {
+        "A": "2,4",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q014",
+      "question": "14. Kimyәvi yük daşıyan tankerlәrdә neçә tip tank mövcuddur?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "4",
+        "D": "10 uzel sürətlə manevr etdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q015",
+      "question": "15. Kimyәvi yük daşıyan tankerlәrdә yükün keyfiyyәti vә tәhlükәsizliyi üçün kim mәsuliyyәt daşıyır?",
+      "options": {
+        "A": "Kapitan",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q016",
+      "question": "16. Yük әmәliyyatına başlamazdan әvvәl gәmidә әsas nәyi yoxlamaq lazımdır?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "bütün cavablar yanlışdır",
+        "C": "Yükün yuxarı hәddә olmasını bildirәn müstәqil siqnalizasiyanı",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q017",
+      "question": "17. Kimyәvi yük daşıyan tankerlәrdә tanklarda hava atmosferinin tәnzimlәnmәsinin neçә üsulu var?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "4",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q018",
+      "question": "18. Kimyәvi yük daşıyan tankerlәrdә әn qorxulu tәhlükә nәdir?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "Yanğın"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q019",
+      "question": "19. Yük zonası әrazisindә yanğın zamanı stasionar köpüklә yanğın söndürәn qurğunun ehtiyatı nә qәdәr vaxta çatmalıdır?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "bütün cavablar doğrudur",
+        "D": "30 dәq."
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q020",
+      "question": "20. Yük nasos şöbәsinin yaxınlığında olan xüsusi xilasedici avadanlığın komplektindә olan avtonom nәfәsalma aparatının hava ehtiyatı nә qәdәr vaxta çatmalıdır?",
+      "options": {
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "20 dәq."
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q021",
+      "question": "21. Qaynar işlәrin aparılması üçün deqazasiya olan әrazidә oksigenin hәcm faizi nә qәdәr olmalıdır?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "21 %",
+        "D": "bütün cavablar doğrudur"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q022",
+      "question": "22. Әgәr kimyәvi yük daşıyan tankerdә daşınan yükün qızdırılması tәlәb olunarsa, hansı әmәliyyat yerinә yetirilmәlidir?",
+      "options": {
+        "A": "hər 6 aydan bir keçirilən təlimlərdə",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "Qızdırcı sistemin boruları işçi tәzyiqә yoxlanılmalıdır",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q023",
+      "question": "23. Әgәr kimyәvi yük daşıyan tankerdә ballast tanklarının, koferdamların havalandırılması üçün daşınan ventilyatorlar işlәdilirsә, IBC kodeksinin tәlәblәrinә әsasәn ventilyatorun mәhsuldarlığı nә qәdәr olmalıdır?",
+      "options": {
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "Saatda 16 dәfә hava dәyişilmәlidir",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q024",
+      "question": "24. “Gәmi-Sahil\" yoxlama vәrәqinin tәlәbi ilә hansı sistemlәrin işlәk olmasına әminlik olmalıdır?",
+      "options": {
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "şimal-şərq istiqamətində",
+        "C": "Qızdırıcı sistemin",
+        "D": "bütün cavablar doğrudur"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q025",
+      "question": "25. Tankerlәrdә \"yanğın tәhlükәsizliyi üzrә ümumi qaydalar\" hansı Beynәlxalq Konvensiya ilә nәzәrdә tutulmuşdur?",
+      "options": {
+        "A": "SOLAS-1974",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q026",
+      "question": "26. Kimyәvi yük daşıyan tankerdә neft mәhsulları ilә yük әmәliyyatlarının qeydiyyatı harada aparılır?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "Yük әmәliyyatları jurnalında",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q027",
+      "question": "27. Beynәlxalq tәlәblәrә әsasәn gәminin sәlahiyyәtli cәmiyyәtlәr tәrәfindәn şәhadәtlәndirilmәsi vә şәhadәtlәndirmәnin yenilәnmәsinә kim mәsuliyyәt daşıyır?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "Kapitan",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q028",
+      "question": "28. Yük әmәliyyatlarına başlamazdan әvvәl radiolokasiya (RLS) stansiyasına hansı tәlәb qoyulur?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "Stansiya söndürülmәlidir"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q029",
+      "question": "29. Tankerlәrdә yük magistralları hansı tәzyiqә vә neçә müddәtdәn bir sınaqdan keçirilir?",
+      "options": {
+        "A": "hər 6 aydan bir keçirilən təlimlərdə",
+        "B": "bütün cavablar yanlışdır",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "Hәr il, işçi tәzyiqin 150% -i qәdәr"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q004",
+      "question": "4. SOLAS-74.",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "1,2",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q031",
+      "question": "31. Yük әmәliyyatlarında iştirak edәn heyәt üzvlәrinә \"Gәmi-Sahil\" yoxlama vәrәqinin qoyduğu tәlәb nәdir?",
+      "options": {
+        "A": "Heyyәt üzvlәri yükün zәhәrlәnmә xüsusiyyәtini bilmәlidir",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q032",
+      "question": "32. Yanğınsöndürmә lәvazimatında olan nәfәsalma aparatlarının ümumi hava ehtiyatı nә qәdәr olmalıdır?",
+      "options": {
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "7200 litr",
+        "D": "10 uzel sürətlə manevr etdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q033",
+      "question": "33. Qapalı әrazidә işlәmәk üçün icazә hansı müddәtә verilir?",
+      "options": {
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "iş günü әrzindә",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q034",
+      "question": "34. SOLAS-74 tәlәblәrinә uyğun olaraq tankerlәrdә minimum neçә komplekt yanğına qarşı lәvazimat nәzәrdә tutulmuşdur?",
+      "options": {
+        "A": "bütün cavablar doğrudur",
+        "B": "azı 4 komplekt",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q035",
+      "question": "35. BDT-nin (IMO) tәlәbinә әsasәn kimyәvi yüklә işlәmәk üçün nәfәsalma aparatının hava ehtiyatı minimum nә qәdәr olmalıdır?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "20 dәq",
+        "C": "bütün cavablar yanlışdır",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Yük tanklarının xam neftlә yuyulması.",
+      "options": {
+        "A": "1;2;3;4;5",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q037",
+      "question": "37. Kimyәvi yük daşıyan tankerlәrdә tanklar necә markalanmalıdır?",
+      "options": {
+        "A": "bütün cavablar doğrudur",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "1; 2; G; P",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q038",
+      "question": "38. MARPOL-73/78 tәlәblәrinә әsasәn tanker ballastla hәrәkәtdә olarkәn minimal orta suya oturumu nә qәdәr olmalıdır?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "2 metr + 2% gәminin uzunluğundan",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q039",
+      "question": "39. \"Gәmi-Sahil\" yoxlama vәrәqinin tәlәbi ilә gәminin torpaqlanması yerinә yetirilib. Tәcridedici flansın nәticәsi:",
+      "options": {
+        "A": "Lazımdır",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q040",
+      "question": "40. Kimyәvi yük daşıyan tankerlәrdә yük әmәliyyatlarının qeydiyyatı hansı jurnalda aparılır?",
+      "options": {
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "Yük әmәliyyatları jurnalı",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "bütün cavablar yanlışdır"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q041",
+      "question": "41. MARPOL-73/78, II Əlavәsinin tәlәblәrinә әsasәn, 1986-cı ildәn sonra tikilәn tankerlәrdә \"C\" kateqoriyalı yüklәri boşaltdıqdan vә tanklar tәmizlәndikdәn sonra maksimal qalıq nә qәdәr olmalıdır?",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "100 litr"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q042",
+      "question": "42. MARPOL-73/78, II Əlavәsinin tәlәblәrinә әsasәn 1986-cı ildәn әvvәl tikilәn tankerlәrdә \"C\" kateqoriyalı yüklәri boşaltdıqdan vә tanklar tәmizlәndikdәn sonra maksimal qalıq nә qәdәr olmalıdır?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "900 litr",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Şlanqın hansı yükә aid olması.",
+      "options": {
+        "A": "1,3,5",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q044",
+      "question": "44. MARPOL-73/78 Beynәlxalq Konvensiyanın hansı әlavәsinin tәlәblәrinә әsasәn gәmilәrdә zibillә çirklәnmәnin qarşısı alınır?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "bütün cavablar yanlışdır",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "Әlavә V"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Antarktika.",
+      "options": {
+        "A": "1,3,5",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Zibil üçün plasmas kisәlәr.",
+      "options": {
+        "A": "1,4",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q047",
+      "question": "47. Kimyәvi yük daşıyan tankerdә yük tankında olan qoruyucu klapan hansı maksimal tәzyiqdә açılmalıdır?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "2100 s.s",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "gərginlik 220 V həddinə çatdıqda"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Qida tullantıları.",
+      "options": {
+        "A": "1,3,5",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q049",
+      "question": "49. Tankların maye yüklәrlә doldurulmasının maksimal hәddi nә qәdәrdir?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "98%"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q050",
+      "question": "50. Kimyәvi yük daşıyan tankerlәrdә istifadә olunan yük şlanqları hansı minimal tәzyiqә davamlı olmalıdır?",
+      "options": {
+        "A": "10 bar",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "fırtınalı havada təxirə salınmaqla"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    }
+  ]
+}

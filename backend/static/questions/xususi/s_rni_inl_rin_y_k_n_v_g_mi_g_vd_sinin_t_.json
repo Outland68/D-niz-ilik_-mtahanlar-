@@ -1,0 +1,593 @@
+{
+  "certificate": "Sərnişinlərin, yükün və gəmi gövdəsinin təhlükəsizliyi üzrə hazırlıq",
+  "questions": [
+    {
+      "id": "q005",
+      "question": "5. lövbәr bucurqadının işlәk vәziyyәtdә olmasım yoxlamaq",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "1,2"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q002",
+      "question": "2. Yükün daşınması üçün Agentlik vә müstәqil sürveyer nәyi yoxlayır?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "yük otaqlarının hazırlığını"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q003",
+      "question": "3. İstifadә olunan bәrkitmә sistemindәn asılı olaraq yüklәr necә sayda bölünürlәr?",
+      "options": {
+        "A": "3",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q004",
+      "question": "4. Standart yük hansı yüklәrdir?",
+      "options": {
+        "A": "konteynerlәr, lixterlәr, vaqonlar",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Özüyeriyәn texnikanın apparel üzәrinә çıxma sürәti neçә km/s-ı aşmamalıdır?",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "10 km/s"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q006",
+      "question": "6. Özüyeriyәn texnikanın gәmiyә sürülәrək gәtirilmәsi, qoyulması vә bәrkidilmәsi kimlәr tәrәfindәn həyata keçirilir?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "liman dokerlәri briqadası tәrәfindәn",
+        "D": "bütün cavablar yanlışdır"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. karbon qazlı yanğınsöndürmә ilә",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "1,2,3,5"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. yükün bәrkidilmәsi üçün qurğuların istifadәsinin effektivliyini",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "1,2"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q009",
+      "question": "9. Roll-treylәrlәr vә qoşqular hansı tip gәmilәrdә daşınmalıdır?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "Ro-Ro tipli xüsusi gәmilәrdә vә ya avto-sәmişin bәrәlәrindә"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q010",
+      "question": "10. Minik avtomobillәrinin yerlәşdirilmәsi zamanı bortlar vә bamperlәr arasında mәsafә nә qәdәr olmalıdır?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "bortlar 100-30 mm; bamperlәr-10 mm",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q011",
+      "question": "11. Rol-treyler arasındakı eninә vә uzununa mәsafә nә qәdәr olmalıdır?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "Eninә -300 mm, uzununa -600 mm",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q012",
+      "question": "12. Hәrәkәt edәn texnikanın bәrkidilmәsi üçün olan naytovlar nәyә malik olmalıdır?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "markalanmaya vә şәhadәtnamәyә"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q013",
+      "question": "13. Yükü bәrkitmәk üçün gәmi vasitәlәri neçә növә bölünür?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "2",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q014",
+      "question": "14. Konteynerin daxilindә yüklәrin yerdәyişmәsi nәticәsindә orada olan әşyaların xarab olması vә sınması ilә әlaqәdar cavabdehlik kimin üzәrinә düşür?",
+      "options": {
+        "A": "yük göndәrәnin",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "bütün cavablar doğrudur"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q015",
+      "question": "15. Konteynerdә ev әşyaları daşınan zaman konteynerdә yerlәşdirilәn әşyaların siyahısı neçә nüsxәdә tәrtib olunur?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "2",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q016",
+      "question": "16. Konteynerlә daşınan ev әşyalarının siyahısı kimlәrdә və haralarda olur?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "konteynerә qoyulur, yük göndәrәnә tәqdim edilir vә yük göndәrәn limanda qalır",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q017",
+      "question": "17. Tәhlükәli yüklәrin daşınması zamanı yaradılmış gәmi komissiyası nәlәri yoxlamalıdır?",
+      "options": {
+        "A": "gәmi sistemlәrinin texniki vәziyyәtini, texniki tәlimatını, yük yerlәrinin vәziyyәtini",
+        "B": "bütün cavablar yanlışdır",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q018",
+      "question": "18. Avtomobil göyәrtәsindә yüklәmә və boşaltma işlәri aparan zaman xәbәrdarlıq işarәlәri hansı rәngdә olmalıdır?",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "parlaq"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q019",
+      "question": "19. Avtomobil göyәrtәsindә yüklәmә və boşaltma işlәrindә çalışan personalın iş geyimi necә olmalıdır?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "parlaq",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q020",
+      "question": "20. Tәhlükәli yüklәrin daşınması zamanı gәmi komissiyası hansı tәrkibdә yaradılır?",
+      "options": {
+        "A": "kapitanın baş kömәkçisi, 2-ci kömәkçi, 2-ci mexanik, elektrik mexaniki vә bosman",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "bütün cavablar yanlışdır",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q021",
+      "question": "21. Tәhlükәli yüklәrin konteynerdә vә ya nәqliyyat vasitәsindә düzgün yığılmadığı vә bәrkidilmәdiyi sәbәbindәn baş verәn hadisәyә görә cavabdehlik kimin üzәrinә düşür?",
+      "options": {
+        "A": "yük göndәrәnin vә ya yüklәmә işlәri aparan limanın",
+        "B": "bütün cavablar doğrudur",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q022",
+      "question": "22. Tәhlükәli yüklәr yüklәnərkən və boşaldılarkәn yükləmə üçün gözləyən yük avtomobillәri gәmidәn neçә metr kәnarda saxlanılmalıdır?",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "25 metrdәn az olmayaraq"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q023",
+      "question": "23. RO-RO gәmilәrindә yanğın tәhlükәli yüklәrin yüklәnmәsi әmәliyyatları zamanı gәminin yük yerlәrində vә ya apareli hissəsində siqaret çәkilmәsinin qadağan olduğu barәdә neçә dildә xәbәrdarlıq lövhәlәri qoyulmalıdır?",
+      "options": {
+        "A": "gəminin işçi vә ingilis dillәrindә",
+        "B": "bütün cavablar yanlışdır",
+        "C": "bütün cavablar doğrudur",
+        "D": "fırtınalı havada təxirə salınmaqla"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q024",
+      "question": "24. RO-RO gәmilәrindә yanğın tәhlükәli yüklәrlә işlәyәn zaman gәminin radioqovşağı ilә gündә neçә dәfә gәmi üzrә yanğın әleyhinә rejimә riayәt olunmasının zәruriliyi barәdә әmrdәn çıxarış sәslәnmәlidir?",
+      "options": {
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "gündә 2 dәfәdәn az olmayaraq",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q025",
+      "question": "25. Dәniz donanması gәmilәrindә hәrәkәtli texnikanın tәhlükәsiz daşınması üçün hansı qanunlar nәzәrә alınmalıdır?",
+      "options": {
+        "A": "hər 6 aydan bir keçirilən təlimlərdə",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "Yüklәrin yerlәşdirilmәsi vә bәrkidilmәsi üzrә tәhlükәsiz tәcrübә kodeksi",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q026",
+      "question": "26. Konteynerdә partlayıcı maddә daşınırsa hansı qaydalar yerinә yetirilmәlidir?",
+      "options": {
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "Dәniz gәmilәrindә konteynerdә partlayıcı maddәlәrin daşınması qaydaları",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q027",
+      "question": "27. Ro-Ro tipli gәmilәrdә tәhlükәli yük yüklәnmiş hәrәkәtli texnika daşındıqda hansı qaydalar yerinә yetirilmәlidir?",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "Tәhlükәli yüklәrin dәniz yolu ilə daşınması haqqında Beynəlxalq Məcəllə",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q028",
+      "question": "28. Hansı gәmiyә Ro-Ro gәmisi deyilir?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "Avtomobillәri, treylerlәri vә digәr tәkәrli texnikanı müstәqil surәtdә vә ya dartıcıların kömәyi ilә yüklәyib-boşaltmağa imkan verәn arxa vә ön (burun) hissәlәrindә appareli olan xüsusi konstruksiyalı, üfüqi üsulla yüklәnilib-boşaldılan gәmi",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q029",
+      "question": "29. Ro-Ro sәrnişin gәmilәrindә әsasәn hansı yüklәr daşınır?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "hәr cür ümumi yüklәr (hәrәkәtli texnika, tara-әdәdli yüklәr, paket şәklindә olan yüklәr vә s.), konteynerlәr, ağır çәkili vә iri hәcmli yüklәr",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q030",
+      "question": "30. Hansı vasitәyә “treyler” deyilir ?",
+      "options": {
+        "A": "qabaq vә arxa tәkәrlәri olan avtoyol qoşqusu",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q031",
+      "question": "31. Hansı vasitәyә “semitreyler” deyilir?",
+      "options": {
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "qabaq tәkәrlәri olmayan avtoyol qoşqusu",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q032",
+      "question": "32. Hansi vasitәyә “roll-treyler” deyilir?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "uzunluğu 6-12 metr olan xüsusi yük sahәli qoşqu vә yarım qoşqu",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q033",
+      "question": "33. Hәrәkәtli texnikanın gәmiyә yerlәşdirilmәsi yoxlama vә ya qәza zamanı qapılara, lyuklara, yanğına qarşı avadanlıqlara vә s. yetişmәk üçün keçidlәrin eni, mexanizmlәr vә avadanlıqlar arasında azad mәsafә nә qәdәr olmalıdır?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "0,6 metrdәn az olmamalıdır"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q034",
+      "question": "34. Hәrәkәtli texnika daşınan zaman yoxlama vә ya qәza zamanı (qapılara, lyuklara, yanğına qarşı avadanlıqlara vә s. yetişmәk vә istifadә etmәk üçün) mexanizmlәr vә avadanlıqlar arasında azad sahә nә qәdәr olmalıdır?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "1x1 m",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q035",
+      "question": "35. Ro-Ro sәrnişin gәmilәrindә hәrәkәtli texnika yüklәnәrkәn yüngül avtomobillәr arasındakı mәsafә nә qәdәr olmalıdır?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "0,2 metrdәn az olmayaraq"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q036",
+      "question": "36. Ro-Ro sәrnişin gәmilәrindә hәrәkәtli texnika yüklәnәrkәn avtobuslar arasındakı mәsafә nә qәdәr olmalıdır?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "0,6 metrdәn az olmayaraq",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q037",
+      "question": "37. Ro-Ro sәrnişin gәmilәrindә hәrәkәtli texnika yüklәnәrkәn roll-treyler vә qoşqular arasındakı mәsafә nә qәdәr olmalıdır?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "0,3 metrdәn az olmayaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q038",
+      "question": "38. Ro-Ro sәrnişin gәmilәrindә hәrәkәtli texnikanın apparelә keçid sürәti vә gәmiyә hәrәkәti neçә km/saat olmalıdır?",
+      "options": {
+        "A": "apparelә keçid sürәti 10 km/saatdan, gәmiyә hәrәkәti 20 km/saatdan artıq olmamalıdır",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q039",
+      "question": "39. Sәrnişinlәrin minmә vә enmәsi zamanı nәlәrә riayәt edilmәlidir?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "tәhlükәsizliyin tәmin olunmasına, hәrәkәt yerlәrinin yaxşı işıqlandırılmasına, müdafiә olunmasına",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q040",
+      "question": "40. Gәmi limandan ayrıldıqdan sonra sәrnişinlәrin toplanma tәlimlәri neçә saat әrzindә keçirilmәlidir?",
+      "options": {
+        "A": "24 saat",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q041",
+      "question": "41. Gәmidә hәrәkәtli texnika yaxınlığında hansı tәhlükәsizlik işarәlәri (yazıları) olmalıdır?",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "“açıq alovdan istifadә qadağandır”, “siqaret çәkmәk qadağandır”",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q042",
+      "question": "42. Ümumgәmi hәyәcan siqnalı vә qayıq hәyәcan siqnalına әsasәn nizamlayıcıların vәzifәlәrinә nә aiddir?",
+      "options": {
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "sәrnişinlәrin tıxac, yığın olmadan, tez, mütәşәkkil vә fasilәsiz xilasedici vasitәlәrә çıxarılması",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "fırtınalı havada təxirə salınmaqla"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q043",
+      "question": "43. Gәmini tәrk etmәk komandasını kim verir?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "kapitan",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q044",
+      "question": "44. Bütün hәyәcan siqnalları üzrә mәşqlәr hansı vaxtda keçirilir?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "bütün cavablar doğrudur",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "sutkanın istәnilәn vaxtı"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q045",
+      "question": "45. Yanğınla mübarizә üçün vasitәlәr harada olmalıdır?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "xüsusi olaraq ayrılmış yerdә"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q046",
+      "question": "46. Gәmidә tәhlükәli yüklә doldurulmuş bölmәyә daxil olduqda hansı tәhlükәsizlik qaydalarına riayәt etmәk lazımdır?",
+      "options": {
+        "A": "hər 6 aydan bir keçirilən təlimlərdə",
+        "B": "şimal-şərq istiqamətində",
+        "C": "hava-qaz mühitini yoxlayaraq daxil olmaq",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q047",
+      "question": "47. Yanğın zamanı yığılmış su nә vaxt xaric edilir?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "yanğının söndürülmәsi ilә eyni vaxtda",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q048",
+      "question": "48. Yanğın mәnbәyini vә ya onun әlamәtlәrini aşkar edәn hәr bir heyət üzvü nә etmәlidir?",
+      "options": {
+        "A": "kapitan körpüsünə xәbәr vermәli vә yanğının aradan qaldırılmasına başlamalıdır",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. kapitanın baş kömәkçisi mәzuniyyәtdә olan zaman.",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "1,2,3,4"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    }
+  ]
+}

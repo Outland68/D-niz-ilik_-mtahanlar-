@@ -1,0 +1,1385 @@
+{
+  "certificate": "ISPS-3",
+  "questions": [
+    {
+      "id": "q001",
+      "question": "1. GMXS (SSAS) qurğusu hansı funksiyanı yerinә yetirir?",
+      "options": {
+        "A": "Gәmi-sahil istiqamәtindә gәminin mühafizәsinin pozulması haqqında xәbәrdaretmәni formalaşdırmalı vә ötürmәlidir",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q002",
+      "question": "2. Gәminin mühafizә sәviyyәsini kim tәyin edir?",
+      "options": {
+        "A": "Gәmi bayrağının Administrasiyası",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "gərginlik 220 V həddinə çatdıqda"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q003",
+      "question": "3. Mühafizә haqqında deklarasiya gәmidə kim tәrәfindәn imzalanmalıdır?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "bütün cavablar doğrudur",
+        "D": "Kapitan vә ya gәminin mühafizәyә mәsul şәxsi"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q004",
+      "question": "4. Gәminin mühafizә planını tәrtib etmәk üçün mühafizә sahәsindә tanınmış tәşkilatın ekspertinә gәmidәn hansı sәnәd verilmәlidir?",
+      "options": {
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "Gәminin mühafizә planını",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Gәlәn şәxsin fotoşәkilini çәkmәk.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1, 3"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q006",
+      "question": "6. Zәruriyyәt yarandıqda gәminin mühafizәyә mәsul şәxsi gәminin bilavasitә yaxınlığında olan yanalma körpüsündә mәhdudlaşdırılmış giriş zonası tәyin edә bilәrmi?",
+      "options": {
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "Xeyr"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q007",
+      "question": "7. Gәmi təlimləri keçirilmәlidir:",
+      "options": {
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "Heyәtin 25%-dәn çoxu eyni vaxtda әvәzlәndiyi zaman, son üç ay әrzindә bu təlimlərdə iştirak etməyənlər",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q008",
+      "question": "8. Girişә nәzarәt vә onun idarәetmә sisteminin funksional effektivliyi ölçülür:",
+      "options": {
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "Buraxma qabiliyyәti vә sәhvlәrin tezliyi ilә",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q009",
+      "question": "9. Hansı hallarda gәmi liman vasitәsindәn mühafizә barәdә deklarasiyanın doldurulmasını tәlәb edә bilәr?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "Gәminin mühafizә sәviyyәsi liman vasitәsinin mühafizә sәviyyәsindәn yüksәk olarkәn",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q010",
+      "question": "10. Gәminin mühafizәyә mәsul şәxsi gәmi üçün tәyin olunmuş mühafizә sәviyyәsini dәyişә bilәrmi?",
+      "options": {
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "şimal-şərq istiqamətində",
+        "C": "Xeyr",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q011",
+      "question": "11. Mühafizәnin yerindә yoxlanılması aşağıdakıları әhatә edir:",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "Gәminin fiziki mühafizәsinin, gәmi heyәtinin mühafizә sisteminin, gәmiyә giriş yerlәrinin yoxlanılmasını",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Gәminin sürәti vә suya oturumu üzrә",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "2, 3"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q013",
+      "question": "13. Mühafizә sәviyyәsi №3 hansı müddәtә tәyin edilir?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "Mühafizәnin pozulması ilә әlaqәdar hadisә ehtimal olunan vә yaxud qaçılmaz olan zaman aralığı üzrә",
+        "C": "bütün cavablar yanlışdır",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q014",
+      "question": "14. Gәminin mühafizәsi barәdә beynәlxalq şәhadәtnamә kim tәrәfindәn verilә bilәr?",
+      "options": {
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "bütün cavablar doğrudur",
+        "C": "Gәmi bayrağının Administrasiyası",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q015",
+      "question": "15. Mühafizә üzrә tәdbirlәr görmәk üçün yaxınlaşma farvateri liman vasitәsinin tәrkibinә daxil edilә bilәrmi?",
+      "options": {
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "Bəli",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q016",
+      "question": "16. Gәminin mühafizәsi barәdә beynәlxalq şәhadәtnamәnin yenidәn alınması üçün yoxlamanın dövrlüyü hansıdır?",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "bütün cavablar yanlışdır",
+        "C": "5 ildən artıq olmayaraq",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q017",
+      "question": "17. Gәmidә tәyin edilәn mәhdudlaşdırılmış giriş sahәlәri elә tәchiz edilmәlidirlәr ki:",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "İcazәsiz daxil olmanın qarşısını alsınlar, onlara girişә vә bu sahәlәrin daxilindә fәaliyyәtlәrә nәzarәt tәmin edilsin"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q018",
+      "question": "18. Aşkar edilmiş qeyri-leqal sәrnişinlәrә şәxsi baxışın keçirilmәsi gәmiyә baxışın mütlәq elementidirmi?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "Bәli",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q019",
+      "question": "19. Gәminin mühafizәyә mәsul şәxsi mühafizәnin qiymәtlәndirilmәsi vә mühafizә planının işlәnib hazırlanması üzrә işlәrdә iştirak edә bilәrmi?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "şimal-şərq istiqamətində",
+        "D": "İştirak edә bilәr"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q020",
+      "question": "20. Gәmi gövdәsinin üzәrinә gәminin tanınma nömrәsinin çәkilmәsinin zәruriliyini müәyyәn edәn sәnәd hansıdır?",
+      "options": {
+        "A": "BK SOLAS-74/78, fәsil XI-1",
+        "B": "şimal-şərq istiqamətində",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q021",
+      "question": "21. Avtomobilin sahibinin vә ya onun nümayәndәsinin diqqәti cәlb edilmәmәsi üçün yüklәnәcәk avtomobillәrә baxış gizli olmalıdırmı?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "Xeyr"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Heyәtin yüksәk fiziki hazırlığa malik olmasını araşdırmaq",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "2, 4"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q023",
+      "question": "23. Gәminin fasilәsiz qeydiyyat jurnalı harada saxlanılmaldır?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "Gәmidә saxlanılmalı vә istәnilәn vaxt yoxlama üçün әl çatan olmalıdır",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q024",
+      "question": "24. Gәmi digәr dövlәtin bayrağı altına verilәn halda Gәminin mühafizә barәdә beynәlxalq şәhadәtnamәsi vә mühafizә planı qüvvədə qalırmı?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "Hәr iki sәnәd öz qüvvәsini itirir",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q025",
+      "question": "25. Gәminin mühafizә planının yerinә yetirilmәsini tәmin etmәk üçün mühafizә üzrә təlimlər keçirilmәlidir:",
+      "options": {
+        "A": "3 ayda azı 1 dәfә",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Gәmi dar keçidə daxil olarkәn.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1, 3"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q027",
+      "question": "27. Gәminin mühafizә planının başlıca mәqsәdi hansıdır?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "Ehtimal edilәn terrorizm aktlarına cәld vә effektiv reaksiya vermәni tәmin edәn plan vә prosedurlar hәyata keçirmәk",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q028",
+      "question": "28. Liman vasitәsinin mühafizәyә mәsul şәxsi limanda olan gәmilәrin mühafizә sәviyyәsini dәyişә bilәrmi?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "Xeyr",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q029",
+      "question": "29. Gәmiyә gәlәn şәxslәrin hansı kateqoriyası narkotiklәrin yayılması üçün tәhlükә doğurur?",
+      "options": {
+        "A": "bütün cavablar doğrudur",
+        "B": "Gәmiyә gәlәn şәxslәrin bütün kateqoriyaları",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q030",
+      "question": "30. Xarici dövlәt hökuməti onun limanlarına daxil olmaq niyyәti olan gәmilәrdәn girişә icazә almaq şәrti kimi, gәminin limanlara son neçә girişi haqqında mәlumatları tәlәb edә bilәr?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "bütün cavablar doğrudur",
+        "D": "Liman vasitәlәrinә son 5 giriş"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q031",
+      "question": "31. Gәmiyә daxil olma icazәsi almaq üçün dövlәt hakimiyyәti orqanının nümayәndәsi nә etmәlidir?",
+      "options": {
+        "A": "bütün cavablar doğrudur",
+        "B": "şimal-şərq istiqamətində",
+        "C": "Şәxsiyyәtini tәsdiqlәyәn sәnәdi tәqdim etmәlidir",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q032",
+      "question": "32. Gәmi mühafizә xәbәrdaretmә sistemindә onun iş qabiliyyәtinin yoxlanılması nәzәrdә tutulubmu?",
+      "options": {
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "Nәzәrdә tutulmayıb",
+        "D": "gərginlik 220 V həddinə çatdıqda"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q033",
+      "question": "33. Aşağıda göstәrilәnlәrdәn hansı baxış proseduruna aiddir?",
+      "options": {
+        "A": "bütün cavablar doğrudur",
+        "B": "bütün cavablar yanlışdır",
+        "C": "Baxış 2-3 nәfәrdәn ibarәt qruplarla keçirilmәlidir",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q034",
+      "question": "34. Mühafizәnin yerindә yoxlanılması zamanı gәmiyә olan ehtimal tәhdidlәr siyahısı formalaşdırılmalıdır ifadәsi doğrudurmu?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "Bəli",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Havalandırma sistemini işә salmaq.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "3, 4"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q036",
+      "question": "36. Lövbәrdә duran gәminin göyәrtәsindә xidmət aparan növbә çəkən heyət üzvlərinin ultra qısa dalğalı radiostansiya ilә tәchiz edilmәlәri mütlәqdirmi?",
+      "options": {
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "Bәli, mütlәqdir"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q037",
+      "question": "37. Gәmi bayraq dövlәtini dәyişәrkәn hansı müddәt әrzindә Gәmi tarixinin fasilәsiz qeydiyyat jurnalının nüsxәlәri yeni bayraq dövlәtinә göndәrilmәlidir?",
+      "options": {
+        "A": "Mümkün olan qәdәr tez, lakin 1 aydan gec olmayaraq",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q038",
+      "question": "38. Gәmiyә gәlәrkәn öz şәxsiyyәtini tәsdiqlәmәkdәn vә ya şәxsi baxışa mәruz qalmaqdan imtina edәn şәxsә qarşı aşağıda göstәrilәn tәdbirlәrdәn hansı hәyata keçirilmәlidir?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "Bu şәxsә mütlәq baxış keçirmәk vә mühafizәyә cavabdeh liman orqanlarına tәhvil vermәk"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q039",
+      "question": "39. Lövbәrdә dayanan zaman günün qaranlıq dövründә gәmi әmlakının oğurlanmasının qarşısı hansı tәdbirlә alına bilәr?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "Günün qaranlıq vaxtında göyәrtәdә növbə çəkmə xidmәti tәşkil etmәklә",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Gәminin daxil olduğu limanın dövlәt dilini bilmәlidir.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1, 2, 4"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q041",
+      "question": "41. Mәşğәlә və tәlim haqqında yazılar icazәsiz müdaxilәdәn qorunmalıdır ifadәsi doğrudurmu?",
+      "options": {
+        "A": "Bəli",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q042",
+      "question": "42. Gәmi әmәliyyatları zamanı tәhlükәsizlik vә mühafizә tәlәblәri arasında ziddiyәt yaranarkәn kapitan ümumi halda hansı tәlәblәrә üstünlük vermәlidir?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "Gәminin tәhlükәsizliyini saxlamaq üçün zәruri olan tәlәblәrә",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q043",
+      "question": "43. Limanda dayanan zaman tәchizat vә digәr gәmilәrlә qarşılıqlı әlaqәni gәmi-gәmi әlaqәsi kimi qәbul etmәk olarmı?",
+      "options": {
+        "A": "Bəli",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "bütün cavablar yanlışdır",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q044",
+      "question": "44. Yük gәmisinin xaricindә onun tanınma (IMO) nömrәsi harada yazılır?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "Gәminin yaxşı görünәn yerindә",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q045",
+      "question": "45. Heyәt üzvü gәmidә istәnilәn mәhdudlaşdırılmış giriş sahәsinә daxil ola bilәrmi?",
+      "options": {
+        "A": "Xeyr, mühafizә sәviyyәsindәn asılı olmayaraq, әgәr bu sahә ona tәhkim olunmayıbsa, gәminin mühafizә rejiminin pozulması demәkdir",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q046",
+      "question": "46. Mühafizә rejiminin pozulması haqqında yazılar saxlanılmalıdır:",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "Gәmi kapitanının müәyyәn etdiyi minimal dövr әrzindә",
+        "D": "10 uzel sürətlə manevr etdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q047",
+      "question": "47. Әlavә yoxlama hansı hallarda keçirilә bilәr?",
+      "options": {
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "Әgәr belә әlavә yoxlama Administrasiya tәrәfindәn müәyyәn edilibsә",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q048",
+      "question": "48. Әgәr gәminin mühafizә barәdә beynәlxalq şәhadәtnamәsinin müddәti bitibsә vә gәmi tәzәlәmә yoxlaması keçmәyibsә, o zaman gәmi səfərini tamamlamaq üçün onun şәhadәtnamәsi hansı müddәtә uzadıla bilәr?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "3 aydan artıq olmayaraq"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Gәmidә mühafizә üzrә mәşqlәrin keçirilmәsinin yoxlanılması.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "2, 3, 4"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q050",
+      "question": "50. Gәminin mühafizә planının hazırlanması vә bәyәnilmәsi üçün bayraq Administrasiyasına tәqdim edilmәsi üzrә kim mәsuliyyәt daşıyır?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "Şirkәtin mühafizәyә mәsul şәxsi",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q051",
+      "question": "51. Bayraq Administrasiyası tәrәfindәn gәmilәrin mühafizәsi üzrә şirkәtin hansı daxili sәnәdi bәyәnilmәlidir?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "Gәminin mühafizә planı",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q052",
+      "question": "52. Gәminin mühafizәsinin qiymәtlәndirilmәsi hansı sәnәdlә rәsmilәşdirilir?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "Gәminin mühafizәsinin qiymәtlәndirilmәsi haqqında hesabat ilә",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "bütün cavablar yanlışdır"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q053",
+      "question": "53. Gәmiyә dәniz quldurlarının basqını zamanı aşağıda qeyd edilәn tәdbirlәrdәn hansının yerinә yetirilmәsi tövsiyә olunur?",
+      "options": {
+        "A": "Әgәr mümkün olarsa, gәminin daxilindә әvvәlcәdәn hazırlanmış vә mühafizә olunan yerdә bütün heyәti gizlәtmәk",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q054",
+      "question": "54. Gәminin mühafizә planı elektron formada saxlanılarkәn onun qorunması üçün hansı mühafizә tәdbirlәri görülmәlidir?",
+      "options": {
+        "A": "Mәlumatın icazәsiz istifadәsinin, onun mәhv edilmәsinin vә ya ona dәyişikliklәrin edilmәsinin qarşısının alınmasına yönәldilәn prosedurları hәyata keçirmәk",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Şirkәt rәhbәrinin identifikasiya nömrәsi.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "3, 4"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Gәminin mühafizәyә mәsul şәxsinin liman dövlәtinin işçi dilini bilmәmәyi",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1, 3"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Gәminin yanğından mühafizә planının hazırlanması",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "2, 3"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Gәmiyә tәchizatın gәtirilmәsinә qadağa qoya bilәr.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1, 2"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Gәmi kapitanının növbә kömәkçisinin naviqasiya tәhlükәsizliyinә diqqәt yetirmәsinә.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1, 2"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q060",
+      "question": "60. Daxili yoxlamaların keçirilmә proseduru gәminin hansı sәnәdindә mükәmmәl surәtdә şәrh edilir?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "Gәminin mühafizә planında",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Hәrb sindromu - döyüş meydanında vuruşaraq hәlak olan döyüşçülәrә aiddir.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1, 3, 4"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Gizlәnmәk motivi.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1,3,4"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Tayfa terrorizmi",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1,4"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Yaxalama.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "2,3,4"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. İnsanın şalvarı gödәkdir.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1,2"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Heyәtin doğum haqqında şәhadәtnamәlәrinin.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1,2,3"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q067",
+      "question": "67. Mühafizә sәviyyәsi 2 hansı səviyyədir?",
+      "options": {
+        "A": "Yüksәldilmiş (güclәndirilmiş) sәviyyәdir",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q068",
+      "question": "68. Mühafizә barәdә deklarasiyanı liman vasitәsi tәrәfindәn kim imzalaya bilәr?",
+      "options": {
+        "A": "Liman vasitәsinin mühafizәyә mәsul şәxsi vә ya sahildә mühafizәyә cavabdeh istәnilәn digәr orqanın nümayәndәsi",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q069",
+      "question": "69. Әgәr gәmidә liman vasitәsinә nisbәtәn daha yüksәk mühafizә sәviyyәsi tәyin edilibsә, o zaman gәmi hansı qaydada fәaliyyәt göstәrmәlidir?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "Gәmi yubanmadan mühafizә sәviyyәsi barәdә liman dövlәtinin sәlahiyyәtli orqanına vә ya liman vasitәsinin mühafizәyә mәsul şәxsinә mәlumat vermәlidir"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q070",
+      "question": "70. Gәminin mühafizәsini GLVM BM-nin tәlәb etdiyi sәviyyәdә tәşkil etmәk üçün gәmi hansı sәnәdә malik olmalıdır?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "Bayraq Administrasiyası tәrәfindәn bәyәnilmiş gәminin mühafizә planına"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Yükün yoxlanılması barәdә",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1,2,4"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q072",
+      "question": "72. Mühafizә sәviyyәsi 1 hansı səviyyədir?",
+      "options": {
+        "A": "Adi səviyyədir",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q073",
+      "question": "73. Mühafizә sәviyyәsi 3 hansı səviyyədir?",
+      "options": {
+        "A": "bütün cavablar doğrudur",
+        "B": "Müstәsna (әn yüksәk) sәviyyәdir",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q074",
+      "question": "74. Gәminin mühafizә tәhlükәsizliyi üzrә әn böyük mәsuliyyәti kim daşıyır?",
+      "options": {
+        "A": "Gәmi kapitanı",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "bütün cavablar doğrudur"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q075",
+      "question": "75. Gәminin mühafizә planı üzrә vәzifәlәri olan heyәt üzvlәri hansı biliklәrә malik olmalıdırlar?",
+      "options": {
+        "A": "Fövqәladә hallarda fәaliyyәtlәr qaydası üzrә",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "fırtınalı havada təxirə salınmaqla"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q076",
+      "question": "76. Gәminin mühafizә planı üzrә vәzifәlәri olan heyәt üzvlәri hansı biliklәrә malik olmalıdırlar?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "Silahın, tәhlükәli maddә vә qurğuların tanınması vә aşkarlanması üzrә",
+        "D": "10 uzel sürətlə manevr etdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q077",
+      "question": "77. Gәminin mühafizә planı üzrә vәzifәlәri olan heyәt üzvlәri hansı biliklәrә malik olmalıdırlar?",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "Mühafizә qabiliyyәtinә tәhdid yarada bilәcәk şәxslәrin sәciyyәvi davranış әlamәtlәri vә tiplәri üzrә",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q078",
+      "question": "78. Gәminin mühafizә planı üzrә vәzifәlәri olan heyәt üzvlәri hansı biliklәrә malik olmalıdırlar?",
+      "options": {
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "Basqın zamanı tәtbiq edilәn hiylәlәr üzrә"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q079",
+      "question": "79. Gәminin mühafizә planı üzrә vәzifәlәri olan heyәt üzvlәri hansı biliklәrә malik olmalıdırlar?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "Tәhdidin müasir növlәri vә onun variantları üzrә"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q080",
+      "question": "80. Gәminin mühafizә planı üzrә vәzifәlәri olan heyәt üzvlәri hansı biliklәrә malik olmalıdırlar?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "Mühafizә qabiliyyәtinә tәhdid yarada bilәcәk şәxslәrin sәciyyәvi davranış әlamәtlәri vә tiplәri üzrә",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q081",
+      "question": "81. Gәminin mühafizә planı üzrә vәzifәlәri olan heyәt üzvlәri hansı biliklәrә malik olmalıdırlar?",
+      "options": {
+        "A": "Mühafizә tәdbirlәrindәn yayınmaq üçün tәtbiq edilәn hiylәlәr üzrә",
+        "B": "şimal-şərq istiqamətində",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q082",
+      "question": "82. Gәminin mühafizә planı üzrә vәzifәlәri olan heyәt üzvlәri hansı biliklәrә malik olmalıdırlar?",
+      "options": {
+        "A": "İnsan kütlәlәri ilә davranış vә onları idarәetmә üsulları üzrә",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q083",
+      "question": "83. Gәminin mühafizә planı üzrә vәzifәlәri olan heyәt üzvlәri hansı biliklәrә malik olmalıdırlar?",
+      "options": {
+        "A": "Mühafizәya dair rabitә üzrә",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q084",
+      "question": "84. Gәminin mühafizә planı üzrә vәzifәlәri olan heyәt üzvlәri hansı biliklәrә malik olmalıdırlar?",
+      "options": {
+        "A": "Fövqәladә hallara reaksiya vermә qaydası vә proqnozlaşdırılmış vәziyyәtlәrdә fәaliyyәt planları üzrә",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q085",
+      "question": "85. Gәminin mühafizә planı üzrә vәzifәlәri olan heyәt üzvlәri hansı biliklәrә malik olmalıdırlar?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "Mühafizә avadanlığı vә sistemlәrinin istismarı üzrә",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q086",
+      "question": "86. Gәminin mühafizә planı üzrә vәzifәlәri olan heyәt üzvlәri hansı biliklәrә malik olmalıdırlar?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "Mühafizә sistem vә avadanlığının sınaqları, kalibrlәnmәsi vә dәnizdә olarkәn texniki xidmәti üzrә"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q087",
+      "question": "87. Gәminin mühafizә planı üzrә vәzifәlәri olan heyәt üzvlәri hansı biliklәrә malik olmalıdırlar?",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "bütün cavablar doğrudur",
+        "C": "Yoxlamalar, nәzarәt etmә vә şәrait dair müşahidә aparma üsulları üzrә",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q088",
+      "question": "88. Gәminin mühafizә planı üzrә vәzifәlәri olan heyәt üzvlәri hansı biliklәrә malik olmalıdırlar?",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "bütün cavablar yanlışdır",
+        "C": "İnsanlara, şәxsi әşyalara, baqaja, yükә vә gәmi ehtiyatlarına baxış metodları üzrә",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Bayraq Administrasiyasının strukturunu vә fәaliyyәt qaydasını",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1,3"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Bayraq Administrasiyasının strukturunu vә fәaliyyәt qaydasını.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1,3"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Bayraq Administrasiyasının strukturunu vә fәaliyyәt qaydasını.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1,3"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Bayraq Administrasiyasının strukturunu vә fәaliyyәt qaydasını.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1,3"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Mәxfi vә mühafizә mәsәlәlәrinә aid olan mәlumatlarla davranışı.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1,3,5"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Mühafizә qabiliyyәtinә tәhdid yarada bilәcәk şәxslәrin sәciyyәvi davranış әlamәtlәrinin vә tiplәrinin tanınmasını.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1,3,5"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Mühafizә üzrә mәşğələ vә tәlimlәri.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1,2,3,5"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Müntәzәm.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "1,3,4"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Müntәzәm.",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "3,4"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q098",
+      "question": "98. Gәminin mühafizәsi üzrә tәlimlәr hansı aralıqlarla keçirilmәlidir?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "şimal-şərq istiqamətində",
+        "D": "12 ayda 1 dәfә"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q099",
+      "question": "99. Mühafizә üzrә iki tәlim arasındakı zaman müddәti hansı dövrü aşmamalıdır?",
+      "options": {
+        "A": "18 ayı",
+        "B": "bütün cavablar doğrudur",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q100",
+      "question": "100. Tәzәlәmә yoxlama növü hansı fәaliyyәt növünә aiddir?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "bütün cavablar doğrudur",
+        "C": "Şәhadәtlәndirmә fәaliyyәtinә",
+        "D": "gərginlik 220 V həddinə çatdıqda"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q101",
+      "question": "101. Hansı yoxlama növü ilә gәminin mühafizә haqqında beynәlxalq şәhadәtnamәsinin fәaliyyәt müddәti tәsdiqlәnir?",
+      "options": {
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "Aralıq"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q102",
+      "question": "102. Aralıq yoxlaması hansı fәaliyyәt növünә aiddir?",
+      "options": {
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "bütün cavablar yanlışdır",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "Tәsdiqlәmә fәaliyyәtinә"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q104",
+      "question": "104. Gәmiyә silahlı basqın baş verәrkәn vә heyәt üzvlәri girov götürülәrkәn onların fәaliyyәt qaydasını göstәrin:",
+      "options": {
+        "A": "Basqınçılar tәrәfindәn atәş açılırsa, çalışıb atәş xәttindәn yayınmaq vә onların bütün tәlәblәrinә әmәl etmәk",
+        "B": "şimal-şərq istiqamətində",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q105",
+      "question": "105. Aşağıda sadalananlardan hansı mühafizә üzrә mәxfi mәlumatlara aid edilә bilәr?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "bütün cavablar yanlışdır",
+        "D": "Gәminin mühafizә planı"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q106",
+      "question": "106. Aşağıda sadalananlardan hansı mühafizә üzrә mәxfi mәlumatlara aid edilә bilәr?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "Gәminin mühafizә xәbәrdaretmә sisteminin işә salınma düymәlәrinin yerlәşmәsi vә işә salınma proseduru",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q107",
+      "question": "107. Aşağıda sadalananlardan hansı mühafizә üzrә mәxfi mәlumatlara aid edilә bilәr?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "Gәminin mühafizәsi üzrә keçirilәn mәşğәlәlәr, mәşqlәr vә tәlimlәr",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q108",
+      "question": "108. Aşağıda sadalananlardan hansı mühafizә üzrә mәxfi mәlumatlara aid edilә bilәr?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "Mühafizә sәviyyәlәri üzrә hәyata keçirilәn tәdbirlәr",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q109",
+      "question": "109. Gәmidә qeyri-leqal sәrnişinlәrin olma әlamәtlәri aşkar edilәrkәn gәmidә hansı tәdbir görülmәlidir?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "Gәmiyә baxış keçirilmәlidir"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q110",
+      "question": "110. Gәminin mühafizә sәviyyәsi dәyişdirilәrkәn gәmidә hansı tәdbir görülmәlidir?",
+      "options": {
+        "A": "Gәmiyә baxış keçirilmәlidir",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q111",
+      "question": "111. Gәminin mühafizәsini şәrh edәn beynәlxalq sәnәd necә adlanır?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "Gәmilәrin vә liman vasitәlәrinin mühafizәsi üzrә Beynәlxalq Mәcәllә",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q112",
+      "question": "112. Gәmidә mühafizә mәsәlәlәrini hәll etmәk üçün tәyin olunmuş şәxs necә adlanır?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "Gәminin mühafizәyә mәsul şәxsi",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q113",
+      "question": "113. Şirkәtdә mühafizә mәsәlәlәrini hәll etmәk üçün tәyin olunmuş şәxs necә adlanır?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "Şirkәtin mühafizәyә mәsul şәxsi",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q114",
+      "question": "114. Müşahidә aparan texniki mühafizә avadanlığına aşağıda göstәrilәnlәrdәn hansı aid edilә bilәr?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "Videokameralar vә monitorlar"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q115",
+      "question": "115. Müşahidә aparan texniki mühafizә avadanlığına aşağıda göstәrilәnlәrdәn hansı aid edilә bilәr?",
+      "options": {
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "Otaqlara icazəsiz daxil olma barәdә kapitan körpüsünә (gәmidә müәyyәn edilmiş digәr yerә) siqnal ötürәn vericilәr",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q116",
+      "question": "116. Gәmiyә girişә nәzarәt edәn növbә çəkən heyət üzvü gәminin hansı jurnalında qeydlәr aparmalıdır?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "Gәmiyә gәlәnlәr jurnalında"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    }
+  ]
+}

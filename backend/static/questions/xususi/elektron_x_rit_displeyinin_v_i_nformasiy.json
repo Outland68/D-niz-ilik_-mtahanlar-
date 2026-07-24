@@ -1,0 +1,628 @@
+{
+  "certificate": "Elektron Xəritə Displeyinin və İnformasiya Sistemlərinin İstismar Qaydaları",
+  "questions": [
+    {
+      "id": "q001",
+      "question": "1. Bir dəqiqə ərzində 50-60 işıltı hansı işığa aiddir?",
+      "options": {
+        "A": "Tez-tez işıltılı işıq",
+        "B": "bütün cavablar yanlışdır",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q002",
+      "question": "2. Beynəlxalq şərti işarə (FI (2)) hansı işığa aiddir?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "Qrup işıltılı işığına",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p1_1.png"
+    },
+    {
+      "id": "q003",
+      "question": "3. Beynəlxalq şərti işarə “Q” hansı işığa aiddir?",
+      "options": {
+        "A": "Tez-tez işıltılı işığına",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p1_1.png"
+    },
+    {
+      "id": "q004",
+      "question": "4. Beynəlxalq şərti işarə “Q (9) L FI” hansı işığa aiddir?",
+      "options": {
+        "A": "Qrup tez-tez davamlı işıltı işığına",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "gərginlik 220 V həddinə çatdıqda"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p1_1.png"
+    },
+    {
+      "id": "q005",
+      "question": "5. “İşığın rəngi - Qırmızı, xüsusiyyəti - FI 3s” hansı işarəyə aiddir?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "Lateral işarə, farvaterin (kanalın) sağ tərəfi buyu",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p1_1.png"
+    },
+    {
+      "id": "q006",
+      "question": "6. “İşığın rəngi – Ağ, xüsusiyyəti – Q” hansı işarəyə aiddir?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "Kardinal işarə, məni şimal tərəfdən keç buyu",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p1_1.png"
+    },
+    {
+      "id": "q007",
+      "question": "7. “İşığın rəngi – Ağ, xüsusiyyəti – Q (6) L FI 15s” hansı işarəyə aiddir?",
+      "options": {
+        "A": "bütün cavablar doğrudur",
+        "B": "Kardinal işarə, məni cənub tərəfdən keç buyu",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p1_1.png"
+    },
+    {
+      "id": "q008",
+      "question": "8. “İşığın rəngi – Ağ, xüsusiyyəti – FI (2) 5s” hansı işarəyə aiddir?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "Kiçik ölçülü tək-tək yerləşən təhlükəni göstərən işarə",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p1_1.png"
+    },
+    {
+      "id": "q009",
+      "question": "9. “İşığın rəngi – Sarı, xüsusiyyəti – FI 5s” hansı işarəyə aiddir?",
+      "options": {
+        "A": "Xüsusi təyinatlı təhlükə işarəsi",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p1_1.png"
+    },
+    {
+      "id": "q010",
+      "question": "10. Buya aid olan top fiquru: Buyun boyalanmasını göstərin.",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "Yaşıl Qırmızı Yaşıl",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q011",
+      "question": "11. Buya aid olan top fiquru: buyun boyalanmasını göstərin.",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "Sarı Qara Sarı",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q012",
+      "question": "12. Beynəlxalq tələblərə görə «ECDIS» -in əsas komplektlərinə hansı naviqasiya sistemləri mütləq qoşulmalıdırlar?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "Gəminin yerini təyin etmək üçün sistem, girokompas, laq",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q013",
+      "question": "13. Kartoqrafik sistemindən istifadə edərkən, Beynəlxalq tələblərə görə, gəmidə hansı sənədlər olmalıdır?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "bütün cavablar doğrudur",
+        "C": "Nümunənin bəyənmə şəhadətnaməsi, naviqasiya düzəlişləri üçün müqavilə, müvafiq sənədi, texniki rəhbər sənədi",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q014",
+      "question": "14. Beynəlxalq şərti işarə “FI” hansı işığa aiddir?",
+      "options": {
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "İşıltılı işığa",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p2_1.png"
+    },
+    {
+      "id": "q015",
+      "question": "15. Beynəlxalq şərti işarə “L FI” hansı işığa aiddir?",
+      "options": {
+        "A": "Davamlı işıltılı işığa",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "gərginlik 220 V həddinə çatdıqda"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p2_1.png"
+    },
+    {
+      "id": "q016",
+      "question": "16. Beynəlxalq şərti işarə “Q (9)” hansı işığa aiddir?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "Qrup tez-tez işıltılı işığa",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "10 uzel sürətlə manevr etdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p2_1.png"
+    },
+    {
+      "id": "q017",
+      "question": "17. Beynəlxalq şərti işarə “FI (2+1)” hansı işığa aiddir?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "şimal-şərq istiqamətində",
+        "C": "Mürəkkəb qrup işıltılı işığa",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p2_1.png"
+    },
+    {
+      "id": "q018",
+      "question": "18. “İşığın rəngi - Qırmızı, xüsusiyyəti - FI (2+1) 9s” hansı işarəyə aiddir?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "Lateral işarə, əsas farvater sağdadır buyu",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p2_1.png"
+    },
+    {
+      "id": "q019",
+      "question": "19. “İşığın rəngi – Ağ, xüsusiyyəti – Q (3) 10s” hansı işarəyə aiddir?",
+      "options": {
+        "A": "Kardinal işarə, məni qərbdə saxla",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p2_1.png"
+    },
+    {
+      "id": "q020",
+      "question": "20. “İşığın rəngi – Ağ, xüsusiyyəti – Q (9) 15s” hansı işarəyə aiddir?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "Kardinal işarə, məni şərqdə saxla"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p2_1.png"
+    },
+    {
+      "id": "q021",
+      "question": "21. Gəmilərdə hansı elektron kartoqrafik sistemləri istifadə olunur?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "bütün cavablar yanlışdır",
+        "D": "RCDS, ECS, ECDİS"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q022",
+      "question": "22. Elektron xəritələrin üçüncü miqyaslar diapazonunun təyinatı nədir?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "Sahilboyu (sahili görmə zonasında və ya məhdudlaşmış naviqasiya şəraitlərində keçidin təmin edilməsi)",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q023",
+      "question": "23. Elektron xəritələrin ikinci miqyas diapazonunun təyinatı nədir?",
+      "options": {
+        "A": "General (əsas elektron xəritələrdə keçidinin təmin edilməsi)",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q024",
+      "question": "24. Elektron xəritələrin dördüncü miqyaslar diapazonunun təyinatı nədir?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "Sahilə yaxınlaşmalar (sahilə yaxınlaşmanın təmin edilməsi)",
+        "C": "şimal-şərq istiqamətində",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q025",
+      "question": "25. Elektron xəritələrin beşinci miqyas diapazonunun təyinatı nədir?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "Hövzələr (limanların akvatoriyasında, buxtalarda, hövzələrdə v.s. hərəkətin təmin edilməsi)",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q026",
+      "question": "26. Elektron xəritələrin altıncı miqyas diapazonunun təyinatı nədir?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "Planlar (yanalma zamanı və limandan çıxan zaman üzgüçülüyün eləcə də təhlükəsizliyin təmin edilməsi)",
+        "C": "bütün cavablar doğrudur",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q027",
+      "question": "27. Elektron naviqasiya xəritələri Beynəlxalq Hidroqrafiya Təşkilatının (İHO) hansı standartında olmalıdırlar?",
+      "options": {
+        "A": "S-57",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q028",
+      "question": "28. Elektron naviqasiya xəritələri haqqında olan məlumat qutusunun adı neçə simvoldan ibarətdir?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "8",
+        "C": "bütün cavablar yanlışdır",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q029",
+      "question": "29. Elektron naviqasiya xəritələri haqqında olan məlumat qutusunun adındakı “PP” simvolların açıqlaması nədir?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "İstehsal edən ölkənin kodu",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q030",
+      "question": "30. Elektron naviqasiya xəritələri haqqında olan məlumat qutusunun adındakı “S” simvolunun açıqlaması nədir?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "Miqyaslar sırasının kodu",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q031",
+      "question": "31. Miqyaslar sırasının kodu neçə diapazondan ibarətdir?",
+      "options": {
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "6"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q032",
+      "question": "32. Elektron naviqasiya xəritələri haqqında olan məlumat qutusunun simvolu göstərilənlərdən hansıdır?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "PPSCCCCC"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q033",
+      "question": "33. Elektron naviqasiya xəritələrinin korrekturası rəhbər sənədi hansı servis dərəcələrini təyin edir?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "Vaxt cədvəlinə əsasən servis, tələblə servis, fövqəladə servis",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p4_1.png"
+    },
+    {
+      "id": "q034",
+      "question": "34. Elektron naviqasiya xəritələrinin korrektura etmə üsullarının kateqoriyası hansıdır?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "bütün cavablar yanlışdır",
+        "D": "Əl ilə korrektura və avtomatik korrektura"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p4_1.png"
+    },
+    {
+      "id": "q035",
+      "question": "35. Buyun göstərilən top fiquru işarəsini izah edin.",
+      "options": {
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "Məni cənubda saxla, işıq - Ağ, boyalanma - qara sarı, xüsusiyyət - Q",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "fırtınalı havada təxirə salınmaqla"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p4_1.png"
+    },
+    {
+      "id": "q036",
+      "question": "36. Buyun göstərilən top fiquru işarəsini izah edin.",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "Məni şərq tərəfdən keç, işıq - Ağ, boyalanma - qara sarı qara, xüsusiyyət - Q (3) 10s",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p4_1.png"
+    },
+    {
+      "id": "q037",
+      "question": "37. Şəkildəki top fiquru olan buyun tam xarakteristikasını göstərin.",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "bütün cavablar doğrudur",
+        "C": "Boyalanma - qara qır qara, işıq - Ağ, xüsusiyyət - FI (2) 5s. Kiçik ölçülü təhlükələrin çəpərlənməsi buyu, hər tərəfdən keçmək olar. Təhlükənin üstündə qoyulur",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p4_1.png"
+    },
+    {
+      "id": "q038",
+      "question": "38. Buyun göstərilən top fiquru işarəsini izah edin.",
+      "options": {
+        "A": "Məni şərqdə saxla. İşıq - Ağ, boyalanma - sarı qara sarı, xüsusiyyət - Q (9) 15s",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "bütün cavablar yanlışdır",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p4_1.png"
+    },
+    {
+      "id": "q039",
+      "question": "39. Lateral işarələr hansı buylardan ibarətdir?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "kanal buyları, farvaterin tərəfini göstərən buylar",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p4_1.png"
+    },
+    {
+      "id": "q040",
+      "question": "40. Lateral işarələr neçə buydan ibarətdir?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "4",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image_url": "/images/elektron_x_rit_displeyinin_v_i_nformasiy/img_p4_1.png"
+    },
+    {
+      "id": "q041",
+      "question": "41. BMXA (MAMC) sisteminə görə A və B reqionları nə ilə fərqlənir?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "Buyların rənginə görə"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q042",
+      "question": "42. Kardinal işarələr neçə buydan ibarətdir?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "4",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q043",
+      "question": "43. Elektron xəritələr hansı formatda olur?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "Rastr və vektor",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q044",
+      "question": "44. Beynəlxalq tələblərinə görə ECDİS -in komplektinə əlavə olaraq hansı naviqasiya avadanlıqları qoşulmalıdır?",
+      "options": {
+        "A": "Radar (ARPA), Exolot, AIS, NAVTEX",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "bütün cavablar doğrudur"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q045",
+      "question": "45. Elektron naviqasiya xəritələrinin korrekturası Beynəlxalq Hidroqrafiya Təşkilatının (IHO) tələblərinə görə hansı standarlarda aparılır?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "S-52",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "bütün cavablar yanlışdır"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q046",
+      "question": "46. Elektron xəritələrin nömrələnməsində Azərbaycanın kodu necə göstərilir?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "7A",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q047",
+      "question": "47. Elektron naviqasiya xəritələrində ümumi (General) xəritələrin miqyas diapozonu neçədir?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "1:2 250 000 – 1:300 001"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q048",
+      "question": "48. Elektron naviqasiya xəritələrində sahilboyu xəritələrin miqyas diapozonu neçədir?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "şimal-şərq istiqamətində",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "1:300 000 – 1:80 001"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q049",
+      "question": "49. Beynəlxalq səviyyədə Elektron Naviqasiya xəritələrinin standartlarа uyğun hazırlanmasına və istifadəsinə hansı təşkilatlar nəzarət edir?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "IMO və IHO"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q050",
+      "question": "50. Elektron naviqasiya xəritələrində xülasə xəritələrin miqyas diapozonu neçədir?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "1 : 2 250 000-dən kiçik",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "certificate": "Liman vasitәlәrinin mühafizәyә mәsul",
+  "questions": [
+    {
+      "id": "q001",
+      "question": "1. Mühafizə haqqında deklarasiyanı liman tərəfindən kim imzalamalıdır?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "Limanın mühafizəyə məsul şəxsi və ya limanda mühafizəyə cavabdeh olan təşkilatın nümayəndəsi",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q002",
+      "question": "2. Mühafizə üzrə tədbirlər görmək üçün yaxınlaşma farvateri liman vasitəsinin tərkibinə daxil edilə bilərmi?",
+      "options": {
+        "A": "Bəli",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q003",
+      "question": "3. Gəmilərin və liman vasitələrinin mühafizəsi üzrə Beynəlxalq Məcəllə neçənci ildə qüvvəyə minib?",
+      "options": {
+        "A": "01.07.2004",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "bütün cavablar doğrudur"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q004",
+      "question": "4. Dənizdə mühafizə səviyyəsinin artırılması üzrə xüsusi tədbirlər fəsli aşağıda göstərilənlərdən hansıdır?",
+      "options": {
+        "A": "XI-2 Fəsli",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "bütün cavablar doğrudur"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. GLVM BM-nin yaranma səbəbi hansı hadisədir?",
+      "options": {
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "11.09.2001-ci il ABŞ-da törədilmiş terror aktı"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q006",
+      "question": "6. Xarici dövlətin hökuməti onun limanlarına daxil olmaq niyyəti olan gəmilərdən girişə icazə almaq şərti kimi gəminin limanlara son neçə girişi haqqında məlumatları tələb edə bilər?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "Liman vasitələrinə son 10 giriş",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q007",
+      "question": "7. Limanın mühafizəsinin qiymətləndirilməsi hansı sənədlə rəsmiləşdirilir?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "Limanın mühafizəsinin qiymətləndirilməsi haqqında hesabat ilə"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q008",
+      "question": "8. Limanın mühafizə planı elektron şəklində saxlanılarkən onun qorunması üçün hansı mühafizə tədbirləri görülməlidir?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "Məlumatın icazəsiz istifadəsinin, onun məhv edilməsinin və ya ona dəyişikliklərin edilməsinin qarşısının alınmasına yönəldilən prosedurları həyata keçirmək",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q009",
+      "question": "9. Gəminin mühafizə səviyyəsi limanın mühafizə səviyyəsindən yüksək ola bilərmi?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "Yüksək ola bilər"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q010",
+      "question": "10. Mühafizə səviyyəsi 1- adi səviyyə dedikdə nə nəzərdə tutulur?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "Riskin minimal səviyyəsidir",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q011",
+      "question": "11. Limanda mühafizə üzrə məşqlər ən azı neçə müddətdən bir keçirilməlidir?",
+      "options": {
+        "A": "3 ayda azı 1 dəfə",
+        "B": "bütün cavablar yanlışdır",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q012",
+      "question": "12. Limanda mühafizə üzrə təlimlər ən azı neçə müddətdən bir keçirilməlidir?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "12 ayda azı bir dəfə",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q013",
+      "question": "13. Limana zəng vurub təhdid edən şəxslə telefonda necə danışmaq tövsiyyə olunur?",
+      "options": {
+        "A": "Zəng vuran şəxslə söhbəti maksimum uzatmaq və təmkinli danışmaq",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q014",
+      "question": "14. Bomba təhdidini qəbul etmiş liman əməkdaşının ilkin görəcəyi tədbir:",
+      "options": {
+        "A": "Zəngin vaxtını dərhal qeyd etməlidir",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q015",
+      "question": "15. Mühafizə səviyyəsi 3 dedikdə hansı səviyyə nəzərdə tutulur?",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "Ən yüksək səviyyə",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "bütün cavablar doğrudur"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q016",
+      "question": "16. Limanda əlavə mühafizə tədbirlərinin görülməsi hansı mühafizə səviyyəsinə aiddir?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "Yüksəldilmiş səviyyəyə"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q017",
+      "question": "17. Limanda xüsusi mühafizə tədbirlərinin görülməsi hansı mühafizə səviyyəsinə aiddir?",
+      "options": {
+        "A": "Müstəsna səviyyəyə",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q018",
+      "question": "18. Müşayiət olunmayan baqaj dedikdə nə nəzərdə tutulur?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "Yoxlama və ya baxış keçirilən yerdə müvafiq sərnişin və ya heyət üzvü ilə birgə olmur",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q019",
+      "question": "19. Limanda mühafizənin və təhlükəsizliyin təmini üzrə tədbirlərin tətbiqini özündə qeyd edən sənəd necə adlanır?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "Liman vasitələrinin mühafizə planı",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q020",
+      "question": "20. Hansı əşyalar stasionar metal detektorla müəyyən edilir?",
+      "options": {
+        "A": "Soyuq silahlar",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "bütün cavablar doğrudur"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q021",
+      "question": "21. Liman dövləti GLVM BM-nin tələblərinə uyğun olmayan gəmiyə hansı xüsusi tədbirləri tətbiq edə bilər?",
+      "options": {
+        "A": "hər 6 aydan bir keçirilən təlimlərdə",
+        "B": "Gəmiyə limana daxil olma icazəsi verilməyə bilər",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q022",
+      "question": "22. Mühafizə üzrə iki təlim arasındakı zaman müddəti hansı dövrü aşmamalıdır?",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "18 ayı",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q023",
+      "question": "23. Gəmilərin və liman vasitələrinin mühafizəsi üzrə beynəlxalq məcəllə hansı gəmilərə şamil edilir?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "Registr tutumu 500 r/t və yuxarı, Beynəlxalq reyslər həyata keçirən yüksək sürətli yük gəmiləri daxil olmaqla yük gəmilərinə"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q024",
+      "question": "24. Məhdudlaşdırılmış giriş sahələri haqqında limanın hansı sənədində geniş şərh olunur?",
+      "options": {
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "Limanın mühafizə planında",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q025",
+      "question": "25. Aşağıda göstərilənlərdən hansılar şübhəli şəxslər kateqoriyasına aiddir?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "bütün cavablar yanlışdır",
+        "D": "Ünsiyyətdən yayınan şəxslər"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q026",
+      "question": "26. Aşağıda göstərilənlərdən hansılar şübhəli şəxslər kateqoriyasına aiddir?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "Mövsüm üzrə geyinməmiş şəxslər",
+        "D": "bütün cavablar yanlışdır"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q027",
+      "question": "27. XI-2 Fəsli neçə Qaydadan ibarətdir?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "13 Qayda"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q028",
+      "question": "28. XI-2 Fəslinin III Qaydası nədən bəhs edir?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "bütün cavablar yanlışdır",
+        "D": "Mühafizə səviyyələrinin tətbiqindən bəhs edir"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q029",
+      "question": "29. Liman vasitəsinin mühafizəsi aşağıdakılardan hansını nəzərdə tutur?",
+      "options": {
+        "A": "Yuxarıda qeyd olunanların hamısını",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "fırtınalı havada təxirə salınmaqla"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q030",
+      "question": "30. Liman vasitəsinin mühafizəyə məsul şəxsinin vəzifə borclarını göstərin:",
+      "options": {
+        "A": "Liman vasitəsinin mühafizə planının qüvvəyə mindirilməsi və yerinə yetirilməsi",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "bütün cavablar yanlışdır"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    }
+  ]
+}

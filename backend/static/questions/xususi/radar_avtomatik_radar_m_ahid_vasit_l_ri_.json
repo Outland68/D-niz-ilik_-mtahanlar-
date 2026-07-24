@@ -1,0 +1,609 @@
+{
+  "certificate": "Radar, avtomatik radar müşahidə vasitələri, kapitan körpüsü komandası və axtarış xilasetmə (idarəetmə səviyyəsində)",
+  "questions": [
+    {
+      "id": "q001",
+      "question": "1. ARPA-da yaxınlaşma elementlərinə nə aiddir?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "CPA və TCPA",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q002",
+      "question": "2. RADAR-da «True Motion» (TM) rejimində işləyərkən, müşahidə edən gəminin sürəti və kursu daxil etmə yanlışları nəticəsində hansı xətalar yarana bilər?",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "Vəziyyətin qiymətləndirilməsində və manevrin seçilməsində",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q003",
+      "question": "3. ARPA-da manevrin imitasiyası hansı hərəkət rejimində keçirilə bilər?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "RM (Relative Motion) və TM (True Motion)-da",
+        "C": "şimal-şərq istiqamətində",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q004",
+      "question": "4. RADAR-ın ekranında müşahidəçi vəziyyəti qiymətləndirərkən, ilkin məlumatın təhlilində nəyə diqqət etməlidir?",
+      "options": {
+        "A": "Hədəfin və ya hədəflərin əks-səda siqnallarına",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "10 uzel sürətlə manevr etdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Hədəfi tutduqdan sonra, ARPA-da sürət vektorunun ekranda görünməsinə qədər keçən vaxt nə qədər olmalıdır?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "bütün cavablar yanlışdır",
+        "C": "1 dəqiqədən çox olmamalıdır",
+        "D": "10 uzel sürətlə manevr etdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q006",
+      "question": "6. Hədəfi tutduqdan sonra, ARPA-da hərəkət elementlərinin hesablanmasına qədər keçən vaxt nə qədər olmalıdır?",
+      "options": {
+        "A": "3 dəqiqədən çox olmamalıdır",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "gəmi limana daxil olana qədər"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q007",
+      "question": "7. ARPA-da seçilmiş manevrin statik imitasiyasında nə təsvir olunur?",
+      "options": {
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "Manevrin sonuna uyğun vəziyyət"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q008",
+      "question": "8. «Off Center» düyməsindən istifadə edərək, gəmimizin işarəsi, ekranın radiusuna görə, neçə faiz yerini dəyişə bilər?",
+      "options": {
+        "A": "22%, 44%, 66%",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p1_1.jpeg"
+    },
+    {
+      "id": "q009",
+      "question": "9. Aşağıda göstərilən şəkil nə bildirir? RADAR «Relative Motion» (RM) rejimində işləyir.",
+      "options": {
+        "A": "Hədəf hərəkətsizdir",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p1_1.jpeg"
+    },
+    {
+      "id": "q010",
+      "question": "10. Aşağıda göstərilən şəkil nə bildirir? RADAR «True Motion» (TM) rejimində işləyir.",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "Hədəfin kursu 220º - dir"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p2_1.jpeg"
+    },
+    {
+      "id": "q011",
+      "question": "11. Aşağıda göstərilən şəkil nə bildirir? RADAR «Relative Motion» (RM) rejimində işləyir.",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "Hədəfin kursu və sürəti bizim gəmimizinki ilə eynidir",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p2_1.jpeg"
+    },
+    {
+      "id": "q012",
+      "question": "12. Aşağıda göstərilən şəkil nə bildirir? RADAR «True Motion» (TM) rejimində işləyir.",
+      "options": {
+        "A": "Hədəf hərəkətsizdir",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p2_1.jpeg"
+    },
+    {
+      "id": "q013",
+      "question": "13. Aşağıdakı şəkildə RADAR-ın təsviri hansı rejimində göstərilib?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "Nup",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "10 uzel sürətlə manevr etdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p2_1.jpeg"
+    },
+    {
+      "id": "q014",
+      "question": "14. Aşağıdakı şəkildə RADAR-ın təsviri hansı rejimində göstərilib?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "Cup"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p3_1.jpeg"
+    },
+    {
+      "id": "q015",
+      "question": "15. Aşağıdakı şəkildə RADAR-ın təsviri hansı rejimində göstərilib?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "Hup",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p3_1.jpeg"
+    },
+    {
+      "id": "q016",
+      "question": "16. İmpulsun davamlığı «MP» nə zaman istifadə etmək daha faydalıdır?",
+      "options": {
+        "A": "Adi üzmə şəraitində",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q017",
+      "question": "17. İmpulsun davamlığı «SP» nə zaman istifadə etmək daha faydalıdır?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "bütün cavablar doğrudur",
+        "C": "Hövzələrdə, körfəzlərdə hədəflərin çox olduğu yerlərdə. Yağışlı və fırtınalı havalarda",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q018",
+      "question": "18. İmpulsun davamlığı «LP» nə zaman istifadə etmək daha faydalıdır?",
+      "options": {
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "Yaxşı hava şəraitində kiçik ölçülü hədəflərin aşkar edilməsində",
+        "C": "şimal-şərq istiqamətində",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q019",
+      "question": "19. RADAR hansı diapazonda işləyərkən, ölçülərin yüksək dəqiqliyi üçün imkan yaradır?",
+      "options": {
+        "A": "X Band",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q020",
+      "question": "20. RADAR hansı diapazonda işləyərkən, maneələrə qarşı yüksək dayanıqlıq üçün imkan yaradır?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "S Band",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q021",
+      "question": "21. «Subrefraksiya» nə deməkdir?",
+      "options": {
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "Hündürlükdə hava rütübətinin çoxalması nəticəsində və ya hava istiliyinin kəskin aşağı düşməsi nəticəsində əmələ gələn maneə"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q022",
+      "question": "22. «No-Return Point» nə deməkdir?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "Dar keçiddə bu nöqtəni keçdikdən sonra, əgər vəziyyət ağırlaşarsa, gəmi açıq dənizə çıxa bilməyəcək",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q023",
+      "question": "23. Dar keçidlərdə təhlükəsiz üzməni təmin etmək üçün hansı stvorlardan istifadə olunur?",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "Aparıcı, kəsən, çəpərləyici",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q024",
+      "question": "24. “Paralel İndeksasiyasından” (PI) nə zaman istifadə olunur?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "«RM» hərəkətin və «Nup» təsvirin rejimlərində, gəminin yerinə fasiləsiz nəzarət üçün"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q025",
+      "question": "25. Sürətin iki dəfə azaldılması manevrini yerinə yetirərkən, hədəfin Nisbi Hərəkət Xətti (NHX) və nisbi sürət vektoru (VN) necə dəyişir?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət azalır"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q026",
+      "question": "26. Sürətin artırılması manevrini yerinə yetirərkən, hədəfin Nisbi Hərəkət Xətti (NHX) və nisbi sürət vektoru (VN) necə dəyişir?",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "NHX gəmimizin arxa tərəfinə dəyişir, nisbi sürət artır",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q027",
+      "question": "27. Sağa dönüb, sürəti artırmaq təhlükəli manevrində hansı hərəkət parametrlərinə diqqət vermək lazımdır?",
+      "options": {
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "Bizim gəmimizin yeni kursuna",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q028",
+      "question": "28. Sola dönüb, sürəti azaltmaq təhlükəli manevrində hansı hərəkət parametrlərinə diqqət vermək lazımdır?",
+      "options": {
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "Bizim gəmimizin yeni sürətinə",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q029",
+      "question": "29. Aşağıda göstərilən manevrlərdən hansı təhlükəli ola bilər?",
+      "options": {
+        "A": "Sağa dönməklə sürətin artırılması",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q030",
+      "question": "30. Aşağıda göstərilən manevrlərdən hansı effektli sayılır?",
+      "options": {
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "Sağa dönməklə sürətin azaldılması"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q031",
+      "question": "31. Toqquşma təhlükəsi hansı ölçülərə əsasən qiymətləndirilir?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "CPA, TCPA",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q032",
+      "question": "32. RADAR “X Band”-də dalğanın uzunluğu və tezliklərin diapazonu nə qədər olmalıdır?",
+      "options": {
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "Tezlik: 9000 MHz, dalğanın uzunluğu 3 sm",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p5_4.jpeg"
+    },
+    {
+      "id": "q033",
+      "question": "33. RADAR “S Band”-də dalğanın uzunluğu və tezliklərin diapazonu nə qədər olmalıdır?",
+      "options": {
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "Tezlik: 3000 MHz, dalğanın uzunluğu 10 sm",
+        "D": "şimal-şərq istiqamətində"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p5_4.jpeg"
+    },
+    {
+      "id": "q034",
+      "question": "34. Planşetdə gördüyünüz gəmi (qırmızı nöqtələr) hansı manevr edib?",
+      "options": {
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "Hədəf 6-cı dəqiqədən sonra sola dönüb və təhlükəli olub",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p5_4.jpeg"
+    },
+    {
+      "id": "q035",
+      "question": "35. Əgər biz öz gəmimizin kursunu 45º sağ tərəfə dəyişsək, bizim üçün planşetdə göstərilən gəmilərdən hansı ən təhlükəli olabilər?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "B və C gəmilər",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "10 uzel sürətlə manevr etdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p5_4.jpeg"
+    },
+    {
+      "id": "q036",
+      "question": "36. Planşetdə gördüyünüz gəmi (qırmızı nöqtələr) hansı manevr edib?",
+      "options": {
+        "A": "9-cu dəqiqədən sonra kursunu sol tərəfə dəyişib, sürətini azaldıb",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+      },
+      "correct_answer": "A",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p5_4.jpeg"
+    },
+    {
+      "id": "q037",
+      "question": "37. Planşetdə gördüyünüz gəmi (qırmızı nöqtələr) hansı manevr edib?",
+      "options": {
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "Hərəkətsiz hədəf 6-cı dəqiqədən sonra hərəkətə başlayıb",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "fırtınalı havada təxirə salınmaqla"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p5_4.jpeg"
+    },
+    {
+      "id": "q038",
+      "question": "38. Planşetdə gördüyünüz gəmi (qırmızı nöqtələr) hansı manevr edib?",
+      "options": {
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "12-ci dəqiqədən sonra hədəf bizim gəmimizlə eyni kursla hərəkət edir, sürətini azaldıb"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q039",
+      "question": "39. Planşetdə gördüyünüz gəmi (qırmızı nöqtələr) hansı manevr edib?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "12-ci dəqiqədən sonra hədəfin kursu bizim gəmimizin əksidir",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q040",
+      "question": "40. Qaydalara əsasən yelkənli gəmi hərəkətdə olarkən yol verməlidir:",
+      "options": {
+        "A": "Balıq ovu ilə məşğul olan gəmiyə",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "bütün cavablar doğrudur",
+        "D": "fırtınalı havada təxirə salınmaqla"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q041",
+      "question": "41. Qaydalara əsasən mexaniki mühərrikli gəmi hərəkətdə olarkən yol verməlidir:",
+      "options": {
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "bütün cavablar doğrudur",
+        "C": "Balıq ovu ilə məşğul olan, yelkənli gəmilərə",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q042",
+      "question": "42. Qaydalara əsasən, hansı gəminin və ya gəmilərin vəzifə borcu - suya oturumundan çəkinən gəmiyə yol verməkdir?",
+      "options": {
+        "A": "Heç bir gəminin",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q043",
+      "question": "43. Hansı manevr imkanı məhdudlaşmış gəmilərdə vertikal xətt boyunca yerləşmiş “qırmızı, ağ, qırmızı” işıqlar və “şar, romb, şar” işarələri göstərilmir?",
+      "options": {
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "bütün cavablar yanlışdır",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "Mina təhlükəsini aradan qaldırma işləri ilə məşğul olan gəmilərdə"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p6_1.jpeg"
+    },
+    {
+      "id": "q045",
+      "question": "45. COLREG-72-də Qayda-18 nə bildirir?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "Ekranoplan havaya qalxarkən, enərkən və səthə yaxın uçarkən bütün gəmilərdən kənarda durmalı və onların hərəkətini çətinləşdirməməlidir. Ekranoplan su üzərində olarkən “B” Hissəsinin Qaydalarını mexaniki mühərrikli gəmi kimi yerinə yetirməlidir",
+        "D": "cənub-qərb dreyfi zamanı"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q046",
+      "question": "46. Balıq ovu ilə məşğul olan gəmi hərəkətdə olarkən:",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "İdarəetmə imkanından məhrum olunmuş və manevretmə imkanı məhdudlaşmış gəmilərə mümkün qədər yol verməlidir, suya oturumundan çəkinən gəminin təhlükəsiz keçidini, əgər vəziyyət imkan verirsə çətinləşdirməməlidir",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "gərginlik 220 V həddinə çatdıqda"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q047",
+      "question": "47. RADAR-ın ekranında müşahidəçi vəziyyəti qiymətləndirərkən, ikinci məlumatın təhlilində nəyə diqqət edilməlidir?",
+      "options": {
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "Vektorlara və rəqəmsal məlumatlara",
+        "C": "bütün cavablar doğrudur",
+        "D": "gərginlik 220 V həddinə çatdıqda"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q048",
+      "question": "48. Hərəkətin bölünmə sistemindən istifadə edən gəmi digər qabağda hərəkət edən gəmini sağ bortu tərəfindən ötmək üçün səs ilə hansı siqnalı verməlidir?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "Heç bir siqnal verməməlidir",
+        "D": "avtomatik rejimdə işləyərkən"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q049",
+      "question": "49. Dar keçiddə və ya farvaterdə hərəkət edən gəmi digər qabağda hərəkət edən gəmini sağ bortu tərəfindən ötmək üçün (gəmilər məhdud görünüş şəraitində hərəkət edirlər) səs ilə hansı siqnalı verməlidir?",
+      "options": {
+        "A": "bütün cavablar doğrudur",
+        "B": "Heç bir siqnal verməməlidir",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q050",
+      "question": "50. Şəkildə gördüyünüz “B” yelkənli gəmi Qaydalara əsasən hansı tədbir görməlidir? (toqquşma təhlükəsi mövcuddur)",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "“A” gəmi tam keçilməyənədək, tam arxada qalmayanadək, “A” gəminin yolundan kənar olmalıdır"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p7_1.jpeg"
+    }
+  ]
+}
