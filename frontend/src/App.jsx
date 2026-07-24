@@ -1,4 +1,5 @@
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import { useEffect } from 'react';
+import { BrowserRouter as Router, Routes, Route, Navigate, useLocation, useNavigate } from 'react-router-dom';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import MainMenu from './pages/MainMenu';
@@ -8,10 +9,35 @@ import TestPage from './pages/TestPage';
 import SoruCevapBankasi from './pages/SoruCevapBankasi';
 import Profile from './pages/Profile';
 import RealExamPage from './pages/RealExamPage';
+import { authFetch, clearTokens, getAccessToken } from './utils/api';
+
+function SessionChecker() {
+  const location = useLocation();
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    // Only check auth routes
+    const isPublic = ['/login', '/register', '/'].includes(location.pathname);
+    const token = getAccessToken();
+
+    if (!isPublic && token) {
+      authFetch('/auth/me/').then((res) => {
+        if (!res || res.status === 401) {
+          clearTokens();
+          alert('Bu hesaba başqa bir cihazdan daxil olundu. Sizin sessiyanız sonlandırıldı.');
+          navigate('/login');
+        }
+      }).catch(() => {});
+    }
+  }, [location.pathname]);
+
+  return null;
+}
 
 function App() {
   return (
     <Router>
+      <SessionChecker />
       <div className="min-h-screen bg-gradient-to-br from-dark to-dark-paper text-light flex flex-col items-center justify-between p-4 relative overflow-x-hidden">
         {/* Decorative background circles for modern look */}
         <div className="fixed top-[-10%] left-[-10%] w-[40vw] h-[40vw] bg-primary/20 rounded-full blur-[120px] pointer-events-none"></div>

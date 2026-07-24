@@ -62,10 +62,12 @@ def login_view(request):
     )
 
     refresh = RefreshToken.for_user(user)
-    # Store session_key in refresh token payload
     refresh['session_key'] = new_session_key
+    
+    access_token = refresh.access_token
+    access_token['session_key'] = new_session_key
 
-    access_token_str = str(refresh.access_token)
+    access_token_str = str(access_token)
     refresh_token_str = str(refresh)
 
     response = Response({
