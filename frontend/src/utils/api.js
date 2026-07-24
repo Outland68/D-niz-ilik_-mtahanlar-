@@ -1,4 +1,12 @@
 const BASE_URL = 'https://d-niz-ilik-mtahanlar-1.onrender.com/api';
+const BACKEND_STATIC_URL = 'https://d-niz-ilik-mtahanlar-1.onrender.com/static';
+
+export const getImageUrl = (path) => {
+  if (!path) return '';
+  if (path.startsWith('http')) return path;
+  if (path.startsWith('/images/')) return path;
+  return `${BACKEND_STATIC_URL}/${path.replace(/^\//, '')}`;
+};
 
 // ─── Token helpers ───────────────────────────────────
 export const getAccessToken = () => localStorage.getItem('access_token');
