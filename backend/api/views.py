@@ -148,8 +148,9 @@ def register_view(request):
 
     def send_email_thread(email_address, otp_code, username=None):
         # 1. n8n Webhook integration (Primary)
-        # Configure this environment variable in Render Settings, e.g. N8N_WEBHOOK_URL="https://primary-n8n.domain/..."
-        n8n_url = os.environ.get('N8N_WEBHOOK_URL') or getattr(settings, 'N8N_WEBHOOK_URL', '')
+        n8n_url = os.environ.get('N8N_WEBHOOK_URL', '')
+        if not n8n_url and hasattr(settings, 'N8N_WEBHOOK_URL'):
+            n8n_url = getattr(settings, 'N8N_WEBHOOK_URL', '')
         
         if n8n_url:
             try:
@@ -297,7 +298,9 @@ def send_reset_code_view(request):
     from django.core.mail import send_mail
 
     def send_reset_thread(email_address, otp_code, username):
-        n8n_url = os.environ.get('N8N_WEBHOOK_URL') or getattr(settings, 'N8N_WEBHOOK_URL', '')
+        n8n_url = os.environ.get('N8N_WEBHOOK_URL', '')
+        if not n8n_url and hasattr(settings, 'N8N_WEBHOOK_URL'):
+            n8n_url = getattr(settings, 'N8N_WEBHOOK_URL', '')
         
         if n8n_url:
             try:
