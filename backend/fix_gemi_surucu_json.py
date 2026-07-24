@@ -8,7 +8,26 @@ django.setup()
 
 from django.conf import settings
 
-# Exact PDF content & Image mapping for Gəmi sürücülərinin təkmilləşdirilməsi (istismar)
+# 100% Precise geometry mapping derived directly from PyMuPDF page layout:
+# Q1: /images/gemi_surucu/img_p1_1.png (Okklyuziya)
+# Q3: /images/gemi_surucu/img_p1_2.png (Tayfun)
+# Q4: /images/gemi_surucu/img_p1_3.jpeg (Buylar)
+# Q7: NO IMAGE
+# Q9: /images/gemi_surucu/img_p2_1.png (Frontal siklon)
+# Q10: /images/gemi_surucu/img_p2_2.jpeg (Laq usulu yedek ısıkları)
+# Q13: /images/gemi_surucu/img_p2_3.jpeg (Radiolokasiya bazis xətti)
+# Q16: /images/gemi_surucu/img_p3_1.png (NOCK TEN tropik fırtınası)
+# Q17: /images/gemi_surucu/img_p3_2.jpeg (Hərəkətin bölünmə sisteminin sərhədi)
+# Q18: /images/gemi_surucu/img_p3_3.jpeg (SOLAS Yanğın/Su təlimi şəkli)
+# Q20: /images/gemi_surucu/img_p3_4.jpeg (Vertolyot "H" nişanı şəkli)
+# Q21: /images/gemi_surucu/img_p4_1.jpeg (NAVTEX çapı)
+# Q22: /images/gemi_surucu/img_p4_2.jpeg (GMDSS Islerini dayandirmaq)
+# Q24: /images/gemi_surucu/img_p4_3.jpeg (GMDSS PRUDONCE)
+# Q27: /images/gemi_surucu/img_p5_1.jpeg (Gəmi 1 həqiqi kurs)
+# Q28: NO IMAGE (as requested)
+# Q29: /images/gemi_surucu/img_p5_2.jpeg (Elektrik mexaniki / Avtosükan)
+# Q30: /images/gemi_surucu/img_p5_3.jpeg (SEELONCE ONCE FEENEE)
+
 questions_exact = [
   {
     "id": "q001",
@@ -48,6 +67,7 @@ questions_exact = [
   {
     "id": "q004",
     "question": "4. Farvaterə dənizdən daxil olarkən (reqion A) farvaterin solunda olan buyların hansı rəqəmlərlə nömrələnir ?",
+    "image_url": "/images/gemi_surucu/img_p1_3.jpeg",
     "options": {
       "A": "tək",
       "B": "cüt",
@@ -206,7 +226,8 @@ questions_exact = [
   },
   {
     "id": "q018",
-    "question": "18. “Dənizdə insan həyatının qorunması haqqında” (SOLAS) Beynəlxalq Konvensiyanın tələblərinə uyğun olaraq gəmidə su ilə mübarizə üzrə təlimlərin keçirilməsi müddətini qeyd edin:",
+    "question": "18. Dənizdə insan həyatının qorunması haqqında” (SOLAS) Beynəlxalq Konvensiyanın tələblərinə uyğun olaraq gəmidə su ilə mübarizə üzrə təlimlərin keçirilməsi müddətini qeyd edin:",
+    "image_url": "/images/gemi_surucu/img_p3_3.jpeg",
     "options": {
       "A": "Beynəlxalq Konvensiyada bu tələb yoxdur",
       "B": "Həftədə 1 dəfə",
@@ -229,7 +250,7 @@ questions_exact = [
   {
     "id": "q020",
     "question": "20. Gəmidən insanları vertolyotla qaldırmaq üçün gəmi göyərtəsinin bir hissəsi hansı hərf ilə nişanlanmalıdır?",
-    "image_url": "/images/gemi_surucu/img_p3_3.jpeg",
+    "image_url": "/images/gemi_surucu/img_p3_4.jpeg",
     "options": {
       "A": "ağ rəngli böyük “H“ hərfi ilə",
       "B": "qırmızı rəngli böyük “X“ hərfi ilə",
@@ -241,7 +262,7 @@ questions_exact = [
   {
     "id": "q021",
     "question": "21. “NAVTEX” qəbuledicinin çap menyusundan hansı məlumatları operator çıxara bilməz?",
-    "image_url": "/images/gemi_surucu/img_p3_4.jpeg",
+    "image_url": "/images/gemi_surucu/img_p4_1.jpeg",
     "options": {
       "A": "axtarış və xilasetmə üzrə məlumatları",
       "B": "meteoroloji xəbərdarlıqları",
@@ -253,6 +274,7 @@ questions_exact = [
   {
     "id": "q022",
     "question": "22. “GMDSS” sisteminə aid fəlakət hallarında radio əlaqəyə öz işləri ilə maneə olan stansiyalara “İşlərini dayandırmaq” göstərişi hansı ardıcıllıqla verilir?\n1. “MAY DAY”;\n2. “ALL STATION”;\n3. “İşlərini dayandırmaq” göstərişini verən stansiyanın adı və ya çağırış siqnalı;\n4. “THIS IS”.",
+    "image_url": "/images/gemi_surucu/img_p4_2.jpeg",
     "options": {
       "A": "1, 2, 4, 3",
       "B": "2, 1, 3, 4",
@@ -275,6 +297,7 @@ questions_exact = [
   {
     "id": "q024",
     "question": "24. Fəlakət rayonlarında “GMDSS” sisteminə aid radio əlaqənin məhdudlaşdırılması göstərişini ifadə edən siqnalı qeyd edin?",
+    "image_url": "/images/gemi_surucu/img_p4_3.jpeg",
     "options": {
       "A": "“PRUDONCE”",
       "B": "“MAYDAY RELAY”",
@@ -320,7 +343,6 @@ questions_exact = [
   {
     "id": "q028",
     "question": "28. “MAMS” çəpərləmə sistemində istifadə edilən farvaterlərin sağ və sol tərəflərini göstərən işarələr necə adlandırılır?",
-    "image_url": "/images/gemi_surucu/img_p5_2.jpeg",
     "options": {
       "A": "“Lateral”",
       "B": "“Kardinal”",
@@ -332,6 +354,7 @@ questions_exact = [
   {
     "id": "q029",
     "question": "29. Gəmidə avtosükanın texniki vəziyyətinə kim cavabdehdir?",
+    "image_url": "/images/gemi_surucu/img_p5_2.jpeg",
     "options": {
       "A": "Elektrik mexaniki",
       "B": "Baş mexanik",
@@ -343,6 +366,7 @@ questions_exact = [
   {
     "id": "q030",
     "question": "30. “GMDSS” sisteminə aid “normal” radio əlaqənin icazə verən siqnalını qeyd edin.",
+    "image_url": "/images/gemi_surucu/img_p5_3.jpeg",
     "options": {
       "A": "“SEELONCE ONCE FEENEE”",
       "B": "“MAYDAY CANCEL”",
@@ -508,4 +532,4 @@ output_data = {
 with open(json_path, 'w', encoding='utf-8') as f:
     json.dump(output_data, f, ensure_ascii=False, indent=2)
 
-print(f"Cleaned and saved exact 43 questions to {json_path}")
+print(f"Fixed exact images geometry and saved to {json_path}")
