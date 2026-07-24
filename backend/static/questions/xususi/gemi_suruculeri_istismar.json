@@ -39,7 +39,6 @@
     {
       "id": "q004",
       "question": "4. Farvaterə dənizdən daxil olarkən (reqion A) farvaterin solunda olan buyların hansı rəqəmlərlə nömrələnir ?",
-      "image_url": "/images/gemi_surucu/img_p1_3.jpeg",
       "options": {
         "A": "tək",
         "B": "cüt",
@@ -198,7 +197,7 @@
     },
     {
       "id": "q018",
-      "question": "18. Dənizdə insan həyatının qorunması haqqında” (SOLAS) Beynəlxalq Konvensiyanın tələblərinə uyğun olaraq gəmidə su ilə mübarizə üzrə təlimlərin keçirilməsi müddətini qeyd edin:",
+      "question": "18. “Dənizdə insan həyatının qorunması haqqında” (SOLAS) Beynəlxalq Konvensiyanın tələblərinə uyğun olaraq gəmidə su ilə mübarizə üzrə təlimlərin keçirilməsi müddətini qeyd edin:",
       "image_url": "/images/gemi_surucu/img_p3_3.jpeg",
       "options": {
         "A": "Beynəlxalq Konvensiyada bu tələb yoxdur",
