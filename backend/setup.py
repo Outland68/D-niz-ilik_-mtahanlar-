@@ -34,7 +34,7 @@ special_certs = {
     "Əmniyyətli İdarəetmə Haqqında Beynəlxalq Məcəllə": "special/eibm.json",
     "İzdihamın idarə olunması üzrə hazırlıq": None,
     "İnert qaz sistemi": None,
-    "Yanğınla mübarizə geniş proqram üzrə": None,
+    "Yanğınla mübarizə geniş proqram üzrə": "xususi/yanginla_mubarize_genis.json",
     "Təhlükəli və zərərli yüklərin daşınması": None,
     "Sərnişinlərə bilavasitə xidmət göstərən heyət üyələri": None,
     "Sərnişinlərin, yükün və gəmi gövdəsinin təhlükəsizliyi üzrə hazırlıq": None,
@@ -59,7 +59,7 @@ special_certs = {
     "Gəmidə ilk tibbi yardım": None,
     "Gəmi qazanalizatorları və onların istismarı": None,
     "Elektron Xəritə Displeyinin və İnformasiya Sistemlərinin İstismar Qaydaları": None,
-    "Bütün dənizçilər üçün təhlükəsizlik üzrə tanışlıq, ilkin hazırlıq və təlimat": None,
+    "Bütün dənizçilər üçün təhlükəsizlik üzrə tanışlıq, ilkin hazırlıq və təlimat": "xususi/tanisliq_ilkin_hazirliq.json",
     "Böhran zamanı idarəetmə və insan davranışı üzrə hazırlıq": None,
     "1000 volt və artıq olan gərginlik sistemlərinin təhlükəsiz istismarı və onlara texniki nəzarət": None,
     "Xam Neftlə Yuyulma Sistemi": None
