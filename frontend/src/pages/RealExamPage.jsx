@@ -9,7 +9,7 @@ import { apiGetQuestions, getImageUrl } from '../utils/api';
 export default function RealExamPage() {
   const navigate = useNavigate();
   const location = useLocation();
-  const { certificateId, certificateName, isClassic, customCount } = location.state || { certificateId: 1, isClassic: true };
+  const { certificateId, certificateName, isClassic, customCount, isShuffle } = location.state || { certificateId: 1, isClassic: true, isShuffle: true };
 
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -34,8 +34,10 @@ export default function RealExamPage() {
 
         if (res.ok) {
           let list = data.questions || [];
-          // Always shuffle for real exam
-          list = [...list].sort(() => Math.random() - 0.5);
+          // Shuffle questions if isShuffle is enabled
+          if (isShuffle !== false) {
+            list = [...list].sort(() => Math.random() - 0.5);
+          }
 
           // Determine question count (Classic DDLA = 20 questions, Custom = user selected)
           const targetCount = isClassic ? 20 : (customCount || 20);

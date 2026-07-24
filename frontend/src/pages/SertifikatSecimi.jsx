@@ -11,6 +11,8 @@ export default function SertifikatSecimi() {
   const [certificates, setCertificates] = useState([]);
   const [loading, setLoading] = useState(true);
 
+  const [isShuffle, setIsShuffle] = useState(true);
+
   // Exam Modal State
   const [selectedCert, setSelectedCert] = useState(null);
   const [examMode, setExamMode] = useState('classic'); // 'classic' (20 q), 'custom'
@@ -36,7 +38,8 @@ export default function SertifikatSecimi() {
         certificateId: selectedCert.id,
         certificateName: selectedCert.name,
         isClassic: examMode === 'classic',
-        customCount: parseInt(customCount, 10) || 20
+        customCount: parseInt(customCount, 10) || 20,
+        isShuffle: isShuffle
       }
     });
   };
@@ -176,6 +179,23 @@ export default function SertifikatSecimi() {
                   />
                 </div>
               )}
+
+              {/* Shuffle Questions Toggle */}
+              <div className="flex items-center justify-between p-3.5 bg-white/5 rounded-xl border border-white/10">
+                <div className="flex items-center gap-2 text-sm font-semibold">
+                  <Shuffle size={18} className={isShuffle ? 'text-primary animate-spin-slow' : 'text-white/50'} />
+                  <span>Sualları Sıra İlə Qarışdır</span>
+                </div>
+                <button
+                  type="button"
+                  onClick={() => setIsShuffle(!isShuffle)}
+                  className={`w-12 h-6 flex items-center rounded-full p-1 cursor-pointer transition-colors duration-300 ${
+                    isShuffle ? 'bg-primary justify-end' : 'bg-white/20 justify-start'
+                  }`}
+                >
+                  <div className="w-4 h-4 rounded-full bg-black shadow-md"></div>
+                </button>
+              </div>
             </div>
 
             <div className="flex gap-3">
