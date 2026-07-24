@@ -4,7 +4,7 @@ import {
   ArrowLeft, CheckCircle2, XCircle, Shuffle, RotateCcw, 
   Award, AlertTriangle, Flag, Check, X, Clock
 } from 'lucide-react';
-import { apiGetQuestions } from '../utils/api';
+import { apiGetQuestions, getImageUrl } from '../utils/api';
 
 export default function RealExamPage() {
   const navigate = useNavigate();
@@ -363,7 +363,7 @@ export default function RealExamPage() {
         <h2 className="text-xl md:text-2xl font-medium mb-4 leading-relaxed">{q.question}</h2>
         {q.image_url && (
           <div className="mb-6 max-w-md mx-auto rounded-xl overflow-hidden border border-white/20 shadow-lg bg-black/40 p-2 text-center">
-            <img src={q.image_url} alt="Sual şəkli" className="max-h-64 mx-auto rounded-lg object-contain" />
+            <img src={getImageUrl(q.image_url)} alt="Sual şəkli" className="max-h-64 mx-auto rounded-lg object-contain" />
           </div>
         )}
         <div className="space-y-3">

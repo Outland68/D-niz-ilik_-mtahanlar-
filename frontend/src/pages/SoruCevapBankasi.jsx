@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { ArrowLeft, CheckCircle2 } from 'lucide-react';
-import { apiGetQuestions } from '../utils/api';
+import { apiGetQuestions, getImageUrl } from '../utils/api';
 
 export default function SoruCevapBankasi() {
   const navigate = useNavigate();
@@ -63,7 +63,7 @@ export default function SoruCevapBankasi() {
                     <h3 className="text-lg font-medium mb-3">{qa.question}</h3>
                     {qa.image_url && (
                       <div className="mb-4 max-w-sm rounded-lg overflow-hidden border border-white/10 bg-black/30 p-2">
-                        <img src={qa.image_url} alt="Sual şəkli" className="max-h-52 rounded object-contain" />
+                        <img src={getImageUrl(qa.image_url)} alt="Sual şəkli" className="max-h-52 rounded object-contain" />
                       </div>
                     )}
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-2 mb-3">
