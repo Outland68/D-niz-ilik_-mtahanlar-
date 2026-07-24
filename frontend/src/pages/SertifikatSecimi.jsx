@@ -10,7 +10,6 @@ export default function SertifikatSecimi() {
   
   const [certificates, setCertificates] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [isShuffle, setIsShuffle] = useState(false);
 
   // Exam Modal State
   const [selectedCert, setSelectedCert] = useState(null);
@@ -54,20 +53,6 @@ export default function SertifikatSecimi() {
             <p className="text-white/50 mt-1">{categoryName ? `${categoryName} üçün sertifikatlar` : 'İmtahan və ya Sual Bankı üçün sertifikat seçin'}</p>
           </div>
         </div>
-
-        {/* Karıştır Button */}
-        <button
-          onClick={() => setIsShuffle(!isShuffle)}
-          className={`flex items-center gap-2 px-4 py-2 rounded-xl border text-sm font-semibold transition-all duration-300 cursor-pointer ${
-            isShuffle 
-              ? 'bg-primary/20 border-primary text-primary shadow-lg shadow-primary/20 ring-2 ring-primary/30' 
-              : 'bg-white/5 border-white/10 text-white/70 hover:bg-white/10 hover:text-white'
-          }`}
-        >
-          <Shuffle size={18} className={isShuffle ? 'animate-spin-slow text-primary' : ''} />
-          <span>Qarışdır</span>
-          {isShuffle && <span className="text-xs bg-primary text-black px-1.5 py-0.5 rounded font-bold ml-1">Aktiv</span>}
-        </button>
       </div>
 
       {loading ? (
@@ -97,7 +82,7 @@ export default function SertifikatSecimi() {
                   Sual Bankı
                 </button>
                 <button 
-                  onClick={() => navigate('/test', { state: { certificateId: cert.id, certificateName: cert.name, isShuffle } })}
+                  onClick={() => navigate('/test', { state: { certificateId: cert.id, certificateName: cert.name } })}
                   className="flex-1 sm:flex-none btn bg-white/10 hover:bg-white/20 text-white flex items-center justify-center gap-2 px-3.5 py-2 text-xs font-semibold cursor-pointer"
                 >
                   <Play size={15} />

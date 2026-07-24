@@ -279,11 +279,22 @@ export default function TestPage() {
 
         {/* Header Right Actions */}
         <div className="flex items-center gap-3 w-full sm:w-auto justify-between sm:justify-end">
+          <button
+            onClick={() => {
+              setQuestions([...questions].sort(() => Math.random() - 0.5));
+              setCurrentQuestion(0);
+            }}
+            className="flex items-center gap-2 px-3.5 py-1.5 rounded-xl border border-white/10 bg-white/5 hover:bg-white/10 text-white/80 hover:text-white text-xs font-semibold transition-all cursor-pointer"
+            title="Sualları qarışdır"
+          >
+            <Shuffle size={15} className="text-primary" />
+            <span>Qarışdır</span>
+          </button>
           <button 
             onClick={handleFinishTest} 
-            className="btn bg-red-500/20 hover:bg-red-500/30 text-red-300 border border-red-500/30 px-4 py-2 text-sm flex items-center gap-2 rounded-xl transition-all"
+            className="btn bg-red-500/20 hover:bg-red-500/30 text-red-300 border border-red-500/30 px-3.5 py-1.5 text-xs flex items-center gap-1.5 rounded-xl transition-all cursor-pointer"
           >
-            <Flag size={16} />
+            <Flag size={15} />
             Testi Bitir
           </button>
         </div>
