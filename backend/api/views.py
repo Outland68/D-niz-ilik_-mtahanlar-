@@ -151,11 +151,10 @@ def register_view(request):
             message, 
             settings.DEFAULT_FROM_EMAIL, 
             [email], 
-            fail_silently=False
+            fail_silently=True
         )
     except Exception as e:
         print("Register Gmail SMTP Exception:", e)
-        return Response({'error': f'E-poçt göndərilərkən xəta baş verdi: {str(e)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
     return Response({
         'message': f'6 rəqəmli qeydiyyat təsdiq kodu {email} ünvanına göndərildi!',
