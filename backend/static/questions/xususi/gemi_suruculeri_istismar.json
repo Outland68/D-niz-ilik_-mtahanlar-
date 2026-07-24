@@ -1,0 +1,521 @@
+{
+  "certificate": "Gəmi sürücülərinin təkmilləşdirilməsi (istismar)",
+  "questions": [
+    {
+      "id": "q001",
+      "question": "Şəkildə nəyin işarəsi verilib?",
+      "options": {
+        "A": "yalnız kapitanın yazılı sərəncamı ilə",
+        "B": "“okklyuziya” cəbhəsinin;",
+        "C": "cüt",
+        "D": "sarı rəngli S hərfi ilə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q002",
+      "question": "Dünya okeanında qüvvətli və davamlı, 2-5 düyün sürəti olan cərəyanı qeyd edin.",
+      "options": {
+        "A": "bütün cavablar yanlışdır",
+        "B": "Qolfstrim",
+        "C": "baş mexanik",
+        "D": "gəminin təhlükəsiz sürəti"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q003",
+      "question": "Xəritədə çəhrayı rəngdə qeyd edilmiş simvolu açıqlayın.",
+      "options": {
+        "A": "yalnız matros heyəti üçün vasitələr",
+        "B": "tayfun",
+        "C": "lövbər jurnalı",
+        "D": "10 metr"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q004",
+      "question": "Farvaterə dənizdən daxil olarkən (reqion A) farvaterin solunda olan buyların hansı rəqəmlərlə nömrələnir ?",
+      "options": {
+        "A": "tək",
+        "B": "çox mərkəzli (üç mərkəzli)",
+        "C": "58,4 mil",
+        "D": "15 metr"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "Xarici təzyiqin azalması halında maye yüklərin qaynama temperaturu necə dəyişir?",
+      "options": {
+        "A": "azalır",
+        "B": "yük jurnalı",
+        "C": "tropik siklon",
+        "D": "sıfıra bərabər olur"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q006",
+      "question": "“Boarding arrangements” termininə uyğun olan tərifi qeyd edin.",
+      "options": {
+        "A": "losmanın təhlükəsizliyini təmin edən losman “trapı”, mərasim “trapı” və digər vasitələr",
+        "B": "radio dəniz naviqasiya fənəri",
+        "C": "15 metr",
+        "D": "növbətçi matros"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q007",
+      "question": "Hidrokostyumda hansı hündürlükdən suya təhlükəsiz tullanmaq olar?",
+      "options": {
+        "A": "yalnız kapitanın yazılı sərəncamı ilə",
+        "B": "SEELONCE MAYDAY",
+        "C": "5 metr",
+        "D": "radio dəniz naviqasiya fənəri"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q008",
+      "question": "Qeyd edilən hansı amil qaydaların tələblərinin yerinə yetirilməməsinə səbəb ola bilər?",
+      "options": {
+        "A": "4, 3, 2, 1",
+        "B": "biləvasitə təhlükə",
+        "C": "dəyişməz qalır",
+        "D": "gəminin təhlükəsiz sürəti"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q009",
+      "question": "Hava şəraiti haqqında xəritədə göstərilən Hind okeanının şərq hissəsində yaranan “Frontal” siklon necə adlandırılır?",
+      "options": {
+        "A": "mərkəzsiz cəbhə",
+        "B": "yalnız gəmi qovşağında təlim keçirildikdə",
+        "C": "çox mərkəzli (iki mərkəzli)",
+        "D": "mavi rəngli R hərfi ilə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q010",
+      "question": "Hansı gəminin işıqlarını müşahidə edirsiniz?",
+      "options": {
+        "A": "3, 1, 2, 4",
+        "B": "mərasim trapı və fırtına nərdivanı",
+        "C": "“Laq” üsulu ilə yedək əməliyyatı ilə məşğul olan gəmi, yedək gəmisinin uzunluğu 50 m-dən azdır, hərəkəti üstümüzədir",
+        "D": "dəniz dalğalanma dərəcəsi"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q011",
+      "question": "Cümləni tamamlayın: “What is the ………. of the derricks of the vessel?”",
+      "options": {
+        "A": "gəminin taran edilməsi",
+        "B": "şimal - şərq istiqamətində",
+        "C": "capacity",
+        "D": "3, 1, 2, 4"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q012",
+      "question": "Uyğun gələn söz önünü seçin: “Dispose the sludge ….. the sludge tank.“",
+      "options": {
+        "A": "dəniz dalğalanma dərəcəsi",
+        "B": "3, 1, 2, 4",
+        "C": "into",
+        "D": "yalnız kapitanın yazılı sərəncamı ilə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q013",
+      "question": "Şəkildə göstərilən naviqasiya xəritələrində istifadə edilən şərti işarənin düzgün mənasını qeyd edin.",
+      "options": {
+        "A": "axtarış və xilasetmə zonası",
+        "B": "MAYDAY RELAY",
+        "C": "dəniz dalğalanma dərəcəsi",
+        "D": "radiolokasiya bazis xətti"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q014",
+      "question": "Gəmilərdə təhlükəli yüklərlə iş üzrə təlimat nə zaman aparılmalıdır?",
+      "options": {
+        "A": "lisenziya sənədi",
+        "B": "15 metr",
+        "C": "radio dəniz naviqasiya fənəri",
+        "D": "əmniyyətliliyin idarə edilməsi sistemin tələblərinə uyğun olaraq"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q015",
+      "question": "“Blind sector” termininə uyğun olan tərifi qeyd edin:",
+      "options": {
+        "A": "yalnız kapitan köməkçisi",
+        "B": "SEELONCE MAYDAY",
+        "C": "bütün cavablar yanlışdır",
+        "D": "gəmi RLS ilə müşahidə edilməyən sahə"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q016",
+      "question": "Hava şəraiti haqqında xəritənin məlumatına görə Sakit okeanın şimal- qərb hissəsində “NOCK TEN” adlı tropik fırtınanın ən çox ehtimal edildiyi hərəkət istiqamətini qeyd edin:",
+      "options": {
+        "A": "dəyişməz qalır",
+        "B": "gəmi marşrutu sahəsi",
+        "C": "mərkəzsiz cəbhə",
+        "D": "şimal - qərb istiqamətində"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q017",
+      "question": "Şəkildə göstərilən naviqasiya xəritələrində istifadə edilən şərti işarənin düzgün mənasını qeyd edin?",
+      "options": {
+        "A": "yalnız kapitan köməkçisi",
+        "B": "təxirəsalınmaz tibbi yardım",
+        "C": "mərasim trapı və fırtına nərdivanı",
+        "D": "hərəkətin bölünmə sisteminin sərhədi"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q018",
+      "question": "Dənizdə insan həyatının qorunması haqqında” (SOLAS) Beynəlxalq Konvensiyanın tələblərinə uyğun olaraq gəmidə su ilə mübarizə üzrə təlimlərin keçirilməsi müddətini qeyd edin:",
+      "options": {
+        "A": "Beynəlxalq Konvensiyada bu tələb yoxdur",
+        "B": "DISTRESS ACKNOWLEDGE",
+        "C": "2, 1, 4, 3",
+        "D": "58,4 mil"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q019",
+      "question": "”Inoperative” termininə uyğun olan tərifi qeyd edin:",
+      "options": {
+        "A": "işləməyən, fəaliyyət göstərməyən",
+        "B": "MAYDAY RELAY",
+        "C": "növbətçi matros",
+        "D": "3, 1, 2, 4"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q020",
+      "question": "Gəmidən insanları vertolyotla qaldırmaq üçün gəmi göyərtəsinin bir hissəsi hansı hərf ilə nişanlanmalıdır?",
+      "options": {
+        "A": "cüt",
+        "B": "58,4 mil",
+        "C": "radio dəniz naviqasiya fənəri",
+        "D": "ağ rəngli böyük “H“ hərfi ilə"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q021",
+      "question": "“NAVTEX” qəbuledicinin çap menyusundan hansı məlumatları operator çıxara bilməz?",
+      "options": {
+        "A": "mərkəzsiz cəbhə",
+        "B": "SEELONCE MAYDAY",
+        "C": "64,0 mil",
+        "D": "axtarış və xilasetmə üzrə məlumatları"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q004",
+      "question": "“THIS IS”.",
+      "options": {
+        "A": "1, 2, 4, 3",
+        "B": "çox mərkəzli (üç mərkəzli)",
+        "C": "58,4 mil",
+        "D": "15 metr"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q023",
+      "question": "Gəmidən müvafiq vizual vasitələrlə ötürülən “X” siqnalı nəyi ifadə edir?",
+      "options": {
+        "A": "gəminin taran edilməsi",
+        "B": "2, 1, 4, 3",
+        "C": "yük jurnalı",
+        "D": "Tibbi yardım tələb olunur"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q024",
+      "question": "Fəlakət rayonlarında “GMDSS” sisteminə aid radio əlaqənin məhdudlaşdırılması göstərişini ifadə edən siqnalı qeyd edin?",
+      "options": {
+        "A": "15 metr",
+        "B": "sarı rəngli S hərfi ilə",
+        "C": "dəyişməz qalır",
+        "D": "“PRUDONCE”"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q025",
+      "question": "Gəmidən insanın dənizə düşdüyü hallarda dərhal yerinə yetirilən gəmi manevrləri hansılardır?",
+      "options": {
+        "A": "sarı rəngli S hərfi ilə",
+        "B": "“Anderson” manevri, “Uilyamson” manevri",
+        "C": "növbətçi matros",
+        "D": "xüsusi nişanlanmış"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q026",
+      "question": "Gəminin “Laq”ın göstəricisinə görə keçdiyi məsafə 64 mildir, “Laq”ın əmsalı K= 0,95. Gəminin keçdiyi həqiqi məsafəni qeyd edin?",
+      "options": {
+        "A": "dəyişməz qalır",
+        "B": "gəminin təhlükəsiz sürəti",
+        "C": "60,8 mil",
+        "D": "2, 1, 4, 3"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q027",
+      "question": "Siz 1saylı gəmidəsiniz. Şəkildə sizin gəminizin həqiqi kursu hansı hərf ilə qeyd edilmişdir?",
+      "options": {
+        "A": "lisenziya sənədi",
+        "B": "DISTRESS ACKNOWLEDGE",
+        "C": "3, 1, 2, 4",
+        "D": "A"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q028",
+      "question": "“MAMS” çəpərləmə sistemində istifadə edilən farvaterlərin sağ və sol tərəflərini göstərən işarələr necə adlandırılır?",
+      "options": {
+        "A": "bütün naviqasiya zolaqlarında",
+        "B": "2, 1, 4, 3",
+        "C": "“Lateral”",
+        "D": "2 metr"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q029",
+      "question": "Gəmidə avtosükanın texniki vəziyyətinə kim cavabdehdir?",
+      "options": {
+        "A": "Elektrik mexaniki",
+        "B": "DISTRESS ACKNOWLEDGE",
+        "C": "bütün cavablar yanlışdır",
+        "D": "şimal - şərq istiqamətində"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q030",
+      "question": "“GMDSS” sisteminə aid “normal” radio əlaqənin icazə verən siqnalını qeyd edin.",
+      "options": {
+        "A": "dəyişməz qalır",
+        "B": "“SEELONCE ONCE FEENEE”",
+        "C": "təxirəsalınmaz tibbi yardım",
+        "D": "mavi rəngli R hərfi ilə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q031",
+      "question": "“Toqquşma” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
+      "options": {
+        "A": "mavi rəngli R hərfi ilə",
+        "B": "“Collision”",
+        "C": "gəmi sürətinin həddi",
+        "D": "MAYDAY RELAY"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q032",
+      "question": "“Yanğın, partlayış” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
+      "options": {
+        "A": "“Fire, explosion”",
+        "B": "yalnız gəmi qovşağında təlim keçirildikdə",
+        "C": "gəminin təhlükəsiz sürəti",
+        "D": "75,2 mil"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q033",
+      "question": "“Kren, çevrilmə təhlükəsi” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
+      "options": {
+        "A": "“Listing, capsizing”",
+        "B": "yalnız kapitanın yazılı sərəncamı ilə",
+        "C": "DISTRESS ACKNOWLEDGE",
+        "D": "bütün cavablar yanlışdır"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q034",
+      "question": "“Saya oturma” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
+      "options": {
+        "A": "artır",
+        "B": "gəminin təhlükəsiz sürəti",
+        "C": "“Grounding”",
+        "D": "yalnız kapitan köməkçisi"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q035",
+      "question": "“İdarə etmənin itirilməsi və dreyf” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
+      "options": {
+        "A": "“Disabled & Adrift”",
+        "B": "gəmi marşrutu sahəsi",
+        "C": "yalnız kapitanın yazılı sərəncamı ilə",
+        "D": "58,4 mil"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q036",
+      "question": "“Gəmini tərk etmə” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
+      "options": {
+        "A": "“Abandoning ship”",
+        "B": "bütün cavablar doğrudur",
+        "C": "cüt",
+        "D": "radio dəniz naviqasiya fənəri"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q037",
+      "question": "“Yük manifesti” nədir?",
+      "options": {
+        "A": "cüt",
+        "B": "çox mərkəzli (üç mərkəzli)",
+        "C": "radio dəniz naviqasiya fənəri",
+        "D": "dəniz ilə yük daşımalarını nizamlayan beynəlxalq qanunlar toplusu"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q038",
+      "question": "Qəbul edilmiş yük haqqında qeydlər aparılmasından və kapitanın yük köməkçisi tərəfindən imzalanmasından sonra “yük orderi” necə adlandırılır?",
+      "options": {
+        "A": "konosament",
+        "B": "yalnız kapitanın yazılı sərəncamı ilə",
+        "C": "şimal - şərq istiqamətində",
+        "D": "axtarış və xilasetmə zonası"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q039",
+      "question": "Gəminin ümumi yükün qəbuluna hazır olması haqqında məlumat hansı sənəddə qeyd edilməlidir?",
+      "options": {
+        "A": "radio dəniz naviqasiya fənəri",
+        "B": "gəmi jurnalında",
+        "C": "təxirəsalınmaz tibbi yardım",
+        "D": "dəyişməz qalır"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q040",
+      "question": "Yük göndərən sahibkara şturman qəbzinin əsasında hansı sənəd verilir?",
+      "options": {
+        "A": "yalnız matros heyəti üçün vasitələr",
+        "B": "cüt",
+        "C": "konosament",
+        "D": "radio dəniz naviqasiya fənəri"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q041",
+      "question": "Maye yüklərin oddan təhlükəliliyinin göstəricisini qeyd edin:",
+      "options": {
+        "A": "baş mexanik",
+        "B": "3, 1, 2, 4",
+        "C": "mayenin doymuş buxarının alışma temperaturu",
+        "D": "yalnız matros heyəti üçün vasitələr"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q042",
+      "question": "Aşağıdakılardan hansı məlumat konosamentə daxil edilir?",
+      "options": {
+        "A": "cüt",
+        "B": "yüklənmə limanı",
+        "C": "mavi rəngli R hərfi ilə",
+        "D": "təxirəsalınmaz tibbi yardım"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q043",
+      "question": "Hansı sənədin təqdim edilməsi ilə gəmi yük əməliyyatlarına hazırlığını bəyan edir?",
+      "options": {
+        "A": "15 metr",
+        "B": "qırmızı rəngli böyük X hərfi ilə",
+        "C": "kapitanın bildirişi (Notis)",
+        "D": "yalnız kapitan köməkçisi"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    }
+  ]
+}

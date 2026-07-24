@@ -26,7 +26,7 @@ print("Categories seeded.")
 # ── 3. Xüsusi hazırlıq şəhadətnamələri üzrə (Category 2) ──
 special_certs = {
     "Safety familiarization basic training and instruction for all seafarers": "xususi/safety_familiarization_en.json",
-    "Gəmi sürücülərinin təkmilləşdirilməsi (istismar)": None,
+    "Gəmi sürücülərinin təkmilləşdirilməsi (istismar)": "xususi/gemi_suruculeri_istismar.json",
     "Gəmi elektrik mexaniklərinin təkmilləşdirilməsi": None,
     "Gəmi mexaniklərinin təkmilləşdirilməsi (idarəetmə)": None,
     "Gəmi sürücülərinin təkmilləşdirilməsi (idarəetmə)": None,
