@@ -1,4 +1,5 @@
 import json
+import os
 from pathlib import Path
 
 from django.conf import settings
@@ -140,23 +141,43 @@ def register_view(request):
         'password': password
     }
 
-    # Send confirmation code via Gmail SMTP in a background thread to prevent Gunicorn timeout crashes
+    # Send confirmation code via n8n Webhook (Primary) and Django SMTP (Fallback)
     import threading
+    import requests
     from django.core.mail import send_mail
 
-    def send_email_thread(subject, message, from_email, recipient_list):
-        try:
-            send_mail(subject, message, from_email, recipient_list, fail_silently=True)
-        except Exception as e:
-            print("Background SMTP Exception:", e)
+    def send_email_thread(email_address, otp_code, username=None):
+        # 1. n8n Webhook integration (Primary)
+        # Configure this environment variable in Render Settings, e.g. N8N_WEBHOOK_URL="https://primary-n8n.domain/..."
+        n8n_url = os.environ.get('N8N_WEBHOOK_URL') or getattr(settings, 'N8N_WEBHOOK_URL', '')
+        
+        if n8n_url:
+            try:
+                payload = {
+                    'email': email_address,
+                    'code': otp_code,
+                    'type': 'register',
+                    'username': username or 'İstifadəçi'
+                }
+                res = requests.post(n8n_url, json=payload, timeout=5)
+                if res.status_code in [200, 201]:
+                    print(f"OTP successfully routed via n8n Webhook to {email_address}")
+                    return
+            except Exception as web_err:
+                print("n8n Webhook routing failed, trying SMTP fallback:", web_err)
 
-    subject = "Dənizçilik İmtahanları - Qeydiyyat Təsdiq Kodu"
-    message = f"Hərvaxtınız xeyir,\n\nDənizçilik İmtahanları platformasında qeydiyyatdan keçmək üçün təsdiq kodunuz: {code}\n\nBu kodu qeydiyyat pəncərəsinə daxil edərək hesabınızı aktivləşdirin.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
-    
+        # 2. Django SMTP Fallback
+        try:
+            subject = "Dənizçilik İmtahanları - Qeydiyyat Təsdiq Kodu"
+            message = f"Hərvaxtınız xeyir,\n\nDənizçilik İmtahanları platformasında qeydiyyatdan keçmək üçün təsdiq kodunuz: {otp_code}\n\nBu kodu qeydiyyat pəncərəsinə daxil edərək hesabınızı aktivləşdirin.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
+            send_mail(subject, message, settings.DEFAULT_FROM_EMAIL, [email_address], fail_silently=True)
+        except Exception as smtp_err:
+            print("Background SMTP Fallback Exception:", smtp_err)
+
     # Start thread
     thread = threading.Thread(
         target=send_email_thread,
-        args=(subject, message, settings.DEFAULT_FROM_EMAIL, [email])
+        args=(email, code, username)
     )
     thread.daemon = True
     thread.start()
@@ -270,22 +291,39 @@ def send_reset_code_view(request):
     RESET_CODES[user.email] = {'code': code, 'user_id': user.id}
     RESET_CODES[email] = {'code': code, 'user_id': user.id}
 
-    # Send Email via Gmail SMTP in background thread
+    # Send Email via Gmail SMTP in background thread (with n8n primary check)
     import threading
+    import requests
     from django.core.mail import send_mail
 
-    def send_reset_thread(subject, message, from_email, recipient_list):
+    def send_reset_thread(email_address, otp_code, username):
+        n8n_url = os.environ.get('N8N_WEBHOOK_URL') or getattr(settings, 'N8N_WEBHOOK_URL', '')
+        
+        if n8n_url:
+            try:
+                payload = {
+                    'email': email_address,
+                    'code': otp_code,
+                    'type': 'reset',
+                    'username': username
+                }
+                res = requests.post(n8n_url, json=payload, timeout=5)
+                if res.status_code in [200, 201]:
+                    print(f"Reset OTP routed via n8n Webhook to {email_address}")
+                    return
+            except Exception as web_err:
+                print("n8n Reset Webhook failed, trying SMTP fallback:", web_err)
+
         try:
-            send_mail(subject, message, from_email, recipient_list, fail_silently=True)
+            subject = "Dənizçilik İmtahanları - Şifrə Sıfırlama Kodu"
+            message = f"Hərvaxtınız xeyir {username},\n\nŞifrənizi sıfırlamaq üçün təsdiq kodunuz: {otp_code}\n\nBu kodu heç kimlə paylaşmayın.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
+            send_mail(subject, message, settings.DEFAULT_FROM_EMAIL, [email_address], fail_silently=True)
         except Exception as e:
             print("Background SMTP Reset Exception:", e)
 
-    subject = "Dənizçilik İmtahanları - Şifrə Sıfırlama Kodu"
-    message = f"Hərvaxtınız xeyir {user.username},\n\nŞifrənizi sıfırlamaq üçün təsdiq kodunuz: {code}\n\nBu kodu heç kimlə paylaşmayın.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
-    
     thread = threading.Thread(
         target=send_reset_thread,
-        args=(subject, message, settings.DEFAULT_FROM_EMAIL, [user.email])
+        args=(user.email, code, user.username)
     )
     thread.daemon = True
     thread.start()
