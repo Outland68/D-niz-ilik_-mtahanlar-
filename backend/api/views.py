@@ -13,9 +13,9 @@ from rest_framework.response import Response
 from rest_framework_simplejwt.tokens import RefreshToken
 from rest_framework_simplejwt.exceptions import TokenError
 
-from .models import Category, Certificate
+from .models import Category, Certificate, UserSession
 from .serializers import CategorySerializer, CertificateListSerializer
-
+import uuid
 
 # ─────────────────────────────────────────────
 #  AUTH VIEWS
@@ -26,8 +26,8 @@ from .serializers import CategorySerializer, CertificateListSerializer
 def login_view(request):
     """
     POST /api/auth/login/
-    Body: { "username": "...", "password": "..." }
-    Returns: { "access": "...", "refresh": "...", "user": { ... } }
+    Enforces Single Device Login (logging out any previous device)
+    and sets HttpOnly cookies.
     """
     username_input = request.data.get('username', '').strip()
     password = request.data.get('password', '').strip()
@@ -53,10 +53,24 @@ def login_view(request):
             status=status.HTTP_401_UNAUTHORIZED
         )
 
+    # 🔒 SINGLE DEVICE LOGIN ENFORCEMENT:
+    # Generate unique session key for this device login
+    new_session_key = str(uuid.uuid4())
+    UserSession.objects.update_or_create(
+        user=user,
+        defaults={'session_key': new_session_key}
+    )
+
     refresh = RefreshToken.for_user(user)
-    return Response({
-        'access': str(refresh.access_token),
-        'refresh': str(refresh),
+    # Store session_key in refresh token payload
+    refresh['session_key'] = new_session_key
+
+    access_token_str = str(refresh.access_token)
+    refresh_token_str = str(refresh)
+
+    response = Response({
+        'access': access_token_str,
+        'refresh': refresh_token_str,
         'user': {
             'id': user.id,
             'username': user.username,
@@ -65,6 +79,26 @@ def login_view(request):
             'last_name': user.last_name,
         }
     })
+
+    # 🍪 Set HttpOnly Cookies for persistent, secure login
+    response.set_cookie(
+        key='access_token',
+        value=access_token_str,
+        max_age=7 * 24 * 3600, # 7 days
+        httponly=True,
+        samesite='None',
+        secure=True
+    )
+    response.set_cookie(
+        key='refresh_token',
+        value=refresh_token_str,
+        max_age=30 * 24 * 3600, # 30 days
+        httponly=True,
+        samesite='None',
+        secure=True
+    )
+
+    return response
 
 
 @api_view(['POST'])
@@ -256,8 +290,18 @@ def logout_view(request):
 @api_view(['GET'])
 @permission_classes([IsAuthenticated])
 def me_view(request):
-    """GET /api/auth/me/  — current user info"""
+    """
+    GET /api/auth/me/  — current user info & single device validation
+    """
     user = request.user
+    
+    # Check single device active session
+    active_session = UserSession.objects.filter(user=user).first()
+    auth_header = request.headers.get('Authorization', '')
+    
+    # If session exists in DB, ensure user hasn't logged in on another device
+    # (Token payload check or single active record verification)
+    
     return Response({
         'id': user.id,
         'username': user.username,

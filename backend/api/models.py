@@ -1,4 +1,5 @@
 from django.db import models
+from django.contrib.auth.models import User
 
 class Category(models.Model):
     name = models.CharField(max_length=255)
@@ -11,9 +12,16 @@ class Category(models.Model):
 class Certificate(models.Model):
     category = models.ForeignKey(Category, related_name='certificates', on_delete=models.CASCADE)
     name = models.CharField(max_length=255)
-    # Relative path to the JSON file under static/questions/
-    # Example: "certdip/colreg_72.json"
     json_file = models.CharField(max_length=255, blank=True, null=True)
 
     def __str__(self):
         return self.name
+
+# Model to enforce Single Device Login (Only 1 active session per user)
+class UserSession(models.Model):
+    user = models.OneToOneField(User, on_delete=models.CASCADE, related_name='active_session')
+    session_key = models.CharField(max_length=255, unique=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    def __str__(self):
+        return f"Session for {self.user.username}"
