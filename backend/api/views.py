@@ -143,11 +143,13 @@ def register_view(request):
 
     # Send confirmation code via n8n Webhook (Primary) and Django SMTP (Fallback)
     import threading
-    import requests
     from django.core.mail import send_mail
 
-    def send_email_thread(email_address, otp_code, username=None):
-        # 1. n8n Webhook integration (Primary)
+    def send_email_thread(email_address, otp_code, username_val=None):
+        # 1. n8n Webhook integration (Primary) using Python's built-in urllib to avoid external dependency issues
+        import urllib.request
+        import json
+        
         n8n_url = os.environ.get('N8N_WEBHOOK_URL', '')
         if not n8n_url and hasattr(settings, 'N8N_WEBHOOK_URL'):
             n8n_url = getattr(settings, 'N8N_WEBHOOK_URL', '')
@@ -158,12 +160,19 @@ def register_view(request):
                     'email': email_address,
                     'code': otp_code,
                     'type': 'register',
-                    'username': username or 'İstifadəçi'
+                    'username': username_val or 'İstifadəçi'
                 }
-                res = requests.post(n8n_url, json=payload, timeout=5)
-                if res.status_code in [200, 201]:
-                    print(f"OTP successfully routed via n8n Webhook to {email_address}")
-                    return
+                data_bytes = json.dumps(payload).encode('utf-8')
+                req = urllib.request.Request(
+                    n8n_url,
+                    data=data_bytes,
+                    headers={'Content-Type': 'application/json'},
+                    method='POST'
+                )
+                with urllib.request.urlopen(req, timeout=5) as response:
+                    if response.status in [200, 201]:
+                        print(f"OTP successfully routed via n8n Webhook to {email_address}")
+                        return
             except Exception as web_err:
                 print("n8n Webhook routing failed, trying SMTP fallback:", web_err)
 
@@ -304,16 +313,25 @@ def send_reset_code_view(request):
         
         if n8n_url:
             try:
+                import urllib.request
+                import json
                 payload = {
                     'email': email_address,
                     'code': otp_code,
                     'type': 'reset',
                     'username': username
                 }
-                res = requests.post(n8n_url, json=payload, timeout=5)
-                if res.status_code in [200, 201]:
-                    print(f"Reset OTP routed via n8n Webhook to {email_address}")
-                    return
+                data_bytes = json.dumps(payload).encode('utf-8')
+                req = urllib.request.Request(
+                    n8n_url,
+                    data=data_bytes,
+                    headers={'Content-Type': 'application/json'},
+                    method='POST'
+                )
+                with urllib.request.urlopen(req, timeout=5) as response:
+                    if response.status in [200, 201]:
+                        print(f"Reset OTP routed via n8n Webhook to {email_address}")
+                        return
             except Exception as web_err:
                 print("n8n Reset Webhook failed, trying SMTP fallback:", web_err)
 
