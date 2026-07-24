@@ -92,6 +92,12 @@ export const apiRegister = (username, email, password) =>
     body: JSON.stringify({ username, email, password }),
   });
 
+export const apiVerifyEmail = (email, code) =>
+  publicFetch('/auth/verify-email/', {
+    method: 'POST',
+    body: JSON.stringify({ email, code }),
+  });
+
 export const apiSendResetCode = (email) =>
   publicFetch('/auth/send-reset-code/', {
     method: 'POST',

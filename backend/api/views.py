@@ -103,19 +103,22 @@ def login_view(request):
     return response
 
 
+# In-memory email validation storage: { email: { 'code': '123456', 'username': '...', 'password': '...' } }
+EMAIL_VERIFICATION_CODES = {}
+
 @api_view(['POST'])
 @permission_classes([AllowAny])
 def register_view(request):
     """
     POST /api/auth/register/
-    Body: { "username": "...", "email": "...", "password": "..." }
+    Generates verification code, sends to Gmail, but does not activate account yet.
     """
     username = request.data.get('username')
-    email = request.data.get('email', '')
+    email = request.data.get('email', '').strip()
     password = request.data.get('password')
 
-    if not username or not password:
-        return Response({'error': 'İstifadəçi adı və şifrə tələb olunur.'}, status=status.HTTP_400_BAD_REQUEST)
+    if not username or not password or not email:
+        return Response({'error': 'İstifadəçi adı, e-poçt və şifrə tələb olunur.'}, status=status.HTTP_400_BAD_REQUEST)
 
     if len(password) < 8:
         return Response({'error': 'Şifrə ən azı 8 simvol olmalıdır.'}, status=status.HTTP_400_BAD_REQUEST)
@@ -123,12 +126,75 @@ def register_view(request):
     if User.objects.filter(username=username).exists():
         return Response({'error': 'Bu istifadəçi adı artıq götürülüb.'}, status=status.HTTP_400_BAD_REQUEST)
 
-    if email and User.objects.filter(email=email).exists():
+    if User.objects.filter(email=email).exists():
         return Response({'error': 'Bu e-poçt ünvanı artıq istifadə olunur. Başqa e-poçt daxil edin və ya daxil olun.'}, status=status.HTTP_400_BAD_REQUEST)
 
-    user = User.objects.create_user(username=username, email=email, password=password)
-    refresh = RefreshToken.for_user(user)
+    # Generate 6-digit OTP
+    import random
+    code = f"{random.randint(100004, 999999)}"
+    
+    # Temporarily cache registration data
+    EMAIL_VERIFICATION_CODES[email] = {
+        'code': code,
+        'username': username,
+        'password': password
+    }
 
+    # Send confirmation code via Gmail SMTP
+    from django.core.mail import send_mail
+    subject = "Dənizçilik İmtahanları - Qeydiyyat Təsdiq Kodu"
+    message = f"Hərvaxtınız xeyir,\n\nDənizçilik İmtahanları platformasında qeydiyyatdan keçmək üçün təsdiq kodunuz: {code}\n\nBu kodu qeydiyyat pəncərəsinə daxil edərək hesabınızı aktivləşdirin.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
+    
+    try:
+        send_mail(
+            subject, 
+            message, 
+            settings.DEFAULT_FROM_EMAIL, 
+            [email], 
+            fail_silently=False
+        )
+    except Exception as e:
+        print("Register Gmail SMTP Exception:", e)
+        return Response({'error': f'E-poçt göndərilərkən xəta baş verdi: {str(e)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+    return Response({
+        'message': f'6 rəqəmli qeydiyyat təsdiq kodu {email} ünvanına göndərildi!',
+        'email_sent': True
+    }, status=status.HTTP_200_OK)
+
+
+@api_view(['POST'])
+@permission_classes([AllowAny])
+def verify_email_view(request):
+    """
+    POST /api/auth/verify-email/
+    Body: { "email": "...", "code": "..." }
+    Creates the user account after valid code validation.
+    """
+    email = request.data.get('email', '').strip()
+    code = request.data.get('code', '').strip()
+
+    if not email or not code:
+        return Response({'error': 'E-poçt və təsdiq kodu tələb olunur.'}, status=status.HTTP_400_BAD_REQUEST)
+
+    if email not in EMAIL_VERIFICATION_CODES:
+        return Response({'error': 'Qeydiyyat sorğusu tapılmadı və ya vaxtı bitib.'}, status=status.HTTP_400_BAD_REQUEST)
+
+    saved_data = EMAIL_VERIFICATION_CODES[email]
+    if saved_data['code'] != code:
+        return Response({'error': 'Daxil etdiyiniz 6 rəqəmli təsdiq kodu yanlışdır!'}, status=status.HTTP_400_BAD_REQUEST)
+
+    # Code is valid -> create actual user in database
+    user = User.objects.create_user(
+        username=saved_data['username'], 
+        email=email, 
+        password=saved_data['password']
+    )
+    
+    # Delete temporary cache
+    del EMAIL_VERIFICATION_CODES[email]
+
+    refresh = RefreshToken.for_user(user)
     return Response({
         'access': str(refresh.access_token),
         'refresh': str(refresh),

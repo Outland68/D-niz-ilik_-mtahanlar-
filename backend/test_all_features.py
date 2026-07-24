@@ -28,7 +28,7 @@ assert res.status_code == 200
 certificates = res.json()
 print(f"✅ [2/9] GET /api/certificates/ -> Status 200 | Total Certificates: {len(certificates)}")
 
-# 3. Test Register New User & Login with Email/Username
+# 3. Test Register New User (Two-step email validation)
 test_username = "test_captain_99"
 test_email = "captain99@example.com"
 test_password = "password123"
@@ -36,8 +36,18 @@ test_password = "password123"
 User.objects.filter(username=test_username).delete()
 
 res = c1.post('/api/auth/register/', {'username': test_username, 'email': test_email, 'password': test_password}, content_type='application/json')
-assert res.status_code == 201
-print(f"✅ [3/9] POST /api/auth/register/ -> Status 201 | Registered user '{test_username}'.")
+assert res.status_code == 200
+print(f"✅ [3a/9] POST /api/auth/register/ -> Status 200 | Registered request sent, OTP code generated.")
+
+# Extract code from in-memory cache
+from api.views import EMAIL_VERIFICATION_CODES
+otp_code = EMAIL_VERIFICATION_CODES[test_email]['code']
+
+# Verify email code
+res_verify = c1.post('/api/auth/verify-email/', {'email': test_email, 'code': otp_code}, content_type='application/json')
+assert res_verify.status_code == 201
+verify_data = res_verify.json()
+print(f"✅ [3b/9] POST /api/auth/verify-email/ -> Status 201 | Email verified, User created, JWT token received.")
 
 # 4. Login Device 1
 res_dev1 = c1.post('/api/auth/login/', {'username': test_email, 'password': test_password}, content_type='application/json')
