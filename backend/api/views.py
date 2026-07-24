@@ -145,16 +145,31 @@ def register_view(request):
 def refresh_token_view(request):
     """
     POST /api/auth/refresh/
-    Body: { "refresh": "..." }
-    Returns: { "access": "..." }
+    Checks single active session key before refreshing token.
     """
-    refresh_token = request.data.get('refresh')
+    refresh_token = request.data.get('refresh') or request.COOKIES.get('refresh_token')
     if not refresh_token:
         return Response({'error': 'Refresh token tələb olunur.'}, status=status.HTTP_400_BAD_REQUEST)
 
     try:
         token = RefreshToken(refresh_token)
-        return Response({'access': str(token.access_token)})
+        user_id = token.payload.get('user_id')
+        token_session_key = token.payload.get('session_key')
+
+        if user_id and token_session_key:
+            user = User.objects.filter(id=user_id).first()
+            active_session = UserSession.objects.filter(user=user).first() if user else None
+            if active_session and active_session.session_key != token_session_key:
+                return Response(
+                    {'error': 'Bu hesaba başqa bir cihazdan daxil olundu. Sizin sessiyanız sonlandırıldı.'},
+                    status=status.HTTP_401_UNAUTHORIZED
+                )
+
+        access_token = token.access_token
+        if token_session_key:
+            access_token['session_key'] = token_session_key
+
+        return Response({'access': str(access_token)})
     except TokenError as e:
         return Response({'error': str(e)}, status=status.HTTP_401_UNAUTHORIZED)
 
