@@ -79,17 +79,10 @@ export default function SertifikatSecimi() {
               <div className="flex flex-col sm:flex-row gap-2.5 w-full lg:w-auto flex-shrink-0">
                 <button 
                   onClick={() => navigate('/qa-bank', { state: { certificateId: cert.id, certificateName: cert.name } })}
-                  className="flex-1 sm:flex-none btn btn-secondary flex items-center justify-center gap-2 px-3.5 py-2 text-xs font-semibold cursor-pointer"
+                  className="flex-1 sm:flex-none btn btn-secondary flex items-center justify-center gap-2 px-4 py-2 text.xs font-semibold cursor-pointer"
                 >
                   <Database size={15} />
                   Sual Bankı
-                </button>
-                <button 
-                  onClick={() => navigate('/test', { state: { certificateId: cert.id, certificateName: cert.name } })}
-                  className="flex-1 sm:flex-none btn bg-white/10 hover:bg-white/20 text-white flex items-center justify-center gap-2 px-3.5 py-2 text-xs font-semibold cursor-pointer"
-                >
-                  <Play size={15} />
-                  Təcrübə Testi
                 </button>
                 <button 
                   onClick={() => {
@@ -97,7 +90,7 @@ export default function SertifikatSecimi() {
                     setExamMode('classic');
                     setCustomCount(Math.min(20, cert.question_count || 20));
                   }}
-                  className="flex-1 sm:flex-none btn btn-primary flex items-center justify-center gap-2 px-4 py-2 text-xs font-bold whitespace-nowrap shadow-lg shadow-primary/20 cursor-pointer"
+                  className="flex-1 sm:flex-none btn btn-primary flex items-center justify-center gap-2 px-5 py-2 text-xs font-bold whitespace-nowrap shadow-lg shadow-primary/20 cursor-pointer"
                 >
                   <Timer size={16} />
                   İmtahana Başla (30 dəq)
