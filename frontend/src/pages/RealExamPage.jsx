@@ -163,83 +163,83 @@ export default function RealExamPage() {
       .filter(item => item.ans && !item.ans.isCorrect);
 
     return (
-      <div className="w-full glass-card p-8 animate-[fadeIn_0.3s_ease-out]">
+      <div className="w-full glass-card p-4 sm:p-8 animate-[fadeIn_0.3s_ease-out]">
         {/* Pass / Fail Banner */}
-        <div className={`p-6 rounded-2xl mb-8 border text-center flex flex-col items-center justify-center gap-3 ${
+        <div className={`p-4 sm:p-6 rounded-2xl mb-6 border text-center flex flex-col items-center justify-center gap-3 ${
           isPassed 
             ? 'bg-emerald-500/20 border-emerald-500/40 text-emerald-300' 
             : 'bg-red-500/20 border-red-500/40 text-red-300'
         }`}>
-          <div className={`w-16 h-16 rounded-full flex items-center justify-center text-3xl font-extrabold shadow-lg ${
+          <div className={`w-12 h-12 sm:w-16 sm:h-16 rounded-full flex items-center justify-center text-2xl sm:text-3xl font-extrabold shadow-lg ${
             isPassed ? 'bg-emerald-500 text-black' : 'bg-red-500 text-white'
           }`}>
             {isPassed ? '✓' : '✕'}
           </div>
           <div>
-            <h2 className="text-2xl md:text-3xl font-black uppercase tracking-wider">
+            <h2 className="text-xl sm:text-2xl md:text-3xl font-black uppercase tracking-wider leading-tight">
               {isPassed ? 'TƏBRİKLƏR! İMTAHANDAN KEÇDİNİZ 🎉' : 'İMTAHANDAN KƏSİLDİNİZ! ❌'}
             </h2>
-            <p className="text-sm opacity-80 mt-1">
+            <p className="text-xs sm:text-sm opacity-80 mt-1">
               {isClassic 
                 ? `Klassik DDLA Standartı: 20 sualdan ən azı 14-nü düzgün yazmalısınız. Siz ${correct} düzgün yazdınız.` 
                 : `Ümumi Nəticə: ${percentage}% (Tələb olunan keçid balı: 70%)`
               }
             </p>
             {timeExpired && (
-              <p className="text-xs text-yellow-400 font-bold mt-2">⏱️ 30 dəqiqəlik imtahan vaxtınız başa çatdığı üçün nəticələr avtomatik hesablandı.</p>
+              <p className="text-xs text-yellow-400 font-bold mt-2">⏱️ 30 dəqiqəlik imtahan vaxtınız başa çatdı.</p>
             )}
           </div>
         </div>
 
-        {/* Overview Stats */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-          <div className="glass p-5 rounded-2xl border border-white/10 text-center">
-            <p className="text-sm text-white/60 mb-1">Ümumi Düzgün Faizi</p>
-            <p className="text-4xl font-extrabold text-primary">{percentage}%</p>
+        {/* Overview Stats (2x2 on mobile, 4x1 on desktop) */}
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 mb-6">
+          <div className="glass p-3.5 sm:p-5 rounded-2xl border border-white/10 text-center">
+            <p className="text-xs sm:text-sm text-white/60 mb-1">Düzgün Faizi</p>
+            <p className="text-2xl sm:text-4xl font-extrabold text-primary">{percentage}%</p>
           </div>
-          <div className="glass p-5 rounded-2xl border border-green-500/20 bg-green-500/5 text-center">
-            <p className="text-sm text-green-400 mb-1">Düzgün Cavablar</p>
-            <p className="text-4xl font-extrabold text-green-400">{correct} / {total}</p>
+          <div className="glass p-3.5 sm:p-5 rounded-2xl border border-green-500/20 bg-green-500/5 text-center">
+            <p className="text-xs sm:text-sm text-green-400 mb-1">Düzgün Cavab</p>
+            <p className="text-2xl sm:text-4xl font-extrabold text-green-400">{correct} / {total}</p>
           </div>
-          <div className="glass p-5 rounded-2xl border border-red-500/20 bg-red-500/5 text-center">
-            <p className="text-sm text-red-400 mb-1">Səhv Cavablar</p>
-            <p className="text-4xl font-extrabold text-red-400">{wrong}</p>
+          <div className="glass p-3.5 sm:p-5 rounded-2xl border border-red-500/20 bg-red-500/5 text-center">
+            <p className="text-xs sm:text-sm text-red-400 mb-1">Səhv Cavab</p>
+            <p className="text-2xl sm:text-4xl font-extrabold text-red-400">{wrong}</p>
           </div>
-          <div className="glass p-5 rounded-2xl border border-yellow-500/20 bg-yellow-500/5 text-center">
-            <p className="text-sm text-yellow-400 mb-1">Cavablandırılmayan</p>
-            <p className="text-4xl font-extrabold text-yellow-400">{unanswered}</p>
+          <div className="glass p-3.5 sm:p-5 rounded-2xl border border-yellow-500/20 bg-yellow-500/5 text-center">
+            <p className="text-xs sm:text-sm text-yellow-400 mb-1">Boş Buraxılan</p>
+            <p className="text-2xl sm:text-4xl font-extrabold text-yellow-400">{unanswered}</p>
           </div>
         </div>
 
-        {/* Action Buttons */}
-        <div className="flex flex-wrap gap-4 mb-8">
+        {/* Action Buttons (Stacked on Mobile) */}
+        <div className="flex flex-col sm:flex-row flex-wrap gap-3 mb-8">
           {wrong > 0 && (
             <button 
               onClick={() => setShowWrongOnlyModal(!showWrongOnlyModal)}
-              className="btn bg-red-500/20 hover:bg-red-500/30 text-red-300 border border-red-500/30 flex items-center gap-2"
+              className="btn bg-red-500/20 hover:bg-red-500/30 text-red-300 border border-red-500/30 flex items-center justify-center gap-2 py-3 sm:py-2.5 text-xs sm:text-sm font-semibold cursor-pointer w-full sm:w-auto"
             >
-              <AlertTriangle size={18} />
+              <AlertTriangle size={16} />
               {showWrongOnlyModal ? 'Bütün Suallara Bax' : `Səhv Cavabları Göstər (${wrong})`}
             </button>
           )}
           <button 
             onClick={() => window.location.reload()} 
-            className="btn btn-primary flex items-center gap-2"
+            className="btn btn-primary flex items-center justify-center gap-2 py-3 sm:py-2.5 text-xs sm:text-sm font-bold cursor-pointer w-full sm:w-auto"
           >
-            <RotateCcw size={18} />
+            <RotateCcw size={16} />
             İmtahanı Yenidən Başla
           </button>
           <button 
             onClick={() => navigate(-1)} 
-            className="btn btn-secondary text-sm flex items-center gap-2"
+            className="btn btn-secondary flex items-center justify-center gap-2 py-3 sm:py-2.5 text-xs sm:text-sm font-semibold cursor-pointer w-full sm:w-auto"
           >
             Sertifikatlara Qayıt
           </button>
         </div>
 
         {/* Detailed Question Review */}
-        <div className="space-y-6">
-          <h2 className="text-xl font-bold border-b border-white/10 pb-3">
+        <div className="space-y-4 sm:space-y-6">
+          <h2 className="text-lg sm:text-xl font-bold border-b border-white/10 pb-3">
             {showWrongOnlyModal ? 'Yalnız Səhv Cavablandırılan Suallar' : 'Bütün Sualların İcmalı'}
           </h2>
 
@@ -251,7 +251,7 @@ export default function RealExamPage() {
             return (
               <div 
                 key={idx} 
-                className={`glass p-6 rounded-2xl border ${
+                className={`glass p-4 sm:p-6 rounded-2xl border ${
                   !isAnswered 
                     ? 'border-white/10' 
                     : isCorrect 
@@ -259,34 +259,40 @@ export default function RealExamPage() {
                     : 'border-red-500/30 bg-red-500/5'
                 }`}
               >
-                <div className="flex items-start justify-between gap-4 mb-4">
-                  <h3 className="font-semibold text-lg">
+                <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 mb-3">
+                  <h3 className="font-semibold text-base sm:text-lg leading-snug">
                     <span className="text-primary mr-2">Sual {idx + 1}:</span> {q.question}
                   </h3>
                   {isAnswered ? (
                     isCorrect ? (
-                      <span className="flex items-center gap-1 text-sm bg-green-500/20 text-green-400 px-3 py-1 rounded-full flex-shrink-0 font-medium">
-                        <Check size={16} /> Düzgün
+                      <span className="flex items-center gap-1 text-xs bg-green-500/20 text-green-400 px-2.5 py-1 rounded-full flex-shrink-0 font-bold self-start sm:self-auto">
+                        <Check size={14} /> Düzgün
                       </span>
                     ) : (
-                      <span className="flex items-center gap-1 text-sm bg-red-500/20 text-red-400 px-3 py-1 rounded-full flex-shrink-0 font-medium">
-                        <X size={16} /> Səhv
+                      <span className="flex items-center gap-1 text-xs bg-red-500/20 text-red-400 px-2.5 py-1 rounded-full flex-shrink-0 font-bold self-start sm:self-auto">
+                        <X size={14} /> Səhv
                       </span>
                     )
                   ) : (
-                    <span className="text-sm bg-yellow-500/20 text-yellow-400 px-3 py-1 rounded-full flex-shrink-0 font-medium">
+                    <span className="text-xs bg-yellow-500/20 text-yellow-400 px-2.5 py-1 rounded-full flex-shrink-0 font-bold self-start sm:self-auto">
                       Cavablandırılmadı
                     </span>
                   )}
                 </div>
 
-                <div className="grid grid-cols-1 gap-2 mb-3">
+                {q.image_url && (
+                  <div className="mb-4 max-w-sm mx-auto rounded-xl overflow-hidden border border-white/20 bg-black/40 p-2 text-center">
+                    <img src={getImageUrl(q.image_url)} alt="Sual şəkli" className="max-h-48 mx-auto rounded object-contain" />
+                  </div>
+                )}
+
+                <div className="grid grid-cols-1 gap-2 mb-2">
                   {optionKeys.map(key => {
                     const optText = q.options[key];
                     const isUserSelected = ans?.selected === key;
                     const isCorrectOpt = q.correct_answer === key;
 
-                    let optStyle = "p-3 rounded-xl text-sm border ";
+                    let optStyle = "p-3 rounded-xl text-xs sm:text-sm border flex flex-col sm:flex-row sm:items-center justify-between gap-1 ";
                     if (isCorrectOpt) {
                       optStyle += "border-green-500 bg-green-500/20 text-green-300 font-semibold";
                     } else if (isUserSelected && !isCorrectOpt) {
@@ -297,9 +303,11 @@ export default function RealExamPage() {
 
                     return (
                       <div key={key} className={optStyle}>
-                        <strong>{key})</strong> {optText}
-                        {isCorrectOpt && <span className="ml-2 text-xs bg-green-500 text-black px-2 py-0.5 rounded font-bold">Düzgün Variant</span>}
-                        {isUserSelected && !isCorrectOpt && <span className="ml-2 text-xs bg-red-500 text-white px-2 py-0.5 rounded font-bold">Sizin Seçiminiz</span>}
+                        <span><strong>{key})</strong> {optText}</span>
+                        <div className="flex gap-1">
+                          {isCorrectOpt && <span className="text-[10px] sm:text-xs bg-green-500 text-black px-2 py-0.5 rounded font-bold w-max">Düzgün Variant</span>}
+                          {isUserSelected && !isCorrectOpt && <span className="text-[10px] sm:text-xs bg-red-500 text-white px-2 py-0.5 rounded font-bold w-max">Sizin Seçiminiz</span>}
+                        </div>
                       </div>
                     );
                   })}
