@@ -61,6 +61,11 @@ export default function SoruCevapBankasi() {
                   <div className="font-bold text-primary text-xl opacity-50">{(index + 1).toString().padStart(2, '0')}</div>
                   <div className="flex-1">
                     <h3 className="text-lg font-medium mb-3">{qa.question}</h3>
+                    {qa.image_url && (
+                      <div className="mb-4 max-w-sm rounded-lg overflow-hidden border border-white/10 bg-black/30 p-2">
+                        <img src={qa.image_url} alt="Sual şəkli" className="max-h-52 rounded object-contain" />
+                      </div>
+                    )}
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-2 mb-3">
                       {Object.entries(qa.options).map(([key, value]) => (
                          <div key={key} className="text-sm text-white/70 bg-white/5 p-2 rounded border border-white/5">

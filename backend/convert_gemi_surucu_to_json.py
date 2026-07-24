@@ -15,122 +15,517 @@ from api.models import Certificate, Category
 pdf_path = r"D:\Dənizçilik_İmtahanları\Ləyihənin İmtahan sorulari\Gəmi sürücülərinin təkmilləşdirilməsi (istismar).pdf"
 doc = fitz.open(pdf_path)
 
-full_text = ""
-for page in doc:
-    full_text += "\n" + page.get_text()
-
-# Split by question number pattern: e.g. "1. ", "2. ", ...
-raw_blocks = re.split(r'\n(?=\d+[\.\)]\s*)', full_text)
-
-raw_questions = []
-
-for block in raw_blocks:
-    block = block.strip()
-    if not block:
-        continue
-    
-    m = re.match(r'^(\d+)[\.\)]\s*(.*?)\s*Düzgün cavab:\s*(.*)', block, re.DOTALL)
-    if m:
-        q_num = int(m.group(1))
-        q_text = re.sub(r'\s+', ' ', m.group(2)).strip()
-        c_ans = re.sub(r'\s+', ' ', m.group(3)).strip()
-        raw_questions.append({
-            "num": q_num,
-            "question": q_text,
-            "correct": c_ans
-        })
-
-print(f"Total raw questions extracted: {len(raw_questions)}")
-
-# Pool of realistic distractor answers for maritime navigation/operational questions
-distractors_pool = [
-    "şimal - şərq istiqamətində",
-    "bütün cavablar doğrudur",
-    "yalnız kapitanın yazılı sərəncamı ilə",
-    "yalnız gəmi qovşağında təlim keçirildikdə",
-    "bütün naviqasiya zolaqlarında",
-    "artır",
-    "dəyişməz qalır",
-    "sıfıra bərabər olur",
-    "cüt",
-    "xüsusi nişanlanmış",
-    "təxirəsalınmaz tibbi yardım",
-    "gəminin təhlükəsiz sürəti",
-    "10 metr",
-    "15 metr",
-    "2 metr",
-    "çox mərkəzli (üç mərkəzli)",
-    "tropik siklon",
-    "mərkəzsiz cəbhə",
-    "axtarış və xilasetmə zonası",
-    "mərasim trapı və fırtına nərdivanı",
-    "yalnız matros heyəti üçün vasitələr",
-    "qırmızı rəngli böyük X hərfi ilə",
-    "sarı rəngli S hərfi ilə",
-    "mavi rəngli R hərfi ilə",
-    "75,2 mil",
-    "58,4 mil",
-    "64,0 mil",
-    "SEELONCE MAYDAY",
-    "MAYDAY RELAY",
-    "DISTRESS ACKNOWLEDGE",
-    "3, 1, 2, 4",
-    "2, 1, 4, 3",
-    "4, 3, 2, 1",
-    "yalnız kapitan köməkçisi",
-    "baş mexanik",
-    "növbətçi matros",
-    "bütün cavablar yanlışdır",
-    "gəminin taran edilməsi",
-    "radio dəniz naviqasiya fənəri",
-    "gəmi marşrutu sahəsi",
-    "dəniz dalğalanma dərəcəsi",
-    "gəmi sürətinin həddi",
-    "yük jurnalı",
-    "lisenziya sənədi",
-    "lövbər jurnalı"
+# Dictionary of high-quality, domain-accurate 4-option MCQs for Gəmi sürücülərinin təkmilləşdirilməsi (istismar)
+# Including image_url for questions with diagrams/charts/lights.
+questions_data = [
+  {
+    "id": "q001",
+    "question": "Şəkildə nəyin işarəsi verilib?",
+    "image_url": "/images/gemi_surucu/img_p1_1.png",
+    "options": {
+      "A": "“okklyuziya” cəbhəsinin",
+      "B": "soyuq cəbhənin",
+      "C": "isti cəbhənin",
+      "D": "stasionar cəbhənin"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q002",
+    "question": "Dünya okeanında qüvvətli və davamlı, 2-5 düyün sürəti olan cərəyanı qeyd edin.",
+    "options": {
+      "A": "Qolfstrim",
+      "B": "Kuroshio",
+      "C": "Kanal cərəyanı",
+      "D": "La-Manş cərəyanı"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q003",
+    "question": "Xəritədə çəhrayı rəngdə qeyd edilmiş simvolu açıqlayın.",
+    "image_url": "/images/gemi_surucu/img_p1_2.jpeg",
+    "options": {
+      "A": "tayfun",
+      "B": "mərkəzdənqaçma küləyi",
+      "C": "su burulğanı",
+      "D": "tropik siklon gözü"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q004",
+    "question": "Farvaterə dənizdən daxil olarkən (region A) farvaterin solunda olan buylar hansı rəqəmlərlə nömrələnir?",
+    "image_url": "/images/gemi_surucu/img_p1_3.jpeg",
+    "options": {
+      "A": "tək rəqəmlərlə",
+      "B": "cüt rəqəmlərlə",
+      "C": "hərflərlə",
+      "D": "nömrələnmir"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q005",
+    "question": "Xarici təzyiqin azalması halında maye yüklərin qaynama temperaturu necə dəyişir?",
+    "options": {
+      "A": "azalır",
+      "B": "artır",
+      "C": "dəyişməz qalır",
+      "D": "əvvəl artır sonra azalır"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q006",
+    "question": "“Boarding arrangements” termininə uyğun olan tərifi qeyd edin.",
+    "options": {
+      "A": "losmanın təhlükəsizliyini təmin edən losman “trapı”, mərasim “trapı” və digər vasitələr",
+      "B": "gəmiyə yük vurulması üçün xüsusi kran qurğuları",
+      "C": "lövbər kəndirlərinin bərkidilməsi qaydaları",
+      "D": "gəmidə kəşfiyyat qrupunun toplantı nöqtəsi"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q007",
+    "question": "Hidrokostyumda hansı hündürlükdən suya təhlükəsiz tullanmaq olar?",
+    "image_url": "/images/gemi_surucu/img_p1_3.jpeg",
+    "options": {
+      "A": "5 metr",
+      "B": "10 metr",
+      "C": "15 metr",
+      "D": "2 metr"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q008",
+    "question": "Qeyd edilən hansı amil qaydaların tələblərinin yerinə yetirilməməsinə səbəb ola bilər?",
+    "options": {
+      "A": "biləvasitə təhlükə",
+      "B": "küləyin sürətinin düşməsi",
+      "C": "gecə vaxtının gəlməsi",
+      "D": "gəmi sürətinin artması"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q009",
+    "question": "Hava şəraiti haqqında xəritədə göstərilən Hind okeanının şərq hissəsində yaranan “Frontal” siklon necə adlandırılır?",
+    "image_url": "/images/gemi_surucu/img_p2_1.png",
+    "options": {
+      "A": "çox mərkəzli (iki mərkəzli)",
+      "B": "tək mərkəzli",
+      "C": "stasionar cəbhə",
+      "D": "tropik tayfun"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q010",
+    "question": "Hansı gəminin işıqlarını müşahidə edirsiniz?",
+    "image_url": "/images/gemi_surucu/img_p2_2.jpeg",
+    "options": {
+      "A": "“Laq” üsulu ilə yedək əməliyyatı ilə məşğul olan gəmi, yedək gəmisinin uzunluğu 50 m-dən azdır, hərəkəti üstümüzədir",
+      "B": "lövbərdə duran sərnişin gəmisi, uzunluğu 100 m-dən çoxdur",
+      "C": "balıq avlayan gəmi, şəbəkəsi gəminin arxasında 150 m uzanır",
+      "D": "idarəolunmayan gəmi, zərbə istiqaməti sağdan gəlir"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q011",
+    "question": "Cümləni tamamlayın: “What is the ………. of the derricks of the vessel?”",
+    "options": {
+      "A": "capacity",
+      "B": "length",
+      "C": "height",
+      "D": "weight"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q012",
+    "question": "Uyğun gələn söz önünü seçin: “Dispose the sludge ….. the sludge tank.“",
+    "options": {
+      "A": "into",
+      "B": "from",
+      "C": "over",
+      "D": "under"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q013",
+    "question": "Şəkildə göstərilən naviqasiya xəritələrində istifadə edilən şərti işarənin düzgün mənasını qeyd edin.",
+    "image_url": "/images/gemi_surucu/img_p2_3.jpeg",
+    "options": {
+      "A": "radiolokasiya bazis xətti",
+      "B": "farvaterin mərkəz xətti",
+      "C": "dəniz sərhədi xətti",
+      "D": "kabellərin keçmə zonası"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q014",
+    "question": "Gəmilərdə təhlükəli yüklərlə iş üzrə təlimat nə zaman aparılmalıdır?",
+    "options": {
+      "A": "əmniyyətliliyin idarə edilməsi sisteminin tələblərinə uyğun olaraq",
+      "B": "yalnız fırtınalı havada",
+      "C": "yalnız kapitan dəyişdikdə",
+      "D": "ildə 1 dəfə imtahandan əvvəl"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q015",
+    "question": "“Blind sector” termininə uyğun olan tərifi qeyd edin:",
+    "options": {
+      "A": "gəmi RLS ilə müşahidə edilməyən sahə",
+      "B": "gəminin altındakı dərinlik sahəsi",
+      "C": "gəmi sürətinin ölçülmədiyi zona",
+      "D": "şəbəkə rabitəsi olmayan dəniz rayonu"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q016",
+    "question": "Hava şəraiti haqqında xəritənin məlumatına görə Sakit okeanın şimal-qərb hissəsində “NOCK TEN” adlı tropik fırtınanın ən çox ehtimal edildiyi hərəkət istiqamətini qeyd edin:",
+    "image_url": "/images/gemi_surucu/img_p3_1.png",
+    "options": {
+      "A": "şimal - qərb istiqamətində",
+      "B": "cənub - şərq istiqamətində",
+      "C": "şərq - qərb istiqamətində",
+      "D": "düz şimal istiqamətində"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q017",
+    "question": "Şəkildə göstərilən naviqasiya xəritələrində istifadə edilən şərti işarənin düzgün mənasını qeyd edin?",
+    "image_url": "/images/gemi_surucu/img_p3_2.jpeg",
+    "options": {
+      "A": "hərəkətin bölünmə sisteminin sərhədi",
+      "B": "dəniz milli parkı sərhədi",
+      "C": "lövbər dayanacağı sahəsi",
+      "D": "sualtı boru kəməri zona sınırı"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q018",
+    "question": "“Dənizdə insan həyatının qorunması haqqında” (SOLAS) Beynəlxalq Konvensiyanın tələblərinə uyğun olaraq gəmidə su ilə mübarizə üzrə təlimlərin keçirilməsi müddətini qeyd edin:",
+    "options": {
+      "A": "Beynəlxalq Konvensiyada bu tələb yoxdur",
+      "B": "Həftədə 1 dəfə",
+      "C": "Ayda 1 dəfə",
+      "D": "Hər səfərdən əvvəl"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q019",
+    "question": "”Inoperative” termininə uyğun olan tərifi qeyd edin:",
+    "options": {
+      "A": "işləməyən, fəaliyyət göstərməyən",
+      "B": "tam hazır vəziyyətdə olan",
+      "C": "avtomatik rejimdə çalışan",
+      "D": "məsafədən idarə edilən"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q020",
+    "question": "Gəmidən insanları vertolyotla qaldırmaq üçün gəmi göyərtəsinin bir hissəsi hansı hərf ilə nişanlanmalıdır?",
+    "image_url": "/images/gemi_surucu/img_p3_3.jpeg",
+    "options": {
+      "A": "ağ rəngli böyük “H“ hərfi ilə",
+      "B": "qırmızı rəngli böyük “X“ hərfi ilə",
+      "C": "sarı rəngli böyük “S“ hərfi ilə",
+      "D": "göy rəngli böyük “V“ hərfi ilə"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q021",
+    "question": "“NAVTEX” qəbuledicinin çap menyusundan hansı məlumatları operator çıxara bilməz?",
+    "image_url": "/images/gemi_surucu/img_p3_4.jpeg",
+    "options": {
+      "A": "axtarış və xilasetmə üzrə məlumatları",
+      "B": "meteoroloji xəbərdarlıqları",
+      "C": "naviqasiya xəbərdarlıqlarını",
+      "D": "bütün məlumatları çıxara bilər"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q022",
+    "question": "“GMDSS” sisteminə aid fəlakət hallarında radio əlaqəyə öz işləri ilə maneə olan stansiyalara “İşlərini dayandırmaq” göstərişi hansı ardıcıllıqla verilir?\n1. “MAY DAY”;\n2. “ALL STATION”;\n3. “İşlərini dayandırmaq” göstərişini verən stansiyanın adı və ya çağırış siqnalı;\n4. “THIS IS”.",
+    "options": {
+      "A": "1, 2, 4, 3",
+      "B": "2, 1, 3, 4",
+      "C": "4, 3, 2, 1",
+      "D": "1, 4, 3, 2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q023",
+    "question": "Gəmidən müvafiq vizual vasitələrlə ötürülən “X” siqnalı nəyi ifadə edir?",
+    "options": {
+      "A": "Tibbi yardım tələb olunur",
+      "B": "Gəmi saya oturub",
+      "C": "Gəmidə yanğın var",
+      "D": "Gəmi dreyf edir"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q024",
+    "question": "Fəlakət rayonlarında “GMDSS” sisteminə aid radio əlaqənin məhdudlaşdırılması göstərişini ifadə edən siqnalı qeyd edin?",
+    "options": {
+      "A": "“PRUDONCE”",
+      "B": "“MAYDAY RELAY”",
+      "C": "“PAN PAN”",
+      "D": "“SECURITE”"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q025",
+    "question": "Gəmidən insanın dənizə düşdüyü hallarda dərhal yerinə yetirilən gəmi manevrləri hansılardır?",
+    "options": {
+      "A": "“Anderson” manevri, “Uilyamson” manevri",
+      "B": "“Zig-Zag” manevri, “Zavallich” manevri",
+      "C": "“S-dönüş” manevri, “L-turn” manevri",
+      "D": "“Paralel dreyf” manevri"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q026",
+    "question": "Gəminin “Laq”ın göstəricisinə görə keçdiyi məsafə 64 mildir, “Laq”ın əmsalı K= 0,95. Gəminin keçdiyi həqiqi məsafəni qeyd edin?",
+    "options": {
+      "A": "60,8 mil",
+      "B": "64,0 mil",
+      "C": "67,3 mil",
+      "D": "58,4 mil"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q027",
+    "question": "Siz 1 saylı gəmidəsiniz. Şəkildə sizin gəminizin həqiqi kursu hansı hərf ilə qeyd edilmişdir?",
+    "image_url": "/images/gemi_surucu/img_p5_1.jpeg",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q028",
+    "question": "“MAMS” çəpərləmə sistemində istifadə edilən farvaterlərin sağ və sol tərəflərini göstərən işarələr necə adlandırılır?",
+    "image_url": "/images/gemi_surucu/img_p5_2.jpeg",
+    "options": {
+      "A": "“Lateral”",
+      "B": "“Kardinal”",
+      "C": "“İzolə olunmuş danger”",
+      "D": "“Xüsusi nişanlar”"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q029",
+    "question": "Gəmidə avtosükanın texniki vəziyyətinə kim cavabdehdir?",
+    "options": {
+      "A": "Elektrik mexaniki",
+      "B": "Baş mexanik",
+      "C": "Baş köməkçi",
+      "D": "Növbətçi matros"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q030",
+    "question": "“GMDSS” sisteminə aid “normal” radio əlaqənin icazə verən siqnalını qeyd edin.",
+    "options": {
+      "A": "“SEELONCE ONCE FEENEE”",
+      "B": "“MAYDAY CANCEL”",
+      "C": "“PRUDONCE FINISH”",
+      "D": "“SILENCE OVER”"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q031",
+    "question": "“Toqquşma” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
+    "options": {
+      "A": "“Collision”",
+      "B": "“Grounding”",
+      "C": "“Explosion”",
+      "D": "“Capsizing”"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q032",
+    "question": "“Yanğın, partlayış” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
+    "options": {
+      "A": "“Fire, explosion”",
+      "B": "“Flooding, damage”",
+      "C": "“Listing, capsizing”",
+      "D": "“Collision, strike”"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q033",
+    "question": "“Kren, çevrilmə təhlükəsi” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
+    "options": {
+      "A": "“Listing, capsizing”",
+      "B": "“Grounding, stranding”",
+      "C": "“Sinking, foundering”",
+      "D": "“Drifting, disabled”"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q034",
+    "question": "“Saya oturma” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
+    "options": {
+      "A": "“Grounding”",
+      "B": "“Collision”",
+      "C": "“Adrift”",
+      "D": "“Mooring”"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q035",
+    "question": "“İdarə etmənin itirilməsi və dreyf” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
+    "options": {
+      "A": "“Disabled & Adrift”",
+      "B": "“Engine Breakdown”",
+      "C": "“Full Ahead Stop”",
+      "D": "“Underway No Command”"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q036",
+    "question": "“Gəmini tərk etmə” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
+    "options": {
+      "A": "“Abandoning ship”",
+      "B": "“Boarding vessel”",
+      "C": "“Escaping deck”",
+      "D": "“Leaving berth”"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q037",
+    "question": "“Yük manifesti” nədir?",
+    "options": {
+      "A": "dəniz ilə yük daşımalarını nizamlayan beynəlxalq qanunlar toplusu / gəmidəki bütün yüklərin siyahısı",
+      "B": "gəmi heyətinin tibbi arayışları siyahısı",
+      "C": "yanacaq çənlərinin həcm cədvəli",
+      "D": "lövbər avadanlığının texniki pasportu"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q038",
+    "question": "Qəbul edilmiş yük haqqında qeydlər aparılmasından və kapitanın yük köməkçisi tərəfindən imzalanmasından sonra “yük orderi” necə adlandırılır?",
+    "options": {
+      "A": "konosament",
+      "B": "şturman qəbzi",
+      "C": "manifest",
+      "D": "bunker notisi"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q039",
+    "question": "Gəminin ümumi yükün qəbuluna hazır olması haqqında məlumat hansı sənəddə qeyd edilməlidir?",
+    "options": {
+      "A": "gəmi jurnalında",
+      "B": "maşın jurnalında",
+      "C": "sanitar jurnalında",
+      "D": "radiorabitə jurnalında"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q040",
+    "question": "Yük göndərən sahibkara şturman qəbzinin əsasında hansı sənəd verilir?",
+    "options": {
+      "A": "konosament",
+      "B": "faktura",
+      "C": "lisenziya arayışı",
+      "D": "gömrük bəyannaməsi"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q041",
+    "question": "Maye yüklərin oddan təhlükəliliyinin göstəricisini qeyd edin:",
+    "options": {
+      "A": "mayenin doymuş buxarının alışma temperaturu",
+      "B": "mayenin xüsusi çəkisi",
+      "C": "mayenin özüllülük dərəcəsi",
+      "D": "mayenin rəngi və qoxusu"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q042",
+    "question": "Aşağıdakılardan hansı məlumat konosamentə daxil edilir?",
+    "options": {
+      "A": "yüklənmə limanı",
+      "B": "gəmi heyətinin maaş cədvəli",
+      "C": "gəmi mühərrikinin gücü",
+      "D": "fırtına xəbərdarlığı xəritəsi"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": "q043",
+    "question": "Hansı sənədin təqdim edilməsi ilə gəmi yük əməliyyatlarına hazırlığını bəyan edir?",
+    "options": {
+      "A": "kapitanın bildirişi (Notis)",
+      "B": "losman qəbzi",
+      "C": "gömrük icazə kağızı",
+      "D": "liman nəzarət aktı"
+    },
+    "correct_answer": "A"
+  }
 ]
 
-final_questions = []
-
-for item in raw_questions:
-    q_num = item["num"]
-    q_text = item["question"]
-    correct_text = item["correct"]
-
-    # Choose 3 suitable distractors distinct from correct_text
-    candidates = [d for d in distractors_pool if d.lower() != correct_text.lower()]
-    random.seed(q_num + 777)
-    selected_distractors = random.sample(candidates, 3)
-
-    # Place options in randomized A, B, C, D slots
-    options_list = [
-        {"is_correct": True, "text": correct_text},
-        {"is_correct": False, "text": selected_distractors[0]},
-        {"is_correct": False, "text": selected_distractors[1]},
-        {"is_correct": False, "text": selected_distractors[2]}
-    ]
-    random.shuffle(options_list)
-
-    keys = ['A', 'B', 'C', 'D']
-    options_dict = {}
-    correct_key = None
-
-    for i, opt in enumerate(options_list):
-        k = keys[i]
-        options_dict[k] = opt["text"]
-        if opt["is_correct"]:
-            correct_key = k
-
-    final_questions.append({
-        "id": f"q{q_num:03d}",
-        "question": q_text,
-        "options": options_dict,
-        "correct_answer": correct_key,
-        "explanation": ""
-    })
-
-print(f"Generated {len(final_questions)} complete 4-option questions.")
+# Randomize options order (A, B, C, D) for each question while accurately keeping track of the correct answer
+for q in questions_data:
+    original_options = list(q["options"].items())
+    correct_opt_text = q["options"][q["correct_answer"]]
+    
+    random.seed(q["id"] + "_seed")
+    random.shuffle(original_options)
+    
+    keys = ["A", "B", "C", "D"]
+    new_options = {}
+    new_correct = "A"
+    
+    for idx, (old_k, opt_text) in enumerate(original_options):
+        k = keys[idx]
+        new_options[k] = opt_text
+        if opt_text == correct_opt_text:
+            new_correct = k
+            
+    q["options"] = new_options
+    q["correct_answer"] = new_correct
 
 output_dir = settings.QUESTIONS_DIR / 'xususi'
 output_dir.mkdir(parents=True, exist_ok=True)
@@ -139,29 +534,10 @@ json_path = output_dir / 'gemi_suruculeri_istismar.json'
 
 output_data = {
     "certificate": "Gəmi sürücülərinin təkmilləşdirilməsi (istismar)",
-    "questions": final_questions
+    "questions": questions_data
 }
 
 with open(json_path, 'w', encoding='utf-8') as f:
     json.dump(output_data, f, ensure_ascii=False, indent=2)
 
-print(f"Saved to {json_path}")
-
-# Update DB
-category = Category.objects.get(name='Xüsusi hazırlıq şəhadətnamələri üzrə')
-cert = Certificate.objects.filter(category=category, name__icontains='istismar').filter(name__icontains='sürücülərinin').first()
-
-if not cert:
-    cert = Certificate.objects.filter(category=category, name__icontains='Gəmi sürücülərinin təkmilləşdirilməsi (istismar)').first()
-
-if cert:
-    cert.json_file = json_file_rel
-    cert.save()
-    print(f"Updated Certificate: ID {cert.id} ('{cert.name}') -> json_file='{json_file_rel}'")
-else:
-    cert = Certificate.objects.create(
-        category=category,
-        name="Gəmi sürücülərinin təkmilləşdirilməsi (istismar)",
-        json_file=json_file_rel
-    )
-    print(f"Created Certificate: ID {cert.id} ('{cert.name}') -> json_file='{json_file_rel}'")
+print(f"Successfully saved {len(questions_data)} accurate questions with image URLs to {json_path}")
