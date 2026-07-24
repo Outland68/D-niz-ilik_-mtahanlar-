@@ -27,7 +27,7 @@ print("Categories seeded.")
 special_certs = {
     "Safety familiarization basic training and instruction for all seafarers": "xususi/safety_familiarization_en.json",
     "Gəmi sürücülərinin təkmilləşdirilməsi (istismar)": "xususi/gemi_suruculeri_istismar.json",
-    "Gəmi elektrik mexaniklərinin təkmilləşdirilməsi": None,
+    "Gəmi elektrik mexaniklərinin təkmilləşdirilməsi": "xususi/gemi_elektrik_mexanikleri.json",
     "Gəmi mexaniklərinin təkmilləşdirilməsi (idarəetmə)": None,
     "Gəmi sürücülərinin təkmilləşdirilməsi (idarəetmə)": None,
     "Gəmi mexaniklərinin təkmilləşdirilməsi (istismar səviyyəsində)": None,

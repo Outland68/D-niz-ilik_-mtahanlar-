@@ -1,0 +1,224 @@
+
+--- PAGE 1 ---
+Gəmi elektrik mexaniklərinin təkmilləşdirilməsi 
+ 
+1. Gəminin elektrik sxemlərində və elektrik avadanlıqlarında həyata 
+keçirilmiş dəyişikliklər haqqında məlumatlar harada öz əksini tapmalıdır? 
+Düzgün cavab: Gəminin texniki sənədlərində 
+ 
+2. Cərəyanla qurutma, izolyasiyasının müqavimətinin neçə Mom olan 
+elektrik maşınlarında həyata keçirilməsinə icazə verilir? 
+Düzgün cavab: 0.1 Mom-dan az olmayan elektrik maşınlarında 
+ 
+3. Akkumulyator batareyalarında keçirilən texniki baxışların mütəmadilik, 
+dövrilik müddətini qeyd edin? 
+Düzgün cavab: Hər ayda bir dəfədən az olmayan müddət ərzində 
+ 
+4.Tullantılara nəzarət olunmayan rayonlarda tərkibində kükürdün faiz 
+miqdarı neçə faizdən az və ya çox olduqda həmin yanacaqdan istifadə 
+etməyə icazə verilir? 
+Düzgün cavab: 3.50-dən çox olmadıqda 
+ 
+5. Tullantılara nəzarət rayonlarından keçid zamanı tərkibində neçə faiz 
+kükürd olan yanacaqdan istifadə edilməsinə icazə verilir? 
+Düzgün cavab: 1.00 %-dən çox olmayan 
+ 
+6. Ən yaxın sahildən 12 mil məsafədə olduqda MARPOL-73/78 BK-nın V 
+əlavəsinə əsasən nələrin dənizə tullanmasına icazə verilir? 
+Düzgün cavab: Dondurulmuş halda balıq, ət, digər qida məhsulları və 
+xırdalanmış ərzaq tullantıları 
+ 
+7. Əl yanğın xəbərdarlıq edicilər harada yerləşdirilməlidirlər? 
+Düzgün cavab: Hər bir yanğın zonasında 
+ 
+8. Növbətçi qayıq hansı sürətlə manevr etmək imkanlarına malik 
+olmalıdır? 
+Düzgün cavab: 6 uzel 
+ 
+9. Gəmidə təmir işləri yerinə yetirildiyi zaman yanğın təhlükəsizliyinin 
+təmin olunmasına kim cavabdehdir? 
+Düzgün cavab: Gəmi təmiri müəssisəsi 
+ 
+10. Gəminin heyət üzvlərindən hansı vəzifəli şəxs gəminin bütün mexaniki 
+qurğularının texniki vasitələrini və gövdə konstruksiyalarını rəhbər heyət 
+üzvləri arasında təhkimatlar üzrə bölüşdürür? 
+Düzgün cavab: Baş mexanik 
+
+--- PAGE 2 ---
+ 
+11. Gəminin qəzaya uğraması nəticəsində heyət üzvünün əmlakına zərər 
+dəydikdə və ya əmlak itirildikdə, məhv olduqda həmin ziyan heyət üzvünə 
+kim tərəfindən ödənilməlidir? 
+Düzgün cavab: Sığorta şirkəti tərəfindən 
+ 
+12. “Transducer” sözünün düzgün tərcüməsini qeyd edin? 
+Düzgün cavab: Ötürücü cihaz 
+ 
+13. “Sea-chest” sözünün düzgün tərcüməsini qeyd edin? 
+Düzgün cavab: Kinqston 
+ 
+14. “Seal” sözünün düzgün tərcüməsini qeyd edin? 
+Düzgün cavab: Kipləndirici, salnik 
+ 
+15. “Assembly” sözünün düzgün tərcüməsini qeyd edin? 
+Düzgün cavab: Yığmaq, montaj etmək 
+ 
+16. Baş paylayıcı lövhədə quraşdırılmış voltmetrlər nəyi göstərir? 
+Düzgün cavab: Xəttdə olan cərəyan gərginliyini 
+ 
+17. Orqanizmdən keçən 50 Hz tezliklə, dəyişən elektrik cərəyanı hansı 
+ölçüdə olduqda insan onu hiss etmiş olur? 
+Düzgün cavab: 1.1 mA 
+ 
+18. Cərəyan göstəricisinin əvəzinə nəzarət elektrik lampasından istifadə 
+etmək olarmı? 
+Düzgün cavab: Qətiyyən olmaz 
+ 
+19. Dəyişən cərəyanlı elektromaqnitin lövbərinin ilişməsi nəyə səbəb ola 
+bilər? 
+Düzgün cavab: Elektromaqnitin sarğısının yanmasına 
+ 
+20. Gəmi şəraitində möhürlərin çıxarılması, nəzarət ölçü cihazlarının 
+açılması və təmir edilməsi gəmi heyət üzvlərindən kimin nəzarəti altında 
+həyata keçirilməlidir? 
+Düzgün cavab: Kapitanın növbə köməkçisinin 
+ 
+21. Cərəyanın güc transformatorunun paralel iş rejiminə ardıcıl olaraq 
+düzgün qoşulma qaydasını qeyd edin: 
+Düzgün cavab: Paralel qoşulma öncə birinci, sonra isə ikinci şəbəkədən 
+qoşulmaqla həyata keçirilir 
+ 
+
+--- PAGE 3 ---
+22. İstismarda olan yarımkeçirici dəyişdiricilərin izolyasiyasının normal 
+müqavimətini qeyd edin? 
+Düzgün cavab: 1.0 Mom 
+ 
+23. Uzun müddət istismar edilməyən elektrik cihazlarının dövri texniki 
+baxışlarının keçirilməsi və yoxlanması hansı müddətlərdə həyata keçirilir? 
+Düzgün cavab: Bir ayda bir dəfədən az olmayaraq 
+ 
+24. Qoruyucu qurğunun işə düşməsi nəticəsində iş rejimindən çıxarılan və 
+ya çıxardılan mexanizmin (qurğunun) avtomatik və ya məsafədən işə 
+salınması üçün nə etmək lazım olduğunu qeyd edin: 
+Düzgün cavab: Əl vasitəsi ilə qoruyucu qurğunu əvvəlki vəziyyətə 
+gətirmək 
+ 
+25. Nəzarət Məlumat Ölçü Sistemlərinin (MÖS) kanalının funksiyası 
+nədən ibarətdir? 
+Düzgün cavab: Nəzarət edilən parametrlərin normadan kənara çıxdığı 
+hallarda işıq siqnallarının formalaşdırılması 
+ 
+26. Danışıq aparatlarının quraşdırılması zaman hansı tədbirləri həyata 
+keçirmək lazımdır? 
+Düzgün cavab: Mexanizmlərin işləməsi zaman yaxşı eşitmə imkanlarının 
+təmin edilməsi 
+ 
+27. Aşağıda qeyd edilənlərdən hansı cihazdan istifadə edərək Avtomatik 
+İdarəetmə Sistemlərində gərginliyin ölçülməsi yerinə yetirilə bilər? 
+Düzgün cavab: Elektron voltmetrdən və ya yüksək çıxış müqaviməti olan 
+əqrəbli voltmetrdən istifadə edərək 
+ 
+28. Dəyişən cərəyanlı gəmi elektroenergetik sistemlərinin paylama 
+şəbəkələrinin bütün şaxələrində hansı növ qoruma quraşdırılmalıdır? 
+Düzgün cavab: Həddindən artıq yüklənmədən və qısa qapanmadan 
+ 
+29. Avral siqnalizasiyanın işinin hansı müddətlərdə yoxlanması gərəkdir? 
+Düzgün cavab: Gəmi səfərə çıxmazdan öncə və hər 10 gündən bir 
+ 
+30. İşləmək bacarığının (qabiliyyətinin) itirilməsinə nəzarət siqnalizasiyası 
+hansı növ gəmilərdə quraşdırılır? 
+Düzgün cavab: Maşın bölməsində növbəçəkmə bir nəfər tərəfindən 
+aparılan və maşın bölməsində növbəçəkmə xidməti aparılmayan 
+gəmilərdə 
+ 
+
+--- PAGE 4 ---
+31. Yük əməliyyatları zaman tryumlarda işıqların yandırılıb 
+söndürülməsinə və tryum işıqlarının istifadəsinə nəzarət kim tərəfindən 
+həyata keçirilir? 
+Düzgün cavab: Gəmi kapitanının növbə köməkçisi tərəfindən 
+ 
+32. Gəminin akkumulyator batareyalarının qidalandırılmasına dair başqa 
+bir özəl, xüsusi göstəriş olmadığı təqdirdə (akkumulyatorların nominal 
+həcmi miqdarına bərabər olan 0.25 A-saat cərəyanla) normal 
+qidalandırılması hansı müddətlərdə həyata keçirilməlidir? 
+Düzgün cavab: 6 saat 
+ 
+33. Akumulyator batareyalarının sürətləndirilmiş qidalandırılmasını 
+(normal qidalandırma cərəyan şiddətindən iki dəfə çox cərəyan şiddəti ilə) 
+neçə saat ərzində yerinə yetirmək lazımdır? 
+Düzgün cavab: 3 ssat 
+ 
+34. Gəmidə gəmi elektrik avadanlıqlarının, habelə ehtiyat hissələrinin sərf 
+edilməsinin və qalıqlarının qeydiyyatı aparılmalıdır. Bu qeydiyyat 
+kitablarının formasını və qaydalarını kim müəyyən edir? 
+Düzgün cavab: Gəmi sahibi 
+ 
+35. Gəmidə istismara yararlı və saz vəziyyətdə olan elektrik 
+avadanlıqlarını və qurğularını istismara hazırlanmasına və istismar 
+edilməsinə icazə verilir. Nasaz olan elektrik avadanlıqlarının üzərində 
+asılan xəbərdarlıq lövhələri hansı məzmunlu olmalıdırlar? 
+ 
+Düzgün cavab: Nasazlıq var. İşə salmaq qəti qadağandır 
+ 
+36. Nə üçün düzləndiricinin çıxışına paralel olaraq, fırçasız generatorun 
+rotorunun üzərində varistor birləşdirilir? 
+Düzgün cavab: Yarımkeçirici düzləndiricinin elektrik cərəyanından 
+qorunması üçün 
+ 
+37. Generatorların texniki baxışlarının orta hesabla keçirilmə müddətlərini 
+qeyd edin: 
+Düzgün cavab: 6-12 ay 
+ 
+38. Paylayıcı lövhələr bağlanılmalıdır? 
+Düzgün cavab: Az gərginlikli elektrik paylayıcılarının qapılarını bağlamaq 
+üçün təyin edilmiş açarlardan fərqli olan, xüsusi açarla 
+ 
+
+--- PAGE 5 ---
+39. Lokal şəbəkə və kompüterlər arasında ikipanelli məlumat mübadiləsini 
+təmin etmək üçün istifadə edilir: 
+Düzgün cavab: Şəbəkə adapteri 
+ 
+40. Kompüter sistem və şəbəkələrində istifadə edilən “Protokol” sözü nə 
+deməkdir? 
+Düzgün cavab: Kompüter sistem və şəbəkələrində eyni səviyyədə, lakin 
+müxtəlif şəbəkələrdə yerləşən məlumatların mübadiləsinin formatını və 
+prosedurlarını nizama (müəyyən qaydaya) salan qaydalar məcmusudur 
+ 
+41. Kompüter sistem və şəbəkələrində istifadə edilən “Interfeys” sözü nə 
+deməkdir? 
+Düzgün cavab: Kompüter sistem və şəbəkələrində qonşu səviyyələrdə, 
+lakin eyni şəbəkədə yerləşən məlumatların mübadiləsinin formatını və 
+prosedurlarını nizama (müəyyən qaydaya) salan qaydalar məcmusudur 
+ 
+42. Registrin qaydalarına əsasən gəmi sinxron maşınlarında hava 
+zazorlarında qeyri müntəzəmliyin aralıqlarının kəmiyyətinin qiyməti nə 
+qədər təşkil edir? 
+Düzgün cavab: Orta aralığa nisbətdə ± 10% 
+ 
+43. Fırçalı və kontakt üzüklü sinxron generatorlarda kontakt üzüklərinin 
+qütblərinin dəyişdirilməsi hansı səbəblərdən yerinə yetirilir? 
+Düzgün cavab: Üzüklərin yeyilməsinin müntəzəm şəkildə, bərabər 
+səviyyədə həyata keçməsinin təmin edilməsi üçün 
+ 
+44. Üç fazalı asinxron elektrik mühərrikinin nominal cərəyan şiddəti 200A 
+bərabərdir. Yüklənmədən birbaşa şəbəkəyə qoşulma zamanı cərəyan 
+sıçrayışı neçə amper təşkil edəcək? 
+Düzgün cavab: 1000 A 
+ 
+45. Üç fazalı asinxron elektrik mühərriki nominal cərəyanlı yüklə işləyir. Bu 
+zaman qəflətən bir faza qırılır. Elektrik mühərrikinin istehlak etdiyi cərəyan 
+necə dəyişəcək? 
+Düzgün cavab: Artacaq 
+ 
+46. Sinxron elektrik mühərrikinin cərəyan gərginliyi 10 % azaldıqda 
+mühərrikin dövrlər sayı nə cür dəyişir? 
+Düzgün cavab: Dəyişməz olaraq sabit qalır 
+ 
+47. Özü havalandırılan elektrik mühərrikini xaricdən, asılı olmayan üfürmə 
+ilə təchiz etsək onun daimi qızma saatı nə cür dəyişəcəkdir? 
+Düzgün cavab: Azalacaq 
+ 
+ 
