@@ -7,6 +7,7 @@ import SertifikatSecimi from './pages/SertifikatSecimi';
 import TestPage from './pages/TestPage';
 import SoruCevapBankasi from './pages/SoruCevapBankasi';
 import Profile from './pages/Profile';
+import RealExamPage from './pages/RealExamPage';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
             <Route path="/type-selection" element={<NovSecimi />} />
             <Route path="/certificate-selection" element={<SertifikatSecimi />} />
             <Route path="/test" element={<TestPage />} />
+            <Route path="/real-exam" element={<RealExamPage />} />
             <Route path="/qa-bank" element={<SoruCevapBankasi />} />
             <Route path="/profile" element={<Profile />} />
           </Routes>
