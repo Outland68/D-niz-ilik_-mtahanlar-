@@ -26,13 +26,13 @@
       "explanation": ""
     },
     {
-      "id": "q005",
-      "question": "5. yük şlanqlarının çәkisi.",
+      "id": "q003",
+      "question": "3. Yük şlanqlarının üzәrindә onların işlәk vәziyyәtdә olduqlarını tәsdiqlәyәn yazılardan hansı vurulur?\n1. yük şlanqı hansı tip yükә aiddir;\n2. sınaq tәzyiqi;\n3. istehsal olunduğu ay vә il;\n4. elektrik keçirmәsi barәdә mәlumat;\n5. yük şlanqlarının çәkisi.",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "bütün cavablar doğrudur",
+        "A": "1,2,5",
+        "B": "2,3,5",
         "C": "1,2,3,4",
-        "D": "50 metr məsafədə dənizdə"
+        "D": "Bütün cavablar doğrudur"
       },
       "correct_answer": "C",
       "explanation": ""
