@@ -303,7 +303,6 @@ def send_reset_code_view(request):
 
     # Send Email via Gmail SMTP in background thread (with n8n primary check)
     import threading
-    import requests
     from django.core.mail import send_mail
 
     def send_reset_thread(email_address, otp_code, username):
