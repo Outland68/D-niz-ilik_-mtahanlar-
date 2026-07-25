@@ -802,7 +802,7 @@
         "C": "gəmi limana daxil olana qədər",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -814,7 +814,7 @@
         "C": "24 saat ərzində təyin olunur",
         "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     }
   ]

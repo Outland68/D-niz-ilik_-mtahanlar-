@@ -3,6 +3,8 @@ import os
 import django
 import sys
 
+sys.stdout.reconfigure(encoding='utf-8')
+
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "core.settings")
 django.setup()
 

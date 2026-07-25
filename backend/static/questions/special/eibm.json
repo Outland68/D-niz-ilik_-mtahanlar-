@@ -802,7 +802,7 @@
         "C": "Yalnız Bayraq Administrasiyası",
         "D": "Yalnız gəmi heyəti"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -814,7 +814,7 @@
         "C": "24 saat ərzində təyin olunur",
         "D": "Yalnız gündüz saatlarında təyin olunur"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     }
   ]

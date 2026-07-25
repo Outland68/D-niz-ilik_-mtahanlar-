@@ -37,7 +37,7 @@
       },
       "correct_answer": "C",
       "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p1_1.png"
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p1_3.jpeg"
     },
     {
       "id": "q004",
@@ -122,7 +122,8 @@
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
       "correct_answer": "B",
-      "explanation": ""
+      "explanation": "",
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p2_2.jpeg"
     },
     {
       "id": "q011",
@@ -159,7 +160,7 @@
       },
       "correct_answer": "A",
       "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p2_1.png"
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p2_3.jpeg"
     },
     {
       "id": "q014",
@@ -209,7 +210,7 @@
       },
       "correct_answer": "A",
       "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p3_4.jpeg"
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p3_3.jpeg"
     },
     {
       "id": "q019",
@@ -221,8 +222,7 @@
         "D": "işləməyən, fəaliyyət göstərməyən"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p3_4.jpeg"
+      "explanation": ""
     },
     {
       "id": "q020",
@@ -234,8 +234,7 @@
         "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p3_4.jpeg"
+      "explanation": ""
     },
     {
       "id": "q004",
@@ -283,7 +282,8 @@
         "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
       "correct_answer": "C",
-      "explanation": ""
+      "explanation": "",
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p4_1.jpeg"
     },
     {
       "id": "q027",
@@ -295,8 +295,7 @@
         "D": "A"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p5_1.jpeg"
+      "explanation": ""
     },
     {
       "id": "q028",
@@ -308,8 +307,7 @@
         "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p5_1.jpeg"
+      "explanation": ""
     },
     {
       "id": "q029",
@@ -332,8 +330,9 @@
         "C": "gəmi limana daxil olana qədər",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "A",
-      "explanation": ""
+      "correct_answer": "B",
+      "explanation": "",
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p5_1.jpeg"
     },
     {
       "id": "q031",

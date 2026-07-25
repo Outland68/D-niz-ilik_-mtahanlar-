@@ -95,8 +95,7 @@
         "D": "əllə idarəetmə rejiminə keçdikdə"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p1_1.jpeg"
+      "explanation": ""
     },
     {
       "id": "q009",
@@ -135,7 +134,7 @@
       },
       "correct_answer": "C",
       "explanation": "",
-      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p2_1.jpeg"
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p2_2.jpeg"
     },
     {
       "id": "q012",
@@ -148,7 +147,7 @@
       },
       "correct_answer": "A",
       "explanation": "",
-      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p2_1.jpeg"
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p2_3.jpeg"
     },
     {
       "id": "q013",
@@ -161,7 +160,7 @@
       },
       "correct_answer": "B",
       "explanation": "",
-      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p2_1.jpeg"
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p2_4.jpeg"
     },
     {
       "id": "q014",
@@ -187,7 +186,7 @@
       },
       "correct_answer": "B",
       "explanation": "",
-      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p3_1.jpeg"
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p3_2.jpeg"
     },
     {
       "id": "q016",
@@ -391,8 +390,7 @@
         "D": "hər ayda bir dəfədən az olmayan müddətdə"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p5_4.jpeg"
+      "explanation": ""
     },
     {
       "id": "q033",
@@ -404,8 +402,7 @@
         "D": "şimal-şərq istiqamətində"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p5_4.jpeg"
+      "explanation": ""
     },
     {
       "id": "q034",
@@ -418,7 +415,7 @@
       },
       "correct_answer": "C",
       "explanation": "",
-      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p5_4.jpeg"
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p5_1.jpeg"
     },
     {
       "id": "q035",
@@ -431,7 +428,7 @@
       },
       "correct_answer": "B",
       "explanation": "",
-      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p5_4.jpeg"
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p5_2.jpeg"
     },
     {
       "id": "q036",
@@ -444,7 +441,7 @@
       },
       "correct_answer": "A",
       "explanation": "",
-      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p5_4.jpeg"
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p5_3.jpeg"
     },
     {
       "id": "q037",
@@ -469,7 +466,8 @@
         "D": "12-ci dəqiqədən sonra hədəf bizim gəmimizlə eyni kursla hərəkət edir, sürətini azaldıb"
       },
       "correct_answer": "D",
-      "explanation": ""
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p6_1.jpeg"
     },
     {
       "id": "q039",
@@ -481,7 +479,8 @@
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
       "correct_answer": "C",
-      "explanation": ""
+      "explanation": "",
+      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p6_2.jpeg"
     },
     {
       "id": "q040",
@@ -529,8 +528,7 @@
         "D": "Mina təhlükəsini aradan qaldırma işləri ilə məşğul olan gəmilərdə"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p6_1.jpeg"
+      "explanation": ""
     },
     {
       "id": "q045",
@@ -602,8 +600,7 @@
         "D": "“A” gəmi tam keçilməyənədək, tam arxada qalmayanadək, “A” gəminin yolundan kənar olmalıdır"
       },
       "correct_answer": "D",
-      "explanation": "",
-      "image_url": "/images/radar_avtomatik_radar_m_ahid_vasit_l_ri_/img_p7_1.jpeg"
+      "explanation": ""
     }
   ]
 }

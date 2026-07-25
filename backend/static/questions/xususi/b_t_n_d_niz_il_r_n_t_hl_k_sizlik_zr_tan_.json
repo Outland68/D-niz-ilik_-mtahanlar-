@@ -10,7 +10,7 @@
         "C": "hər 6 aydan bir keçirilən təlimlərdə",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -22,7 +22,7 @@
         "C": "bəli",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -34,7 +34,7 @@
         "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -46,7 +46,7 @@
         "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -58,7 +58,7 @@
         "C": "hər ayda bir dəfədən az olmayan müddətdə",
         "D": "10 uzel sürətlə manevr etdikdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -70,7 +70,7 @@
         "C": "hər növbədə bir dəfə",
         "D": "cənub-qərb dreyfi zamanı"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -82,7 +82,7 @@
         "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "D": "lövbər dayanacağı sahəsində"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -94,7 +94,7 @@
         "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "D": "avtomatik rejimdə işləyərkən"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -106,7 +106,7 @@
         "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "D": "qazanxanalarda və maye yanacaq qurğularında"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -118,7 +118,7 @@
         "C": "bütün cavablar yanlışdır",
         "D": "xilasetmə vasitəsinin komandiri"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -130,7 +130,7 @@
         "C": "külək",
         "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -142,8 +142,9 @@
         "C": "hər 6 aydan bir keçirilən təlimlərdə",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "B",
-      "explanation": ""
+      "correct_answer": "D",
+      "explanation": "",
+      "image_url": "/images/b_t_n_d_niz_il_r_n_t_hl_k_sizlik_zr_tan_/img_p2_1.jpeg"
     },
     {
       "id": "q013",
@@ -178,7 +179,7 @@
         "C": "bütün cavablar doğrudur",
         "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -190,7 +191,7 @@
         "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -214,7 +215,7 @@
         "C": "2 saniyə",
         "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -250,7 +251,7 @@
         "C": "gərginlik 220 V həddinə çatdıqda",
         "D": "5 dəqiqə"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -262,7 +263,7 @@
         "C": "6 uzel ilə azı 24 saat",
         "D": "gəmi limana daxil olana qədər"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -274,7 +275,7 @@
         "C": "bütün cavablar yanlışdır",
         "D": "6 uzel ilə azı 4 saat"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -310,7 +311,7 @@
         "C": "8 dəqiqə",
         "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -322,7 +323,7 @@
         "C": "bütün cavablar yanlışdır",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -334,7 +335,7 @@
         "C": "5 dəqiqə",
         "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -346,7 +347,7 @@
         "C": "örtüyün üstündə",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -358,7 +359,7 @@
         "C": "50 metr məsafədə dənizdə",
         "D": "hamı"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -394,7 +395,7 @@
         "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -430,7 +431,7 @@
         "C": "avtomatik rejimdə işləyərkən",
         "D": "qəza partiyasının rəhbəri"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -442,7 +443,7 @@
         "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "D": "sıxılmış hava"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -454,7 +455,7 @@
         "C": "50 metr məsafədə dənizdə",
         "D": "yanan qazlar ilə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -478,7 +479,7 @@
         "C": "10 uzel sürətlə manevr etdikdə",
         "D": "əllə idarəetmə rejiminə keçdikdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -490,7 +491,7 @@
         "C": "7 qısa 1 uzun",
         "D": "hər ayda bir dəfədən az olmayan müddətdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -502,7 +503,7 @@
         "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -526,7 +527,7 @@
         "C": "hər 6 aydan bir keçirilən təlimlərdə",
         "D": "xüsusi olaraq ayrılmış yerdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -538,7 +539,7 @@
         "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -550,7 +551,7 @@
         "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -562,7 +563,7 @@
         "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "D": "qapıları və pəncərələri ehtiyatla açmaq"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -574,7 +575,7 @@
         "C": "gündəlik və döyüş yoxlaması",
         "D": "fırtınalı havada təxirə salınmaqla"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -586,7 +587,7 @@
         "C": "insanların xilasedilməsi",
         "D": "şimal-şərq istiqamətində"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -598,7 +599,7 @@
         "C": "lövbər dayanacağı sahəsində",
         "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -610,7 +611,7 @@
         "C": "2 dəst",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -622,7 +623,7 @@
         "C": "boru xətti, yanğın nasosu, yanğın şlanqı və lüləsi",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -634,7 +635,7 @@
         "C": "avtomatik rejimdə işləyərkən",
         "D": "yanğının söndürülməsi ilə eyni vaxtda"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -646,7 +647,7 @@
         "C": "bütün cavablar doğrudur",
         "D": "16%"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -658,7 +659,7 @@
         "C": "gərginlik 220 V həddinə çatdıqda",
         "D": "köpük və su ilə eyni vaxtda"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -670,7 +671,7 @@
         "C": "10 uzel sürətlə manevr etdikdə",
         "D": "1.1%"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -682,7 +683,7 @@
         "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "D": "işi dayandırmaq, qapıları örtüb toplantı məntəqəsinə getmək və növbəti əmri gözləmək"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -694,7 +695,7 @@
         "C": "lövbər dayanacağı sahəsində",
         "D": "50 metr məsafədə dənizdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -718,7 +719,7 @@
         "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "D": "karbon qazı"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -730,7 +731,7 @@
         "C": "şimal-şərq istiqamətində",
         "D": "cənub-qərb dreyfi zamanı"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -742,7 +743,7 @@
         "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "D": "gəmi limana daxil olana qədər"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -766,7 +767,7 @@
         "C": "1 qat və 2 qat",
         "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -778,7 +779,7 @@
         "C": "2.5 kq",
         "D": "10 uzel sürətlə manevr etdikdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -790,7 +791,7 @@
         "C": "bütün cavablar yanlışdır",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -814,7 +815,7 @@
         "C": "bütün cavablar doğrudur",
         "D": "4 gün"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -826,7 +827,7 @@
         "C": "hər 6 aydan bir keçirilən təlimlərdə",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -838,7 +839,7 @@
         "C": "10 uzel sürətlə manevr etdikdə",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -850,7 +851,7 @@
         "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "D": "bir ildən bir"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -862,7 +863,7 @@
         "C": "su ilə",
         "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -874,7 +875,7 @@
         "C": "gəmi limana daxil olana qədər",
         "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -886,7 +887,7 @@
         "C": "avtomatik rejimdə işləyərkən",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -898,7 +899,7 @@
         "C": "50 metr məsafədə dənizdə",
         "D": "10 uzel sürətlə manevr etdikdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -910,7 +911,7 @@
         "C": "gəmi limana daxil olana qədər",
         "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -922,7 +923,7 @@
         "C": "50 metr məsafədə dənizdə",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -934,7 +935,7 @@
         "C": "lövbər dayanacağı sahəsində",
         "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -958,7 +959,7 @@
         "C": "gəmi limana daxil olana qədər",
         "D": "iştahsızlıq, zəiflik, baş gicəllənmə, ürək bulanma və qusma"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -970,7 +971,7 @@
         "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "D": "120/80"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -1006,7 +1007,7 @@
         "C": "cənub-qərb dreyfi zamanı",
         "D": "insanın suyun üzərində saxlanması, sudan və soyuqdan təcrid olunması üçün"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -1018,7 +1019,7 @@
         "C": "lövbər dayanacağı sahəsində",
         "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -1030,7 +1031,7 @@
         "C": "bütün cavablar yanlışdır",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {

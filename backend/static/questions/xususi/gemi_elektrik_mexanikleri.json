@@ -419,8 +419,7 @@
         "D": "5.00 %-dən çox olmadıqda"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "image_url": "/images/gemi_elektrik/img_p4_1.png"
+      "explanation": ""
     },
     {
       "id": "q036",
@@ -444,7 +443,8 @@
         "D": "6-12 ay"
       },
       "correct_answer": "D",
-      "explanation": ""
+      "explanation": "",
+      "image_url": "/images/g_mi_elektrik_mexanikl_rinin_t_kmill_dir/img_p4_1.png"
     },
     {
       "id": "q038",
