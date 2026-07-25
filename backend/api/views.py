@@ -502,10 +502,44 @@ class CertificateViewSet(viewsets.ReadOnlyModelViewSet):
         try:
             with open(json_path, encoding='utf-8') as f:
                 data = json.load(f)
+                raw_questions = data if isinstance(data, list) else data.get('questions', [])
+                
+                formatted_questions = []
+                for idx, q in enumerate(raw_questions):
+                    opts = q.get('options', {})
+                    if isinstance(opts, dict):
+                        options_list = [opts.get('A', ''), opts.get('B', ''), opts.get('C', ''), opts.get('D', '')]
+                        correct_val = q.get('correct_answer')
+                        correct_index = 0
+                        if isinstance(correct_val, str) and correct_val in ['A', 'B', 'C', 'D']:
+                            correct_index = ['A', 'B', 'C', 'D'].index(correct_val)
+                        elif isinstance(correct_val, int) and 0 <= correct_val < len(options_list):
+                            correct_index = correct_val
+                    elif isinstance(opts, list):
+                        options_list = opts
+                        correct_val = q.get('correct_answer', 0)
+                        if isinstance(correct_val, int) and 0 <= correct_val < len(options_list):
+                            correct_index = correct_val
+                        elif isinstance(correct_val, str) and correct_val in ['A', 'B', 'C', 'D']:
+                            correct_index = ['A', 'B', 'C', 'D'].index(correct_val)
+                        else:
+                            correct_index = 0
+                    else:
+                        options_list = []
+                        correct_index = 0
+
+                    formatted_questions.append({
+                        'id': q.get('id', f'q_{idx+1}'),
+                        'question': q.get('question', ''),
+                        'options': options_list,
+                        'correct_answer': correct_index,
+                        'explanation': q.get('explanation', '')
+                    })
+
         except Exception as e:
             return Response({'error': f'Fayl oxunarkən xəta: {str(e)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
         return Response({
             'certificate': certificate.name,
-            'questions': data.get('questions', [])
+            'questions': formatted_questions
         })
