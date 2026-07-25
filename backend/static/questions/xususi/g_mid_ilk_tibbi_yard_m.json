@@ -3,10 +3,10 @@
   "questions": [
     {
       "id": "q001",
-      "question": "1. Venoz qanaxmanı necә dayandırmaq lazımdır?",
+      "question": "1. Venoz qanaxmanı necə dayandırmaq lazımdır?",
       "options": {
         "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "Yaranın üstünә sıxıcı sarğı bağlamaqla",
+        "B": "Yaranın üstünə sıxıcı sarğı bağlamaqla",
         "C": "cənub-qərb dreyfi zamanı",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
@@ -15,21 +15,21 @@
     },
     {
       "id": "q002",
-      "question": "2. Ürәyin bağlı masajı üçün әllәr döş qәfәsinin hansı nahiyәsinә qoyulur?",
+      "question": "2. Ürəyin bağlı masajı üçün əllər döş qəfəsinin hansı nahiyəsinə qoyulur?",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "avtomatik rejimdə işləyərkən",
         "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "Döş sümüyünün aşağı 1/3 hissәsinә"
+        "D": "Döş sümüyünün aşağı 1/3 hissəsinə"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q003",
-      "question": "3. Süni nәfәsvermә zamanı zәrәrçәkәnin ciyәrlәrinә hava üfürülmә tezliyi 1 dәqiqәdә neçә dәfә olmalıdır?",
+      "question": "3. Süni nəfəsvermə zamanı zərərçəkənin ciyərlərinə hava üfürülmə tezliyi 1 dəqiqədə neçə dəfə olmalıdır?",
       "options": {
-        "A": "12-16 dәfә",
+        "A": "12-16 dəfə",
         "B": "hər ayda bir dəfədən az olmayan müddətdə",
         "C": "əllə idarəetmə rejiminə keçdikdə",
         "D": "bütün cavablar doğrudur"
@@ -39,10 +39,10 @@
     },
     {
       "id": "q004",
-      "question": "4. Mәdә qanaxmasında hәkimә qәdәr yardıma nә daxildir?",
+      "question": "4. Mədə qanaxmasında həkimə qədər yardıma nə daxildir?",
       "options": {
         "A": "gəmi limana daxil olana qədər",
-        "B": "Aclıq vә buz qovuğunun tәtbiqi",
+        "B": "Aclıq və buz qovuğunun tətbiqi",
         "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "D": "lövbər dayanacağı sahəsində"
       },
@@ -51,7 +51,7 @@
     },
     {
       "id": "q005",
-      "question": "5. Ürәyin bağlı masajı zamanı döş sümüyü onurğa tәrәfә neçә santimetr sıxılmalıdır?",
+      "question": "5. Ürəyin bağlı masajı zamanı döş sümüyü onurğa tərəfə neçə santimetr sıxılmalıdır?",
       "options": {
         "A": "10 uzel sürətlə manevr etdikdə",
         "B": "lövbər dayanacağı sahəsində",
@@ -63,12 +63,12 @@
     },
     {
       "id": "q006",
-      "question": "6. Hidrogen peroksid (3 % 100 ml) nә üçün işlәdilir?",
+      "question": "6. Hidrogen peroksid (3 % 100 ml) nə üçün işlədilir?",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "bütün cavablar yanlışdır",
         "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "Yaraları yumaq üçün dezinfeksiyaedici maddә, burun Qanaxmalarında"
+        "D": "Yaraları yumaq üçün dezinfeksiyaedici maddə, burun Qanaxmalarında"
       },
       "correct_answer": "D",
       "explanation": ""
@@ -87,10 +87,10 @@
     },
     {
       "id": "q008",
-      "question": "8. Yodun 5%-li mәhlulu nә üçün istifadә olunur?",
+      "question": "8. Yodun 5%-li məhlulu nə üçün istifadə olunur?",
       "options": {
         "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "Yara kәnarlarının silinmәsi üçün, dezinfeksiyaedici mәhlul olaraq",
+        "B": "Yara kənarlarının silinməsi üçün, dezinfeksiyaedici məhlul olaraq",
         "C": "gəmi limana daxil olana qədər",
         "D": "avtomatik rejimdə işləyərkən"
       },
@@ -99,10 +99,10 @@
     },
     {
       "id": "q009",
-      "question": "9. Arterial qanaxmanın әlamәtlәri hansılardır?",
+      "question": "9. Arterial qanaxmanın əlamətləri hansılardır?",
       "options": {
         "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "Al qırmızı rәngdә olması, qan güclü tәzyiqlә axır",
+        "B": "Al qırmızı rəngdə olması, qan güclü təzyiqlə axır",
         "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "D": "şimal-şərq istiqamətində"
       },
@@ -111,7 +111,7 @@
     },
     {
       "id": "q010",
-      "question": "10. Aşağı әtrafda qanaxma zamanı hansı arteriyanı sıxmaq lazımdır?",
+      "question": "10. Aşağı ətrafda qanaxma zamanı hansı arteriyanı sıxmaq lazımdır?",
       "options": {
         "A": "Bud arteriyanı",
         "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
@@ -123,9 +123,9 @@
     },
     {
       "id": "q011",
-      "question": "11. I vә II dәrәcәli yanıqlar zamanı ilk tibbi yardımın әsasları hansıdır?",
+      "question": "11. I və II dərəcəli yanıqlar zamanı ilk tibbi yardımın əsasları hansıdır?",
       "options": {
-        "A": "Tәsiredici amilin qarşısını almaq, yanıq yerini soyutmaq, Pantenol vurmaq, steril nәm tamponla vә steril cuna ilә örtmәk",
+        "A": "Təsiredici amilin qarşısını almaq, yanıq yerini soyutmaq, Pantenol vurmaq, steril nəm tamponla və steril cuna ilə örtmək",
         "B": "gəmi limana daxil olana qədər",
         "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
@@ -135,7 +135,7 @@
     },
     {
       "id": "q012",
-      "question": "12. Yuxarı әtrafda qanaxma zamanı hansı arteriyanı sıxmaq lazımdır?",
+      "question": "12. Yuxarı ətrafda qanaxma zamanı hansı arteriyanı sıxmaq lazımdır?",
       "options": {
         "A": "bütün cavablar doğrudur",
         "B": "fırtınalı havada təxirə salınmaqla",
@@ -147,11 +147,11 @@
     },
     {
       "id": "q013",
-      "question": "13. Suda boğulan insana ilk tibbi yardım necә göstәrilir?",
+      "question": "13. Suda boğulan insana ilk tibbi yardım necə göstərilir?",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "cənub-qərb dreyfi zamanı",
-        "C": "Nәfәs yollarından su çıxarılır, ürәyin fәaliyyәti dayandıqda ürәk xaricdәn masaj edilir, suni nәfәs verilir",
+        "C": "Nəfəs yollarından su çıxarılır, ürəyin fəaliyyəti dayandıqda ürək xaricdən masaj edilir, suni nəfəs verilir",
         "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
       "correct_answer": "C",
@@ -159,11 +159,11 @@
     },
     {
       "id": "q014",
-      "question": "14. Ölümün ilk nişanәlәri hansılardır?",
+      "question": "14. Ölümün ilk nişanələri hansılardır?",
       "options": {
         "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "ürәk döyüntüsünün dayanması, tәnәffüsün dayanması",
+        "C": "ürək döyüntüsünün dayanması, tənəffüsün dayanması",
         "D": "10 uzel sürətlə manevr etdikdə"
       },
       "correct_answer": "C",
@@ -171,11 +171,11 @@
     },
     {
       "id": "q015",
-      "question": "15. Әllәr vә ayaqların iri arteriyaları zәdәlәndikdә hansı qandayandırma üsulu daha etibarlıdır?",
+      "question": "15. Əllər və ayaqların iri arteriyaları zədələndikdə hansı qandayandırma üsulu daha etibarlıdır?",
       "options": {
         "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "Turnanın qoyulması vә ya barmaqla sıxılması",
+        "C": "Turnanın qoyulması və ya barmaqla sıxılması",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
       "correct_answer": "C",
@@ -183,7 +183,7 @@
     },
     {
       "id": "q016",
-      "question": "16. Sümüklәrin sınması әlamәtlәri hansılardır?",
+      "question": "16. Sümüklərin sınması əlamətləri hansılardır?",
       "options": {
         "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "B": "şişkinlik, qızartı, ağrı, qanaxma",
@@ -195,11 +195,11 @@
     },
     {
       "id": "q017",
-      "question": "17. Arterial qanaxmanı necә dayandırmaq lazımdır?",
+      "question": "17. Arterial qanaxmanı necə dayandırmaq lazımdır?",
       "options": {
         "A": "50 metr məsafədə dənizdə",
         "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "Yaradan yuxarı hissәdә jqut bağlamaqla",
+        "C": "Yaradan yuxarı hissədə jqut bağlamaqla",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
       "correct_answer": "C",
@@ -207,19 +207,19 @@
     },
     {
       "id": "q018",
-      "question": "18. Burun qanaxması zamanı nә etmәk lazımdır?",
+      "question": "18. Burun qanaxması zamanı nə etmək lazımdır?",
       "options": {
         "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "B": "hər 6 aydan bir keçirilən təlimlərdə",
         "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "Zәrәrçәkәni yarımoturaq vәziyyәtә gәtirәrәk başını qabağa әyib,onun burun nahiyәsinin soyudulmasını tәmin etmәk lazımdır"
+        "D": "Zərərçəkəni yarımoturaq vəziyyətə gətirərək başını qabağa əyib,onun burun nahiyəsinin soyudulmasını təmin etmək lazımdır"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q019",
-      "question": "19. Әzәlәdaxili inyeksiya hansı bucaq altında aparılır?(sarğı әzәlәsinә)",
+      "question": "19. Əzələdaxili inyeksiya hansı bucaq altında aparılır?(sarğı əzələsinə)",
       "options": {
         "A": "hər 6 aydan bir keçirilən təlimlərdə",
         "B": "90",
@@ -231,11 +231,11 @@
     },
     {
       "id": "q020",
-      "question": "20. Qan-damar sistemi hansı orqanlardan ibarәtdir?",
+      "question": "20. Qan-damar sistemi hansı orqanlardan ibarətdir?",
       "options": {
         "A": "50 metr məsafədə dənizdə",
         "B": "bütün cavablar doğrudur",
-        "C": "Ürәk vә onunla bağlı müxtәlif ölçülәrdә damarlarla (aorta, arteriya, vena, kapillyar ),birdә 5-5.5 qan",
+        "C": "Ürək və onunla bağlı müxtəlif ölçülərdə damarlarla (aorta, arteriya, vena, kapillyar ),birdə 5-5.5 qan",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
       "correct_answer": "C",
@@ -243,9 +243,9 @@
     },
     {
       "id": "q021",
-      "question": "21. Xarici zәdә әlamәtlәri görünmәyәn vә huşsuz vәziyyәtdә olan, ürәk ağciyәr reanimasiyası keçirmiş zәrәrçәkәnә hansı “bәrpa edici” vәziyyәti vermәk lazımdır?",
+      "question": "21. Xarici zədə əlamətləri görünməyən və huşsuz vəziyyətdə olan, ürək ağciyər reanimasiyası keçirmiş zərərçəkənə hansı “bərpa edici” vəziyyəti vermək lazımdır?",
       "options": {
-        "A": "Böyrü üstә uzadıb ayaqlarını dizdәn bükmәk",
+        "A": "Böyrü üstə uzadıb ayaqlarını dizdən bükmək",
         "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "D": "bütün cavablar yanlışdır"
@@ -255,10 +255,10 @@
     },
     {
       "id": "q022",
-      "question": "22. Xәstәnin dәrmana hәssaslığını yoxlamaq üçün iynә hansı nahiyәyә vurulur?",
+      "question": "22. Xəstənin dərmana həssaslığını yoxlamaq üçün iynə hansı nahiyəyə vurulur?",
       "options": {
         "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "Dәri altına",
+        "B": "Dəri altına",
         "C": "bütün cavablar yanlışdır",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
@@ -267,7 +267,7 @@
     },
     {
       "id": "q023",
-      "question": "23. Yüksәk temperatur hansı sayılır?",
+      "question": "23. Yüksək temperatur hansı sayılır?",
       "options": {
         "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "B": "şimal-şərq istiqamətində",
@@ -279,9 +279,9 @@
     },
     {
       "id": "q024",
-      "question": "24. Daxili qanaxmalar zamanı xәstәlәri nәql edәrkәn onlara hansı vәziyyәt verilmәlidir?",
+      "question": "24. Daxili qanaxmalar zamanı xəstələri nəql edərkən onlara hansı vəziyyət verilməlidir?",
       "options": {
-        "A": "Xәstәyә xәrәkdә yarımoturaq vәziyyәt verilmәlidir",
+        "A": "Xəstəyə xərəkdə yarımoturaq vəziyyət verilməlidir",
         "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "D": "gəmi limana daxil olana qədər"
@@ -291,7 +291,7 @@
     },
     {
       "id": "q025",
-      "question": "25. Normal halda kişilәrdә tәnәffüsün tezliyi 1 dәqiqәdә neçә olmalıdır?",
+      "question": "25. Normal halda kişilərdə tənəffüsün tezliyi 1 dəqiqədə neçə olmalıdır?",
       "options": {
         "A": "10 uzel sürətlə manevr etdikdə",
         "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
@@ -303,11 +303,11 @@
     },
     {
       "id": "q026",
-      "question": "26. Sınıqlar zamanı şokun profilaktikası üçün hәkimә qәdәr ilk tibbi yardım zamanı nә etmәk olmaz?",
+      "question": "26. Sınıqlar zamanı şokun profilaktikası üçün həkimə qədər ilk tibbi yardım zamanı nə etmək olmaz?",
       "options": {
         "A": "əllə idarəetmə rejiminə keçdikdə",
         "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "Xәstәni hәrәkәt etdirmәk",
+        "C": "Xəstəni hərəkət etdirmək",
         "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
       "correct_answer": "C",
@@ -315,7 +315,7 @@
     },
     {
       "id": "q027",
-      "question": "27. Normal arterial tәzyiq neçә olmalıdır?",
+      "question": "27. Normal arterial təzyiq neçə olmalıdır?",
       "options": {
         "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "B": "avtomatik rejimdə işləyərkən",
@@ -327,31 +327,31 @@
     },
     {
       "id": "q028",
-      "question": "28. Burun qanaxmasında başa hansı vәziyyәt verilir?",
+      "question": "28. Burun qanaxmasında başa hansı vəziyyət verilir?",
       "options": {
         "A": "cənub-qərb dreyfi zamanı",
         "B": "avtomatik rejimdə işləyərkən",
         "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "Yüngül önә әyilmiş"
+        "D": "Yüngül önə əyilmiş"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q029",
-      "question": "29. Hәyati әlamәtlәrә bunlardan hansı aid deyil?",
+      "question": "29. Həyati əlamətlərə bunlardan hansı aid deyil?",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
         "B": "lövbər dayanacağı sahəsində",
         "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "Gözün buynuz qışası bulanır vә quruyur"
+        "D": "Gözün buynuz qışası bulanır və quruyur"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q030",
-      "question": "30. 1-ci dәrәcәli yanıq әlamәtlәri aşağıdakılardan hansıdır?",
+      "question": "30. 1-ci dərəcəli yanıq əlamətləri aşağıdakılardan hansıdır?",
       "options": {
         "A": "bütün cavablar yanlışdır",
         "B": "Ağrı,qızartı,şişkinlik",
@@ -363,7 +363,7 @@
     },
     {
       "id": "q031",
-      "question": "31. Yağlı mәhlulun hansı üsulla yeridilmәsi yağ emboliyasına sәbәb olur?",
+      "question": "31. Yağlı məhlulun hansı üsulla yeridilməsi yağ emboliyasına səbəb olur?",
       "options": {
         "A": "şimal-şərq istiqamətində",
         "B": "Venadaxili",
@@ -375,7 +375,7 @@
     },
     {
       "id": "q032",
-      "question": "32. Döş sümüyünün arxasında ağrılar zamanı hәkimә qәdәr ilk yardım hansıdır?",
+      "question": "32. Döş sümüyünün arxasında ağrılar zamanı həkimə qədər ilk yardım hansıdır?",
       "options": {
         "A": "şimal-şərq istiqamətində",
         "B": "lövbər dayanacağı sahəsində",
@@ -387,7 +387,7 @@
     },
     {
       "id": "q033",
-      "question": "33. 2-ci dәrәcәli yanıq әlamәtlәri aşağıdakılardan hansılardır?",
+      "question": "33. 2-ci dərəcəli yanıq əlamətləri aşağıdakılardan hansılardır?",
       "options": {
         "A": "əllə idarəetmə rejiminə keçdikdə",
         "B": "Ağrı, suluqlar",
@@ -399,19 +399,19 @@
     },
     {
       "id": "q034",
-      "question": "34. Elektrotravma zamanı aşağıda göstәrilәn yardımlardan hansı qәti qadağandır?",
+      "question": "34. Elektrotravma zamanı aşağıda göstərilən yardımlardan hansı qəti qadağandır?",
       "options": {
         "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "B": "hər 6 aydan bir keçirilən təlimlərdə",
         "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "Elektrik vurmuş şәxsi torpağa basdırmaq"
+        "D": "Elektrik vurmuş şəxsi torpağa basdırmaq"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q035",
-      "question": "35. Vәtәrlәrin gәrilmәsi zamanı:",
+      "question": "35. Vətərlərin gərilməsi zamanı:",
       "options": {
         "A": "soyuq kompres qoymaq, sıx sarğı",
         "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
@@ -423,11 +423,11 @@
     },
     {
       "id": "q036",
-      "question": "36. Dәrialtı inyeksiya hansı nahiyәdә aparılır?",
+      "question": "36. Dərialtı inyeksiya hansı nahiyədə aparılır?",
       "options": {
         "A": "hər ayda bir dəfədən az olmayan müddətdə",
         "B": "cənub-qərb dreyfi zamanı",
-        "C": "Saidin içәri sәthində",
+        "C": "Saidin içəri səthində",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
       "correct_answer": "C",
@@ -435,11 +435,11 @@
     },
     {
       "id": "q037",
-      "question": "37. Vena daxilinә damcı üsulu ilә dәrman yeridilәrkәn xәstәnin vәziyyәti necә olmalıdır?",
+      "question": "37. Vena daxilinə damcı üsulu ilə dərman yeridilərkən xəstənin vəziyyəti necə olmalıdır?",
       "options": {
         "A": "cənub-qərb dreyfi zamanı",
         "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "Arxası üstә uzanmış",
+        "C": "Arxası üstə uzanmış",
         "D": "gəmi limana daxil olana qədər"
       },
       "correct_answer": "C",
@@ -447,7 +447,7 @@
     },
     {
       "id": "q038",
-      "question": "38. 3-cü dәrәcәli yanıq әlamәtlәri hansılardır?",
+      "question": "38. 3-cü dərəcəli yanıq əlamətləri hansılardır?",
       "options": {
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "B": "bütün cavablar doğrudur",
@@ -459,7 +459,7 @@
     },
     {
       "id": "q039",
-      "question": "39. 4-cü dәrәcәli yanıq әlamәtlәri hansılardır?",
+      "question": "39. 4-cü dərəcəli yanıq əlamətləri hansılardır?",
       "options": {
         "A": "Bütün toxuma qatlarının nekrozu",
         "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
@@ -471,10 +471,10 @@
     },
     {
       "id": "q040",
-      "question": "40. Zәrәrçәkәnin çoxlu qan itirmәsinin әlamәtlәri:",
+      "question": "40. Zərərçəkənin çoxlu qan itirməsinin əlamətləri:",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "Soyuq yapışqanlı tәr, başgicәllәnmә, halsızlıq, zәif nәbz,arterial tәzyiqin aşağı düşmәsi, tәngnәfәslik",
+        "B": "Soyuq yapışqanlı tər, başgicəllənmə, halsızlıq, zəif nəbz,arterial təzyiqin aşağı düşməsi, təngnəfəslik",
         "C": "şimal-şərq istiqamətində",
         "D": "lövbər dayanacağı sahəsində"
       },
@@ -483,7 +483,7 @@
     },
     {
       "id": "q041",
-      "question": "41. Yüngül әzilmә zamanı ilk yardım",
+      "question": "41. Yüngül əzilmə zamanı ilk yardım",
       "options": {
         "A": "10 uzel sürətlə manevr etdikdə",
         "B": "soyuq kompres qoymaq",
@@ -500,26 +500,26 @@
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "B": "50 metr məsafədə dənizdə",
         "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "Yarımoturaq-ayaqları yığılmış vәziyyәtdә, soyuq kompres qoymaq"
+        "D": "Yarımoturaq-ayaqları yığılmış vəziyyətdə, soyuq kompres qoymaq"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q043",
-      "question": "43. Venoz qanaxmanın әlamәtlәri hansılardır?",
+      "question": "43. Venoz qanaxmanın əlamətləri hansılardır?",
       "options": {
         "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "B": "gəmi limana daxil olana qədər",
         "C": "avtomatik rejimdə işləyərkən",
-        "D": "Tünd qırmızı rәngdә olması, zәif, fasilәsiz axması"
+        "D": "Tünd qırmızı rəngdə olması, zəif, fasiləsiz axması"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q044",
-      "question": "44. Döş qәfәsi yaralanmaları zamanı hansı hermetik sarğıdan istifadә etmәk olar?",
+      "question": "44. Döş qəfəsi yaralanmaları zamanı hansı hermetik sarğıdan istifadə etmək olar?",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
         "B": "avtomatik rejimdə işləyərkən",
@@ -531,22 +531,22 @@
     },
     {
       "id": "q045",
-      "question": "45. Arterial qanaxmanın müvәqqәti dayandırılmasında hansı üsuldan istifadә olunur?",
+      "question": "45. Arterial qanaxmanın müvəqqəti dayandırılmasında hansı üsuldan istifadə olunur?",
       "options": {
         "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "C": "avtomatik rejimdə işləyərkən",
-        "D": "Damarların sümüklәrә sıxılması"
+        "D": "Damarların sümüklərə sıxılması"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q046",
-      "question": "46. Arterial qanaxmanı venoz qanaxmadan fәrqlәndirәn nәdir?",
+      "question": "46. Arterial qanaxmanı venoz qanaxmadan fərqləndirən nədir?",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "Al qırmızı rәngdә olması, qanın güclü tәzyiqlә axması",
+        "B": "Al qırmızı rəngdə olması, qanın güclü təzyiqlə axması",
         "C": "lövbər dayanacağı sahəsində",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
@@ -555,9 +555,9 @@
     },
     {
       "id": "q047",
-      "question": "47. II dәrәcәli donma üçün xarakterik әlamәt hansıdır?",
+      "question": "47. II dərəcəli donma üçün xarakterik əlamət hansıdır?",
       "options": {
-        "A": "Suluqların әmәlә gәlmәsi",
+        "A": "Suluqların əmələ gəlməsi",
         "B": "fırtınalı havada təxirə salınmaqla",
         "C": "gəmi limana daxil olana qədər",
         "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
@@ -579,7 +579,7 @@
     },
     {
       "id": "q049",
-      "question": "49. İnsanın qan daşıyıcı sistemindә neçә litr qan var?",
+      "question": "49. İnsanın qan daşıyıcı sistemində neçə litr qan var?",
       "options": {
         "A": "əllə idarəetmə rejiminə keçdikdə",
         "B": "cənub-qərb dreyfi zamanı",
@@ -591,10 +591,10 @@
     },
     {
       "id": "q050",
-      "question": "50. Bazu oynağının çıxığında ilk tibbi yardım mәqsәdilә nә yerinә yetirilir?",
+      "question": "50. Bazu oynağının çıxığında ilk tibbi yardım məqsədilə nə yerinə yetirilir?",
       "options": {
         "A": "lövbər dayanacağı sahəsində",
-        "B": "soyuq kompres qoymaq, hәrәkәtsizlәşdirmәk",
+        "B": "soyuq kompres qoymaq, hərəkətsizləşdirmək",
         "C": "hər ayda bir dəfədən az olmayan müddətdə",
         "D": "əllə idarəetmə rejiminə keçdikdə"
       },
@@ -603,9 +603,9 @@
     },
     {
       "id": "q051",
-      "question": "51. Dәrialtı inyeksiyadan sonra inyeksiya yeri bәrkidikdә aşağıda sadalanan tәdbirdәn hansı әks-göstәriş sayılır?",
+      "question": "51. Dərialtı inyeksiyadan sonra inyeksiya yeri bərkidikdə aşağıda sadalanan tədbirdən hansı əks-göstəriş sayılır?",
       "options": {
-        "A": "Bәrkiyәn nahiyyәyә buz qovuğu qoymaq",
+        "A": "Bərkiyən nahiyyəyə buz qovuğu qoymaq",
         "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "D": "hər 6 aydan bir keçirilən təlimlərdə"
@@ -615,9 +615,9 @@
     },
     {
       "id": "q052",
-      "question": "52. Vena daxili inyeksiyadan әvvәl turnanın düzgün qoyulmasının göstәricisi nәdir",
+      "question": "52. Vena daxili inyeksiyadan əvvəl turnanın düzgün qoyulmasının göstəricisi nədir",
       "options": {
-        "A": "Turnadan aşağı hissәdә dәri örtüyünün avazıması",
+        "A": "Turnadan aşağı hissədə dəri örtüyünün avazıması",
         "B": "10 uzel sürətlə manevr etdikdə",
         "C": "şimal-şərq istiqamətində",
         "D": "fırtınalı havada təxirə salınmaqla"
@@ -627,7 +627,7 @@
     },
     {
       "id": "q053",
-      "question": "53. Nәbzi hansı arteriyalarda saymaq mümkündür?",
+      "question": "53. Nəbzi hansı arteriyalarda saymaq mümkündür?",
       "options": {
         "A": "Sadalanan arteriyalarda",
         "B": "hər ayda bir dəfədən az olmayan müddətdə",
@@ -641,7 +641,7 @@
       "id": "q054",
       "question": "54. Elektrotravmalarda ilk tibbi yardım hansıdır?",
       "options": {
-        "A": "Ürәyin xarici masajı",
+        "A": "Ürəyin xarici masajı",
         "B": "əllə idarəetmə rejiminə keçdikdə",
         "C": "hər ayda bir dəfədən az olmayan müddətdə",
         "D": "avtomatik rejimdə işləyərkən"
@@ -651,11 +651,11 @@
     },
     {
       "id": "q055",
-      "question": "55. İnsanı hәyata qaytarmaq üçün adi şәraitdә kilinik ölümün vaxt nә qәdәr olmalıdır?",
+      "question": "55. İnsanı həyata qaytarmaq üçün adi şəraitdə kilinik ölümün vaxt nə qədər olmalıdır?",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
         "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "4-5 dәq",
+        "C": "4-5 dəq",
         "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
       "correct_answer": "C",
@@ -663,19 +663,19 @@
     },
     {
       "id": "q056",
-      "question": "56. Reanimasion tәdbirlәri kliniki ölümün hansı dәqiqәsindә yerinә yetirdikdә daha çox effektli olur?",
+      "question": "56. Reanimasion tədbirləri kliniki ölümün hansı dəqiqəsində yerinə yetirdikdə daha çox effektli olur?",
       "options": {
         "A": "gəmi limana daxil olana qədər",
         "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "1-2 dәq"
+        "D": "1-2 dəq"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q057",
-      "question": "57. Orta yaşlı insanlarda nәbz 1dәqiqәdә neçә olmalıdır?",
+      "question": "57. Orta yaşlı insanlarda nəbz 1dəqiqədə neçə olmalıdır?",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "gərginlik 220 V həddinə çatdıqda",
@@ -687,10 +687,10 @@
     },
     {
       "id": "q058",
-      "question": "58. İnsanı huşsuz vәziyyәtdә aşkar edәrkәn nә etmәk lazımdır?",
+      "question": "58. İnsanı huşsuz vəziyyətdə aşkar edərkən nə etmək lazımdır?",
       "options": {
         "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "Әsasәn nәbz,tәnәffüs vә bәbәklәrinә xüsusi fikir vermәk",
+        "B": "Əsasən nəbz,tənəffüs və bəbəklərinə xüsusi fikir vermək",
         "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "D": "əllə idarəetmə rejiminə keçdikdə"
       },
@@ -699,9 +699,9 @@
     },
     {
       "id": "q059",
-      "question": "59. Sarğı qoymağın әsas prinsiplәri?",
+      "question": "59. Sarğı qoymağın əsas prinsipləri?",
       "options": {
-        "A": "Əllәri yumaq, yaranın kәnarlarını tәmizlәmәk, aseptik sarğı Bağlamaq",
+        "A": "Əlləri yumaq, yaranın kənarlarını təmizləmək, aseptik sarğı Bağlamaq",
         "B": "lövbər dayanacağı sahəsində",
         "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "D": "bütün cavablar yanlışdır"
@@ -711,23 +711,23 @@
     },
     {
       "id": "q060",
-      "question": "60. Yod mәhlulundan vә ya brilyant yaşılından dezinfeksiya vasitәsi kimi düzgün olaraq necә istifadә olunur?",
+      "question": "60. Yod məhlulundan və ya brilyant yaşılından dezinfeksiya vasitəsi kimi düzgün olaraq necə istifadə olunur?",
       "options": {
         "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "B": "hər ayda bir dəfədən az olmayan müddətdə",
         "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "Yaranın әtrafına sürtülmәlidir"
+        "D": "Yaranın ətrafına sürtülməlidir"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q061",
-      "question": "61. Açıq sınıqda ilk tibbi yardım necә göstәrilir?",
+      "question": "61. Açıq sınıqda ilk tibbi yardım necə göstərilir?",
       "options": {
         "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "B": "gəmi limana daxil olana qədər",
-        "C": "Qanaxmanın qarşısı alınır, sınmış hissә hәrәkәtsizlәşdirilir, ağrı kәsici vurulur",
+        "C": "Qanaxmanın qarşısı alınır, sınmış hissə hərəkətsizləşdirilir, ağrı kəsici vurulur",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
       "correct_answer": "C",
@@ -735,9 +735,9 @@
     },
     {
       "id": "q062",
-      "question": "62. Әtrafların çıxığı zamanı zәrәrçәkәnә ilk tibbi yardımın göstәrilmәsi nәdәn ibarәtdir?",
+      "question": "62. Ətrafların çıxığı zamanı zərərçəkənə ilk tibbi yardımın göstərilməsi nədən ibarətdir?",
       "options": {
-        "A": "Әtrafı zәdәlәnmәdәn sonrakı vәziyyәtdә tәsbit (fiksә) etmәklә zәdәlәnәn oynağın üzәrinә buz vә ya soyuq kompres qoymaq",
+        "A": "Ətrafı zədələnmədən sonrakı vəziyyətdə təsbit (fiksə) etməklə zədələnən oynağın üzərinə buz və ya soyuq kompres qoymaq",
         "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "C": "şimal-şərq istiqamətində",
         "D": "gəmi limana daxil olana qədər"
@@ -747,22 +747,22 @@
     },
     {
       "id": "q063",
-      "question": "63. Bazu sümüyü sınan zәrәrçәkәnә ilk tibbi yardımın göstәrilmәsi nәdәn ibarәtdir?",
+      "question": "63. Bazu sümüyü sınan zərərçəkənə ilk tibbi yardımın göstərilməsi nədən ibarətdir?",
       "options": {
         "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "B": "fırtınalı havada təxirə salınmaqla",
         "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "Bazunun bayır vә içәri tәrәfindәn iki әdәd şina qoymaq,qoltuq altına yumşaq valik (bükülü) qoymaq vә qolu dirsәkdәn büküb lәçәkdә boyundan asmaq lazımdır"
+        "D": "Bazunun bayır və içəri tərəfindən iki ədəd şina qoymaq,qoltuq altına yumşaq valik (bükülü) qoymaq və qolu dirsəkdən büküb ləçəkdə boyundan asmaq lazımdır"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q064",
-      "question": "64. Açıq sınıqda ilk yardım necә göstәrilir?",
+      "question": "64. Açıq sınıqda ilk yardım necə göstərilir?",
       "options": {
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "Qanaxmanın qarşısı alınır, sınmış hissә hәrәkәtsizlәşdirilir, ağrıkәsici vurulur",
+        "B": "Qanaxmanın qarşısı alınır, sınmış hissə hərəkətsizləşdirilir, ağrıkəsici vurulur",
         "C": "əllə idarəetmə rejiminə keçdikdə",
         "D": "gəmi limana daxil olana qədər"
       },
@@ -771,7 +771,7 @@
     },
     {
       "id": "q065",
-      "question": "65. Qabırğaların sınığı zamanı xәstәni hansı vәziyyәtdә daşımaq olar?",
+      "question": "65. Qabırğaların sınığı zamanı xəstəni hansı vəziyyətdə daşımaq olar?",
       "options": {
         "A": "Yarımoturaq",
         "B": "hər ayda bir dəfədən az olmayan müddətdə",
@@ -783,7 +783,7 @@
     },
     {
       "id": "q066",
-      "question": "66. Gәmidә ilk tibbi yardım xüsusi hazırlıq kursu Beynәlxalq Konvensiyanın hansı bölmәsinin tәlәbәlәrinә uyğun tәşkil olunmalıdır?",
+      "question": "66. Gəmidə ilk tibbi yardım xüsusi hazırlıq kursu Beynəlxalq Konvensiyanın hansı bölməsinin tələbələrinə uyğun təşkil olunmalıdır?",
       "options": {
         "A": "bütün cavablar yanlışdır",
         "B": "A-VI/4",
@@ -795,7 +795,7 @@
     },
     {
       "id": "q067",
-      "question": "67. Sınıqlar neçә qrupa bölünür?",
+      "question": "67. Sınıqlar neçə qrupa bölünür?",
       "options": {
         "A": "bütün cavablar doğrudur",
         "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
@@ -807,10 +807,10 @@
     },
     {
       "id": "q068",
-      "question": "68. Elektrotravmalarda ilk görülәcәk vacib tәdbir hansıdır?",
+      "question": "68. Elektrotravmalarda ilk görüləcək vacib tədbir hansıdır?",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "Cәrәyanın tәsirini kәsmәk",
+        "B": "Cərəyanın təsirini kəsmək",
         "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
@@ -819,9 +819,9 @@
     },
     {
       "id": "q069",
-      "question": "69. Yuxu arteriyası zәdәlәnәrsә qanaxmanı necә saxlamaq olar?",
+      "question": "69. Yuxu arteriyası zədələnərsə qanaxmanı necə saxlamaq olar?",
       "options": {
-        "A": "Yuxu arteriyasını boyun fәqәrәsinә sıxmaqla",
+        "A": "Yuxu arteriyasını boyun fəqərəsinə sıxmaqla",
         "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "C": "lövbər dayanacağı sahəsində",
         "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
@@ -831,11 +831,11 @@
     },
     {
       "id": "q070",
-      "question": "70. Qarınının ön divarı yaralanmış zәrәrçәkәni necә daşımaq mәqsәdә uyğundur?",
+      "question": "70. Qarınının ön divarı yaralanmış zərərçəkəni necə daşımaq məqsədə uyğundur?",
       "options": {
         "A": "şimal-şərq istiqamətində",
         "B": "bütün cavablar yanlışdır",
-        "C": "Zәrәrçәkәn yarımoturaq, ayaqlar qarnına yığılmış vәziyyәtdә daşınır",
+        "C": "Zərərçəkən yarımoturaq, ayaqlar qarnına yığılmış vəziyyətdə daşınır",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
       "correct_answer": "C",
@@ -843,19 +843,19 @@
     },
     {
       "id": "q071",
-      "question": "71. Arterial qanaxma üçün xarakterik әlamәt hansıdır?",
+      "question": "71. Arterial qanaxma üçün xarakterik əlamət hansıdır?",
       "options": {
         "A": "lövbər dayanacağı sahəsində",
         "B": "avtomatik rejimdə işləyərkən",
         "C": "bütün cavablar yanlışdır",
-        "D": "Qanın al qırmızı rәngdә olması"
+        "D": "Qanın al qırmızı rəngdə olması"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q072",
-      "question": "72. Hansı qanaxmalarda bәrk sarğı qoyulur?",
+      "question": "72. Hansı qanaxmalarda bərk sarğı qoyulur?",
       "options": {
         "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "B": "Venoz",
@@ -867,10 +867,10 @@
     },
     {
       "id": "q073",
-      "question": "73. Dәm qazı ilә zәhәrlәnmә zamanı ilkin әlamәtlәr hansılardır?",
+      "question": "73. Dəm qazı ilə zəhərlənmə zamanı ilkin əlamətlər hansılardır?",
       "options": {
         "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "Ümumi zәiflik hissi,alın vә gicgah nahiyyәsindә ağrı,qulaqda ağırlıq hissiyatı",
+        "B": "Ümumi zəiflik hissi,alın və gicgah nahiyyəsində ağrı,qulaqda ağırlıq hissiyatı",
         "C": "fırtınalı havada təxirə salınmaqla",
         "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
@@ -879,10 +879,10 @@
     },
     {
       "id": "q074",
-      "question": "74. Qolu zәdәlәnәn xәstәnin paltarını dәyişәrkәn aşağıda göstәrilәn qaydalardan hansını düz edirsiz?",
+      "question": "74. Qolu zədələnən xəstənin paltarını dəyişərkən aşağıda göstərilən qaydalardan hansını düz edirsiz?",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "Köynәk əvvәl zәdәli qola geyindirilir",
+        "B": "Köynək əvvəl zədəli qola geyindirilir",
         "C": "əllə idarəetmə rejiminə keçdikdə",
         "D": "10 uzel sürətlə manevr etdikdə"
       },
@@ -891,7 +891,7 @@
     },
     {
       "id": "q075",
-      "question": "75. Bud sümüyünün açıq sınığı zamanı güclü qanaxma olarsa ilk yardım olaraq nәyi yerinә yetirmәk lazımdır?",
+      "question": "75. Bud sümüyünün açıq sınığı zamanı güclü qanaxma olarsa ilk yardım olaraq nəyi yerinə yetirmək lazımdır?",
       "options": {
         "A": "hər ayda bir dəfədən az olmayan müddətdə",
         "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
@@ -903,7 +903,7 @@
     },
     {
       "id": "q076",
-      "question": "76. Orqanizmin birdәn birә neçә litr qan itirmәsi ölümlә nәticәlәnә bilәr?(70 kq)",
+      "question": "76. Orqanizmin birdən birə neçə litr qan itirməsi ölümlə nəticələnə bilər?(70 kq)",
       "options": {
         "A": "bütün cavablar yanlışdır",
         "B": "gərginlik 220 V həddinə çatdıqda",
@@ -915,11 +915,11 @@
     },
     {
       "id": "q077",
-      "question": "77. Periferik venanın kateterizasiyası üçün hansı venanın seçilmәsi mәqsәdә uyğundur?",
+      "question": "77. Periferik venanın kateterizasiyası üçün hansı venanın seçilməsi məqsədə uyğundur?",
       "options": {
         "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "Orta dirsәk venası",
+        "C": "Orta dirsək venası",
         "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
       "correct_answer": "C",
@@ -927,7 +927,7 @@
     },
     {
       "id": "q078",
-      "question": "78. Hansı qanaxmalarda bәrk sarğıdan istifadә olunur?",
+      "question": "78. Hansı qanaxmalarda bərk sarğıdan istifadə olunur?",
       "options": {
         "A": "hər ayda bir dəfədən az olmayan müddətdə",
         "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
@@ -939,11 +939,11 @@
     },
     {
       "id": "q079",
-      "question": "79. Onurğa sütununun zәdәlәnmәsi zamanı zәrәrçәkәn huşsuz vәziyyәtdә olarsa onu hansı vәziyyәtdә tәxliyyә etmәk lazımdır?",
+      "question": "79. Onurğa sütununun zədələnməsi zamanı zərərçəkən huşsuz vəziyyətdə olarsa onu hansı vəziyyətdə təxliyyə etmək lazımdır?",
       "options": {
         "A": "gərginlik 220 V həddinə çatdıqda",
         "B": "lövbər dayanacağı sahəsində",
-        "C": "Qarnı üstә uzadılmış vәziyyәtdә",
+        "C": "Qarnı üstə uzadılmış vəziyyətdə",
         "D": "gəmi limana daxil olana qədər"
       },
       "correct_answer": "C",
@@ -951,11 +951,11 @@
     },
     {
       "id": "q080",
-      "question": "80. Zәrәrçәkәnin huşu aydındır, tәnәffüs edir və nәbz tәyin edilirsә zәrәrçәkәnә hansı vәziyyәt verilir?",
+      "question": "80. Zərərçəkənin huşu aydındır, tənəffüs edir və nəbz təyin edilirsə zərərçəkənə hansı vəziyyət verilir?",
       "options": {
         "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "B": "şimal-şərq istiqamətində",
-        "C": "Arxası üstә",
+        "C": "Arxası üstə",
         "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
       "correct_answer": "C",
@@ -963,9 +963,9 @@
     },
     {
       "id": "q081",
-      "question": "81. Zәrәrçәkәnin huşu yoxdur,tәnәffüs edir və nәbz tәyin edilirsә zәrәrçәkәnә hansı vәziyyәt verilir?",
+      "question": "81. Zərərçəkənin huşu yoxdur,tənəffüs edir və nəbz təyin edilirsə zərərçəkənə hansı vəziyyət verilir?",
       "options": {
-        "A": "Böyürü üstә",
+        "A": "Böyürü üstə",
         "B": "bütün cavablar doğrudur",
         "C": "fırtınalı havada təxirə salınmaqla",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
@@ -975,9 +975,9 @@
     },
     {
       "id": "q082",
-      "question": "82. Zәrәrçәkәnin huşu yoxdur,tәnәffüs etmir,nәbz tәyin edilmirsә zәrәrçәkәnә necә yardım edilmәlidir?",
+      "question": "82. Zərərçəkənin huşu yoxdur,tənəffüs etmir,nəbz təyin edilmirsə zərərçəkənə necə yardım edilməlidir?",
       "options": {
-        "A": "Ürәk-ağciyәr reanimasiyası aparılır",
+        "A": "Ürək-ağciyər reanimasiyası aparılır",
         "B": "bütün cavablar doğrudur",
         "C": "cənub-qərb dreyfi zamanı",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
@@ -987,9 +987,9 @@
     },
     {
       "id": "q083",
-      "question": "83. Arterial qanaxma zamanı turna qoyulduqda nә baş verir?",
+      "question": "83. Arterial qanaxma zamanı turna qoyulduqda nə baş verir?",
       "options": {
-        "A": "Qanaxma dayanır,prefirik nәbz itir",
+        "A": "Qanaxma dayanır,prefirik nəbz itir",
         "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "C": "hər 6 aydan bir keçirilən təlimlərdə",
         "D": "avtomatik rejimdə işləyərkən"

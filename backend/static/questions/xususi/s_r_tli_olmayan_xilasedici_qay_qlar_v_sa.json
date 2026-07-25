@@ -3,11 +3,11 @@
   "questions": [
     {
       "id": "q001",
-      "question": "1. Hansı heyәt üzvü üçün hidrotermokostyum mütlәq nәzәrdә tutulur?",
+      "question": "1. Hansı heyət üzvü üçün hidrotermokostyum mütləq nəzərdə tutulur?",
       "options": {
         "A": "50 metr məsafədə dənizdə",
         "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "növbәtci qayığın ekipajında",
+        "C": "növbətci qayığın ekipajında",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
       "correct_answer": "C",
@@ -15,7 +15,7 @@
     },
     {
       "id": "q002",
-      "question": "2. Hansı temperaturda istilik qoruyucu vasitә öz funksiyalarını yerinә yetirmәlidir?",
+      "question": "2. Hansı temperaturda istilik qoruyucu vasitə öz funksiyalarını yerinə yetirməlidir?",
       "options": {
         "A": "gərginlik 220 V həddinə çatdıqda",
         "B": "-30ºC - +20ºC",
@@ -27,10 +27,10 @@
     },
     {
       "id": "q003",
-      "question": "3. 8 nәfәrlik xilasedici salda neçә әdәd istilik qoruyucu vasitә olmalıdır?",
+      "question": "3. 8 nəfərlik xilasedici salda neçə ədəd istilik qoruyucu vasitə olmalıdır?",
       "options": {
         "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "azı 2 әdәd",
+        "B": "azı 2 ədəd",
         "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
@@ -39,9 +39,9 @@
     },
     {
       "id": "q004",
-      "question": "4. 20 nәfәrdәn çox xilasedici qayığda necә әdәd istilik qoruyucu vasitә olmalıdır?",
+      "question": "4. 20 nəfərdən çox xilasedici qayığda necə ədəd istilik qoruyucu vasitə olmalıdır?",
       "options": {
-        "A": "heyәtin 10% az olmayaraq",
+        "A": "heyətin 10% az olmayaraq",
         "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
@@ -51,10 +51,10 @@
     },
     {
       "id": "q005",
-      "question": "5. Xilasedici salların növlәri hansılardır?",
+      "question": "5. Xilasedici salların növləri hansılardır?",
       "options": {
         "A": "bütün cavablar doğrudur",
-        "B": "endirilәn vә atılan xilasedici sal",
+        "B": "endirilən və atılan xilasedici sal",
         "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
@@ -63,7 +63,7 @@
     },
     {
       "id": "q006",
-      "question": "6. Xilasedici salın falının minimal uzunluğu nә qәdәr olmalıdır?",
+      "question": "6. Xilasedici salın falının minimal uzunluğu nə qədər olmalıdır?",
       "options": {
         "A": "15 m",
         "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
@@ -75,7 +75,7 @@
     },
     {
       "id": "q007",
-      "question": "7. Xilasedici salın konteynerini açan hidrostatik qurğu hansı dәrinlikdә işә düşür?",
+      "question": "7. Xilasedici salın konteynerini açan hidrostatik qurğu hansı dərinlikdə işə düşür?",
       "options": {
         "A": "4 metr",
         "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
@@ -87,7 +87,7 @@
     },
     {
       "id": "q008",
-      "question": "8. Xilasedici salların konteynerinin üzәrindә nә qeyd olunmur?",
+      "question": "8. Xilasedici salların konteynerinin üzərində nə qeyd olunmur?",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "cənub-qərb dreyfi zamanı",
@@ -99,7 +99,7 @@
     },
     {
       "id": "q009",
-      "question": "9. Xilasedici salın suda istifadәsi azı neçә sutka nәzәrdә tutulub?",
+      "question": "9. Xilasedici salın suda istifadəsi azı neçə sutka nəzərdə tutulub?",
       "options": {
         "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "B": "fırtınalı havada təxirə salınmaqla",
@@ -111,7 +111,7 @@
     },
     {
       "id": "q010",
-      "question": "10. Xilasedici salı maksimal hansı sürәtlә yedәklәmәk olar?",
+      "question": "10. Xilasedici salı maksimal hansı sürətlə yedəkləmək olar?",
       "options": {
         "A": "bütün cavablar yanlışdır",
         "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
@@ -123,7 +123,7 @@
     },
     {
       "id": "q011",
-      "question": "11. Atılan tipli xilasedici salın konteyneri hansı hündürlükdәn suya atılmağa davamlı olmalıdır?",
+      "question": "11. Atılan tipli xilasedici salın konteyneri hansı hündürlükdən suya atılmağa davamlı olmalıdır?",
       "options": {
         "A": "hər ayda bir dəfədən az olmayan müddətdə",
         "B": "10 uzel sürətlə manevr etdikdə",
@@ -135,11 +135,11 @@
     },
     {
       "id": "q012",
-      "question": "12. Xilasedici sal minimum nәçә nәfәrlik olmalıdır?",
+      "question": "12. Xilasedici sal minimum nəçə nəfərlik olmalıdır?",
       "options": {
         "A": "şimal-şərq istiqamətində",
         "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "6 nәfәrlik",
+        "C": "6 nəfərlik",
         "D": "bütün cavablar yanlışdır"
       },
       "correct_answer": "C",
@@ -147,7 +147,7 @@
     },
     {
       "id": "q013",
-      "question": "13. Atılan tipli xilasedici salın konteynerinin maksimal çәkisi nә qәdәr olmalıdır?",
+      "question": "13. Atılan tipli xilasedici salın konteynerinin maksimal çəkisi nə qədər olmalıdır?",
       "options": {
         "A": "bütün cavablar yanlışdır",
         "B": "əllə idarəetmə rejiminə keçdikdə",
@@ -159,7 +159,7 @@
     },
     {
       "id": "q014",
-      "question": "14. 18 metr hündürlükdә yerlәşdirilmiş xilasedici salın falının uzunluğu nә qәdәr olmalıdır?",
+      "question": "14. 18 metr hündürlükdə yerləşdirilmiş xilasedici salın falının uzunluğu nə qədər olmalıdır?",
       "options": {
         "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "B": "fırtınalı havada təxirə salınmaqla",
@@ -171,9 +171,9 @@
     },
     {
       "id": "q015",
-      "question": "15. Xilasedici salların açılmasının vaxtı nә qәdәr olmalıdır?",
+      "question": "15. Xilasedici salların açılmasının vaxtı nə qədər olmalıdır?",
       "options": {
-        "A": "1-3 dәqiqә",
+        "A": "1-3 dəqiqə",
         "B": "fırtınalı havada təxirə salınmaqla",
         "C": "əllə idarəetmə rejiminə keçdikdə",
         "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
@@ -183,23 +183,23 @@
     },
     {
       "id": "q016",
-      "question": "16. Endirilәn xilasedici sallara yük gәmisindә insanların yerlәşdirilmә vaxtı nә qәdәr olmalıdır?",
+      "question": "16. Endirilən xilasedici sallara yük gəmisində insanların yerləşdirilmə vaxtı nə qədər olmalıdır?",
       "options": {
         "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "C": "cənub-qərb dreyfi zamanı",
-        "D": "3 dәqiqә"
+        "D": "3 dəqiqə"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q017",
-      "question": "17. Endirilәn xilasedici sallara insanların yerlәşdirmә vә endirmә vaxtı nә qәdәr olmalıdır?",
+      "question": "17. Endirilən xilasedici sallara insanların yerləşdirmə və endirmə vaxtı nə qədər olmalıdır?",
       "options": {
         "A": "gəmi limana daxil olana qədər",
         "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "12 dәqiqә",
+        "C": "12 dəqiqə",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
       "correct_answer": "C",
@@ -207,10 +207,10 @@
     },
     {
       "id": "q018",
-      "question": "18. Atılan xilasedici sallara insanların yerlәşdirmә vaxtı nә qәdәr olmalıdır?",
+      "question": "18. Atılan xilasedici sallara insanların yerləşdirmə vaxtı nə qədər olmalıdır?",
       "options": {
         "A": "50 metr məsafədə dənizdə",
-        "B": "6 dәqiqә",
+        "B": "6 dəqiqə",
         "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "D": "10 uzel sürətlə manevr etdikdə"
       },
@@ -219,10 +219,10 @@
     },
     {
       "id": "q019",
-      "question": "19. Xilasedici salı minimum necә nәfәr çevirә bilәr?",
+      "question": "19. Xilasedici salı minimum necə nəfər çevirə bilər?",
       "options": {
         "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "1 nәfәr",
+        "B": "1 nəfər",
         "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
@@ -231,7 +231,7 @@
     },
     {
       "id": "q020",
-      "question": "20. Xilasedici salın örtüyünün üzәrindә nә olmur?",
+      "question": "20. Xilasedici salın örtüyünün üzərində nə olmur?",
       "options": {
         "A": "10 uzel sürətlə manevr etdikdə",
         "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
@@ -243,7 +243,7 @@
     },
     {
       "id": "q021",
-      "question": "21. 8 nәfәrdәn çox xilasedici salın minimum neçә girişi olmalıdır?",
+      "question": "21. 8 nəfərdən çox xilasedici salın minimum neçə girişi olmalıdır?",
       "options": {
         "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
@@ -255,7 +255,7 @@
     },
     {
       "id": "q022",
-      "question": "22. Xilasedici salın daxili vә siqnalverici işığının fasilәsiz yanma müddәti neçә saat olmalıdır?",
+      "question": "22. Xilasedici salın daxili və siqnalverici işığının fasiləsiz yanma müddəti neçə saat olmalıdır?",
       "options": {
         "A": "bütün cavablar doğrudur",
         "B": "avtomatik rejimdə işləyərkən",
@@ -267,7 +267,7 @@
     },
     {
       "id": "q023",
-      "question": "23. Xilasedici salda üzmә qabiliyyәtinә malik kameraların minimal sayı neçә olmalıdır?",
+      "question": "23. Xilasedici salda üzmə qabiliyyətinə malik kameraların minimal sayı neçə olmalıdır?",
       "options": {
         "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
@@ -279,7 +279,7 @@
     },
     {
       "id": "q024",
-      "question": "24. Xilasedici salın bütün perimetri üzrә nә olmalıdır?",
+      "question": "24. Xilasedici salın bütün perimetri üzrə nə olmalıdır?",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "leyer ipi",
@@ -291,11 +291,11 @@
     },
     {
       "id": "q025",
-      "question": "25. Xilasedici salın dreyfini nә azaldır?",
+      "question": "25. Xilasedici salın dreyfini nə azaldır?",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
         "B": "bütün cavablar yanlışdır",
-        "C": "üzәn lövbәr vә ballast ciblәri",
+        "C": "üzən lövbər və ballast cibləri",
         "D": "avtomatik rejimdə işləyərkən"
       },
       "correct_answer": "C",
@@ -303,9 +303,9 @@
     },
     {
       "id": "q026",
-      "question": "26. Xilasedici salda neçә әdәd kiçik diametrli xilasedici dairә olmalıdır?",
+      "question": "26. Xilasedici salda neçə ədəd kiçik diametrli xilasedici dairə olmalıdır?",
       "options": {
-        "A": "1 әdәd",
+        "A": "1 ədəd",
         "B": "şimal-şərq istiqamətində",
         "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "D": "bütün cavablar doğrudur"
@@ -315,31 +315,31 @@
     },
     {
       "id": "q027",
-      "question": "27. Xilasedici salda neçə ədəd üzәn lövbәr olmalıdır?",
+      "question": "27. Xilasedici salda neçə ədəd üzən lövbər olmalıdır?",
       "options": {
         "A": "10 uzel sürətlə manevr etdikdə",
         "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "2 әdәd"
+        "D": "2 ədəd"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q028",
-      "question": "28. 12 nәfәrdәn çox xilasedici salda nә qәdәr üzәn çanaq vә bıçaq olmalıdır?",
+      "question": "28. 12 nəfərdən çox xilasedici salda nə qədər üzən çanaq və bıçaq olmalıdır?",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
         "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "C": "avtomatik rejimdə işləyərkən",
-        "D": "2 әdәd"
+        "D": "2 ədəd"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q029",
-      "question": "29. Xilasedici salın tәchizatına nә daxil olmur?",
+      "question": "29. Xilasedici salın təchizatına nə daxil olmur?",
       "options": {
         "A": "cənub-qərb dreyfi zamanı",
         "B": "fırtınalı havada təxirə salınmaqla",
@@ -351,11 +351,11 @@
     },
     {
       "id": "q030",
-      "question": "30. Xilasedici salda hәr bir insan ücün hansı miqdarda su olmalıdır?",
+      "question": "30. Xilasedici salda hər bir insan ücün hansı miqdarda su olmalıdır?",
       "options": {
         "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "1.5 litr hәr nәfәrә",
+        "C": "1.5 litr hər nəfərə",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
       "correct_answer": "C",
@@ -363,10 +363,10 @@
     },
     {
       "id": "q031",
-      "question": "31. Kollektiv xilasedici vasitәlәrdә dәrman qutusu nә cür olmalıdır?",
+      "question": "31. Kollektiv xilasedici vasitələrdə dərman qutusu nə cür olmalıdır?",
       "options": {
         "A": "şimal-şərq istiqamətində",
-        "B": "su keçirmәyәn",
+        "B": "su keçirməyən",
         "C": "10 uzel sürətlə manevr etdikdə",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
@@ -375,7 +375,7 @@
     },
     {
       "id": "q032",
-      "question": "32. Xilasedici salda dәniz xәstәliyinә qarşı dәrmanlar azı hansı vaxta bәs etmәlidir?",
+      "question": "32. Xilasedici salda dəniz xəstəliyinə qarşı dərmanlar azı hansı vaxta bəs etməlidir?",
       "options": {
         "A": "48 saata",
         "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
@@ -387,7 +387,7 @@
     },
     {
       "id": "q033",
-      "question": "33. Xilasedici salda pirotexnikanın hansı dәsti olmalıdır?",
+      "question": "33. Xilasedici salda pirotexnikanın hansı dəsti olmalıdır?",
       "options": {
         "A": "hər 6 aydan bir keçirilən təlimlərdə",
         "B": "6 falşfeyer, 4 paraşütlü raket, 2 tüstü şaşkası",
@@ -399,9 +399,9 @@
     },
     {
       "id": "q034",
-      "question": "34. Falşfeyerin yanma müddәti nә qәdәr olmalıdır?",
+      "question": "34. Falşfeyerin yanma müddəti nə qədər olmalıdır?",
       "options": {
-        "A": "azı 1 dәq",
+        "A": "azı 1 dəq",
         "B": "gərginlik 220 V həddinə çatdıqda",
         "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "D": "50 metr məsafədə dənizdə"
@@ -411,7 +411,7 @@
     },
     {
       "id": "q035",
-      "question": "35. Paraşütlü raketin işığıının yanma müddәti nә qәdәr olmalıdır?",
+      "question": "35. Paraşütlü raketin işığıının yanma müddəti nə qədər olmalıdır?",
       "options": {
         "A": "10 uzel sürətlə manevr etdikdə",
         "B": "azı 40 san.",
@@ -423,9 +423,9 @@
     },
     {
       "id": "q036",
-      "question": "36. Tüstü şaşkasının tüstü vermә qabiliyyәti nə qədər olmalıdır?",
+      "question": "36. Tüstü şaşkasının tüstü vermə qabiliyyəti nə qədər olmalıdır?",
       "options": {
-        "A": "azı 3 dәq",
+        "A": "azı 3 dəq",
         "B": "şimal-şərq istiqamətində",
         "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "D": "hər 6 aydan bir keçirilən təlimlərdə"
@@ -435,7 +435,7 @@
     },
     {
       "id": "q037",
-      "question": "37. Xilasedici salda hansı siqnal vә işarә verici vasitәlәr olmamalıdır?",
+      "question": "37. Xilasedici salda hansı siqnal və işarə verici vasitələr olmamalıdır?",
       "options": {
         "A": "bütün cavablar yanlışdır",
         "B": "şimal-şərq istiqamətində",
@@ -447,7 +447,7 @@
     },
     {
       "id": "q038",
-      "question": "38. Xilasedici salın örtüyünün üzәrindә nә qeyd olunmur?",
+      "question": "38. Xilasedici salın örtüyünün üzərində nə qeyd olunmur?",
       "options": {
         "A": "hər 6 aydan bir keçirilən təlimlərdə",
         "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
@@ -459,11 +459,11 @@
     },
     {
       "id": "q039",
-      "question": "39. Xilasedici salın tәchizatı harada vә hansı vaxtdan bir yoxlanılmalıdır?",
+      "question": "39. Xilasedici salın təchizatı harada və hansı vaxtdan bir yoxlanılmalıdır?",
       "options": {
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "B": "lövbər dayanacağı sahəsində",
-        "C": "ildә 1 dәfә laboratoriyada",
+        "C": "ildə 1 dəfə laboratoriyada",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
       "correct_answer": "C",
@@ -471,11 +471,11 @@
     },
     {
       "id": "q040",
-      "question": "40. Xilasedici qayıqların konstruksiyaya әsasәn növlәri hansılardir?",
+      "question": "40. Xilasedici qayıqların konstruksiyaya əsasən növləri hansılardir?",
       "options": {
         "A": "hər 6 aydan bir keçirilən təlimlərdə",
         "B": "şimal-şərq istiqamətində",
-        "C": "tam açıq, qismәn bağlı vә tam bağlı qayıqlar",
+        "C": "tam açıq, qismən bağlı və tam bağlı qayıqlar",
         "D": "gəmi limana daxil olana qədər"
       },
       "correct_answer": "C",
@@ -483,10 +483,10 @@
     },
     {
       "id": "q041",
-      "question": "41. Qismәn bağlı xilasedici qayığın neçә faizi örtülü olmalıdır?",
+      "question": "41. Qismən bağlı xilasedici qayığın neçə faizi örtülü olmalıdır?",
       "options": {
         "A": "50 metr məsafədə dənizdə",
-        "B": "20% qabaq vә arxa tәrәfdәn",
+        "B": "20% qabaq və arxa tərəfdən",
         "C": "əllə idarəetmə rejiminə keçdikdə",
         "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
@@ -495,11 +495,11 @@
     },
     {
       "id": "q042",
-      "question": "42. Sәrbәst hava tәchizatı sistemi ilә olan tam örtülü qayıqda әn azı nә qәdәr nәfәs almaq olar?",
+      "question": "42. Sərbəst hava təchizatı sistemi ilə olan tam örtülü qayıqda ən azı nə qədər nəfəs almaq olar?",
       "options": {
         "A": "cənub-qərb dreyfi zamanı",
         "B": "gəmi limana daxil olana qədər",
-        "C": "10 dәq",
+        "C": "10 dəq",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
       "correct_answer": "C",
@@ -507,9 +507,9 @@
     },
     {
       "id": "q043",
-      "question": "43. Oda davamlı xilasedici qayıqların minimal mühafizә müddәti nә qәdәrdir?",
+      "question": "43. Oda davamlı xilasedici qayıqların minimal mühafizə müddəti nə qədərdir?",
       "options": {
-        "A": "8 dәq",
+        "A": "8 dəq",
         "B": "hər 6 aydan bir keçirilən təlimlərdə",
         "C": "şimal-şərq istiqamətində",
         "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
@@ -519,7 +519,7 @@
     },
     {
       "id": "q044",
-      "question": "44. Xilasedici qayıq hansı hündürlükdәn suya düşәrkәn davam gәtirmәlidir?",
+      "question": "44. Xilasedici qayıq hansı hündürlükdən suya düşərkən davam gətirməlidir?",
       "options": {
         "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "B": "bütün cavablar yanlışdır",
@@ -531,7 +531,7 @@
     },
     {
       "id": "q045",
-      "question": "45. Xilasedici qayığın tam yanacaq ehtiyatı neçә saat vә hansı sürәtlә manevr etmәlidir?",
+      "question": "45. Xilasedici qayığın tam yanacaq ehtiyatı neçə saat və hansı sürətlə manevr etməlidir?",
       "options": {
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
@@ -543,7 +543,7 @@
     },
     {
       "id": "q046",
-      "question": "46. Gәminin hansı sürәti ilә xilasedici qayığı suya endirmәk vә yedәklәmәk mümkün olmalıdır?",
+      "question": "46. Gəminin hansı sürəti ilə xilasedici qayığı suya endirmək və yedəkləmək mümkün olmalıdır?",
       "options": {
         "A": "5 uz",
         "B": "gərginlik 220 V həddinə çatdıqda",
@@ -555,11 +555,11 @@
     },
     {
       "id": "q047",
-      "question": "47. Әn böyük xilasedici qayığın insan tutumu neçә nәfәrlik olur?",
+      "question": "47. Ən böyük xilasedici qayığın insan tutumu neçə nəfərlik olur?",
       "options": {
         "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "150 nәfәrlik",
+        "C": "150 nəfərlik",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
       "correct_answer": "C",
@@ -567,7 +567,7 @@
     },
     {
       "id": "q048",
-      "question": "48. Xilasedici qayıqlarda hansı mühәrrikdәn istifadә etmәyә icazә verilir?",
+      "question": "48. Xilasedici qayıqlarda hansı mühərrikdən istifadə etməyə icazə verilir?",
       "options": {
         "A": "əllə idarəetmə rejiminə keçdikdə",
         "B": "bütün cavablar doğrudur",
@@ -579,9 +579,9 @@
     },
     {
       "id": "q049",
-      "question": "49. Su xaricindә olan xilasedici qayığın mühәrrikini hansı vaxt әrzindә işlәtmək olar?",
+      "question": "49. Su xaricində olan xilasedici qayığın mühərrikini hansı vaxt ərzində işlətmək olar?",
       "options": {
-        "A": "5 dәq",
+        "A": "5 dəq",
         "B": "gərginlik 220 V həddinə çatdıqda",
         "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
@@ -594,7 +594,7 @@
       "question": "50. Xilasedici qayıqlarda hansi avadanlıq olmamalıdır?",
       "options": {
         "A": "lövbər dayanacağı sahəsində",
-        "B": "polad lövbәr",
+        "B": "polad lövbər",
         "C": "bütün cavablar yanlışdır",
         "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
@@ -603,10 +603,10 @@
     },
     {
       "id": "q051",
-      "question": "51. Hәr bir xilasedici qayıqda manevr etmәk üçün nә olmalıdır?",
+      "question": "51. Hər bir xilasedici qayıqda manevr etmək üçün nə olmalıdır?",
       "options": {
         "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "sükan vә rumpel",
+        "B": "sükan və rumpel",
         "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
@@ -615,7 +615,7 @@
     },
     {
       "id": "q052",
-      "question": "52. Xilasedici qayıqda projektorun fasilәsiz yanma müddәti nә qәdәr olmalıdır?",
+      "question": "52. Xilasedici qayıqda projektorun fasiləsiz yanma müddəti nə qədər olmalıdır?",
       "options": {
         "A": "azı 3 saat",
         "B": "lövbər dayanacağı sahəsində",
@@ -627,11 +627,11 @@
     },
     {
       "id": "q053",
-      "question": "53. Xilasedici qayığın idarәetmә postundan müşahidәnin görünüşü necә olmalıdır?",
+      "question": "53. Xilasedici qayığın idarəetmə postundan müşahidənin görünüşü necə olmalıdır?",
       "options": {
         "A": "50 metr məsafədə dənizdə",
         "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "bütün tәrәflәrә",
+        "C": "bütün tərəflərə",
         "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
       "correct_answer": "C",
@@ -639,22 +639,22 @@
     },
     {
       "id": "q054",
-      "question": "54. Yük gәmisindә xilasedici qayığa heyәtin yerlәşdirilmәsi vaxtı nә qәdәr olmalıdır?",
+      "question": "54. Yük gəmisində xilasedici qayığa heyətin yerləşdirilməsi vaxtı nə qədər olmalıdır?",
       "options": {
         "A": "əllə idarəetmə rejiminə keçdikdə",
         "B": "bütün cavablar doğrudur",
         "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "3 dәqiqə"
+        "D": "3 dəqiqə"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q055",
-      "question": "55. Yük gәmisindә xilasedici qayığa heyәtin yerlәşdirilmәsi vә suya endirilmәsi vaxtı nə qədər olmalıdır?",
+      "question": "55. Yük gəmisində xilasedici qayığa heyətin yerləşdirilməsi və suya endirilməsi vaxtı nə qədər olmalıdır?",
       "options": {
         "A": "50 metr məsafədə dənizdə",
-        "B": "8 dәqiqə",
+        "B": "8 dəqiqə",
         "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "D": "gəmi limana daxil olana qədər"
       },
@@ -666,7 +666,7 @@
       "question": "56. Xilasedici qayığa birinci kim daxil olmalıdır?",
       "options": {
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "endirmә komandası",
+        "B": "endirmə komandası",
         "C": "gəmi limana daxil olana qədər",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
@@ -687,7 +687,7 @@
     },
     {
       "id": "q058",
-      "question": "58. Hansı maksimal krenin vә diferentin göstәricilәrindә xilasedici qayıqları gәmidәn endirmәk olar?",
+      "question": "58. Hansı maksimal krenin və diferentin göstəricilərində xilasedici qayıqları gəmidən endirmək olar?",
       "options": {
         "A": "kren 200 diferent 100",
         "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
@@ -699,10 +699,10 @@
     },
     {
       "id": "q059",
-      "question": "59. Trosla enәn xilasedici qayığın mühәrriki dәnizә enәrkәn hansı vәziyyәtdә olmalıdır?",
+      "question": "59. Trosla enən xilasedici qayığın mühərriki dənizə enərkən hansı vəziyyətdə olmalıdır?",
       "options": {
         "A": "bütün cavablar doğrudur",
-        "B": "işlәk",
+        "B": "işlək",
         "C": "fırtınalı havada təxirə salınmaqla",
         "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
       },
@@ -711,11 +711,11 @@
     },
     {
       "id": "q061",
-      "question": "61. Xilasedici qayığın tәchizatında nә olmamalıdır?",
+      "question": "61. Xilasedici qayığın təchizatında nə olmamalıdır?",
       "options": {
         "A": "əllə idarəetmə rejiminə keçdikdə",
         "B": "50 metr məsafədə dənizdə",
-        "C": "üzәn lövbәr",
+        "C": "üzən lövbər",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
       "correct_answer": "C",
@@ -723,7 +723,7 @@
     },
     {
       "id": "q062",
-      "question": "62. Xilasedici qayıqda hәr bir insana nә qәdәr su olmalıdır?",
+      "question": "62. Xilasedici qayıqda hər bir insana nə qədər su olmalıdır?",
       "options": {
         "A": "hər ayda bir dəfədən az olmayan müddətdə",
         "B": "3 litr",
@@ -735,10 +735,10 @@
     },
     {
       "id": "q063",
-      "question": "63. Xilasedici qayığın burun hissәsindә, hәr iki bortda vә yuxarı hissәsindә hansı mәlumat qeyd olunmur?",
+      "question": "63. Xilasedici qayığın burun hissəsində, hər iki bortda və yuxarı hissəsində hansı məlumat qeyd olunmur?",
       "options": {
         "A": "bütün cavablar yanlışdır",
-        "B": "qayığın növlәri",
+        "B": "qayığın növləri",
         "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "D": "hər ayda bir dəfədən az olmayan müddətdə"
       },
@@ -747,10 +747,10 @@
     },
     {
       "id": "q064",
-      "question": "64. Xilasedici qayığın tәchizatı, avadanliğı vә endirilәn qurğuları hansı müddәtdәn bir yoxlanılmalıdır?",
+      "question": "64. Xilasedici qayığın təchizatı, avadanliğı və endirilən qurğuları hansı müddətdən bir yoxlanılmalıdır?",
       "options": {
         "A": "avtomatik rejimdə işləyərkən",
-        "B": "ayda 1 dәfә",
+        "B": "ayda 1 dəfə",
         "C": "cənub-qərb dreyfi zamanı",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
@@ -759,10 +759,10 @@
     },
     {
       "id": "q065",
-      "question": "65. Növbәtçi xilasedici qayığın әsas tәyinatı nədir?",
+      "question": "65. Növbətçi xilasedici qayığın əsas təyinatı nədir?",
       "options": {
         "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "dәnizdә insanların axtarışı vә xilas edilmәsi",
+        "B": "dənizdə insanların axtarışı və xilas edilməsi",
         "C": "hər 6 aydan bir keçirilən təlimlərdə",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
@@ -771,9 +771,9 @@
     },
     {
       "id": "q066",
-      "question": "66. Növbәtçi xilasedici qayıqların növlәri hansılardır?",
+      "question": "66. Növbətçi xilasedici qayıqların növləri hansılardır?",
       "options": {
-        "A": "sәrt gövdәli, hava ilә doldurulmuş vә kombinә olunmuş",
+        "A": "sərt gövdəli, hava ilə doldurulmuş və kombinə olunmuş",
         "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "C": "gəmi limana daxil olana qədər",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
@@ -783,9 +783,9 @@
     },
     {
       "id": "q067",
-      "question": "67. Növbәtçi xilasedici qayıqların heyәti neçә nәfәrdәn ibarәtdir?",
+      "question": "67. Növbətçi xilasedici qayıqların heyəti neçə nəfərdən ibarətdir?",
       "options": {
-        "A": "3 nәfәr",
+        "A": "3 nəfər",
         "B": "gərginlik 220 V həddinə çatdıqda",
         "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
@@ -795,9 +795,9 @@
     },
     {
       "id": "q068",
-      "question": "68. Növbәtçi xilasedici qayıqda oturaq vә uzanıqlı vәziyyәtdә minimal neçә yer olmalıdır?",
+      "question": "68. Növbətçi xilasedici qayıqda oturaq və uzanıqlı vəziyyətdə minimal neçə yer olmalıdır?",
       "options": {
-        "A": "oturaq vәziyyәtdә olan әn azı 5 nәfәr vә xәrәk üzәrindә uzanmış 1 nәfәr",
+        "A": "oturaq vəziyyətdə olan ən azı 5 nəfər və xərək üzərində uzanmış 1 nəfər",
         "B": "əllə idarəetmə rejiminə keçdikdə",
         "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "D": "cənub-qərb dreyfi zamanı"
@@ -807,11 +807,11 @@
     },
     {
       "id": "q069",
-      "question": "69. Növbәtçi xilasedici qayığın uzunluğu nә qәdәrdir?",
+      "question": "69. Növbətçi xilasedici qayığın uzunluğu nə qədərdir?",
       "options": {
         "A": "bütün cavablar yanlışdır",
         "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "3,8m-dәn 8,5m-ә qәdәr",
+        "C": "3,8m-dən 8,5m-ə qədər",
         "D": "əllə idarəetmə rejiminə keçdikdə"
       },
       "correct_answer": "C",
@@ -819,10 +819,10 @@
     },
     {
       "id": "q070",
-      "question": "70. Növbәtçi xilasedici qayıq gәmidә harada yerlәşmәlidir?",
+      "question": "70. Növbətçi xilasedici qayıq gəmidə harada yerləşməlidir?",
       "options": {
         "A": "şimal-şərq istiqamətində",
-        "B": "gәminin açıq göyәrtәsindә",
+        "B": "gəminin açıq göyərtəsində",
         "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
@@ -831,10 +831,10 @@
     },
     {
       "id": "q071",
-      "question": "71. Hava ilә doldurulmuş növbәtçi xilasedici qayığın bir üzmә borusunda neçә bölmә olmalıdır?",
+      "question": "71. Hava ilə doldurulmuş növbətçi xilasedici qayığın bir üzmə borusunda neçə bölmə olmalıdır?",
       "options": {
         "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "azı 5 әdәd",
+        "B": "azı 5 ədəd",
         "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "D": "bütün cavablar yanlışdır"
       },
@@ -843,11 +843,11 @@
     },
     {
       "id": "q072",
-      "question": "72. Növbәtçi xilasedici qayıqlar hansı sürәtlә vә neçә saat manevr etmәyә qadir olmalıdırlar?",
+      "question": "72. Növbətçi xilasedici qayıqlar hansı sürətlə və neçə saat manevr etməyə qadir olmalıdırlar?",
       "options": {
         "A": "lövbər dayanacağı sahəsində",
         "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "6 mil/s sürәtlә azı 4 saat",
+        "C": "6 mil/s sürətlə azı 4 saat",
         "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
       "correct_answer": "C",
@@ -855,11 +855,11 @@
     },
     {
       "id": "q073",
-      "question": "73. Növbәtci xilasedici qayıqda hәr bir insana necә günlük qida rasyonu vә su olmalıdır?",
+      "question": "73. Növbətci xilasedici qayıqda hər bir insana necə günlük qida rasyonu və su olmalıdır?",
       "options": {
         "A": "avtomatik rejimdə işləyərkən",
         "B": "bütün cavablar doğrudur",
-        "C": "nәzәrdә tutulmayıb",
+        "C": "nəzərdə tutulmayıb",
         "D": "lövbər dayanacağı sahəsində"
       },
       "correct_answer": "C",
@@ -867,7 +867,7 @@
     },
     {
       "id": "q074",
-      "question": "74. Növbәtçi xilasedici qayığın yedәk kәndirinin uzunluğu nә qәdәr olmalıdır?",
+      "question": "74. Növbətçi xilasedici qayığın yedək kəndirinin uzunluğu nə qədər olmalıdır?",
       "options": {
         "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
@@ -879,19 +879,19 @@
     },
     {
       "id": "q075",
-      "question": "75. Hava ilә doldurulmuş növbәtçi xilasedici qayıq gәmidә daima hansı vәziyәtdә olmalıdır?",
+      "question": "75. Hava ilə doldurulmuş növbətçi xilasedici qayıq gəmidə daima hansı vəziyətdə olmalıdır?",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
         "B": "50 metr məsafədə dənizdə",
         "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "tam doldurulmuş vәziyyәtdә"
+        "D": "tam doldurulmuş vəziyyətdə"
       },
       "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q076",
-      "question": "76. Qәza radiobuyu әn azı neçә saat işlәmәlidir?",
+      "question": "76. Qəza radiobuyu ən azı neçə saat işləməlidir?",
       "options": {
         "A": "gərginlik 220 V həddinə çatdıqda",
         "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
@@ -903,7 +903,7 @@
     },
     {
       "id": "q077",
-      "question": "77. Növbәtçi xilasedici qayığı suya endirmә zamanı gәminin maksimal sürәti neçә olmalıdır?",
+      "question": "77. Növbətçi xilasedici qayığı suya endirmə zamanı gəminin maksimal sürəti neçə olmalıdır?",
       "options": {
         "A": "şimal-şərq istiqamətində",
         "B": "10 uzel sürətlə manevr etdikdə",
@@ -915,19 +915,19 @@
     },
     {
       "id": "q078",
-      "question": "78. Növbәtçi xilasedici qayığı hansı maksimal çәkidә endirmәk vә ya qaldırmaq mümkün olmalıdır?",
+      "question": "78. Növbətçi xilasedici qayığı hansı maksimal çəkidə endirmək və ya qaldırmaq mümkün olmalıdır?",
       "options": {
         "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "B": "əllə idarəetmə rejiminə keçdikdə",
         "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "tam sayda insan vә tәchizatla"
+        "D": "tam sayda insan və təchizatla"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q079",
-      "question": "79. Növbәtçi xilasedici qayıq hansı sürәtlә salı tam sayda insanlarla vә tәchizatla yüklәnmiş vәziyyәtdә yedәklәməlidir?",
+      "question": "79. Növbətçi xilasedici qayıq hansı sürətlə salı tam sayda insanlarla və təchizatla yüklənmiş vəziyyətdə yedəkləməlidir?",
       "options": {
         "A": "şimal-şərq istiqamətində",
         "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
@@ -939,9 +939,9 @@
     },
     {
       "id": "q080",
-      "question": "80. Üç davamlı uzun sәs siqnalı nәyi bildirir?",
+      "question": "80. Üç davamlı uzun səs siqnalı nəyi bildirir?",
       "options": {
-        "A": "suda adam hәyәcanı",
+        "A": "suda adam həyəcanı",
         "B": "50 metr məsafədə dənizdə",
         "C": "lövbər dayanacağı sahəsində",
         "D": "gəmi limana daxil olana qədər"
@@ -951,7 +951,7 @@
     },
     {
       "id": "q081",
-      "question": "81. UQD radiostansiya “MAYDAY” fәlakәt siqnalını ötürmәk üçün hansı kanala köklәnmәlidir?",
+      "question": "81. UQD radiostansiya “MAYDAY” fəlakət siqnalını ötürmək üçün hansı kanala köklənməlidir?",
       "options": {
         "A": "UQD kanal 16",
         "B": "50 metr məsafədə dənizdə",
@@ -963,7 +963,7 @@
     },
     {
       "id": "q082",
-      "question": "82. Ümumgәmi hәyәcan siqnalı necә verilir?",
+      "question": "82. Ümumgəmi həyəcan siqnalı necə verilir?",
       "options": {
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "B": "gəmi limana daxil olana qədər",
@@ -975,7 +975,7 @@
     },
     {
       "id": "q083",
-      "question": "83. SOS siqnalı necә verilir?",
+      "question": "83. SOS siqnalı necə verilir?",
       "options": {
         "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "B": "10 uzel sürətlə manevr etdikdə",
@@ -987,7 +987,7 @@
     },
     {
       "id": "q084",
-      "question": "84. Radiolokasiya cavabvericisinin gözlәmә rejimi hansı müddәt әrzindә işlәk vәziyyәtdә olur?",
+      "question": "84. Radiolokasiya cavabvericisinin gözləmə rejimi hansı müddət ərzində işlək vəziyyətdə olur?",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
@@ -999,7 +999,7 @@
     },
     {
       "id": "q085",
-      "question": "85. Radiolokasiya cavabvericisinin ötürmә rejimi hansı müddәt әrzindә işlәk vәziyyәtdә olur?",
+      "question": "85. Radiolokasiya cavabvericisinin ötürmə rejimi hansı müddət ərzində işlək vəziyyətdə olur?",
       "options": {
         "A": "avtomatik rejimdə işləyərkən",
         "B": "lövbər dayanacağı sahəsində",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": "q086",
-      "question": "86. Radiolokasiya cavabverici işlәmәyә başlayarkәn, o, әtrafda olan gәmilәrin radarlarında hansı mәsafәdәn görünmәyә başlayır?",
+      "question": "86. Radiolokasiya cavabverici işləməyə başlayarkən, o, ətrafda olan gəmilərin radarlarında hansı məsafədən görünməyə başlayır?",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "hər ayda bir dəfədən az olmayan müddətdə",
@@ -1023,7 +1023,7 @@
     },
     {
       "id": "q087",
-      "question": "87. Daşınan qәza UQD radiostansiyasının işlәmә vaxtı neçә saat olmalıdır?",
+      "question": "87. Daşınan qəza UQD radiostansiyasının işləmə vaxtı neçə saat olmalıdır?",
       "options": {
         "A": "hər ayda bir dəfədən az olmayan müddətdə",
         "B": "azı 8 saat",
@@ -1035,7 +1035,7 @@
     },
     {
       "id": "q088",
-      "question": "88. Gәmini tәrk etmәk komandasını kim verir?",
+      "question": "88. Gəmini tərk etmək komandasını kim verir?",
       "options": {
         "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
@@ -1047,23 +1047,23 @@
     },
     {
       "id": "q089",
-      "question": "89. Salda içmәli su bitәn zaman onu nә ilә әvәz etmәk olar?",
+      "question": "89. Salda içməli su bitən zaman onu nə ilə əvəz etmək olar?",
       "options": {
         "A": "gərginlik 220 V həddinə çatdıqda",
         "B": "50 metr məsafədə dənizdə",
         "C": "lövbər dayanacağı sahəsində",
-        "D": "yağış suyu ilә, kondensat sulardan vә tutulmuş balığın şirәsi ilә"
+        "D": "yağış suyu ilə, kondensat sulardan və tutulmuş balığın şirəsi ilə"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q090",
-      "question": "90. Suda olan insana növbәtçi xilasedici qayıq vasitәsilә hansı qaydada yan almaq lazımdır?",
+      "question": "90. Suda olan insana növbətçi xilasedici qayıq vasitəsilə hansı qaydada yan almaq lazımdır?",
       "options": {
         "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "B": "lövbər dayanacağı sahəsində",
-        "C": "insanı külәk vuran tәrәfdә saxlamaqla kiçik sürәtlә",
+        "C": "insanı külək vuran tərəfdə saxlamaqla kiçik sürətlə",
         "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
       "correct_answer": "C",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "q091",
-      "question": "91. Sıxıcı sarğılar әsasәn nә vaxt işlәdilir?",
+      "question": "91. Sıxıcı sarğılar əsasən nə vaxt işlədilir?",
       "options": {
         "A": "qanaxmaları dayandırmaq üçün",
         "B": "50 metr məsafədə dənizdə",
@@ -1095,10 +1095,10 @@
     },
     {
       "id": "q093",
-      "question": "93. Karbon qazı ilә zәhәrlәnmәdә ilk tibbi yardım necә göstәrilir?",
+      "question": "93. Karbon qazı ilə zəhərlənmədə ilk tibbi yardım necə göstərilir?",
       "options": {
         "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "tәmiz havaya çıxarmaq",
+        "B": "təmiz havaya çıxarmaq",
         "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "D": "50 metr məsafədə dənizdə"
       },
@@ -1107,9 +1107,9 @@
     },
     {
       "id": "q094",
-      "question": "94. Bayılma zamanı ilk tibbi yardım necә göstәrilir?",
+      "question": "94. Bayılma zamanı ilk tibbi yardım necə göstərilir?",
       "options": {
-        "A": "naşatır spirti iylәtmәk",
+        "A": "naşatır spirti iylətmək",
         "B": "bütün cavablar yanlışdır",
         "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "D": "gəmi limana daxil olana qədər"
@@ -1119,23 +1119,23 @@
     },
     {
       "id": "q095",
-      "question": "95. Sınıqlar zamanı ilk tibbi yardım necә göstәrilir?",
+      "question": "95. Sınıqlar zamanı ilk tibbi yardım necə göstərilir?",
       "options": {
         "A": "avtomatik rejimdə işləyərkən",
         "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "C": "50 metr məsafədə dənizdə",
-        "D": "zәdәlәnәn nahiyәyә şina qoymaq"
+        "D": "zədələnən nahiyəyə şina qoymaq"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q096",
-      "question": "96. Xilasetmә vasitәsindә insanı sudan çıxartdıqdan sonra nә etmәk lazımdır?",
+      "question": "96. Xilasetmə vasitəsində insanı sudan çıxartdıqdan sonra nə etmək lazımdır?",
       "options": {
         "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "paltarını sıxmaq, yenidәn zәrәrçәkәnә geyindirmәk vә istilik qoruyucu torbaya yerlәşdirmәk",
+        "C": "paltarını sıxmaq, yenidən zərərçəkənə geyindirmək və istilik qoruyucu torbaya yerləşdirmək",
         "D": "şimal-şərq istiqamətində"
       },
       "correct_answer": "C",
@@ -1143,9 +1143,9 @@
     },
     {
       "id": "q097",
-      "question": "97. Suda olarkәn istilik itirmәni azaltmaq üçün nә etmәk lazımdır?",
+      "question": "97. Suda olarkən istilik itirməni azaltmaq üçün nə etmək lazımdır?",
       "options": {
-        "A": "yumaq kimi yığılmaq vә ayaqları sinәyә sıxmaq",
+        "A": "yumaq kimi yığılmaq və ayaqları sinəyə sıxmaq",
         "B": "əllə idarəetmə rejiminə keçdikdə",
         "C": "bütün cavablar yanlışdır",
         "D": "gəmi limana daxil olana qədər"
@@ -1155,9 +1155,9 @@
     },
     {
       "id": "q098",
-      "question": "98. Süni nәfәsvermә zamanı zәrәrçәkәnin ciyәrlәrinә hava üfürmә tezliyi 1 dәqiqə әrzindә neçә dәfә olmalıdır?",
+      "question": "98. Süni nəfəsvermə zamanı zərərçəkənin ciyərlərinə hava üfürmə tezliyi 1 dəqiqə ərzində neçə dəfə olmalıdır?",
       "options": {
-        "A": "12-16 dәfә",
+        "A": "12-16 dəfə",
         "B": "bütün cavablar doğrudur",
         "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "D": "əllə idarəetmə rejiminə keçdikdə"
@@ -1167,21 +1167,21 @@
     },
     {
       "id": "q099",
-      "question": "99. Әtraf mühitin -150 C temperaturda xilasedici qayığın mühәrriki hansı müddәt әrzindә işә salınmalıdır?",
+      "question": "99. Ətraf mühitin -150 C temperaturda xilasedici qayığın mühərriki hansı müddət ərzində işə salınmalıdır?",
       "options": {
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "2 dәqiqәdәn çox olmayaraq"
+        "D": "2 dəqiqədən çox olmayaraq"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q100",
-      "question": "100. Hansı xilasedici qayıqları növbәtçi xilasedici qayıqlar kimi istifadә etmәk olar?",
+      "question": "100. Hansı xilasedici qayıqları növbətçi xilasedici qayıqlar kimi istifadə etmək olar?",
       "options": {
-        "A": "növbәtçi xilasedici qayıqların tәlәblәrini yerinә yetirә bilәn xilasedici qayıqlar",
+        "A": "növbətçi xilasedici qayıqların tələblərini yerinə yetirə bilən xilasedici qayıqlar",
         "B": "bütün cavablar yanlışdır",
         "C": "bütün cavablar doğrudur",
         "D": "fırtınalı havada təxirə salınmaqla"
@@ -1191,10 +1191,10 @@
     },
     {
       "id": "q101",
-      "question": "101. Hansı xilasedici vasitә kollektiv sayılmır?",
+      "question": "101. Hansı xilasedici vasitə kollektiv sayılmır?",
       "options": {
         "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "istilik qoruyucu vasitә",
+        "B": "istilik qoruyucu vasitə",
         "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
       },
@@ -1203,7 +1203,7 @@
     },
     {
       "id": "q102",
-      "question": "102. Hansı tipli xilasedici qayıqlar konstruktiv xüsusiyyәtlәrinә görә istismarı qadağan olunub?",
+      "question": "102. Hansı tipli xilasedici qayıqlar konstruktiv xüsusiyyətlərinə görə istismarı qadağan olunub?",
       "options": {
         "A": "hər 6 aydan bir keçirilən təlimlərdə",
         "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
@@ -1215,7 +1215,7 @@
     },
     {
       "id": "q103",
-      "question": "103. Tәlim mәqsәdi ilә hansı müddәtdәn bir xilasedici qayıq tir (şlyupbalka) ilə suya endirilir, heyәt otuzdurulur vә manevr edilmәlidir?",
+      "question": "103. Təlim məqsədi ilə hansı müddətdən bir xilasedici qayıq tir (şlyupbalka) ilə suya endirilir, heyət otuzdurulur və manevr edilməlidir?",
       "options": {
         "A": "cənub-qərb dreyfi zamanı",
         "B": "lövbər dayanacağı sahəsində",
@@ -1227,10 +1227,10 @@
     },
     {
       "id": "q104",
-      "question": "104. Növbәtçi qayıq heyәti ilә birlikdә neçә dәqiqәyә tir (şlyupbalka) ilә suya salınmalıdır?",
+      "question": "104. Növbətçi qayıq heyəti ilə birlikdə neçə dəqiqəyə tir (şlyupbalka) ilə suya salınmalıdır?",
       "options": {
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "5 dәqiqә",
+        "B": "5 dəqiqə",
         "C": "hər ayda bir dəfədən az olmayan müddətdə",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
@@ -1239,11 +1239,11 @@
     },
     {
       "id": "q105",
-      "question": "105. Xilasedici qayığın mühәrriki әn azı hansı müddәtdә yoxlanılmalıdır?",
+      "question": "105. Xilasedici qayığın mühərriki ən azı hansı müddətdə yoxlanılmalıdır?",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "hәftәdә 1 dәfә, 3 dәqiqə әrzindә",
+        "C": "həftədə 1 dəfə, 3 dəqiqə ərzində",
         "D": "şimal-şərq istiqamətində"
       },
       "correct_answer": "C",
@@ -1251,7 +1251,7 @@
     },
     {
       "id": "q106",
-      "question": "106. Daxilindә heç kәs olmayan xilasedici sala tullanma hündürlüyü neçә metr tәşkil edir?",
+      "question": "106. Daxilində heç kəs olmayan xilasedici sala tullanma hündürlüyü neçə metr təşkil edir?",
       "options": {
         "A": "lövbər dayanacağı sahəsində",
         "B": "4.5m",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": "q107",
-      "question": "107. Hansı konstruksiyalı qayıqlardan sәrbәst düşәn qayıq kimi istifadә olunur?",
+      "question": "107. Hansı konstruksiyalı qayıqlardan sərbəst düşən qayıq kimi istifadə olunur?",
       "options": {
         "A": "Tam bağlı qayıqlar",
         "B": "hər 6 aydan bir keçirilən təlimlərdə",
@@ -1275,11 +1275,11 @@
     },
     {
       "id": "q108",
-      "question": "108. Hansi gәmilәrdә әsasәn sәrbәst düşәn qayıqlardan istifadә olunur?",
+      "question": "108. Hansi gəmilərdə əsasən sərbəst düşən qayıqlardan istifadə olunur?",
       "options": {
         "A": "əllə idarəetmə rejiminə keçdikdə",
         "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "Neft, kimyәvi maddәlәr vә qaz daşıyan tankerlәrdә;",
+        "C": "Neft, kimyəvi maddələr və qaz daşıyan tankerlərdə;",
         "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
       "correct_answer": "C",
@@ -1287,11 +1287,11 @@
     },
     {
       "id": "q109",
-      "question": "109. Sәrbәst düşәn qayıqlar hansı hündürlükdәn suya düşmәyә davam gәtirmәlidirlәr?",
+      "question": "109. Sərbəst düşən qayıqlar hansı hündürlükdən suya düşməyə davam gətirməlidirlər?",
       "options": {
         "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "B": "cənub-qərb dreyfi zamanı",
-        "C": "Şәhadәtnamәdә göstәrilәndәn 1,3 dәfә çox hündürlükdәn",
+        "C": "Şəhadətnamədə göstəriləndən 1,3 dəfə çox hündürlükdən",
         "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
       "correct_answer": "C",
@@ -1299,7 +1299,7 @@
     },
     {
       "id": "q110",
-      "question": "110. Kren vә diferentin hansı göstәricilәrindә sәrbәst düşәn qayıqları suya endirmәk olar?",
+      "question": "110. Kren və diferentin hansı göstəricilərində sərbəst düşən qayıqları suya endirmək olar?",
       "options": {
         "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "B": "fırtınalı havada təxirə salınmaqla",
@@ -1311,7 +1311,7 @@
     },
     {
       "id": "q111",
-      "question": "111. Sәrbәst düşәn qayığı mailli müstәvidәn ayıran qurğu neçә müstәqil sistemdәn ibarәt olmalıdır?",
+      "question": "111. Sərbəst düşən qayığı mailli müstəvidən ayıran qurğu neçə müstəqil sistemdən ibarət olmalıdır?",
       "options": {
         "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "B": "Azı 2",
@@ -1323,22 +1323,22 @@
     },
     {
       "id": "q112",
-      "question": "112. Sәrbәst düşәn qayığı mailli müstәvidәn ayıran qurğu haradan idarә olunmalıdır?",
+      "question": "112. Sərbəst düşən qayığı mailli müstəvidən ayıran qurğu haradan idarə olunmalıdır?",
       "options": {
         "A": "lövbər dayanacağı sahəsində",
         "B": "hər ayda bir dəfədən az olmayan müddətdə",
         "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "Yalnız qayığın daxilindәn"
+        "D": "Yalnız qayığın daxilindən"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q113",
-      "question": "113. Sәrbәst düşәn qayığa insanlar necә yerlәşdirilir?",
+      "question": "113. Sərbəst düşən qayığa insanlar necə yerləşdirilir?",
       "options": {
         "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "Tәhlükәsizlik kәmәrlәri ilә birlikdә xüsusi oturacaqlara",
+        "B": "Təhlükəsizlik kəmərləri ilə birlikdə xüsusi oturacaqlara",
         "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
@@ -1347,10 +1347,10 @@
     },
     {
       "id": "q114",
-      "question": "114. Sәrbәst düşәn qayığa hәrәkәt sürәti nә vaxt verilir?",
+      "question": "114. Sərbəst düşən qayığa hərəkət sürəti nə vaxt verilir?",
       "options": {
         "A": "lövbər dayanacağı sahəsində",
-        "B": "Su üzәrinә çıxdıqdan sonra",
+        "B": "Su üzərinə çıxdıqdan sonra",
         "C": "fırtınalı havada təxirə salınmaqla",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
@@ -1359,9 +1359,9 @@
     },
     {
       "id": "q115",
-      "question": "115. Sәrbәst düşәn qayıqlarda sәrbәst düşmәnin enmә hündürlüyü vә endirmә qurğusunun әyilmә bucağı harada göstәrilir?",
+      "question": "115. Sərbəst düşən qayıqlarda sərbəst düşmənin enmə hündürlüyü və endirmə qurğusunun əyilmə bucağı harada göstərilir?",
       "options": {
-        "A": "Qayığın şәhadәtnamәsindә",
+        "A": "Qayığın şəhadətnaməsində",
         "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
@@ -1371,11 +1371,11 @@
     },
     {
       "id": "q116",
-      "question": "116. Sәrbәst düşәn qayıqlarda mәşğәlәlәrin vә işlәrin görülmәsi üçün kimlәrә icazә verilir?",
+      "question": "116. Sərbəst düşən qayıqlarda məşğələlərin və işlərin görülməsi üçün kimlərə icazə verilir?",
       "options": {
         "A": "gəmi limana daxil olana qədər",
         "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "Sertifikatı vә buraxılışı olan heyәt üzvlәrinә",
+        "C": "Sertifikatı və buraxılışı olan heyət üzvlərinə",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
       "correct_answer": "C",

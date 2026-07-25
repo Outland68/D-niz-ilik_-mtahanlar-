@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "q001",
-      "question": "1. MARPOL-73/78 Beynəlxalq Konvensiyasının tәlәblәrinә әsasәn tankerdәn dәnizә atılan suların tәrkibindә neftin miqdarı nә qәdәr olmalıdır?",
+      "question": "1. MARPOL-73/78 Beynəlxalq Konvensiyasının tələblərinə əsasən tankerdən dənizə atılan suların tərkibində neftin miqdarı nə qədər olmalıdır?",
       "options": {
         "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "B": "hər 6 aydan bir keçirilən təlimlərdə",
@@ -15,7 +15,7 @@
     },
     {
       "id": "q002",
-      "question": "2. Xam neft boşaldan zamanı eyni vaxtda xam neftlә tankların yuyulmasına icazә verilirmi?",
+      "question": "2. Xam neft boşaldan zamanı eyni vaxtda xam neftlə tankların yuyulmasına icazə verilirmi?",
       "options": {
         "A": "icazə verilir",
         "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
@@ -27,7 +27,7 @@
     },
     {
       "id": "q003",
-      "question": "3. Yük şlanqlarının üzәrindә onların işlәk vәziyyәtdә olduqlarını tәsdiqlәyәn yazılardan hansı vurulur?\n1. yük şlanqı hansı tip yükә aiddir;\n2. sınaq tәzyiqi;\n3. istehsal olunduğu ay vә il;\n4. elektrik keçirmәsi barәdә mәlumat;\n5. yük şlanqlarının çәkisi.",
+      "question": "3. Yük şlanqlarının üzərində onların işlək vəziyyətdə olduqlarını təsdiqləyən yazılardan hansı vurulur?\n1. yük şlanqı hansı tip yükə aiddir;\n2. sınaq təzyiqi;\n3. istehsal olunduğu ay və il;\n4. elektrik keçirməsi barədə məlumat;\n5. yük şlanqlarının çəkisi.",
       "options": {
         "A": "1,2,5",
         "B": "2,3,5",
@@ -39,11 +39,11 @@
     },
     {
       "id": "q004",
-      "question": "4. Hansı neft mәhsulları alışma temperaturuna görә uçan yüklәrә aiddir?",
+      "question": "4. Hansı neft məhsulları alışma temperaturuna görə uçan yüklərə aiddir?",
       "options": {
         "A": "cənub-qərb dreyfi zamanı",
         "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "alışma temperaturuna görә 600 C-dən aşağı olan neft mәhsulları",
+        "C": "alışma temperaturuna görə 600 C-dən aşağı olan neft məhsulları",
         "D": "gəmi limana daxil olana qədər"
       },
       "correct_answer": "C",
@@ -51,11 +51,11 @@
     },
     {
       "id": "q005",
-      "question": "5. Gәmidәn-gәmiyә neft mәhsulları ötürmә zamanı yük şlanqlarının minimal әyilmә radiusu nә qәdәr olmalıdır?",
+      "question": "5. Gəmidən-gəmiyə neft məhsulları ötürmə zamanı yük şlanqlarının minimal əyilmə radiusu nə qədər olmalıdır?",
       "options": {
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "B": "bütün cavablar doğrudur",
-        "C": "şlanqın diametrinin 6 mislindәn az olmamalıdır",
+        "C": "şlanqın diametrinin 6 mislindən az olmamalıdır",
         "D": "50 metr məsafədə dənizdə"
       },
       "correct_answer": "C",
@@ -63,9 +63,9 @@
     },
     {
       "id": "q006",
-      "question": "6. Gәmi-Sahil yoxlama vәrәqi yük göyәrtәsi rayonunda daşınan elektrik avadanlıqları barәsindә nәyi nәzәrdә tutur?",
+      "question": "6. Gəmi-Sahil yoxlama vərəqi yük göyərtəsi rayonunda daşınan elektrik avadanlıqları barəsində nəyi nəzərdə tutur?",
       "options": {
-        "A": "Daşınan elektrik avadanlığının kabellәri şәbәkәdәn ayrılmalıdır",
+        "A": "Daşınan elektrik avadanlığının kabelləri şəbəkədən ayrılmalıdır",
         "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "C": "cənub-qərb dreyfi zamanı",
         "D": "bütün cavablar doğrudur"
@@ -75,10 +75,10 @@
     },
     {
       "id": "q007",
-      "question": "7. Boşaltma / xam neftlә yuma әmәliyyatı zamanı inert qaz sistemi sıradan çıxarsa, nә etmәk lazımdır?",
+      "question": "7. Boşaltma / xam neftlə yuma əməliyyatı zamanı inert qaz sistemi sıradan çıxarsa, nə etmək lazımdır?",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "Boşaltmanı, xam neftlә yumanı saxlamaq",
+        "B": "Boşaltmanı, xam neftlə yumanı saxlamaq",
         "C": "şimal-şərq istiqamətində",
         "D": "lövbər dayanacağı sahəsində"
       },
@@ -87,10 +87,10 @@
     },
     {
       "id": "q008",
-      "question": "8. Yük şlanqlarının sınağı zamanı yoxlama tәzyiqi işçi tәzyiqdәn neçә dәfә çox olmalıdır?",
+      "question": "8. Yük şlanqlarının sınağı zamanı yoxlama təzyiqi işçi təzyiqdən neçə dəfə çox olmalıdır?",
       "options": {
         "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "1.5 dәfә",
+        "B": "1.5 dəfə",
         "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
@@ -99,7 +99,7 @@
     },
     {
       "id": "q009",
-      "question": "9. Bağlama (burazlanma) vә gәminin bortunda yedәk gәmisi durduqda yükün ölçülmәsinә vә nümunәlәrin götürülmәsinә:",
+      "question": "9. Bağlama (burazlanma) və gəminin bortunda yedək gəmisi durduqda yükün ölçülməsinə və nümunələrin götürülməsinə:",
       "options": {
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "B": "50 metr məsafədə dənizdə",
@@ -111,7 +111,7 @@
     },
     {
       "id": "q010",
-      "question": "10. 1-ci tip kimyәvi tankerlәrdә yük zonasının konstruktiv müdafiәsinә görә yük tanklarından borta qәdәr olan mәsafә neçә metr tәşkil edir?",
+      "question": "10. 1-ci tip kimyəvi tankerlərdə yük zonasının konstruktiv müdafiəsinə görə yük tanklarından borta qədər olan məsafə neçə metr təşkil edir?",
       "options": {
         "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "B": "gəmi limana daxil olana qədər",
@@ -123,7 +123,7 @@
     },
     {
       "id": "q011",
-      "question": "11. Tankerlәrdә neçә әsas yüklәmә xәtti sistemindәn istifadә olunur?",
+      "question": "11. Tankerlərdə neçə əsas yükləmə xətti sistemindən istifadə olunur?",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
         "B": "avtomatik rejimdə işləyərkən",
@@ -135,7 +135,7 @@
     },
     {
       "id": "q012",
-      "question": "12. Yüklәmә әmәliyyatına başlamazdan әvvәl inert qaz sisteminin 3 yollu klapanı hansı vәziyyәtdә olmalıdır?",
+      "question": "12. Yükləmə əməliyyatına başlamazdan əvvəl inert qaz sisteminin 3 yollu klapanı hansı vəziyyətdə olmalıdır?",
       "options": {
         "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
@@ -147,7 +147,7 @@
     },
     {
       "id": "q013",
-      "question": "13. Neçә növ qazayırıcı sistem mövcuddur?",
+      "question": "13. Neçə növ qazayırıcı sistem mövcuddur?",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "2",
@@ -159,9 +159,9 @@
     },
     {
       "id": "q014",
-      "question": "14. MARPOL-73/78-in I әlavәsinin tәlәblәrinә uyğun olaraq xüsusi rayonlardan kәnarda yük tanklarından tәrkibindә neft suları tullayarkәn nәyә riayәt etmәk vacib deyil?",
+      "question": "14. MARPOL-73/78-in I əlavəsinin tələblərinə uyğun olaraq xüsusi rayonlardan kənarda yük tanklarından tərkibində neft suları tullayarkən nəyə riayət etmək vacib deyil?",
       "options": {
-        "A": "Әtraf mühitin temperaturuna",
+        "A": "Ətraf mühitin temperaturuna",
         "B": "fırtınalı havada təxirə salınmaqla",
         "C": "gəmi limana daxil olana qədər",
         "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
@@ -171,7 +171,7 @@
     },
     {
       "id": "q015",
-      "question": "15. İnertizә olunmuş tanklı tankerlәrdә ildırımlı tufan xәbәrdarlığı alınan zaman uçan neft mәhsulları ilә әmәliyyatların keçirilmәsi:",
+      "question": "15. İnertizə olunmuş tanklı tankerlərdə ildırımlı tufan xəbərdarlığı alınan zaman uçan neft məhsulları ilə əməliyyatların keçirilməsi:",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
         "B": "bütün cavablar doğrudur",
@@ -183,22 +183,22 @@
     },
     {
       "id": "q016",
-      "question": "16. Yük tanklarının içindә partlama tәhlükәsinin qarşısını almaq üçün hansı sistemdәn istifadә olunur?",
+      "question": "16. Yük tanklarının içində partlama təhlükəsinin qarşısını almaq üçün hansı sistemdən istifadə olunur?",
       "options": {
         "A": "əllə idarəetmə rejiminə keçdikdə",
         "B": "cənub-qərb dreyfi zamanı",
         "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "İnert qaz sistemindәn"
+        "D": "İnert qaz sistemindən"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q017",
-      "question": "17. Hansı neft mәhsulları alışma temperaturuna görә uçmayan yüklәrә aiddir?",
+      "question": "17. Hansı neft məhsulları alışma temperaturuna görə uçmayan yüklərə aiddir?",
       "options": {
         "A": "lövbər dayanacağı sahəsində",
-        "B": "alışma temperaturuna görә 600 C-dən yuxarı olan neft mәhsulları",
+        "B": "alışma temperaturuna görə 600 C-dən yuxarı olan neft məhsulları",
         "C": "hər ayda bir dəfədən az olmayan müddətdə",
         "D": "əllə idarəetmə rejiminə keçdikdə"
       },
@@ -207,7 +207,7 @@
     },
     {
       "id": "q018",
-      "question": "18. SOLAS-74 Beynəlxalq Konvensiyası ilә tankerlerdә әn azı neçә yanğın әleyhinә komplekti nәzәrdә tutulub?",
+      "question": "18. SOLAS-74 Beynəlxalq Konvensiyası ilə tankerlerdə ən azı neçə yanğın əleyhinə komplekti nəzərdə tutulub?",
       "options": {
         "A": "4",
         "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
@@ -219,7 +219,7 @@
     },
     {
       "id": "q019",
-      "question": "19. Yük әmәliyyatları zamanı ballast tanklarının qapaqları hansı vәziyyәtdә olmalıdır?",
+      "question": "19. Yük əməliyyatları zamanı ballast tanklarının qapaqları hansı vəziyyətdə olmalıdır?",
       "options": {
         "A": "bağlı",
         "B": "10 uzel sürətlə manevr etdikdə",
@@ -231,7 +231,7 @@
     },
     {
       "id": "q020",
-      "question": "20. Kimyәvi yük daşıyan tankerlәrdә yük şlanqlarının qırılma / cırılma sınağı zamanı yoxlama tәzyiqi işçi tәzyiqdәn neçә dәfә çox olmalıdır?",
+      "question": "20. Kimyəvi yük daşıyan tankerlərdə yük şlanqlarının qırılma / cırılma sınağı zamanı yoxlama təzyiqi işçi təzyiqdən neçə dəfə çox olmalıdır?",
       "options": {
         "A": "5 dəfə",
         "B": "hər ayda bir dəfədən az olmayan müddətdə",
@@ -243,7 +243,7 @@
     },
     {
       "id": "q021",
-      "question": "21. İnert qazın yük tankının girişindә temperaturu neçә dәrәcәdәn artıq olmamalıdır?",
+      "question": "21. İnert qazın yük tankının girişində temperaturu neçə dərəcədən artıq olmamalıdır?",
       "options": {
         "A": "650 C",
         "B": "əllə idarəetmə rejiminə keçdikdə",
@@ -255,7 +255,7 @@
     },
     {
       "id": "q022",
-      "question": "22. Yük zonasının konstruktiv müdafiәsinә görә zәrәrli vә tәhlükәli yükdaşıyan tankerlәrin neçә tipi vardır?",
+      "question": "22. Yük zonasının konstruktiv müdafiəsinə görə zərərli və təhlükəli yükdaşıyan tankerlərin neçə tipi vardır?",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
         "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
@@ -267,7 +267,7 @@
     },
     {
       "id": "q023",
-      "question": "23. Yükün boşaldılmasının ilkin mәrhәlәsindә yükün axar sürәti neçә m/s olmalıdır?",
+      "question": "23. Yükün boşaldılmasının ilkin mərhələsində yükün axar sürəti neçə m/s olmalıdır?",
       "options": {
         "A": "gəmi limana daxil olana qədər",
         "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
@@ -279,19 +279,19 @@
     },
     {
       "id": "q024",
-      "question": "24. Yük әmәliyyatları zamanı fövqәladә hallar baş verәrsә hansı tәdbirlәr görülmәlidir?",
+      "question": "24. Yük əməliyyatları zamanı fövqəladə hallar baş verərsə hansı tədbirlər görülməlidir?",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "gərginlik 220 V həddinə çatdıqda",
         "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "Yük әmәliyyatlarını saxlamaq, terminal nümayәndәlәrinә xәbәr vermәk, plan üzrә hәrәkәt etmәk"
+        "D": "Yük əməliyyatlarını saxlamaq, terminal nümayəndələrinə xəbər vermək, plan üzrə hərəkət etmək"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q025",
-      "question": "25. Yuyucu sistemin kәmәrlәrindә tәzyiq nә qәdәr olmalıdır?",
+      "question": "25. Yuyucu sistemin kəmərlərində təzyiq nə qədər olmalıdır?",
       "options": {
         "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "B": "8 kq/sm2",
@@ -303,7 +303,7 @@
     },
     {
       "id": "q026",
-      "question": "26. Yükün sәviyyәsinin ölçülmәsinin neçә әsas üsulu mövcuddur?",
+      "question": "26. Yükün səviyyəsinin ölçülməsinin neçə əsas üsulu mövcuddur?",
       "options": {
         "A": "3",
         "B": "lövbər dayanacağı sahəsində",
@@ -315,7 +315,7 @@
     },
     {
       "id": "q027",
-      "question": "27. Tankların qurudulması vә tәmizlәnmәsi zamanı neçә üsuldan istifadә olunur?",
+      "question": "27. Tankların qurudulması və təmizlənməsi zamanı neçə üsuldan istifadə olunur?",
       "options": {
         "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "B": "hər ayda bir dəfədən az olmayan müddətdə",
@@ -327,7 +327,7 @@
     },
     {
       "id": "q028",
-      "question": "28. Yük boşaltmazdan әvvәl yük nasosunun klapanları hansı vәziyyәtdә olmalıdır?",
+      "question": "28. Yük boşaltmazdan əvvəl yük nasosunun klapanları hansı vəziyyətdə olmalıdır?",
       "options": {
         "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "B": "gəmi limana daxil olana qədər",
@@ -339,7 +339,7 @@
     },
     {
       "id": "q029",
-      "question": "29. Xüsusi rayonda olan zaman tankların yuyulmasında hansı üsullardan istifadә olunur?",
+      "question": "29. Xüsusi rayonda olan zaman tankların yuyulmasında hansı üsullardan istifadə olunur?",
       "options": {
         "A": "Qapalı dövrlü",
         "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
@@ -351,7 +351,7 @@
     },
     {
       "id": "q030",
-      "question": "30. Tankların yuma sisteminә nә daxil deyil?",
+      "question": "30. Tankların yuma sisteminə nə daxil deyil?",
       "options": {
         "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "B": "fırtınalı havada təxirə salınmaqla",
@@ -363,7 +363,7 @@
     },
     {
       "id": "q031",
-      "question": "31. Tankların yuyulması zamanı neçә üsuldan istifadә olunur?",
+      "question": "31. Tankların yuyulması zamanı neçə üsuldan istifadə olunur?",
       "options": {
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "B": "3",
@@ -375,9 +375,9 @@
     },
     {
       "id": "q032",
-      "question": "32. Tankların yuyulması nә zaman zәruri deyil?",
+      "question": "32. Tankların yuyulması nə zaman zəruri deyil?",
       "options": {
-        "A": "Tәmirdәn çıxan zaman",
+        "A": "Təmirdən çıxan zaman",
         "B": "hər ayda bir dəfədən az olmayan müddətdə",
         "C": "əllə idarəetmə rejiminə keçdikdə",
         "D": "şimal-şərq istiqamətində"

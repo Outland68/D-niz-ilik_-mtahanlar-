@@ -15,7 +15,7 @@
     },
     {
       "id": "q002",
-      "question": "2. Mühafizәnin neçә sәviyyәsi mövcuddur?",
+      "question": "2. Mühafizənin neçə səviyyəsi mövcuddur?",
       "options": {
         "A": "3",
         "B": "lövbər dayanacağı sahəsində",
@@ -27,7 +27,7 @@
     },
     {
       "id": "q003",
-      "question": "3. Gәmiyә gәlәn şәxslәrin qarşılanması aşağıdakı qaydada yerinә yetirilir?",
+      "question": "3. Gəmiyə gələn şəxslərin qarşılanması aşağıdakı qaydada yerinə yetirilir?",
       "options": {
         "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
