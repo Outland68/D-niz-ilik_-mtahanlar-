@@ -60,10 +60,6 @@ export default function Login() {
 
       if (res.ok) {
         setForgotSuccess(data.message);
-        if (data.dev_code) {
-          // Fill code automatically for fast testing if available
-          setForgotCode(data.dev_code);
-        }
         setTimeout(() => {
           setForgotSuccess('');
           setStep(2);
