@@ -276,6 +276,7 @@ export default function Login() {
                     maxLength={6}
                     value={forgotCode}
                     onChange={(e) => setForgotCode(e.target.value)}
+                    autoComplete="one-time-code"
                     required
                   />
                 </div>

@@ -162,6 +162,7 @@ export default function Register() {
               className="input-glass text-center text-2xl font-bold tracking-[0.5em] focus:tracking-[0.5em]"
               value={verificationCode}
               onChange={(e) => setVerificationCode(e.target.value.replace(/\D/g, ''))}
+              autoComplete="one-time-code"
               required 
             />
           </div>
