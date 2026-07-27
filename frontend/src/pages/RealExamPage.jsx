@@ -368,6 +368,12 @@ export default function RealExamPage() {
         </div>
       </div>
 
+      {/* Disclaimer Banner */}
+      <div className="mb-6 p-3.5 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-300 text-xs flex items-center gap-2.5">
+        <AlertTriangle size={18} className="flex-shrink-0 text-amber-400" />
+        <span><strong>Xəbərdarlıq:</strong> İmtahan suallarında və ya variantlarında uyğunsuzluq ola bilər. Suallar mütəmadi olaraq yenilənir və dəqiqləşdirilir.</span>
+      </div>
+
       {/* Question Content */}
       <div className="mb-8">
         <h2 className="text-xl md:text-2xl font-medium mb-4 leading-relaxed">{q.question}</h2>

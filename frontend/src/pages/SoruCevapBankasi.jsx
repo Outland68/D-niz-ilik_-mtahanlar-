@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
-import { ArrowLeft, CheckCircle2 } from 'lucide-react';
+import { ArrowLeft, CheckCircle2, AlertTriangle } from 'lucide-react';
 import { apiGetQuestions, getImageUrl } from '../utils/api';
 
 export default function SoruCevapBankasi() {
@@ -43,6 +43,12 @@ export default function SoruCevapBankasi() {
           <h1 className="text-3xl font-bold">{certificateName || 'Sual-Cavab Bankı'}</h1>
           <p className="text-white/50 mt-1">Öyrənmək üçün bütün suallar və düzgün cavablar</p>
         </div>
+      </div>
+
+      {/* Disclaimer Banner */}
+      <div className="mb-6 p-3.5 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-300 text-xs flex items-center gap-2.5">
+        <AlertTriangle size={18} className="flex-shrink-0 text-amber-400" />
+        <span><strong>Xəbərdarlıq:</strong> İmtahan suallarında və ya variantlarında uyğunsuzluq ola bilər. Suallar mütəmadi olaraq yenilənir və dəqiqləşdirilir.</span>
       </div>
 
       {loading ? (
