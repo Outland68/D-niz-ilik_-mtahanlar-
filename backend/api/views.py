@@ -533,7 +533,8 @@ class CertificateViewSet(viewsets.ReadOnlyModelViewSet):
                         'question': q.get('question', ''),
                         'options': options_list,
                         'correct_answer': correct_index,
-                        'explanation': q.get('explanation', '')
+                        'explanation': q.get('explanation', ''),
+                        'image_url': q.get('image_url')
                     })
 
         except Exception as e:
