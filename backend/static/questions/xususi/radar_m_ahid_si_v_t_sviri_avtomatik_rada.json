@@ -3,602 +3,602 @@
   "questions": [
     {
       "id": "q001",
-      "question": "1. ARPA-nın (Automatic Radar Ploting Aids) məlumatının düzgünlüyü nədən asılıdır?",
+      "question": "Sual 1. ARPA-nın (Automatic Radar Plotting Aids) məlumatının düzgünlüyü nədən asılıdır?",
       "options": {
-        "A": "Laqın, kompasın və radarın səhvlərindən",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "lövbər dayanacağı sahəsində"
+        "A": "Yalnız radarın gücündən",
+        "B": "Laqın, kompasın və radarın səhvlərindən",
+        "C": "Gəminin sürətindən və kursundan",
+        "D": "Hava şəraitindən və dənizin dalğalanmasından"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q002",
-      "question": "2. ARPA-da (Automatic Radar Ploting Aids) hərəkətsiz gəmi hansı sayılır?",
+      "question": "Sual 2. ARPA-da hərəkətsiz gəmi hansı sayılır?",
       "options": {
-        "A": "Gəminin sürəti 1,5-2,0 düyündən azdır",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "bütün cavablar yanlışdır",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "Gəminin sürəti 5 düyündən azdır",
+        "B": "Gəminin sürəti 1,5–2,0 düyündən azdır",
+        "C": "Gəmi lövbərdədir",
+        "D": "Gəminin sürəti 0 düyündür"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q003",
-      "question": "3. Radarda həqiqi hərəkət xətti rejimində işləyərkən, müşahidə edən gəminin sürəti və kursu daxil etmə yalnışları nəticəsində hansı səhvlər ola bilər?",
+      "question": "Sual 3. Radarda həqiqi hərəkət xətti rejimində işləyərkən, müşahidə edən gəminin sürəti və kursu daxil etmə yalnışları nəticəsində hansı səhvlər ola bilər?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "A": "Yalnız məsafə ölçmədə səhv olar",
         "B": "Vəziyyətin dəyərləndirilməsində və manevrin seçilməsində səhvlər ola bilər",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "C": "Antenin fırlanma sürətində səhv olar",
+        "D": "Ekranın işıqlandırılmasında səhv olar"
       },
       "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q004",
-      "question": "4. ARPA (Automatic Radar Ploting Aids) manevr etdikdən sonra, müşayiət edilən hədəfin və ya bizim gəmimizin hərəkət proqnozu hesablamaları haqqında məlumatı nə vaxt verə bilər?",
+      "question": "Sual 4. ARPA manevr etdikdən sonra, müşayiət edilən hədəfin və ya bizim gəmimizin hərəkət proqnozu hesablamaları haqqında məlumatı nə vaxt verə bilər?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "Yalnız təxminən 3 dəqiqədən sonra",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "A": "Dərhal",
+        "B": "Təxminən 30 saniyədən sonra",
+        "C": "Yalnız təxminən 3 dəqiqədən sonra",
+        "D": "Təxminən 10 dəqiqədən sonra"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q005",
-      "question": "5. ARPA (Automatic Radar Ploting Aids) manevr etdikdən sonra, müşayiət edilən hədəfin və ya bizim gəmimizin yeni hərəkət parametrləri haqqında məlumatı nə vaxt verə bilər?",
+      "question": "Sual 5. ARPA manevr etdikdən sonra, müşayiət edilən hədəfin və ya bizim gəmimizin yeni hərəkət parametrləri haqqında məlumatı nə vaxt verə bilər?",
       "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "Yalnız təxminən 1 dəqiqədən sonra"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q006",
-      "question": "6. ARPA (Automatic Radar Ploting Aids) hər bir vəziyyətdə, 1 dəqiqədən çox olmayan sabit avtomatik müşayiətdən sonra hansı məlumatı verməlidir?",
-      "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "Hədəfin nisbi kursu, hədəfin nisbi sürəti, gəmilərin arasındaki ən qısa məsafə",
-        "C": "50 metr məsafədə dənizdə",
-        "D": "bütün cavablar yanlışdır"
+        "A": "Dərhal",
+        "B": "Yalnız təxminən 1 dəqiqədən sonra",
+        "C": "Təxminən 3 dəqiqədən sonra",
+        "D": "Təxminən 5 dəqiqədən sonra"
       },
       "correct_answer": "B",
       "explanation": ""
     },
     {
-      "id": "q007",
-      "question": "7. ARPA (Automatic Radar Ploting Aids) hər bir vəziyyətdə, 3 dəqiqədən çox olmayan sabit avtomatik müşayiətdən sonra hansı məlumatı verməlidir?",
+      "id": "q006",
+      "question": "Sual 6. ARPA hər bir vəziyyətdə, 1 dəqiqədən çox olmayan sabit avtomatik müşayiətdən sonra hansı məlumatı verməlidir?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "şimal-şərq istiqamətində",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "Hədəfin nisbi kursu, hədəfin nisbi sürəti, gəmilərin arasındaki ən qısa məsafə, gəminin həqiqi kursu, gəminin sürəti, gəmilərin ən qısa məsafədə olan vaxt"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q008",
-      "question": "8. Gəmilərin yana yırğalanması və ya baş vurması halları RLS-nın işləməsinə necə təsiri edir?",
-      "options": {
-        "A": "Əks edilmiş siqnallar dəyişkən olur və gəmidən gələn əks- səda siqnallarının nişanı ekranda antenin hər dövründə göstərilmir",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "bütün cavablar yanlışdır",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+        "A": "Hədəfin nisbi kursu, hədəfin nisbi sürəti, gəmilərin arasındaki ən qısa məsafə",
+        "B": "Hədəfin həqiqi kursu və sürəti",
+        "C": "Yalnız CPA və TCPA",
+        "D": "Gəminin öz kursu və sürəti"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
-      "id": "q009",
-      "question": "9. RLS-nın işləməsinə yağıntılar necə təsir edə bilərlər?",
+      "id": "q007",
+      "question": "Sual 7. ARPA hər bir vəziyyətdə, 3 dəqiqədən çox olmayan sabit avtomatik müşayiətdən sonra hansı məlumatı verməlidir?",
       "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "Ekranın çox hissəsi yüksək işıqlandırma təsiri altında olarkən, obyektlərin nişanları ekranda göstərilmir"
+        "A": "Yalnız hədəfin nisbi kursu və sürəti",
+        "B": "Yalnız gəminin həqiqi kursu",
+        "C": "Hədəfin nisbi kursu, hədəfin nisbi sürəti, gəmilərin arasındaki ən qısa məsafə, gəminin həqiqi kursu, gəminin sürəti, gəmilərin ən qısa məsafədə olan vaxt",
+        "D": "Yalnız CPA məlumatı"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q008",
+      "question": "Sual 8. Gəmilərin yana yırğalanması və ya baş vurması halları RLS-nın işləməsinə necə təsiri edir?",
+      "options": {
+        "A": "Ekranın parlaqlığı azalır",
+        "B": "Əks edilmiş siqnallar dəyişkən olur və gəmidən gələn əkssəda siqnallarının nişanı ekranda antenin hər dövründə göstərilmir",
+        "C": "Antenin fırlanma sürəti dəyişir",
+        "D": "Heç bir təsiri yoxdur"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q009",
+      "question": "Sual 9. RLS-nın işləməsinə yağıntılar necə təsir edə bilərlər?",
+      "options": {
+        "A": "Ekranda əlavə yalnış hədəflər yaranır",
+        "B": "Ekranın çox hissəsi yüksək işıqlandırma təsiri altında olarkən, obyektlərin nişanları ekranda göstərilmir",
+        "C": "Antenin gücü artır",
+        "D": "Yalnız uzaq məsafədəki hədəflər itir"
+      },
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q010",
-      "question": "10. RLS-nın işləməsinə çox sayda əks-səda siqnalları necə təsir edə bilərlər?",
+      "question": "Sual 10. RLS-nın işləməsinə çox sayda əks-səda siqnalları necə təsir edə bilərlər?",
       "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "A": "Ekranda heç bir dəyişiklik olmur",
         "B": "Yalnış əks-səda siqnalları həqiqi əks-səda siqnallarının arxasında və eyni pelenqdə yerləşirlər",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "C": "Yalnış siqnallar yalnız yaxın məsafədə görünür",
+        "D": "Ekranın işıqlandırılması artır"
       },
       "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q011",
-      "question": "11. Kölgəli sektorların yerləşməsi və sərhədləri gəmidə harada göstərilməlidir?",
+      "question": "Sual 11. Kölgəli sektorların yerləşməsi və sərhədləri gəmidə harada göstərilməlidir?",
       "options": {
-        "A": "Təyin olunmalı və RLS-nın indikatorunun yanındakı sxemdə göstərilməlidir",
-        "B": "şimal-şərq istiqamətində",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "A": "Yalnız kapitan jurnalında qeyd olunmalıdır",
+        "B": "Təyin olunmalı və RLS-nın indikatorunun yanındakı sxemdə göstərilməlidir",
+        "C": "Göstərilməsinə ehtiyac yoxdur",
+        "D": "Yalnız radar ekranında qırmızı rənglə işarələnməlidir"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q012",
-      "question": "12. RLS-nın işləməsinə yalnış əks-səda siqnalları necə təsir edə bilərlər?",
+      "question": "Sual 12. RLS-nın işləməsinə yalnış əks-səda siqnalları necə təsir edə bilərlər?",
       "options": {
-        "A": "Ekranda ətraflı vəziyyətə uyğun olmayan nişanlar əmələ gələ bilər",
-        "B": "şimal-şərq istiqamətində",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+        "A": "Ekranın parlaqlığı azalır",
+        "B": "Ekranda ətraflı vəziyyətə uyğun olmayan nişanlar əmələ gələ bilər",
+        "C": "Antenin işləməsi dayanır",
+        "D": "Yalnız yaxın məsafədə görünür"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q013",
+      "question": "Sual 13. RLS-nın işləməsinə digər radiolokatorların işləməsi necə təsir edə bilər?",
+      "options": {
+        "A": "Ekran tamamilə qaralır",
+        "B": "RLS-nın ekranında nöqtə, xətt, punktir halında əks-səda siqnalları əmələ gəlir",
+        "C": "Antenin fırlanması dayanır",
+        "D": "Heç bir təsiri olmur"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q014",
+      "question": "Sual 14. «Subrefraksiya» nə deməkdir?",
+      "options": {
+        "A": "Hündürlükdə hava rütubətinin çoxalması nəticəsində və ya hava temperaturunun kəskin aşağı düşməsi nəticəsində əmələ gəlir",
+        "B": "Dalğaların normal atmosfer şəraitindən daha uzağa yayılması",
+        "C": "Radar dalğalarının tamamilə udulması",
+        "D": "Antenin lazımınca işləməməsi"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
-      "id": "q013",
-      "question": "13. RLS-nın işləməsinə digər radiolokatorların işləməsi necə təsir edə bilər?",
+      "id": "q015",
+      "question": "Sual 15. Dumanın intensivliyindən asılı olaraq obyektləri aşkar etmə məsafəsi nə qədər azala bilər?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "50 metr məsafədə dənizdə",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "RLS-nın ekranında nöqtə, xətt, punktir halında əks-səda siqnalları əmələ gəlir"
+        "A": "100 metrə qədər vizual görünüşdə – 10%",
+        "B": "100 metrə qədər vizual görünüşdə – 20%",
+        "C": "1, 3, 4 cavabları doğrudur (100m-10%, 25-30m-30%, <30m-40-50%)",
+        "D": "Yalnız 50% azala bilər"
       },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q014",
-      "question": "14. «Subrefraksiya» nə deməkdir?",
-      "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "Hündürlükdə hava rütubətinin çoxalması nəticəsində və ya hava temperaturunun kəskin aşağı düşməsi nəticəsində əmələ gəlir"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. 30 m-dən az vizual görünüşdə - 60%-70%.",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "1, 3, 4"
-      },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q016",
-      "question": "16. Radiolokasiya anteninin funksiyasına nə aid deyil?",
+      "question": "Sual 16. Radiolokasiya anteninin funksiyasına nə aid deyil?",
       "options": {
-        "A": "Həddən yüksək tezliyin əks edilməsi.",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "Həddən yüksək tezliyin əks edilməsi",
+        "B": "Siqnalın ötürülməsi",
+        "C": "Siqnalın qəbulu",
+        "D": "Şüalanmanın istiqamətləndirilməsi"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q017",
-      "question": "17. Müasir radarda nə istifadə olunmur?",
+      "question": "Sual 17. Müasir radarda nə istifadə olunmur?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "Mexaniki kursor"
+        "A": "Elektron kursor",
+        "B": "Rəqəmsal ekran",
+        "C": "Mexaniki kursor",
+        "D": "LCD monitor"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q018",
-      "question": "18. _________ rast gəldikdə, yüklənmə boğulan ola bilər, hərçənd CPA təyin olunması üçün əllə yolçəkmə yaxşı işləyir.",
+      "question": "Sual 18. Böyük miqdarda hədəflərə rast gəldikdə, yüklənmə boğulan ola bilər, hərçənd CPA təyin olunması üçün əllə yolçəkmə yaxşı işləyir.",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "böyük miqdarda hədəflər"
+        "A": "Zəif siqnal gücündə",
+        "B": "Aşağı görünürlük şəraitində",
+        "C": "Böyük miqdarda hədəflərə",
+        "D": "Antenin aşağı yerləşdirilməsində"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q019",
-      "question": "19. Dəniz radiolokasiyasında ______ PPİ ixtisarıdır.",
+      "question": "Sual 19. Dəniz radiolokasiyasında Mövqeyin plan indikatoru (Plan Position Indicator) PPİ ixtisarıdır.",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "Mövqeyin plan indikatoru (plan position indicator)",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q020",
-      "question": "20. S diapazonlu radarı X diapazonlu radarıyla müqayisədə ______ olacaq.",
-      "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "pis dəniz şəraitində dənizin dalğalanmasından yaranan maneələrin ən böyük yatırılmasına malik",
-        "D": "cənub-qərb dreyfi zamanı"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q021",
-      "question": "21. Dəniz radarının söndürülməsinin düzgün metodu: Qidalanmanı söndürən düyməni ______ vəziyyətinə, sonra isə ______ vəziyyətinə keçirmək.",
-      "options": {
-        "A": "gözləmə rejimi (Stand by); söndürmə (Off)",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q022",
-      "question": "22. Gəminin yerinin təyini üçün radardan istifadənin ən yaxşı üsulu_____.",
-      "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "distansiyalardan istifadə edərək, ən tez dəyişən distansiya sonuncu ölçülür",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "A": "Pulse Position Indicator",
+        "B": "Mövqeyin plan indikatoru (Plan Position Indicator)",
+        "C": "Precise Plotting Instrument",
+        "D": "Primary Position Indicator"
       },
       "correct_answer": "B",
       "explanation": ""
     },
     {
-      "id": "q023",
-      "question": "23. Siz radarın ekranında Racon-la təchiz edilmiş buyu müşahidə edirsiniz. Bu hədəf ekranda necə çıxmalıdır?",
+      "id": "q020",
+      "question": "Sual 20. S diapazonlu radarı X diapazonlu radarıyla müqayisədə nə olacaq?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "Tiredən başlayaraq və hədəfin buyundan xaricə uzanan radial."
+        "A": "Daha yüksək təsvir dəqiqliyinə malik",
+        "B": "Pis dəniz şəraitində dənizin dalğalanmasından yaranan maneələrin ən böyük yatırılmasına malik",
+        "C": "Daha kiçik antenaya ehtiyac duyur",
+        "D": "Yaxın məsafədə daha yaxşı görünürlük təmin edir"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
-      "id": "q024",
-      "question": "24. Radiolokasiya impulsunun uzunluğu diapazonun şkalasından asılı olaraq dəyişir. Aşağıda göstərilənlərdən hansı düzgündür?",
+      "id": "q021",
+      "question": "Sual 21. Dəniz radarının söndürülməsinin düzgün metodu: Qidalanmanı söndürən düyməni Gözləmə rejimi (Stand by) vəziyyətinə, sonra isə söndürmə (Off) vəziyyətinə keçirmək.",
       "options": {
-        "A": "Qısa impuls üçün kiçik diapazon.",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "A": "Söndürmə (Off); gözləmə rejimi (Stand by)",
+        "B": "Gözləmə rejimi (Stand by); söndürmə (Off)",
+        "C": "Birbaşa qida mənbəyini kəsmək",
+        "D": "Yalnız ekranı söndürmək"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
-      "id": "q025",
-      "question": "25. Gəmi öz kursunu dəyişəndə və ya dalğalarda vurnuxanda hansı təqdim etmə rejimində, radarın hədəfi qeyri-stabil olacaq və radarın təsviri yayılacaq?",
+      "id": "q022",
+      "question": "Sual 22. Gəminin yerinin təyini üçün radardan istifadənin ən yaxşı üsulu nədir?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "Head Up",
-        "D": "fırtınalı havada təxirə salınmaqla"
+        "A": "Yalnız pelenqlərdən istifadə etmək",
+        "B": "Yalnız bir distansiya ölçmək kifayətdir",
+        "C": "Distansiyalardan istifadə edərək, ən tez dəyişən distansiya sonuncu ölçülür",
+        "D": "Ən yavaş dəyişən distansiyanı sonuncu ölçmək"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
-      "id": "q026",
-      "question": "26. «Təhlükəli yaxınlaşma» anlayışı nə deməkdir?",
+      "id": "q023",
+      "question": "Sual 23. Siz radarın ekranında Racon-la təchiz edilmiş buyu müşahidə edirsiniz. Bu hədəf ekranda necə çıxmalıdır?",
       "options": {
-        "A": "Bilavasitə toqquşmanın qarşısının alınması üçün tələb ola bilən tədbirlər qaçılmaz olduqda",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "A": "Tiredən başlayaraq və hədəfin buyundan xaricə uzanan radial",
+        "B": "Buyun üzərində dairəvi işarə",
+        "C": "Buyundan içəriyə doğru radial",
+        "D": "Yalnış nöqtə şəklində"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q024",
+      "question": "Sual 24. Radiolokasiya impulsunun uzunluğu diapazonun şkalasından asılı olaraq dəyişir. Aşağıda göstərilənlərdən hansı düzgündür?",
+      "options": {
+        "A": "Uzun impuls üçün kiçik diapazon",
+        "B": "Qısa impuls üçün kiçik diapazon",
+        "C": "İmpuls uzunluğu diapazondan asılı deyil",
+        "D": "Qısa impuls üçün böyük diapazon"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q025",
+      "question": "Sual 25. Gəmi öz kursunu dəyişəndə və ya dalğalarda vurnuxanda hansı təqdim etmə rejimində, radarın hədəfi qeyri-stabil olacaq və radarın təsviri yayılacaq?",
+      "options": {
+        "A": "Head Up",
+        "B": "North Up",
+        "C": "Course Up",
+        "D": "True Motion"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q026",
+      "question": "Sual 26. «Təhlükəli yaxınlaşma» anlayışı nə deməkdir?",
+      "options": {
+        "A": "Bilavasitə toqquşmanın qarşısının alınması üçün tələb ola bilər tədbirlər qaçılmaz olduqda",
+        "B": "Gəmilər arasında məsafə 1 mildən az olduqda",
+        "C": "Radar ekranında hədəf görünəndə",
+        "D": "Gəmilər eyni kursda hərəkət etdikdə"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q027",
-      "question": "27. Yelkənli gəmi hərəkətdə olarkən yol verməlidir:",
+      "question": "Sual 27. Yelkənli gəmi hərəkətdə olarkən yol verməlidir:",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "Balıq ovu ilə məşğul olan, yelkənli gəmilərə, manevr imkanları məhdud olan gəmi və balıq ovu ilə məşğul gəmilərə",
-        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+        "A": "Mühərrikli gəmiyə",
+        "B": "Balıq ovu ilə məşğul olan, manevr imkanları məhdud olan gəmilərə və balıq ovu ilə məşğul olan gəmilərə",
+        "C": "Tənha üzən gəmiyə",
+        "D": "Sahildən çıxan gəmiyə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q028",
-      "question": "28. North Up və Course Up oryentasiyaları üçün, radar ______ -dan siqnal almalıdır.",
+      "question": "Sual 28. North Up və Course Up oryentasiyaları üçün, radar haradan siqnal almalıdır?",
       "options": {
-        "A": "GYRO",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+        "A": "GPS-dən",
+        "B": "GYRO-dan",
+        "C": "Log-dan (sürətölçəndən)",
+        "D": "AIS-dən"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q029",
-      "question": "29. Növbəti amillərdən hansı aşkar etmə uzaqlığının radiolokasiya maksimumuna aid deyil?",
+      "question": "Sual 29. Növbəti amillərdən hansı aşkar etmə uzaqlığının radiolokasiya maksimumuna aid deyil?",
       "options": {
-        "A": "hər 6 aydan bir keçirilən təlimlərdə",
-        "B": "fırtınalı havada təxirə salınmaqla",
+        "A": "Antenin hündürlüyü",
+        "B": "Ötürücünün gücü",
         "C": "Video zolağın eni",
-        "D": "lövbər dayanacağı sahəsində"
+        "D": "Antenin diaqram enliyi"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q030",
-      "question": "30. Uzaqlığa görə həll etmə qabiliyyətini müəyyən edən əsas amilə ______aiddir.",
+      "question": "Sual 30. Uzaqlığa görə həll etmə qabiliyyətini müəyyən edən əsas amilə nə aiddir?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "bütün cavablar doğrudur",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "impulsun uzunluğu"
+        "A": "Antenin diaqram enliyi",
+        "B": "Ötürücünün gücü",
+        "C": "İmpulsun uzunluğu",
+        "D": "Antenin fırlanma sürəti"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q031",
-      "question": "31. Mexaniki mühərrikli gəmi hərəkətdə olarkən yol verməlidir:",
+      "question": "Sual 31. Mexaniki mühərrikli gəmi hərəkətdə olarkən yol verməlidir:",
       "options": {
-        "A": "Balıq ovu ilə məşğul olan, yelkənli gəmilərə, manevr imkanları məhdud olan gəmi və balıq ovu ilə məşğul olan gəmilərə",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "bütün cavablar doğrudur",
-        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+        "A": "Yelkənli gəmiyə",
+        "B": "Balıq ovu ilə məşğul olan, yelkənli gəmilərə, manevr imkanları məhdud olan gəmiyə və balıq ovu ilə məşğul olan gəmilərə",
+        "C": "Tənha üzən gəmiyə",
+        "D": "Sahildən çıxan gəmiyə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q032",
-      "question": "32. Hədəfin nisbi hərəkət xətti radar ekranının mərkəzindəki açılma nöqtəsinin üstündən və ya onun yaxınlığından keçirsə, bu nə deməkdir?",
+      "question": "Sual 32. Hədəfin nisbi hərəkət xətti radar ekranının mərkəzindəki açılma nöqtəsinin üstündən və ya onun yaxınlığından keçirsə, bu nə deməkdir?",
       "options": {
-        "A": "Situasiya gəmilərin toqquşmasına gətirir",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "bütün cavablar doğrudur"
+        "A": "Gəmilər təhlükəsiz məsafədə keçəcək",
+        "B": "Situasiya gəmilərin toqquşmasına gətirir",
+        "C": "Hədəf lövbərdədir",
+        "D": "Hədəf sürətini artırır"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q033",
-      "question": "33. Növbəti xarakteristikalardan hansı yanlış əks-sədanın xarakteristikası deyil?",
+      "question": "Sual 33. Növbəti xarakteristikalardan hansı yanlış əks-sədanın xarakteristikası deyil?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "yanlış əks-sədanın pelenqi hədəfin pelenqi kimidir"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q034",
-      "question": "34. Dənizin maneələrini azaltmaq üçün, sadalananlardan nə səhvdir?",
-      "options": {
-        "A": "Antenin dairəvi polyarlaşmasından istifadə edirlər.",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "lövbər dayanacağı sahəsində"
+        "A": "Yanlış əks-sədanın pelenqi hədəfin pelenqi kimidir",
+        "B": "Yanlış əks-səda adətən daha uzaq məsafədə görünür",
+        "C": "Yanlış əks-səda simmetrik formada olur",
+        "D": "Yanlış əks-səda təkrarlanan intervallarla görünür"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
-      "id": "q035",
-      "question": "35. Radiolokatordan naviqasiyada istifadə zamanı naviqasiya avadanlıqlarından hansılar radarla bağlı olmalıdır?",
+      "id": "q034",
+      "question": "Sual 34. Dənizin maneələrini azaltmaq üçün, sadalananlardan nə səhvdir?",
       "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "Girokompas, laq, AIS, GPS (electronic position-fixing system).",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "fırtınalı havada təxirə salınmaqla"
+        "A": "STC (Sensitivity Time Control) tənzimləyicisindən istifadə edirlər",
+        "B": "Antenin dairəvi polyarlaşmasından istifadə edirlər",
+        "C": "Anti-clutter tənzimləyicisindən istifadə edirlər",
+        "D": "Qısa impuls seçirlər"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q035",
+      "question": "Sual 35. Radiolokatordan naviqasiyada istifadə zamanı naviqasiya avadanlıqlarından hansılar radarla bağlı olmalıdır?",
+      "options": {
+        "A": "Yalnız GPS",
+        "B": "Girokompas, laq, AIS, GPS (electronic position-fixing system)",
+        "C": "Yalnız Girokompas",
+        "D": "Yalnız AIS və Radar"
       },
       "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q036",
-      "question": "36. Yağışdan maneələri azaltmaq üçün, aşağıdakı əməliyyatlardan hansı səhvdir?",
+      "question": "Sual 36. Yağışdan maneələri azaltmaq üçün, aşağıdakı əməliyyatlardan hansı səhvdir?",
       "options": {
-        "A": "antenin dairəvi polyarlaşmasından istifadə edirlər.",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "şimal-şərq istiqamətində"
+        "A": "FTC (Fast Time Constant) tənzimləyicisindən istifadə edirlər",
+        "B": "Antenin dairəvi polyarlaşmasından istifadə edirlər",
+        "C": "Qısa impuls seçirlər",
+        "D": "Anti-clutter tənzimləyicisini artırırlar"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q037",
-      "question": "37. Növbəti iddialardan hansı nisbi vektor (RV) üçün yanlışdır?",
+      "question": "Sual 37. Növbəti iddialardan hansı nisbi vektor (RV) üçün yanlışdır?",
       "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "Nisbi vektorun (RV) dəqiqliyi, həqiqi vektorun (TV) dəqiqliyindən daha azdır"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q038",
-      "question": "38. Toqquşmanın qarşısının alınması zamanı radiolokatordan istifadə vaxtı qeyd edilən naviqasiya avadanlıqlarından hansılar olmalıdır?",
-      "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "50 metr məsafədə dənizdə",
-        "C": "Girokompas, laq, DGPS.",
-        "D": "şimal-şərq istiqamətində"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q039",
-      "question": "39. Sağa (hədəf tərəfə) dönmə və sürətin artırılması manevrini yerinə yetirərkən, hədəfin Nisbi Hərəkət Xətti (NHX) və nisbi sürət vektoru (VN) necə dəyişir?",
-      "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "bütün cavablar yanlışdır",
-        "C": "NHX dəyişmir, nisbi sürət artır",
-        "D": "cənub-qərb dreyfi zamanı"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q040",
-      "question": "40. Sola dönmə və sürətin azaldılması manevrini yerinə yetirərkən, hədəfin Nisbi Hərəkət Xətti (NHX) və nisbi sürət vektoru (VN) necə dəyişir?",
-      "options": {
-        "A": "NHX dəyişmir, nisbi sürət azalır",
-        "B": "şimal-şərq istiqamətində",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "bütün cavablar yanlışdır"
+        "A": "Nisbi vektorun (RV) dəqiqliyi, həqiqi vektorun (TV) dəqiqliyindən daha azdır",
+        "B": "Nisbi vektor iki gəmi arasındakı nisbi hərəkəti göstərir",
+        "C": "Nisbi vektorun uzunluğu nisbi sürəti göstərir",
+        "D": "Nisbi vektor CPA təyin etmək üçün istifadə olunur"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
-      "id": "q041",
-      "question": "41. Sağa (hədəf tərəfə) dönmə və sürətin azaldılması manevrini yerinə yetirərkən, hədəfin Nisbi Hərəkət Xətti (NHX) və nisbi sürət vektoru (VN) necə dəyişir?",
+      "id": "q038",
+      "question": "Sual 38. Toqquşmanın qarşısının alınması zamanı radiolokatordan istifadə vaxtı qeyd edilən naviqasiya avadanlıqlarından hansılar olmalıdır?",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət artır"
+        "A": "Yalnız GPS",
+        "B": "Girokompas, laq, DGPS",
+        "C": "Yalnız Girokompas və AIS",
+        "D": "Yalnız Laq və Radar"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q039",
+      "question": "Sual 39. Sağa (hədəf tərəfə) dönmə və sürətin artırılması manevrini yerinə yetirərkən, hədəfin Nisbi Hərəkət Xətti (NHX) və nisbi sürət vektoru (VN) necə dəyişir?",
+      "options": {
+        "A": "NHX dəyişmir, nisbi sürət artır",
+        "B": "NHX dəyişmir, nisbi sürət azalır",
+        "C": "NHX dəyişir, nisbi sürət artır",
+        "D": "NHX dəyişir, nisbi sürət dəyişmir"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q040",
+      "question": "Sual 40. Sola dönmə və sürətin azaldılması manevrini yerinə yetirərkən, hədəfin Nisbi Hərəkət Xətti (NHX) və nisbi sürət vektoru (VN) necə dəyişir?",
+      "options": {
+        "A": "NHX dəyişmir, nisbi sürət artır",
+        "B": "NHX dəyişmir, nisbi sürət azalır",
+        "C": "NHX dəyişir, nisbi sürət azalır",
+        "D": "NHX dəyişir, nisbi sürət dəyişmir"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q041",
+      "question": "Sual 41. Sağa (hədəf tərəfə) dönmə və sürətin azaldılması manevrini yerinə yetirərkən, hədəfin NHX və VN necə dəyişir?",
+      "options": {
+        "A": "NHX gəmimizin arxa tərəfinə dəyişir, nisbi sürət azalır",
+        "B": "NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət artır",
+        "C": "NHX dəyişmir, nisbi sürət artır",
+        "D": "NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət azalır"
+      },
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q042",
-      "question": "42. Sürətin iki dəfə azaldılması manevrini yerinə yetirərkən, hədəfin Nisbi Hərəkət Xətti (NHX) və nisbi sürət vektoru (VN) necə dəyişir?",
+      "question": "Sual 42. Sürətin iki dəfə azaldılması manevrini yerinə yetirərkən, hədəfin NHX və VN necə dəyişir?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
+        "A": "NHX gəmimizin arxa tərəfinə dəyişir, nisbi sürət artır",
         "B": "NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət azalır",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "gəmi limana daxil olana qədər"
+        "C": "NHX dəyişmir, nisbi sürət azalır",
+        "D": "NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət artır"
       },
       "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q043",
-      "question": "43. Sürətin artırılması manevrini yerinə yetirərkən, hədəfin Nisbi Hərəkət Xətti (NHX) və nisbi sürət vektoru (VN) necə dəyişir?",
+      "question": "Sual 43. Sürətin artırılması manevrini yerinə yetirərkən, hədəfin NHX və VN necə dəyişir?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət azalır"
+        "A": "NHX gəmimizin arxa tərəfinə dəyişir, nisbi sürət artır",
+        "B": "NHX dəyişmir, nisbi sürət artır",
+        "C": "NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət azalır",
+        "D": "NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət artır"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q044",
-      "question": "44. Sağa (hədəf tərəfə) dönmə manevrini yerinə yetirərkən, hədəfin Nisbi Hərəkət Xətti (NHX) və nisbi sürət vektoru (VN) necə dəyişir?",
+      "question": "Sual 44. Sağa (hədəf tərəfə) dönmə manevrini yerinə yetirərkən, hədəfin NHX və VN necə dəyişir?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "bütün cavablar yanlışdır",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət artır"
+        "A": "NHX gəmimizin arxa tərəfinə dəyişir, nisbi sürət azalır",
+        "B": "NHX dəyişmir, nisbi sürət artır",
+        "C": "NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət artır",
+        "D": "NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət azalır"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q045",
-      "question": "45. Sola dönmə manevrini yerinə yetirərkən, hədəfin Nisbi Hərəkət Xətti (NHX) və nisbi sürət vektoru (VN) necə dəyişir?",
+      "question": "Sual 45. Sola dönmə manevrini yerinə yetirərkən, hədəfin NHX və VN necə dəyişir?",
       "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "NHX gəmimizin arxa tərəfinə dəyişir, nisbi sürət azalır"
+        "A": "NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət artır",
+        "B": "NHX gəmimizin arxa tərəfinə dəyişir, nisbi sürət azalır",
+        "C": "NHX dəyişmir, nisbi sürət azalır",
+        "D": "NHX gəmimizin arxa tərəfinə dəyişir, nisbi sürət artır"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q046",
-      "question": "46. Aşağıda göstərilən manevrlərdən hansı təhlükəli sayılır?",
+      "question": "Sual 46. Aşağıda göstərilən manevrlərdən hansı təhlükəli sayılır?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "Sola dönməklə sürətin azaldılması, sağa dönməklə sürətin artırılması",
-        "D": "şimal-şərq istiqamətində"
+        "A": "Sola dönməklə sürətin artırılması, sağa dönməklə sürətin azaldılması",
+        "B": "Sola dönməklə sürətin azaldılması, sağa dönməklə sürətin artırılması",
+        "C": "Yalnız sürəti sabit saxlamaq",
+        "D": "Yalnız kursu dəyişməmək"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q047",
-      "question": "47. Aşağıda göstərilən manevrlərdən hansı effektiv sayılır?",
+      "question": "Sual 47. Aşağıda göstərilən manevrlərdən hansı effektiv sayılır?",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "Sola dönməklə sürətin artırılması, sağa dönməklə sürətin azaldılması",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+        "A": "Sola dönməklə sürətin artırılması, sağa dönməklə sürətin azaldılması",
+        "B": "Sola dönməklə sürətin azaldılması, sağa dönməklə sürətin artırılması",
+        "C": "Yalnız sürəti artırmaq",
+        "D": "Yalnız kursu saxlamaq"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q048",
-      "question": "48. Toqquşma təhlükəsi hansı meyarlara əsasən qiymətləndirilir?",
+      "question": "Sual 48. Toqquşma təhlükəsi hansı meyarlara əsasən qiymətləndirilir?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "A": "Yalnız gəmilərin sürəti",
         "B": "Gəmilərin arasındakı olan ən qısa məsafə və ən qısa məsafədə olan zaman",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "C": "Yalnız gəmilərin kursu",
+        "D": "Yalnız radar ekranındakı görüntü"
       },
       "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q049",
-      "question": "49. Qarşıdan gələn gəminin sürəti 25 düyündür. Bizim gəmimizin sürəti 10 düyündür. Əgər gəmilərin arasındakı məsafə 5 mil olarsa, bizim gəmimizin kursdan sağa dönmə bucağı nə qədər olmalıdır?",
+      "question": "Sual 49. Qarşıdan gələn gəminin sürəti 25 düyündür. Bizim gəmimizin sürəti 10 düyündür. Əgər gəmilərin arasındakı məsafə 5 mil olarsa, bizim gəmimizin kursdan sağa dönmə bucağı nə qədər olmalıdır?",
       "options": {
-        "A": "60 dərəcədən az olmamalıdır",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "50 metr məsafədə dənizdə",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "A": "30 dərəcədən az olmamalıdır",
+        "B": "60 dərəcədən az olmamalıdır",
+        "C": "90 dərəcə olmalıdır",
+        "D": "45 dərəcədən az olmamalıdır"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q050",
-      "question": "50. Qarşıdan gələn gəminin sürəti 25 düyündür. Bizim gəmimizin sürəti 10 düyündür. Əgər gəmilərin arasındakı məsafə 3,5 mil olarsa, bizim gəmimizin kursdan sağa dönmə bucağı nə qədər olmalıdır?",
+      "question": "Sual 50. Qarşıdan gələn gəminin sürəti 25 düyündür. Bizim gəmimizin sürəti 10 düyündür. Əgər gəmilərin arasındakı məsafə 3,5 mil olarsa, bizim gəmimizin kursdan sağa dönmə bucağı nə qədər olmalıdır?",
       "options": {
-        "A": "90 dərəcə olmalıdır",
-        "B": "bütün cavablar doğrudur",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
+        "A": "60 dərəcədən az olmamalıdır",
+        "B": "30 dərəcə olmalıdır",
+        "C": "90 dərəcə olmalıdır",
+        "D": "120 dərəcədən çox olmalıdır"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     }
   ]
