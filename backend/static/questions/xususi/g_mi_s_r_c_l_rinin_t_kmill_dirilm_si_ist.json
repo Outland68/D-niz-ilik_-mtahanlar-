@@ -266,7 +266,7 @@
     },
     {
       "id": "q022",
-      "question": "22. “GMDSS” sisteminə aid fəlakət hallarında radio əlaqəyə öz işləri ilə maneə olan stansiyalara “İşlərini dayandırmaq” göstərişi hansı ardıcıllıqla verilir?",
+      "question": "22. “GMDSS” sisteminə aid fəlakət hallarında radio əlaqəyə öz işləri ilə maneə olan stansiyalara “İşlərini dayandırmaq” göstərişi hansı ardıcıllıqla verilir?\n1. “MAY DAY”;\n2. “ALL STATION”;\n3. “İşlərini dayandırmaq” göstərişini verən stansiyanın adı və ya çağırış siqnalı;\n4. “THIS IS”.",
       "options": {
         "A": "1, 2, 3, 4",
         "B": "1, 2, 4, 3",
