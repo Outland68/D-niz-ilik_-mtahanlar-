@@ -60,7 +60,13 @@ export default function SoruCevapBankasi() {
       ) : (
         <div className="space-y-4 max-h-[60vh] overflow-y-auto pr-2 custom-scrollbar">
           {questions.map((qa, index) => {
-            const correctAnswerText = qa.options[qa.correct_answer];
+            const isArrayOpts = Array.isArray(qa.options);
+            const correctIdx = typeof qa.correct_answer === 'number' ? qa.correct_answer : ['A','B','C','D'].indexOf(qa.correct_answer);
+            const correctLetter = isArrayOpts ? (['A','B','C','D'][correctIdx] || 'A') : qa.correct_answer;
+            const correctAnswerText = isArrayOpts ? qa.options[correctIdx] : qa.options[qa.correct_answer];
+            
+            const optionsList = isArrayOpts ? qa.options.map((val, i) => ({ key: ['A','B','C','D'][i], value: val })) : Object.entries(qa.options).map(([k, v]) => ({ key: k, value: v }));
+
             return (
               <div key={qa.id || index} className="glass p-5 rounded-xl border border-white/5">
                 <div className="flex gap-4">
@@ -73,7 +79,7 @@ export default function SoruCevapBankasi() {
                       </div>
                     )}
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-2 mb-3">
-                      {Object.entries(qa.options).map(([key, value]) => (
+                      {optionsList.map(({ key, value }) => (
                          <div key={key} className="text-sm text-white/70 bg-white/5 p-2 rounded border border-white/5">
                            <strong>{key})</strong> {value}
                          </div>
@@ -81,7 +87,7 @@ export default function SoruCevapBankasi() {
                     </div>
                     <div className="flex items-center gap-2 text-green-400 bg-green-500/10 px-3 py-2 rounded-lg inline-flex">
                       <CheckCircle2 size={18} />
-                      <span><strong>Düzgün Cavab:</strong> {qa.correct_answer}) {correctAnswerText}</span>
+                      <span><strong>Düzgün Cavab:</strong> {correctLetter}) {correctAnswerText}</span>
                     </div>
                   </div>
                 </div>

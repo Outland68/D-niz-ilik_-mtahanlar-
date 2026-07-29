@@ -49,7 +49,9 @@ export default function TestPage() {
   const handleOptionSelect = (key) => {
     if (isFinished) return;
     const q = questions[currentQuestion];
-    const isCorrect = key === q.correct_answer;
+    const optionKeys = Array.isArray(q.options) ? q.options.map((_, i) => ['A','B','C','D'][i] || i) : Object.keys(q.options || {});
+    const correctKey = typeof q.correct_answer === 'number' ? (['A','B','C','D'][q.correct_answer] || q.correct_answer) : q.correct_answer;
+    const isCorrect = String(key) === String(correctKey);
 
     setUserAnswers(prev => ({
       ...prev,
@@ -221,12 +223,14 @@ export default function TestPage() {
                 </div>
 
                 <div className="grid grid-cols-1 gap-2 mb-3">
-                  {optionKeys.map(key => {
-                    const optText = q.options[key];
-                    const isUserSelected = ans?.selected === key;
-                    const isCorrectOpt = q.correct_answer === key;
+                  {(Array.isArray(q.options) ? ['A','B','C','D'].slice(0, q.options.length) : Object.keys(q.options || {})).map((key, optIdx) => {
+                    const optText = Array.isArray(q.options) ? q.options[optIdx] : q.options[key];
+                    const isUserSelected = String(ans?.selected) === String(key) || ans?.selected === optIdx;
+                    
+                    const correctKey = typeof q.correct_answer === 'number' ? ['A','B','C','D'][q.correct_answer] : q.correct_answer;
+                    const isCorrectOpt = String(correctKey) === String(key) || q.correct_answer === optIdx;
 
-                    let optStyle = "p-3 rounded-xl text-sm border ";
+                    let optStyle = "p-3 rounded-xl text-sm border flex items-center justify-between ";
                     if (isCorrectOpt) {
                       optStyle += "border-green-500 bg-green-500/20 text-green-300 font-semibold";
                     } else if (isUserSelected && !isCorrectOpt) {
@@ -237,9 +241,11 @@ export default function TestPage() {
 
                     return (
                       <div key={key} className={optStyle}>
-                        <strong>{key})</strong> {optText}
-                        {isCorrectOpt && <span className="ml-2 text-xs bg-green-500 text-black px-2 py-0.5 rounded font-bold">Düzgün Variant</span>}
-                        {isUserSelected && !isCorrectOpt && <span className="ml-2 text-xs bg-red-500 text-white px-2 py-0.5 rounded font-bold">Sizin Seçiminiz</span>}
+                        <span><strong>{key})</strong> {optText}</span>
+                        <div className="flex gap-2">
+                          {isCorrectOpt && <span className="text-xs bg-green-500 text-black px-2 py-0.5 rounded font-bold">Düzgün Variant ✓</span>}
+                          {isUserSelected && !isCorrectOpt && <span className="text-xs bg-red-500 text-white px-2 py-0.5 rounded font-bold">Sizin Seçiminiz ✕</span>}
+                        </div>
                       </div>
                     );
                   })}
