@@ -1,0 +1,40 @@
+/* Custom Admin styling matching site HSL / Dark Paper Theme */
+:root {
+  --admin-bg: #0f172a;
+  --admin-card: #1e293b;
+  --admin-accent: #10b981;
+}
+
+body, .content-wrapper, .main-footer, .main-sidebar {
+  background-color: var(--admin-bg) !important;
+  color: #f8fafc !important;
+}
+
+.card, .info-box, .modal-content, .bg-white {
+  background-color: var(--admin-card) !important;
+  color: #f8fafc !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  border-radius: 12px !important;
+}
+
+.navbar-navy, .sidebar-dark-navy {
+  background-color: #0b1329 !important;
+}
+
+.btn-primary, .bg-primary, .btn-success, .bg-success {
+  background-color: #10b981 !important;
+  border-color: #059669 !important;
+  color: #ffffff !important;
+}
+
+.btn-primary:hover, .btn-success:hover {
+  background-color: #059669 !important;
+}
+
+.table th, .table td {
+  border-top-color: rgba(255, 255, 255, 0.08) !important;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: rgba(255, 255, 255, 0.02) !important;
+}

@@ -245,7 +245,7 @@ JAZZMIN_SETTINGS = {
     #############
     # UI Tweaks #
     #############
-    "custom_css": None,
+    "custom_css": "css/admin_custom.css",
     "custom_js": None,
     "use_google_fonts_cdn": True,
     "show_ui_builder": False,
