@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { 
   ArrowLeft, CheckCircle2, XCircle, Shuffle, RotateCcw, 
-  Award, AlertTriangle, Flag, Check, X, Clock, MessageSquareReport, Send 
+  Award, AlertTriangle, Flag, Check, X, Clock, MessageSquareWarning, Send 
 } from 'lucide-react';
 import { apiGetQuestions, apiSubmitReport, getImageUrl } from '../utils/api';
 
@@ -370,7 +370,7 @@ export default function RealExamPage() {
             className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl border border-red-500/30 bg-red-500/10 hover:bg-red-500/20 text-red-300 text-xs font-semibold transition-all cursor-pointer"
             title="Sualda xəta bildir"
           >
-            <MessageSquareReport size={15} />
+            <MessageSquareWarning size={15} />
             <span>Xəta Bildir</span>
           </button>
 
@@ -472,7 +472,7 @@ export default function RealExamPage() {
           <div className="bg-[#1e293b] border border-white/20 rounded-2xl max-w-md w-full p-6 shadow-2xl animate-[fadeIn_0.2s_ease-out]">
             <div className="flex items-center justify-between border-b border-white/10 pb-3 mb-4">
               <h3 className="text-lg font-bold flex items-center gap-2 text-red-400">
-                <MessageSquareReport size={20} />
+                <MessageSquareWarning size={20} />
                 Sualda Xəta Bildir
               </h3>
               <button onClick={() => setShowReportModal(false)} className="p-1 hover:bg-white/10 rounded-lg text-white/60 hover:text-white">
