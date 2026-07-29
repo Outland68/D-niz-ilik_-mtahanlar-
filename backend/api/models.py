@@ -25,3 +25,19 @@ class UserSession(models.Model):
 
     def __str__(self):
         return f"Session for {self.user.username}"
+
+class QuestionReport(models.Model):
+    user = models.ForeignKey(User, on_delete=models.SET_NULL, null=True, blank=True)
+    certificate_id = models.IntegerField()
+    certificate_name = models.CharField(max_length=255)
+    question_id = models.CharField(max_length=50)
+    question_text = models.TextField()
+    report_reason = models.TextField()
+    status = models.CharField(max_length=20, default='pending') # pending, resolved, dismissed
+    created_at = models.DateTimeField(auto_now_add=True)
+
+    class Meta:
+        ordering = ['-created_at']
+
+    def __str__(self):
+        return f"Report by {self.user.username if self.user else 'Guest'} on {self.certificate_name} (Sual: {self.question_id})"

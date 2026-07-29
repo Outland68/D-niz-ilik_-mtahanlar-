@@ -2,9 +2,9 @@ import { useState, useEffect } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { 
   ArrowLeft, CheckCircle2, XCircle, Shuffle, RotateCcw, 
-  Award, AlertTriangle, Flag, Check, X, Clock
+  Award, AlertTriangle, Flag, Check, X, Clock, MessageSquareReport, Send 
 } from 'lucide-react';
-import { apiGetQuestions, getImageUrl } from '../utils/api';
+import { apiGetQuestions, apiSubmitReport, getImageUrl } from '../utils/api';
 
 export default function RealExamPage() {
   const navigate = useNavigate();
@@ -19,6 +19,12 @@ export default function RealExamPage() {
   const [userAnswers, setUserAnswers] = useState({});
   const [isFinished, setIsFinished] = useState(false);
   const [showWrongOnlyModal, setShowWrongOnlyModal] = useState(false);
+
+  // 📝 Report Modal State
+  const [showReportModal, setShowReportModal] = useState(false);
+  const [reportReason, setReportReason] = useState('');
+  const [reportSubmitting, setReportSubmitting] = useState(false);
+  const [reportSuccess, setReportSuccess] = useState(false);
 
   // ⏳ TIMER STATE (30 Minutes = 1800 seconds)
   const [timeLeft, setTimeLeft] = useState(1800);
@@ -354,13 +360,26 @@ export default function RealExamPage() {
         </div>
 
         {/* ⏱️ Timer & Actions */}
-        <div className="flex items-center gap-4 w-full sm:w-auto justify-between sm:justify-end">
-          <div className={`flex items-center gap-2 px-4 py-2 rounded-xl border text-sm font-mono font-bold ${
+        <div className="flex items-center gap-3 w-full sm:w-auto justify-between sm:justify-end">
+          <button
+            onClick={() => {
+              setShowReportModal(true);
+              setReportReason('');
+              setReportSuccess(false);
+            }}
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl border border-red-500/30 bg-red-500/10 hover:bg-red-500/20 text-red-300 text-xs font-semibold transition-all cursor-pointer"
+            title="Sualda xəta bildir"
+          >
+            <MessageSquareReport size={15} />
+            <span>Xəta Bildir</span>
+          </button>
+
+          <div className={`flex items-center gap-2 px-3.5 py-1.5 rounded-xl border text-xs font-mono font-bold ${
             timeLeft < 300 
               ? 'bg-red-500/20 border-red-500/40 text-red-400 animate-pulse' 
               : 'bg-white/5 border-white/10 text-amber-300'
           }`}>
-            <Clock size={18} />
+            <Clock size={16} />
             <span>{formatTime(timeLeft)}</span>
           </div>
 
@@ -446,6 +465,97 @@ export default function RealExamPage() {
           </button>
         )}
       </div>
+
+      {/* 📝 Report Question Modal */}
+      {showReportModal && (
+        <div className="fixed inset-0 bg-black/70 backdrop-blur-sm z-50 flex items-center justify-center p-4">
+          <div className="bg-[#1e293b] border border-white/20 rounded-2xl max-w-md w-full p-6 shadow-2xl animate-[fadeIn_0.2s_ease-out]">
+            <div className="flex items-center justify-between border-b border-white/10 pb-3 mb-4">
+              <h3 className="text-lg font-bold flex items-center gap-2 text-red-400">
+                <MessageSquareReport size={20} />
+                Sualda Xəta Bildir
+              </h3>
+              <button onClick={() => setShowReportModal(false)} className="p-1 hover:bg-white/10 rounded-lg text-white/60 hover:text-white">
+                <X size={20} />
+              </button>
+            </div>
+
+            {reportSuccess ? (
+              <div className="text-center py-6">
+                <div className="w-12 h-12 bg-green-500/20 text-green-400 rounded-full flex items-center justify-center mx-auto mb-3">
+                  <Check size={28} />
+                </div>
+                <h4 className="font-bold text-lg text-white mb-1">Təşəkkür edirik!</h4>
+                <p className="text-xs text-white/70 mb-4">Xəbərdarlığınız adminə göndərildi. Sual tezliklə nəzərdən keçiriləcək.</p>
+                <button onClick={() => setShowReportModal(false)} className="btn btn-primary w-full text-xs">
+                  Bağla
+                </button>
+              </div>
+            ) : (
+              <form onSubmit={async (e) => {
+                e.preventDefault();
+                if (!reportReason.trim()) return;
+                setReportSubmitting(true);
+                try {
+                  const res = await apiSubmitReport({
+                    certificate_id: certificateId,
+                    certificate_name: certificateName || 'İmtahan Simulyasiyası',
+                    question_id: q.id || `q_${currentQuestion + 1}`,
+                    question_text: q.question,
+                    report_reason: reportReason
+                  });
+                  if (res.ok) {
+                    setReportSuccess(true);
+                  }
+                } catch (err) {
+                  console.error("Report error", err);
+                } finally {
+                  setReportSubmitting(false);
+                }
+              }}>
+                <div className="mb-4">
+                  <p className="text-xs text-white/50 mb-1">Sual:</p>
+                  <p className="text-sm font-medium text-white/90 bg-white/5 p-2.5 rounded-lg border border-white/10 line-clamp-2">
+                    {q.question}
+                  </p>
+                </div>
+
+                <div className="mb-4">
+                  <label className="block text-xs font-semibold text-white/70 mb-1.5">
+                    Xətanın Təsviri (Sual mətni, şəkli və ya düzgün cavab):
+                  </label>
+                  <textarea
+                    rows={4}
+                    required
+                    value={reportReason}
+                    onChange={(e) => setReportReason(e.target.value)}
+                    placeholder="Məsələn: 3-cü variant səhv yazılıb və ya şəkil görünmür..."
+                    className="w-full bg-white/5 border border-white/15 rounded-xl p-3 text-sm text-white placeholder-white/30 focus:outline-none focus:border-primary resize-none"
+                  />
+                </div>
+
+                <div className="flex items-center gap-3">
+                  <button
+                    type="button"
+                    onClick={() => setShowReportModal(false)}
+                    className="btn btn-secondary flex-1 text-xs"
+                  >
+                    Ləğv Et
+                  </button>
+                  <button
+                    type="submit"
+                    disabled={reportSubmitting || !reportReason.trim()}
+                    className="btn btn-primary flex-1 text-xs flex items-center justify-center gap-2 disabled:opacity-40"
+                  >
+                    <Send size={15} />
+                    {reportSubmitting ? 'Göndərilir...' : 'Göndər'}
+                  </button>
+                </div>
+              </form>
+            )}
+          </div>
+        </div>
+      )}
     </div>
   );
 }

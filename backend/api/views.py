@@ -14,8 +14,10 @@ from rest_framework.response import Response
 from rest_framework_simplejwt.tokens import RefreshToken
 from rest_framework_simplejwt.exceptions import TokenError
 
-from .models import Category, Certificate, UserSession
-from .serializers import CategorySerializer, CertificateListSerializer
+from .models import Category, Certificate, UserSession, QuestionReport
+from .serializers import (
+    CategorySerializer, CertificateListSerializer, QuestionReportSerializer
+)
 import uuid
 
 # ─────────────────────────────────────────────
@@ -544,3 +546,17 @@ class CertificateViewSet(viewsets.ReadOnlyModelViewSet):
             'certificate': certificate.name,
             'questions': formatted_questions
         })
+
+
+class QuestionReportViewSet(viewsets.ModelViewSet):
+    queryset = QuestionReport.objects.all()
+    serializer_class = QuestionReportSerializer
+
+    def get_permissions(self):
+        if self.action == 'create':
+            return [permissions.IsAuthenticated()]
+        return [permissions.IsAdminUser()]
+
+    def perform_create(self, serializer):
+        serializer.save(user=self.request.user)
+

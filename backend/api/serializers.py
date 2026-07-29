@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import Category, Certificate
+from .models import Category, Certificate, QuestionReport
 
 
 class CertificateListSerializer(serializers.ModelSerializer):
@@ -28,3 +28,18 @@ class CategorySerializer(serializers.ModelSerializer):
     class Meta:
         model = Category
         fields = ['id', 'name', 'icon_name', 'color']
+
+
+class QuestionReportSerializer(serializers.ModelSerializer):
+    username = serializers.CharField(source='user.username', read_only=True)
+    user_email = serializers.CharField(source='user.email', read_only=True)
+
+    class Meta:
+        model = QuestionReport
+        fields = [
+            'id', 'user', 'username', 'user_email', 'certificate_id', 
+            'certificate_name', 'question_id', 'question_text', 
+            'report_reason', 'status', 'created_at'
+        ]
+        read_only_fields = ['id', 'user', 'created_at']
+

@@ -134,3 +134,9 @@ export const apiGetCertificates = (categoryId) =>
 
 export const apiGetQuestions = (certificateId) =>
   authFetch(`/certificates/${certificateId}/questions/`);
+
+export const apiSubmitReport = (reportData) =>
+  authFetch('/reports/', {
+    method: 'POST',
+    body: JSON.stringify(reportData),
+  });
