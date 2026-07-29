@@ -318,8 +318,8 @@ export default function TestPage() {
       <div className="mb-8">
         <h2 className="text-xl md:text-2xl font-medium mb-4 leading-relaxed">{q.question}</h2>
         {q.image_url && (
-          <div className="mb-6 max-w-md mx-auto rounded-xl overflow-hidden border border-white/20 shadow-lg bg-black/40 p-2 text-center">
-            <img src={getImageUrl(q.image_url)} alt="Sual şəkli" className="max-h-64 mx-auto rounded-lg object-contain" />
+          <div className="mb-6 max-w-xl mx-auto rounded-xl overflow-hidden border border-white/20 shadow-lg bg-black/40 p-3 text-center">
+            <img src={getImageUrl(q.image_url)} alt="Sual şəkli" className="max-h-96 mx-auto rounded-lg object-contain w-full" />
           </div>
         )}
         <div className="space-y-3">
