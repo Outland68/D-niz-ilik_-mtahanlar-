@@ -548,6 +548,8 @@ class CertificateViewSet(viewsets.ReadOnlyModelViewSet):
         })
 
 
+from rest_framework import permissions
+
 class QuestionReportViewSet(viewsets.ModelViewSet):
     queryset = QuestionReport.objects.all()
     serializer_class = QuestionReportSerializer
