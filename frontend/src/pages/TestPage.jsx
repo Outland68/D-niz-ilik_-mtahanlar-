@@ -46,17 +46,19 @@ export default function TestPage() {
     loadQuestions();
   }, [certificateId, initialShuffle]);
 
-  const handleOptionSelect = (key) => {
+  const handleOptionSelect = (key, optIdx) => {
     if (isFinished) return;
     const q = questions[currentQuestion];
-    const optionKeys = Array.isArray(q.options) ? q.options.map((_, i) => ['A','B','C','D'][i] || i) : Object.keys(q.options || {});
     const correctKey = typeof q.correct_answer === 'number' ? (['A','B','C','D'][q.correct_answer] || q.correct_answer) : q.correct_answer;
-    const isCorrect = String(key) === String(correctKey);
+    const correctIndex = typeof q.correct_answer === 'number' ? q.correct_answer : ['A','B','C','D'].indexOf(q.correct_answer);
+    
+    const isCorrect = String(key) === String(correctKey) || optIdx === correctIndex;
 
     setUserAnswers(prev => ({
       ...prev,
       [currentQuestion]: {
         selected: key,
+        selectedIndex: optIdx,
         isCorrect: isCorrect
       }
     }));
@@ -225,7 +227,7 @@ export default function TestPage() {
                 <div className="grid grid-cols-1 gap-2 mb-3">
                   {(Array.isArray(q.options) ? ['A','B','C','D'].slice(0, q.options.length) : Object.keys(q.options || {})).map((key, optIdx) => {
                     const optText = Array.isArray(q.options) ? q.options[optIdx] : q.options[key];
-                    const isUserSelected = String(ans?.selected) === String(key) || ans?.selected === optIdx;
+                    const isUserSelected = String(ans?.selected) === String(key) || ans?.selected === optIdx || ans?.selectedIndex === optIdx;
                     
                     const correctKey = typeof q.correct_answer === 'number' ? ['A','B','C','D'][q.correct_answer] : q.correct_answer;
                     const isCorrectOpt = String(correctKey) === String(key) || q.correct_answer === optIdx;
@@ -321,9 +323,9 @@ export default function TestPage() {
           </div>
         )}
         <div className="space-y-3">
-          {optionKeys.map((key) => {
-            const optText = q.options[key];
-            const isSelected = currentAnswer?.selected === key;
+          {(Array.isArray(q.options) ? ['A','B','C','D'].slice(0, q.options.length) : Object.keys(q.options || {})).map((key, optIdx) => {
+            const optText = Array.isArray(q.options) ? q.options[optIdx] : q.options[key];
+            const isSelected = currentAnswer?.selected === key || currentAnswer?.selectedIndex === optIdx;
             
             let btnClass = "w-full text-left p-4 rounded-xl border transition-all duration-200 cursor-pointer ";
             if (isSelected) {
@@ -336,7 +338,7 @@ export default function TestPage() {
               <button 
                 key={key} 
                 className={btnClass}
-                onClick={() => handleOptionSelect(key)}
+                onClick={() => handleOptionSelect(key, optIdx)}
               >
                 <div className="flex items-center justify-between">
                   <span><strong className="mr-2 text-primary">{key})</strong> {optText}</span>
