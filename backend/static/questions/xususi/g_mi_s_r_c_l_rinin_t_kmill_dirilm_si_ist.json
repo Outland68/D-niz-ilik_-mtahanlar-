@@ -12,7 +12,7 @@
       },
       "correct_answer": "C",
       "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p1_1.png"
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_001.png"
     },
     {
       "id": "q002",
@@ -37,7 +37,7 @@
       },
       "correct_answer": "C",
       "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p1_3.jpeg"
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_003.png"
     },
     {
       "id": "q004",
@@ -85,7 +85,8 @@
         "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
       "correct_answer": "A",
-      "explanation": ""
+      "explanation": "",
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_007.jpeg"
     },
     {
       "id": "q008",
@@ -110,7 +111,7 @@
       },
       "correct_answer": "A",
       "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p2_1.png"
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_009.png"
     },
     {
       "id": "q010",
@@ -123,7 +124,7 @@
       },
       "correct_answer": "B",
       "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p2_2.jpeg"
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_010.jpeg"
     },
     {
       "id": "q011",
@@ -160,7 +161,7 @@
       },
       "correct_answer": "A",
       "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p2_3.jpeg"
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_013.jpeg"
     },
     {
       "id": "q014",
@@ -197,7 +198,7 @@
       },
       "correct_answer": "A",
       "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p3_1.png"
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_017.png"
     },
     {
       "id": "q018",
@@ -210,7 +211,7 @@
       },
       "correct_answer": "A",
       "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p3_3.jpeg"
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_018.jpeg"
     },
     {
       "id": "q019",
@@ -234,7 +235,8 @@
         "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
       "correct_answer": "C",
-      "explanation": ""
+      "explanation": "",
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_020.jpeg"
     },
     {
       "id": "q004",
@@ -258,7 +260,8 @@
         "D": "şimal-şərq istiqamətində"
       },
       "correct_answer": "C",
-      "explanation": ""
+      "explanation": "",
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_023.jpeg"
     },
     {
       "id": "q024",
@@ -270,7 +273,8 @@
         "D": "gəmi limana daxil olana qədər"
       },
       "correct_answer": "C",
-      "explanation": ""
+      "explanation": "",
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_024.jpeg"
     },
     {
       "id": "q025",
@@ -282,8 +286,7 @@
         "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
       "correct_answer": "C",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p4_1.jpeg"
+      "explanation": ""
     },
     {
       "id": "q027",
@@ -295,7 +298,8 @@
         "D": "A"
       },
       "correct_answer": "D",
-      "explanation": ""
+      "explanation": "",
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_027.jpeg"
     },
     {
       "id": "q028",
@@ -319,7 +323,8 @@
         "D": "Elektrik mexaniki"
       },
       "correct_answer": "D",
-      "explanation": ""
+      "explanation": "",
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_029.jpeg"
     },
     {
       "id": "q030",
@@ -332,7 +337,7 @@
       },
       "correct_answer": "B",
       "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/img_p5_1.jpeg"
+      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_030.jpeg"
     },
     {
       "id": "q031",
