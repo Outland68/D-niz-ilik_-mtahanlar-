@@ -1,0 +1,43 @@
+✅ colreg_72.json (Gəmilərin Toqquşmasının Qarşısını Alınmasına dair Beynalxalq Qaydalar (Colreg-72)) - 3 questions 100% VALID!
+✅ marpol_73_78.json (MARPOL 73-78) - 2 questions 100% VALID!
+✅ eibm.json (Əmniyyətli İdarəetmə Haqqında Beynəlxalq Məcəllə) - 68 questions 100% VALID!
+✅ 1000_volt_v_art_q_olan_g_rginlik_sisteml.json (1000 volt vә artıq olan gәrginlik sistemlәrinin tәhlükәsiz istismarı vә onlara texniki nәzarәt) - 90 questions 100% VALID!
+✅ b_hran_zaman_idar_etm_v_insan_davran_zr_.json (Böhran zamanı idarәetmә vә insan davranışı üzrә hazırlıq) - 70 questions 100% VALID!
+✅ b_t_n_d_niz_il_r_n_t_hl_k_sizlik_zr_tan_.json (bütün dənizçilər üçün təhlükəsizlik üzrə tanışlıq, ilkin hazırlıq və təlimat) - 87 questions 100% VALID!
+✅ elektron_x_rit_displeyinin_v_i_nformasiy.json (Elektron Xəritə Displeyinin və İnformasiya Sistemlərinin İstismar Qaydaları) - 50 questions 100% VALID!
+✅ gemi_elektrik_mexanikleri.json (Gəmi elektrik mexaniklərinin təkmilləşdirilməsi) - 47 questions 100% VALID!
+✅ gemi_suruculeri_istismar.json (Gəmi sürücülərinin təkmilləşdirilməsi (istismar)) - 43 questions 100% VALID!
+✅ g_mid_ilk_tibbi_yard_m.json (Gəmidə ilk tibbi yardım) - 83 questions 100% VALID!
+✅ g_mid_tibbi_n_zar_t.json (Gəmidə tibbi nəzarət) - 106 questions 100% VALID!
+✅ g_minin_idar_olunmas_v_manevr_edilm_si.json (Gәminin idarә olunması vә manevr edilmәsi) - 59 questions 100% VALID!
+✅ g_mi_elektrik_mexanikl_rinin_t_kmill_dir.json (Gəmi elektrik mexaniklərinin təkmilləşdirilməsi) - 47 questions 100% VALID!
+✅ g_mi_mexanikl_rinin_t_kmill_dirilm_si_id.json (Gəmi mexaniklərinin təkmilləşdirilməsi (idarəetmə)) - 49 questions 100% VALID!
+✅ g_mi_mexanikl_rinin_t_kmill_dirilm_si_is.json (Gəmi mexaniklərinin təkmilləşdirilməsi (istismar səviyyəsində)) - 50 questions 100% VALID!
+✅ g_mi_mniyy_tliyi_zr_m_sul_xs.json (Gәmi әmniyyәtliyi üzrә Mәsul Şәxs) - 58 questions 100% VALID!
+✅ g_mi_qazanalizatorlar_v_onlar_n_istismar.json (Gəmi qazanalizatorları və onların istismari) - 39 questions 100% VALID!
+✅ g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist.json (Gəmi sürücülərinin təkmilləşdirilməsi (istismar)) - 43 questions 100% VALID!
+✅ inert_qaz_sistemi.json (Inert qaz sistemi) - 46 questions 100% VALID!
+✅ isps2.json (ISPS2) - 73 questions 100% VALID!
+✅ isps_1.json (ISPS-1) - 44 questions 100% VALID!
+✅ isps_3.json (ISPS-3) - 115 questions 100% VALID!
+✅ i_zdiham_n_idar_olunmas_zr_haz_rl_q.json (İzdihamın idarə olunması üzrə hazırlıq) - 70 questions 100% VALID!
+✅ kapitan_k_rp_s_resurslar_n_n_i_dar_olunm.json (Kapitan Körpüsü Resurslarının İdarə Olunması) - 47 questions 100% VALID!
+✅ kimy_vi_madd_da_yan_tankerl_rd_y_k_m_liy.json (Kimyәvi maddә daşıyan tankerlәrdә yük әmәliyyatlarına dair geniş proqram üzrә hazırlıq) - 50 questions 100% VALID!
+✅ liderlik_v_birg_i_f_aliyy_ti.json (Liderlik vә birgə iş fəaliyyəti) - 66 questions 100% VALID!
+✅ liman_vasit_l_rinin_m_hafiz_y_m_sul.json (Liman vasitәlәrinin mühafizәyә mәsul) - 30 questions 100% VALID!
+✅ ma_n_b_si_resurslar_n_n_idar_olunmas.json (Maşın şöbәsi resurslarının idarә olunması) - 58 questions 100% VALID!
+✅ mniyy_tli_i_dar_etm_haqq_nda_beyn_lxalq_.json (Əmniyyətli İdarəetmə Haqqında Beynəlxalq Məcəllə) - 68 questions 100% VALID!
+✅ neft_tankerl_rind_geni.json (Neft tankerlәrindә-geniş) - 53 questions 100% VALID!
+✅ neft_v_kimy_vi_i_lkin.json (Neft vә Kimyәvi-İlkin) - 60 questions 100% VALID!
+✅ qlobal_d_niz_f_lak_t_v_mniyy_tli_rabit_s.json (Qlobal Dәniz Fәlakәt vә Әmniyyәtli Rabitә Sisteminin Ümumi Rayon Operatoru) - 50 questions 100% VALID!
+✅ radar_avtomatik_radar_m_ahid_vasit_l_ri_.json (Radar, avtomatik radar müşahidə vasitələri, kapitan körpüsü komandası və axtarış xilasetmə (idarəetmə səviyyəsində)) - 49 questions 100% VALID!
+✅ radar_m_ahid_si_v_t_sviri_avtomatik_rada.json (Radar müşahidəsi və təsviri, avtomatik radar müşahidəsi vasitələrinin istismarı (istismar səviyyəsində)) - 50 questions 100% VALID!
+✅ safety_familiarization_en.json (Safety familiarization basic training and instruction for all seafarers) - 30 questions 100% VALID!
+✅ s_rni_inl_rin_y_k_n_v_g_mi_g_vd_sinin_t_.json (Sərnişinlərin, yükün və gəmi gövdəsinin təhlükəsizliyi üzrə hazırlıq) - 49 questions 100% VALID!
+✅ s_rni_inl_r_bilavasit_xidm_t_g_st_r_n_he.json (Sәrnişinlәrә bilavasitә xidmәt göstәrәn heyәt üzvlәri) - 30 questions 100% VALID!
+✅ s_r_tli_olmayan_xilasedici_qay_qlar_v_sa.json (Sürәtli olmayan xilasedici qayıqlar vә sallar üzrә mütәxәssis) - 115 questions 100% VALID!
+✅ s_r_tli_xilasetm_qay_q_m_t_x_ssisi.json (Sürәtli xilasetmә qayıq mütәxәssisi) - 79 questions 100% VALID!
+✅ tanisliq_ilkin_hazirliq.json (Bütün dənizçilər üçün təhlükəsizlik üzrə tanışlıq, ilkin hazırlıq və təlimat) - 87 questions 100% VALID!
+✅ t_hl_k_li_v_z_r_rli_y_kl_rin_da_nmas.json (Təhlükəli və zərərli yüklərin daşınması) - 48 questions 100% VALID!
+✅ xam_neftl_yuyulma_sistemi.json (Xam Neftlə Yuyulma Sistemi) - 32 questions 100% VALID!
+✅ yanginla_mubarize_genis.json (Yanğınla mübarizə (geniş proqram üzrə)) - 95 questions 100% VALID!
