@@ -7,9 +7,14 @@ export default function MainMenu() {
   return (
     <div className="w-full glass-card p-8 animate-[fadeIn_0.5s_ease-out]">
       <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-8 border-b border-white/10 pb-4 gap-4">
-        <div>
-          <h1 className="text-3xl sm:text-4xl font-bold">Ana Menü</h1>
-          <p className="text-white/50 mt-1">Xoş gəlmisiniz, İstifadəçi</p>
+        <div className="flex items-center gap-3">
+          <div className="w-12 h-12 rounded-xl bg-primary/10 border border-primary/30 p-0.5 flex-shrink-0 shadow-[0_0_15px_rgba(16,185,129,0.2)]">
+            <img src="/seapass_logo.jpg" alt="SeaPass Logo" className="w-full h-full object-cover rounded-lg" />
+          </div>
+          <div>
+            <h1 className="text-3xl sm:text-4xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-emerald-400 via-teal-300 to-cyan-400 tracking-tight">SeaPass</h1>
+            <p className="text-white/50 text-xs mt-0.5 font-medium">Dənizçilik İmtahanları Portalı</p>
+          </div>
         </div>
         <div className="flex gap-3">
           <button onClick={() => navigate('/profile')} className="btn bg-white/10 hover:bg-white/20 flex items-center gap-2">

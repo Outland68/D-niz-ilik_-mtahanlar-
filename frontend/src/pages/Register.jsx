@@ -74,11 +74,11 @@ export default function Register() {
   return (
     <div className="w-full max-w-md mx-auto glass-card p-8 animate-[fadeIn_0.5s_ease-out]">
       <div className="text-center mb-8">
-        <div className="inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-secondary/20 text-secondary mb-4 shadow-[0_0_20px_rgba(59,130,246,0.2)]">
-          <Ship size={32} />
+        <div className="inline-flex items-center justify-center w-20 h-20 rounded-2xl bg-primary/10 border border-primary/30 p-1 mb-4 shadow-[0_0_25px_rgba(16,185,129,0.3)]">
+          <img src="/seapass_logo.jpg" alt="SeaPass Logo" className="w-full h-full object-cover rounded-xl" />
         </div>
-        <h1 className="text-3xl font-bold text-white">Qeydiyyat</h1>
-        <p className="text-white/50 mt-2">
+        <h1 className="text-4xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-emerald-400 via-teal-300 to-cyan-400 tracking-tight">SeaPass</h1>
+        <p className="text-white/60 text-sm mt-1 font-medium">
           {step === 1 ? 'Yeni hesab yaradın' : 'E-poçt ünvanınızı təsdiqləyin'}
         </p>
       </div>
