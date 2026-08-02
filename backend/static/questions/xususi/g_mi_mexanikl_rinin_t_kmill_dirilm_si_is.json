@@ -239,8 +239,7 @@
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
       "correct_answer": "B",
-      "explanation": "",
-      "image_url": "/images/g_mi_mexanikl_rinin_t_kmill_dirilm_si_is/img_p3_1.jpeg"
+      "explanation": ""
     },
     {
       "id": "q021",
@@ -252,8 +251,7 @@
         "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
       },
       "correct_answer": "A",
-      "explanation": "",
-      "image_url": "/images/g_mi_mexanikl_rinin_t_kmill_dirilm_si_is/img_p3_2.jpeg"
+      "explanation": ""
     },
     {
       "id": "q022",
@@ -304,16 +302,17 @@
       "explanation": ""
     },
     {
-      "id": "q001",
-      "question": "1. 2.",
+      "id": "q026",
+      "question": "26. Şəkillərdə iki növ Yüksək Təzyiqli Yanacaq nasosları (YTYN/ТНВД) göstərilmişdir. Zolotnik tipli YTYN-nu göstərin?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "1",
-        "D": "bütün cavablar yanlışdır"
+        "A": "1",
+        "B": "2",
+        "C": "hər ikisi",
+        "D": "heç biri"
       },
-      "correct_answer": "C",
-      "explanation": ""
+      "correct_answer": "A",
+      "explanation": "",
+      "image_url": "/images/g_mi_mexanikl_rinin_t_kmill_dirilm_si_is/q_026.jpeg"
     },
     {
       "id": "q027",

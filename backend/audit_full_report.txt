@@ -15,6 +15,7 @@
 ✅ g_mi_mexanikl_rinin_t_kmill_dirilm_si_is.json (Gəmi mexaniklərinin təkmilləşdirilməsi (istismar səviyyəsində)) - 50 questions 100% VALID!
 ✅ g_mi_mniyy_tliyi_zr_m_sul_xs.json (Gәmi әmniyyәtliyi üzrә Mәsul Şәxs) - 58 questions 100% VALID!
 ✅ g_mi_qazanalizatorlar_v_onlar_n_istismar.json (Gəmi qazanalizatorları və onların istismari) - 39 questions 100% VALID!
+✅ g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id.json (Gəmi sürücülərinin təkmilləşdirilməsi (idarəetmə)) - 46 questions 100% VALID!
 ✅ g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist.json (Gəmi sürücülərinin təkmilləşdirilməsi (istismar)) - 43 questions 100% VALID!
 ✅ inert_qaz_sistemi.json (Inert qaz sistemi) - 46 questions 100% VALID!
 ✅ isps2.json (ISPS2) - 73 questions 100% VALID!
