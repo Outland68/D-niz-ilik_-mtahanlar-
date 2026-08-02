@@ -1,0 +1,178 @@
+
+--- PAGE 1 ---
+İnert qaz sistemi 
+ 
+1. İnert qazlar hansı mәnbәlәrdәn alınır? 
+Düzgün cavab: Azot generatorlarından vә buxar qazanlarından xaric edilәn 
+qazların tәrkibindәn 
+ 
+2. İnert qazların tәrkibi hansı qazlardan ibarәtdir? 
+Düzgün cavab: N2, O2, NOx, CO2 
+ 
+3. İnert qaz sisteminin gәmilәrdә qoyulma mәqsәdi nәdir? 
+Düzgün cavab: Gәmilәrdә insan hәyatını qorumaq , daşınan yükün 
+tәhlükәsiz mәnzil başına çatdırmaq, insan hәyatını qorumaq, gәmidә 
+partlayış ,yanğın vә korroziyanin qarşısını almaq üçün 
+ 
+4. İnert qaz sistemindә keçirilәn texniki baxışlar hansılardır? 
+Düzgün cavab: Gündәlik, hәftәlik, 3 ayda, 6ayda, 1 il әrzindә keçirilәn texniki 
+baxışlar 
+ 
+5. İnert qaz sistemi hansı elementlәrdәn ibarәtdir? 
+Düzgün cavab: Azot generatoru, buxar qazanı, skrubber, azot resiveri, hava 
+balonu, kompressorlar, elektrik qızdırıcıları, hava üfürcülәri, nәzarәt edici, 
+yoxlayıcı vә idarә edici cihazlar, boru kәmәrlәri 
+ 
+6. İnert qaz sistemindә hansı borulardan istifadә olunur? 
+Düzgün cavab: Şovsuz, qalın divarlı borular 
+ 
+7. İnert qaz sistemindә qoyulan resiverin tutumu nә qәdәrdir? 
+Düzgün cavab: 5 m3 
+ 
+8. İnert qaz sisteminde neçә pillәli kompressorlardan istifadә edilir? 
+Düzgün cavab: 2 pillәli sıxılmış hava kompressorları 
+ 
+9. İnert qaz sistemindә “Saxlama“ rejimindә yük anbarlarında inert qazın 
+tәzyiqi nә qәdәrdir? 
+Düzgün cavab: 0,1 bar 
+ 
+10. İnert qazın tәrkibindә karbon dioksidin miqdarı nә qәdәrdir? ( karbon 
+dioksid CO₂) 
+Düzgün cavab: 12:14 % 
+ 
+
+--- PAGE 2 ---
+11. İnert qazlar sistemindә istifadә olunan boruların diametri nә qәdәrdir? ( 
+qurğunun saxlama iş rejimi üçün) 
+Düzgün cavab: 159 x 5 mm 
+ 
+12. İnert qaz sistemi uzun müddәt işlәmәdikdә hansı işlәr görülmәlidir? 
+Düzgün cavab: Sistemdә olan bütün klapanların açıq vәziyyәtdә olması tәlәb 
+edilir vә resiver boş olmalıdır 
+ 
+13. İnert qaz sisteminin sıradan çıxması hansı qurğulardan asılıdır? 
+Düzgün cavab: Azot generatoru vә hava kompressorları sıradan çıxdığı vaxt 
+ 
+14. İnert qaz sisteminin üfürmә rejimindә tәzyiqi nә qәdәr olmalıdır? 
+Düzgün cavab: 7:10 bar 
+ 
+15. İnert qaz sisteminin iş rejimlәri hansılardır? 
+Düzgün cavab: Saxlama, doldurma , üfürmә rejimlәri 
+ 
+16. Tankın deqazasiyası üçün oksigenin miqdarı neçә faiz olmalıdır? 
+Düzgün cavab: 21 % 
+ 
+17. İnert qaz sistemlәri hansı növ yuyulma sistemi olan tankerlәrdә 
+quraşdırılır? 
+Düzgün cavab: Xam neftlә yuma sistemi quraşdırılmış tankerlәrdә 
+ 
+18. Stasionar yuyucu maşınlar tankerlәrin hansı hissәsindә quraşdırılır? 
+Düzgün cavab: Tankın içәrisindә 
+ 
+19. Tanklarda inertizasiya dedikdә nә başa düşülür? 
+Düzgün cavab: Tanklarda tәsirsiz atmosferin yaradılması mәqsәdi ilә tanka 
+inert qazın ötürülmәsi 
+ 
+20. Resiverin üstündәki qoruyucu klapan hansı tәzyiqdә avtomatik açılır? 
+Düzgün cavab: 13 bar 
+ 
+21. Yay dizel yanacağının qatılıq dәrәcәsi nә qәdәrdir? 
+Düzgün cavab: 20 C°, 3-6 s/st 
+ 
+22. Üfürmә rejimi hansı tәzyiqdә işlәyir? 
+Düzgün cavab: 7-10 bar 
+ 
+
+--- PAGE 3 ---
+23. İnert qaz sistemi boşaltma/xam neftlә yuma әmәliyyatı zamanı sıradan 
+çıxarsa hansı tәdbirlәr görülmәlidir? 
+Düzgün cavab: Boşaltmanı, xam neftlә yumanı dayandırmaq 
+ 
+24. İnert qaz sistemindә hansı tip kompressorlardan istifadә olunur? 
+Düzgün cavab: Porşenli vә vintli 
+ 
+25. Tankerdә yük әmәliyyatları prosesindә inert qaz sistemindә nasazlıq 
+yaranarsa, hansı tәdbirlәr görülmәlidir? 
+Düzgün cavab: Bütün yük әmәliyyatları dayandırılmalıdır vә tanka hava 
+sızmasının qarşısı alınmalıdır 
+ 
+26. Yük әmәliyyatları zamanı inert qaz sisteminin işi hәr hansı bir sәbәbdәn 
+dayandırılıbsa vә 30 dәqiqә әrzindә tanka hava daxil olubsa hansı tәdbirlәr 
+görülmәlidir? 
+Düzgün cavab: 30 dәqiqә әrzindә tankda heç bir әmәliyyat aparmaq olmaz 
+ 
+27. Tankların yuyulması zamanı neçә üsuldan istifadә olunur? 
+Düzgün cavab: 3 
+ 
+28. Tankerlәrin ventilyasiya sistemindә neft mәhsullarının buxarlarının 
+atmosferә çıxması zamanı nәdәn istifadә edilmir? 
+Düzgün cavab: Qazanalizator cihazından 
+ 
+29. Ayrıca qazayırıcı sistemin qurğuları yük göyәrtәsindәn hansı 
+hündürlukdә quraşdırılır? 
+Düzgün cavab: 2.5 metr 
+ 
+30. SOLAS -74 Beynәlxalq Konvensiyasına görә tankerlәrdә әn azı neçә 
+yanğın әleyhinә lәvazimat komplekti nәzәrdә tutulur? 
+Düzgün cavab: 4 
+ 
+31. Tankerlәrdә neçe növ tank mövcudur? 
+Düzgün cavab: 4 
+ 
+32. SOLAS -74 Beynәlxalq Konvensiyasının tәlәblәrinә uyğun olaraq nә 
+zaman tankın atmosferi tәsirsiz hesab olunur? 
+Düzgün cavab: Tankın atmosferindә oksigenin hәcmi 8 % tәşkil edirsә 
+ 
+ 
+
+--- PAGE 4 ---
+33. Yük tankının içindә zәrәrçәkәnә tәcili tibbi yardım göstәrәn zaman 
+oksigen reanimatorundan istifadә etmәk olarmı? 
+Düzgün cavab: Olmaz 
+ 
+34. Ürәyin bağlı masajı vaxtı döş qәfәsi 1 dәqiqә әrzindә neçә dәfә 
+sıxılmalıdır? 
+Düzgün cavab: 80-100 
+ 
+35. Orta yaşlı insanlarda nәbz 1 dәqiqә әrzindә neçә dәfә vurmalıdır? 
+Düzgün cavab: 75-80 
+ 
+36. İnert qaz sistemindә Demister hansı funksiyanı yerinә yetirir? 
+Düzgün cavab: Qazın scrubberdәn çıxışında qazla birlikdә su damlalarının 
+keçmәsinin qarşısını alır 
+ 
+37. Blowerdә (ventilyator) nasazlıq yaranarsa: 
+Düzgün cavab: Qaz tәnzimlәyici klapan avtomatik qapanır 
+ 
+38. Scrubberdә neçә soyuq su vuran nasos olmalıdır? 
+Düzgün cavab: 2 
+ 
+39. Scrubberdә hansı halda siqnalizasiya işә düşür? 
+Düzgün cavab: Suyun aşağı tәzyiqdә olması zamanı 
+ 
+40. Qaz tәnzimlәyici klapanın funksiyası hansıdır? 
+Düzgün cavab: İnert qaz axının tanka ötürülmәsinә avtomatik nәzarәt edir 
+ 
+41. Qaz tәnzimlәyici klapan tankerin hansı hissәsindә quraşdırılmalıdır? 
+Düzgün cavab: Maşın şöbәsindә, göyәrtә klapanından öncә quraşdırılmalıdır 
+ 
+42. Oksigen analizatorunun funksiyası hansıdır? 
+Düzgün cavab: Oksigenin miqdarını davamlı ölçür vә qeyd edir 
+ 
+43. Oksigen analizatorunun siqnalizasiyası hansı halda işә düşür? 
+Düzgün cavab: Oksigenin miqdarı 8 % dәn yuxarı olarsa 
+ 
+44. Oksigenin miqdarı 8 % dәn yuxarı olarsa, oksigen analizatorunun 
+siqnalizasiyası işә düşür vә bu halda sistemdә hansı dәyişikliklәr baş verir? 
+Düzgün cavab: Tankı qazla tәmin edәn klapan avtomatik qapanmalıdır 
+ 
+
+--- PAGE 5 ---
+45. Maşın şöbәsindәn gәlәn karbohidrogen buxarlarının qarşısı hansı qurğu 
+vasitәsilә alınır? 
+Düzgün cavab: Geri qaytarmayan klapan 
+ 
+46. Tәzyiq – vakkum boğucu (breaker) hansı funksiyanı yerinә yetirir? 
+Düzgün cavab: İzolyasya klapanları bağlı olduqda, yük tanklarını dәyişkәn 
+temperaturdan yaranan aşağı vә ya yuxarı tәzyiqdәn qoruyur 
+ 
