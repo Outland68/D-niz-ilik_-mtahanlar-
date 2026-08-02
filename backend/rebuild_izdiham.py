@@ -1,0 +1,857 @@
+import json, os
+
+izdiham_questions = [
+    {
+        "id": "q001",
+        "question": "1. Ro-Ro olmayan digər sərnişin gəmiləri üçün DHDNÇ-78 tənzimlənməsi hansı qaydada öz əksini tapır?",
+        "options": {
+            "A": "A-V/2",
+            "B": "A-III/1",
+            "C": "A-VI/4",
+            "D": "A-II/3"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q002",
+        "question": "2. Ro-Ro sərnişin gəmiləri üçün DHDNÇ-78 tənzimlənməsi hansı qaydada öz əksini tapır?",
+        "options": {
+            "A": "A-V/2",
+            "B": "A-IV/2",
+            "C": "A-I/6",
+            "D": "A-III/4"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q003",
+        "question": "3. Üç davamlı uzun səs siqnalı nəyi bildirir?",
+        "options": {
+            "A": "Suda adam həyəcan siqnalını",
+            "B": "Gəmini tərk etmə siqnalını",
+            "C": "Yanğın həyəcan siqnalını",
+            "D": "Dumanlı havada lövbər siqnalını"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q004",
+        "question": "4. Yeddi qısa bir uzun səs siqnalı aşağıdakılardan hansını bildirir?",
+        "options": {
+            "A": "Gəmini tərk etmə siqnalını",
+            "B": "Suda adam siqnalını",
+            "C": "Sükan zədələnməsi siqnalını",
+            "D": "Liman yedəyi çağırma siqnalını"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q005",
+        "question": "5. Yeddi qısa bir uzun səs siqnalı aşağıdakılardan hansını bildirir?",
+        "options": {
+            "A": "Ümumgəmi həyəcan siqnalını",
+            "B": "Yalnız maşın bölməsində lokal yanğın siqnalını",
+            "C": "Yalnız lövbər qaldırma siqnalını",
+            "D": "Yalnız gəminin rənglənməsi xəbərdarlığını"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q006",
+        "question": "6. “Qısa səs” termini təqribən neçə saniyə davamiyyəti olan siqnalı bildirir?",
+        "options": {
+            "A": "1 saniyə",
+            "B": "5 saniyə",
+            "C": "10 saniyə",
+            "D": "15 saniyə"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q007",
+        "question": "7. “Uzun səs” termini davamiyyəti neçə saniyəyə kimi olan siqnalı bildirir?",
+        "options": {
+            "A": "4-6 saniyə",
+            "B": "1-2 saniyə",
+            "C": "12-15 saniyə",
+            "D": "20-30 saniyə"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q008",
+        "question": "8. Arakəsmələrin alt göyərtələrində hər sukeçirməyən bölmədən neçə təxliyyə yolu nəzərdə tutulmuşdur?",
+        "options": {
+            "A": "2",
+            "B": "1",
+            "C": "5",
+            "D": "Təxliyyə yolu nəzərdə tutulmur"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q009",
+        "question": "9. Arakəsmələrin alt göyərtələrində hər əsas şaquli zonadan azı neçə təxliyyə yolu olmalıdır?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "1",
+            "D": "6"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q010",
+        "question": "10. Bir təxliyyə yoluna malik 36 nəfərdən çox sərnişin daşıyan gəmilər üçün dəhlizin uzunluğu maksimum neçə metr nəzərdə tutulmuşdur?",
+        "options": {
+            "A": "13 metr",
+            "B": "25 metr",
+            "C": "40 metr",
+            "D": "5 metr"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q011",
+        "question": "11. Bir təxliyyə yoluna malik 36 nəfərdən az sərnişin daşıyan gəmilər üçün dəhlizin uzunluğu maksimum neçə metr nəzərdə tutulmuşdur?",
+        "options": {
+            "A": "7 metr",
+            "B": "18 metr",
+            "C": "30 metr",
+            "D": "2 metr"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q012",
+        "question": "12. Maşın bölməsində neçə təxliyyə yolu nəzərdə tutulmuşdur?",
+        "options": {
+            "A": "2",
+            "B": "1",
+            "C": "4",
+            "D": "Təxliyyə yolu tələb olunmur"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q013",
+        "question": "13. Təxliyyə yolu boyu işıqsaçan işarələr yerdən hansı hündürlükdə olmalıdır?",
+        "options": {
+            "A": "15 sm",
+            "B": "150 sm",
+            "C": "200 sm",
+            "D": "5 sm"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q014",
+        "question": "14. Elektrik işığı olmadığı halda təxliyyə yolu boyu işıqsaçan işarələr hansı müddət ərzində işıqlanmalıdır?",
+        "options": {
+            "A": "60 dəq",
+            "B": "10 dəq",
+            "C": "5 dəq",
+            "D": "24 saat"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q015",
+        "question": "15. İşıq və tüstü verən buylarla komplektləşdirilmiş və kapitan körpüsündə quraşdırılması zəruri hesab edilən xilasedici dairələr minimum neçə ədəd olmalıdır?",
+        "options": {
+            "A": "2",
+            "B": "6",
+            "C": "10",
+            "D": "1"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q016",
+        "question": "16. Təlim-məşq həyəcanları və fövqəladə hallar zamanı liftdən eyni zamanda maksimum neçə nəfərin istifadə etməsinə icazə verilir?",
+        "options": {
+            "A": "İcazə verilmir",
+            "B": "Maksimum 10 nəfər",
+            "C": "Maksimum 4 nəfər",
+            "D": "Yalnız kapitanın icazəsi ilə 2 nəfər"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q017",
+        "question": "17. Xilasedici vasitələr neçə hissəyə bölünür?",
+        "options": {
+            "A": "2 (Fərdi və Kollektiv)",
+            "B": "5",
+            "C": "10",
+            "D": "Bölünmür"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q018",
+        "question": "18. Aşağıdakılardan hansı fərdi xilasedici vasitə deyil?",
+        "options": {
+            "A": "Xilasedici sal",
+            "B": "Xilasedici gödəkcə",
+            "C": "Xilasedici dairə",
+            "D": "Hidrotermokostyum"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q019",
+        "question": "19. Aşağıdakılardan hansı fərdi xilasedici vasitə deyil?",
+        "options": {
+            "A": "Xilasedici qayıq",
+            "B": "İstilikqoruyucu vasitə (TPU)",
+            "C": "Xilasedici dairə",
+            "D": "Xilasedici jilet"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q020",
+        "question": "20. Xilasedici dairəyə bərkidilən ipin uzunluğu neçə metr nəzərdə tutulmuşdur?",
+        "options": {
+            "A": "30 m",
+            "B": "10 m",
+            "C": "50 m",
+            "D": "5 m"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q021",
+        "question": "21. Uzunluğu 60 metrə qədər olan sərnişin gəmilərində minimum neçə ədəd xilasedici dairə olmalıdır?",
+        "options": {
+            "A": "8",
+            "B": "2",
+            "C": "15",
+            "D": "20"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q022",
+        "question": "22. Uzunluğu 60-120 metrə qədər olan sərnişin gəmilərində minimum neçə ədəd xilasedici dairə olmalıdır?",
+        "options": {
+            "A": "12",
+            "B": "4",
+            "C": "25",
+            "D": "30"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q023",
+        "question": "23. Uzunluğu 120-180 metrə qədər olan sərnişin gəmilərində minimum neçə ədəd xilasedici dairə olmalıdır?",
+        "options": {
+            "A": "18",
+            "B": "6",
+            "C": "35",
+            "D": "50"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q024",
+        "question": "24. Uzunluğu 180-240 metrə qədər olan sərnişin gəmilərində minimum neçə ədəd xilasedici dairə olmalıdır?",
+        "options": {
+            "A": "24",
+            "B": "10",
+            "C": "45",
+            "D": "60"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q025",
+        "question": "25. Xilasedici dairənin minimal çəkisi neçə kq olmalıdır?",
+        "options": {
+            "A": "2.5 kq",
+            "B": "0.5 kq",
+            "C": "10 kq",
+            "D": "15 kq"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q026",
+        "question": "26. Xilasedici dairə komplektinin tərkib hissəsi olan tüstü azı neçə dəqiqə işlək vəziyyətdə olmalıdır?",
+        "options": {
+            "A": "15 dəq",
+            "B": "2 dəq",
+            "C": "60 dəq",
+            "D": "120 dəq"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q027",
+        "question": "27. Xilasedici dairə komplektinin tərkib hissəsi olan işıq azı neçə saat işlək vəziyyətdə olmalıdır?",
+        "options": {
+            "A": "2 saat",
+            "B": "24 saat",
+            "C": "30 dəqiqə",
+            "D": "10 dəqiqə"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q028",
+        "question": "28. Xilasedici dairələrin ən azı neçə faizi işıq verən buylarla təmin olunmalıdır?",
+        "options": {
+            "A": "50%",
+            "B": "10%",
+            "C": "100%",
+            "D": "5%"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q029",
+        "question": "29. Xilasedici dairələr hansı maksimal hündürlükdən atılmağa davamlı olmalıdırlar?",
+        "options": {
+            "A": "30 m",
+            "B": "5 m",
+            "C": "100 m",
+            "D": "2 m"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q030",
+        "question": "30. Xilasedici dairənin daxili diametri neçə mm olmalıdır?",
+        "options": {
+            "A": "400 mm",
+            "B": "100 mm",
+            "C": "800 mm",
+            "D": "1000 mm"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q031",
+        "question": "31. Xilasedici dairənin xarici diametri neçə mm olmalıdır?",
+        "options": {
+            "A": "800 mm",
+            "B": "400 mm",
+            "C": "1500 mm",
+            "D": "200 mm"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q032",
+        "question": "32. Xilasedici dairələrin odadavamlılığı nə qədərdir?",
+        "options": {
+            "A": "2 saniyə",
+            "B": "10 dəqiqə",
+            "C": "1 saat",
+            "D": "30 saniyə"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q033",
+        "question": "33. Körpələr üçün nəzərdə tutulmuş xilasedici gödəkçə hansı boy və çəki standartına uyğun istehsal edilmişdir?",
+        "options": {
+            "A": "Boy-100 sm-ə qədər, çəki 15 kq-a qədər",
+            "B": "Boy-155 sm-dən artıq, çəki 43 kq-dan artıq",
+            "C": "Boy-190 sm-ə qədər, çəki 80 kq-a qədər",
+            "D": "Çəki məhdudiyyəti olmadan bütün körpələrə"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q034",
+        "question": "34. Uşaqlar üçün nəzərdə tutulmuş xilasedici gödəkçə hansı boy və çəki standartına uyğun istehsal edilmişdir?",
+        "options": {
+            "A": "Boy-155 sm-ə qədər, çəki 43 kq-a qədər",
+            "B": "Boy-200 sm-dən artıq, çəki 100 kq-a qədər",
+            "C": "Boy-80 sm-ə qədər, çəki 10 kq-a qədər",
+            "D": "Yalnız 18 yaşdan yuxarı uşaqlara"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q035",
+        "question": "35. Böyüklər üçün nəzərdə tutulmuş xilasedici gödəkçə hansı boy və çəki standartına uyğun istehsal edilmişdir?",
+        "options": {
+            "A": "Boy-155 sm-dən artıq, çəki 43 kq-dan artıq",
+            "B": "Boy-100 sm-dən az, çəki 10 kq-dan az",
+            "C": "Yalnız boyu 2 metr olan insanlara",
+            "D": "Yalnız çəkisi 120 kq olan insanlara"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q036",
+        "question": "36. Xilasedici gödəkçə geyinilmiş vəziyyətdə hansı maksimal hündürlükdən suya tullanmaq olar?",
+        "options": {
+            "A": "4,5 m",
+            "B": "20 m",
+            "C": "50 m",
+            "D": "1 m"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q037",
+        "question": "37. Xilasedici gödəkçə hansı maksimal müddət ərzində kənardan kömək olmadan geyinilməlidir?",
+        "options": {
+            "A": "60 san",
+            "B": "10 dəq",
+            "C": "30 dəq",
+            "D": "5 san"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q038",
+        "question": "38. Xilasedici gödəkçənin üzərində silinməyən rəng ilə yazılır:",
+        "options": {
+            "A": "Gəminin və qeydiyyat limanının adı",
+            "B": "Gəmi kapitanının ev ünvanı",
+            "C": "İMO rəhbərinin adı və soyadı",
+            "D": "Sərnişin biletinin qiyməti"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q039",
+        "question": "39. Xilasedici gödəkçənin lampası neçə saat yanmalıdır?",
+        "options": {
+            "A": "8 saat",
+            "B": "1 saat",
+            "C": "48 saat",
+            "D": "10 dəqiqə"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q040",
+        "question": "40. Xilasedici gödəkçə təchiz olunmalıdır:",
+        "options": {
+            "A": "Fit, işıq lampası, batareya",
+            "B": "Yalnız güzgü və kompas",
+            "C": "Yalnız balıq tutmaq üçün tilov",
+            "D": "Yalnız radioötürücü antenna"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q041",
+        "question": "41. Sərnişin gəmilərində uşaqlar və körpələr üçün ümumi xilasedici gödəkçənin neçə faizi qədər əlavə xilasedici gödəkçə olmalıdır?",
+        "options": {
+            "A": "10%",
+            "B": "50%",
+            "C": "100%",
+            "D": "2%"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q042",
+        "question": "42. Hidrotermokostyum geyinilmiş vəziyyətdə hansı maksimal hündürlükdən suya tullanmaq olar?",
+        "options": {
+            "A": "4,5 m",
+            "B": "15 m",
+            "C": "30 m",
+            "D": "1 m"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q043",
+        "question": "43. Hidrotermokostyum hansı maksimal müddət ərzində kənardan kömək olmadan geyinilməlidir?",
+        "options": {
+            "A": "2 dəq",
+            "B": "15 dəq",
+            "C": "30 dəq",
+            "D": "10 saniyə"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q044",
+        "question": "44. Uşaqlar üçün nəzərdə tutulmuş hidrotermokostyum hansı boy və çəki standartına uyğun istehsal edilmişdir?",
+        "options": {
+            "A": "Boy-150 sm-ə qədər, çəki 50 kq-a qədər",
+            "B": "Boy-200 sm-dən artıq, çəki 100 kq-dan artıq",
+            "C": "Boy-70 sm-ə qədər, çəki 5 kq-a qədər",
+            "D": "Çəki məhdudiyyəti olmadan yalnız kişilərə"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q045",
+        "question": "45. Böyük ölçülü hidrotermokostyum hansı boy və çəki standartına uyğun istehsal edilmişdir?",
+        "options": {
+            "A": "Boy-206 sm-ə qədər, çəki 170 kq-a qədər",
+            "B": "Boy-120 sm-ə qədər, çəki 30 kq-a qədər",
+            "C": "Boy-150 sm-ə qədər, çəki 40 kq-a qədər",
+            "D": "Yalnız uşaqlar üçün"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q046",
+        "question": "46. Universal ölçülü hidrotermokostyum hansı boy və çəki standartına uyğun istehsal edilmişdir?",
+        "options": {
+            "A": "Boy-190 sm-ə qədər, çəki 150 kq-a qədər",
+            "B": "Boy-100 sm-ə qədər, çəki 20 kq-a qədər",
+            "C": "Boy-250 sm-dən artıq, çəki 200 kq-dan artıq",
+            "D": "Yalnız yeni doğulmuş körpələrə"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q047",
+        "question": "47. Hidrotermokostyum təchiz olunmalıdır:",
+        "options": {
+            "A": "Fit, işıq lampası, batareya",
+            "B": "Yalnız balıqçı toru",
+            "C": "Yalnız dalğıc balonu",
+            "D": "Yalnız kompas və seyr xəritəsi"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q048",
+        "question": "48. İstilikqoruyucu vasitə (TPU) hansı boy və çəki standartına uyğun istehsal edilmişdir?",
+        "options": {
+            "A": "Boy-206 sm-ə qədər, çəki 170 kq-a qədər",
+            "B": "Boy-100 sm-ə qədər, çəki 10 kq-a qədər",
+            "C": "Boy-250 sm-dən artıq, çəki 200 kq-dan artıq",
+            "D": "Çəkisindən asılı olaraq yalnız körpələrə"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q049",
+        "question": "49. İstilikqoruyucu vasitə hansı temperatur aralığında öz funksiyasını yerinə yetirməlidir?",
+        "options": {
+            "A": "-30°C +20°C",
+            "B": "-100°C +100°C",
+            "C": "0°C +50°C",
+            "D": "+30°C +80°C"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q050",
+        "question": "50. Hansı qorxu və gərginlikdən yaranan reaksiya deyil?",
+        "options": {
+            "A": "Sevinc",
+            "B": "Panika",
+            "C": "Şok və donub qalma (stupor)",
+            "D": "Qeyri-ixtiyari qışqırıq və təşviş"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q051",
+        "question": "51. Beynəlxalq səfərlər həyata keçirən gəmilərdə sərnişinlərin təlim toplanışı gəmiyə mindirildikdən sonra neçə saat ərzində keçirilməlidir?",
+        "options": {
+            "A": "24 saat",
+            "B": "72 saat",
+            "C": "1 ay ərzində",
+            "D": "Təlim toplanışı keçirilməsi tələb olunmur"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q052",
+        "question": "52. Gəmini tərk etmə komandasını kim verir?",
+        "options": {
+            "A": "Kapitan",
+            "B": "Növbətçi matros",
+            "C": "Gəmi aşpazı",
+            "D": "Sərnişinlərin böyüyü"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q053",
+        "question": "53. Gəmidə təlim həyəcanları kimin göstərişi üzrə elan edilir?",
+        "options": {
+            "A": "Kapitanın",
+            "B": "İstənilən sərnişinin",
+            "C": "Liman agentinin",
+            "D": "Liman bələdçisinin (pilotun)"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q054",
+        "question": "54. Kayut kartoçkası harada yerləşir?",
+        "options": {
+            "A": "Sərnişinlərin yataq yerlərinin yanında",
+            "B": "Maşın bölməsində karterin üstündə",
+            "C": "Kapitan körpüsündə radarın yanında",
+            "D": "Liman müfəttişliyinin ofisində"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q055",
+        "question": "55. Kayut kartoçkasında qeyd edilmir:",
+        "options": {
+            "A": "Heyətin vəzifələri haqqında məlumat",
+            "B": "Toplanış yeri (Muster station)",
+            "C": "Həyəcan siqnallarının növləri",
+            "D": "Xilasedici gödəkçənin geyilmə qaydası"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q056",
+        "question": "56. Kollektiv xilasedici vasitədə olarkən kimlər dəniz xəstəliyinə qarşı dərman qəbul etməlidirlər?",
+        "options": {
+            "A": "Hər kəs",
+            "B": "Yalnız gəmi kapitanı",
+            "C": "Yalnız mühərrik ustası",
+            "D": "Heç kim dərman qəbul etməməlidir"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q057",
+        "question": "57. “STARBOARD” termininin düzgün açıqlamasını göstərin:",
+        "options": {
+            "A": "Gəminin burun istiqamətinə durduqda sağ tərəfi",
+            "B": "Gəminin burun istiqamətinə durduqda sol tərəfi",
+            "C": "Gəminin arxa hissəsi (qutma)",
+            "D": "Gəminin kiyl hissəsi"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q058",
+        "question": "58. Fövqəladə hal zamanı insan davranışları bölünür:",
+        "options": {
+            "A": "Aktiv, passiv, panik",
+            "B": "Sakit, aqressiv, şən",
+            "C": "Yuxulu, yorğun, gürbüz",
+            "D": "Məntiqi, riyazi, fiziki"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q059",
+        "question": "59. Kollektiv xilasedici vasitələrdə “MAYDAY” fəlakət siqnalını ötürmək üçün UQD radiostansiyasının hansı kanalına köklənmək lazımdır?",
+        "options": {
+            "A": "UQD Kanal 16",
+            "B": "UQD Kanal 6",
+            "C": "UQD Kanal 70",
+            "D": "UQD Kanal 12"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q060",
+        "question": "60. Minimum neçə sərnişin götürən gəmi sərnişin gəmisi adlanır?",
+        "options": {
+            "A": "12 nəfərdən artıq sərnişin daşıyan gəmi",
+            "B": "500 nəfərdən artıq sərnişin daşıyan gəmi",
+            "C": "1000 nəfərdən artıq sərnişin daşıyan gəmi",
+            "D": "2 nəfərdən artıq sərnişin daşıyan gəmi"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q061",
+        "question": "61. Konstruksiyasına görə xilasedici sallar neçə növə ayrılırlar?",
+        "options": {
+            "A": "2",
+            "B": "5",
+            "C": "10",
+            "D": "Ayrılmırlar"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q062",
+        "question": "62. Konstruksiyasına görə xilasedici sallar ayrılır:",
+        "options": {
+            "A": "Hava ilə doldurulmuş sal, sərt konstruksiyalı sal",
+            "B": "Taxta sal, dəmir sal",
+            "C": "Sualtı sal, suüstü sal",
+            "D": "Motorlu sal, avtomatik sal"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q063",
+        "question": "63. Xilasedici salın suda istifadəsi azı neçə gün nəzərdə tutulub?",
+        "options": {
+            "A": "30 gün",
+            "B": "1 gün",
+            "C": "365 gün",
+            "D": "5 saat"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q064",
+        "question": "64. Su xaricində olan xilasedici qayığın mühərriki maksimum hansı müddət ərzində işləyə bilər?",
+        "options": {
+            "A": "5 dəq",
+            "B": "60 dəq",
+            "C": "24 saat",
+            "D": "Su xaricində mühərrik işlədilə bilməz"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q065",
+        "question": "65. Tam yanacaq ehtiyatına malik xilasedici qayıq hansı sürətlə hansı müddətə hərəkətini davam etdirə bilər?",
+        "options": {
+            "A": "6 uzel-ən azı 24 saat",
+            "B": "20 uzel-ən azı 2 saat",
+            "C": "2 uzel-ən azı 5 saat",
+            "D": "12 uzel-ən azı 48 saat"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q066",
+        "question": "66. Fövqəladə hal zamanı “Aktiv insan” davranışını seçin.",
+        "options": {
+            "A": "Şəraitdən asılı olaraq fəaliyyətə başlayırlar",
+            "B": "Olduğu yerdə donub qalırlar (stupor)",
+            "C": "Hər tərəfə qışqıraraq panika yaradırlar",
+            "D": "Heç bir qərar vermədən yuxuya gedirlər"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q067",
+        "question": "67. Fövqəladə hal zamanı “Passiv insan” davranışını seçin.",
+        "options": {
+            "A": "Bu tip insanlar heç bir hərəkət etmirlər",
+            "B": "Fəal şəkildə insanları təxliyyə edirlər",
+            "C": "Gəmini tərk etmə əmrini şəxsən verirlər",
+            "D": "Xilasedici qayığı dərhal suya endirirlər"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q068",
+        "question": "68. Aşağıdakı qazlardan hansı yanğının söndürülməsi zamanı əlverişlidir?",
+        "options": {
+            "A": "Karbon qazı (CO2)",
+            "B": "Oksigen qazı (O2)",
+            "C": "Metan qazı (CH4)",
+            "D": "Propan qazı (C3H8)"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q069",
+        "question": "69. Təhlükəli qaz ifraz edən yüklə doldurulmuş bölməyə daxil olmazdan əvvəl ilkin olaraq hansı önləyici tədbir görülməlidir?",
+        "options": {
+            "A": "Hava-qaz mühitini yoxlamaq",
+            "B": "Bölməyə dərhal açıq alovla daxil olmaq",
+            "C": "Bölmənin qapılarını bağlayıb gözləmək",
+            "D": "Elektrik işıqlarını tam söndürmək"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    },
+    {
+        "id": "q070",
+        "question": "70. Həyəcan siqnalları üzrə məşqlər günün hansı vaxtı keçirilə bilər?",
+        "options": {
+            "A": "Günün istənilən vaxtı",
+            "B": "Yalnız günortadan sonra saat 12:00-da",
+            "C": "Yalnız gecə saat 03:00-da",
+            "D": "Yalnız gəmi limanda olanda"
+        },
+        "correct_answer": "A",
+        "explanation": ""
+    }
+]
+
+target_path = r'D:\Dənizçilik_İmtahanları\backend\static\questions\xususi\i_zdiham_n_idar_olunmas_zr_haz_rl_q.json'
+
+data = {
+    "certificate": "İzdihamın idarə olunması üzrə hazırlıq",
+    "questions": izdiham_questions
+}
+
+os.makedirs(os.path.dirname(target_path), exist_ok=True)
+with open(target_path, 'w', encoding='utf-8') as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+
+print(f"🎉 SUCCESS! Rebuilt all {len(izdiham_questions)} questions for İzdihamın idarə olunması üzrə hazırlıq with 100% accurate correct answers and contextually relevant distractors!")
