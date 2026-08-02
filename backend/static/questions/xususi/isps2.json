@@ -5,24 +5,24 @@
       "id": "q001",
       "question": "1. Gəminin mühafizə səviyyəsini kim təyin edir?",
       "options": {
-        "A": "Gəminin Bayraq Administrasiyası",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "Gəminin Bayraq Administrasiyası",
         "C": "50 metr məsafədə dənizdə",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Gələn şəxsin fotoşəkilini çəkmək.",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "1, 3",
-        "C": "bütün cavablar doğrudur",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "A": "1, 3",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -30,9 +30,9 @@
       "question": "3. Gəminin mühafizəyə məsul şəxsi gəmi üçün təyin olunmuş mühafizə səviyyəsini dəyişə bilərmi?",
       "options": {
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "gərginlik 220 V həddinə çatdıqda",
         "C": "Xeyr",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "D": "əllə idarəetmə rejiminə keçdikdə"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -41,12 +41,12 @@
       "id": "q005",
       "question": "5. Gəminin sürəti və suya oturumu üzrə.",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "2, 3 5. Gəmidə təyin edilən məhdudlaşdırılmış giriş sahələri elə təchiz edilməlidir ki: Düzgün cavab: İcazəsiz daxil olmanın, habelə onlara girişin qarşısı alınsın və həmin sahələrin daxilində fəaliyyətlərə nəzarət təmin edilsin",
-        "C": "bütün cavablar doğrudur",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "A": "2, 3 5. Gəmidə təyin edilən məhdudlaşdırılmış giriş sahələri elə təchiz edilməlidir ki: Düzgün cavab: İcazəsiz daxil olmanın, habelə onlara girişin qarşısı alınsın və həmin sahələrin daxilində fəaliyyətlərə nəzarət təmin edilsin",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -54,35 +54,35 @@
       "question": "6. Gəmidə qeyri-leqal sərnişinin aşkar edilməsi gəmiyə baxışın keçirilməsi üçün əsasdırmı?",
       "options": {
         "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "Bəli",
         "C": "avtomatik rejimdə işləyərkən",
-        "D": "Bəli"
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q007",
       "question": "7. Yüklənəcək avtomobillərə baxış gizli olmalıdır ki, avtomobilin sahibinin və ya onun nümayəndəsinin diqqəti cəlb edilməsin:",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "Xeyr",
-        "D": "bütün cavablar doğrudur"
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "bütün cavablar doğrudur",
+        "D": "Xeyr"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q008",
       "question": "8. Gəminin mühafizə planının yerinə yetirilməsini təmin etmək üçün mühafizə üzrə məşqlər hansı müddətdən bir keçirilməlidir?",
       "options": {
-        "A": "3 ayda azı 1 dəfə",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "3 ayda azı 1 dəfə",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -90,116 +90,128 @@
       "question": "5. Gəmi dar keçidə daxil olarkən.",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "1, 3",
-        "C": "bütün cavablar doğrudur",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "B": "bütün cavablar doğrudur",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "1, 3"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q010",
       "question": "10. Gəminin mühafizə planının başlıca məqsədi hansıdır?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "Gəminin mühafizəsinin təmin edilməsinin strukturunu təyin etmək",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "50 metr məsafədə dənizdə"
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "Gəminin mühafizəsinin təmin edilməsinin strukturunu təyin etmək"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q011",
       "question": "11. Gəmiyə gələn şəxslərin hansı kateqoriyası narkotiklərin yayılması üçün təhlükə doğurur?",
       "options": {
-        "A": "Gəmiyə gələn şəxslərin bütün kateqoriyaları",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "Gəmiyə gələn şəxslərin bütün kateqoriyaları"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q012",
       "question": "12. Gəmiyə daxil olma icazəsi almaq üçün dövlət hakimiyyəti orqanının nümayəndəsi nə etməlidir?",
       "options": {
-        "A": "Şəxsiyyətini təsdiqləyən sənədi təqdim etməlidir",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "Şəxsiyyətini təsdiqləyən sənədi təqdim etməlidir",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q013",
       "question": "13. Aşağıda göstərilənlərdən hansı baxış proseduruna aiddir?",
       "options": {
-        "A": "Baxış 2-3 nəfərdən ibarət qruplarla keçirilməlidir",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "Baxış 2-3 nəfərdən ibarət qruplarla keçirilməlidir"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Havalandırma sistemini işə salmaq.",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "3, 4",
-        "C": "bütün cavablar doğrudur",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "A": "bütün cavablar doğrudur",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "3, 4"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q015",
       "question": "15. Lövbərdə dayanan gəminin göyərtəsində növbə çəkən heyət üzvlərinin ultra qısa dalğalı radiostansiya ilə təchiz edilmələri mütləqdirmi?",
       "options": {
-        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "B": "Bəli, mütləqdir",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "Bəli, mütləqdir",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q016",
       "question": "16. Gəmiyə gələrkən öz şəxsiyyətini təsdiqləməkdən və ya şəxsi baxışa məruz qalmaqdan imtina edən şəxsə qarşı aşağıda göstərilən tədbirlərdən hansı həyata keçirilməlidir?",
       "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "A": "Bu şəxsi gəmiyə buraxmamaq, gəminin mühafizəyə məsul şəxsinə məruzə etmək",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "Bu şəxsi gəmiyə buraxmamaq, gəminin mühafizəyə məsul şəxsinə məruzə etmək"
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q017",
       "question": "17. Heyət üzvü gəmidə istənilən məhdudlaşdırılmış giriş sahəsinə daxil ola bilərmi?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "A": "Xeyr, mühafizə səviyyəsindən asılı olmayaraq, əgər həmin sahə ona təhkim olunmayıbsa, bu, gəminin mühafizə rejiminin pozulması deməkdir",
         "B": "fırtınalı havada təxirə salınmaqla",
         "C": "cənub-qərb dreyfi zamanı",
-        "D": "Xeyr, mühafizə səviyyəsindən asılı olmayaraq, əgər həmin sahə ona təhkim olunmayıbsa, bu, gəminin mühafizə rejiminin pozulması deməkdir"
+        "D": "əllə idarəetmə rejiminə keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q018",
       "question": "18. Gəmiyə dəniz quldurlarının basqını zamanı aşağıda qeyd edilən tədbirlərdən hansının yerinə yetirilməsi tövsiyə olunur?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "Əgər mümkün olarsa, gəminin daxilində əvvəlcədən hazırlanmış və mühafizə olunan yerdə bütün heyəti gizlətmək",
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "Əgər mümkün olarsa, gəminin daxilində əvvəlcədən hazırlanmış və mühafizə olunan yerdə bütün heyəti gizlətmək",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q005",
+      "question": "5. Kapitanının növbə köməkçisinin naviqasiya təhlükəsizliyinə diqqət yetirməsinə",
+      "options": {
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "bütün cavablar doğrudur",
+        "C": "1, 2",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
       "correct_answer": "C",
@@ -207,26 +219,14 @@
     },
     {
       "id": "q005",
-      "question": "5. Kapitanının növbə köməkçisinin naviqasiya təhlükəsizliyinə diqqət yetirməsinə",
-      "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "1, 2",
-        "C": "bütün cavablar doğrudur",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
       "question": "5. Hərb sindromu - döyüş meydanında vuruşaraq həlak olan döyüşçülərə aiddir",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "1,3,4 21. Terror fəaliyyəti ilə məşğul olmağın əsas motivləri hansılardır?",
-        "C": "bütün cavablar doğrudur",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "A": "1,3,4 21. Terror fəaliyyəti ilə məşğul olmağın əsas motivləri hansılardır?",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -245,10 +245,10 @@
       "id": "q005",
       "question": "5. İnsanın şalvarı gödəkdir.",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "B": "1,2",
-        "C": "bütün cavablar doğrudur",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "bütün cavablar doğrudur"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -257,12 +257,12 @@
       "id": "q024",
       "question": "24. Mühafizə səviyyəsi 2 hansı səviyyədir?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "Yüksəldilmiş (gücləndirilmiş) səviyyədir",
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "C": "bütün cavablar yanlışdır",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "D": "Yüksəldilmiş (gücləndirilmiş) səviyyədir"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -270,31 +270,31 @@
       "question": "25. Gəminin mühafizəsini GLVM məcəlləsinin tələb etdiyi səviyyədə təşkil etmək üçün o, hansı sənədə malik olmalıdır?",
       "options": {
         "A": "cənub-qərb dreyfi zamanı",
-        "B": "bütün cavablar doğrudur",
-        "C": "Dəniz Administrasiyası tərəfindən bəyənilmiş Gəminin mühafizə planına",
+        "B": "Dəniz Administrasiyası tərəfindən bəyənilmiş Gəminin mühafizə planına",
+        "C": "bütün cavablar doğrudur",
         "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q026",
       "question": "26. Mühafizə səviyyəsi 1 hansı səviyyədir?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "Adi səviyyədir",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "Adi səviyyədir"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q027",
       "question": "27. Mühafizə səviyyəsi 3 hansı səviyyədir?",
       "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "bütün cavablar yanlışdır",
+        "A": "bütün cavablar yanlışdır",
+        "B": "avtomatik rejimdə işləyərkən",
         "C": "Müstəsna (ən yüksək) səviyyədir",
         "D": "əllə idarəetmə rejiminə keçdikdə"
       },
@@ -306,21 +306,21 @@
       "question": "28. Gəminin bütün heyət üzvləri hansı biliklərə malik olmalıdırlar?",
       "options": {
         "A": "bütün cavablar yanlışdır",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "Fövqəladə hallarda fəaliyyətlər qaydası üzrə",
         "C": "avtomatik rejimdə işləyərkən",
-        "D": "Fövqəladə hallarda fəaliyyətlər qaydası üzrə"
+        "D": "əllə idarəetmə rejiminə keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q029",
       "question": "29. Gəminin bütün heyət üzvləri hansı biliklərə malik olmalıdırlar?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "A": "gəmi limana daxil olana qədər",
+        "B": "şimal-şərq istiqamətində",
         "C": "Silahın, təhlükəli maddə və qurğuların tanınması və aşkarlanması üzrə",
-        "D": "gəmi limana daxil olana qədər"
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -329,9 +329,9 @@
       "id": "q030",
       "question": "30. Gəminin bütün heyət üzvləri hansı biliklərə malik olmalıdırlar",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "A": "şimal-şərq istiqamətində",
         "B": "avtomatik rejimdə işləyərkən",
-        "C": "şimal-şərq istiqamətində",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "D": "Mühafizə qabiliyyətinə təhdid yarada biləcək şəxslərin səciyyəvi davranış əlamətləri və tipləri üzrə"
       },
       "correct_answer": "D",
@@ -341,96 +341,96 @@
       "id": "q031",
       "question": "31. Gəminin bütün heyət üzvləri hansı biliklərə malik olmalıdırlar?",
       "options": {
-        "A": "Mühafizə tədbirlərindən yayınmaq üçün tətbiq edilən hiylələr üzrə",
+        "A": "10 uzel sürətlə manevr etdikdə",
         "B": "şimal-şərq istiqamətində",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "Mühafizə tədbirlərindən yayınmaq üçün tətbiq edilən hiylələr üzrə"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q032",
       "question": "32. Gəmidə təkbaşına gəzən kənar şəxsi (dövlət və ya hökumət orqanının nümayəndəsi, fəhlə, qonaq və s.) görən istənilən heyət üzvü nə etməlidir?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "Onu saxlamalı və kapitanın növbə köməkçisinə məruzə etməli və onun göstərişi əsasında fəaliyyət göstərməlidir"
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "Onu saxlamalı və kapitanın növbə köməkçisinə məruzə etməli və onun göstərişi əsasında fəaliyyət göstərməlidir",
+        "C": "şimal-şərq istiqamətində",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q033",
       "question": "33. Gəmiyə silahlı basqın baş verərkən və heyət üzvləri girov götürülərkən onların fəaliyyət qaydasını göstərin:",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "bütün cavablar yanlışdır",
-        "C": "Basqınçılar tərəfindən atəş açılırsa, çalışıb atəş xəttindən yayınmaq və onların bütün tələblərinə əməl etmək",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "bütün cavablar yanlışdır",
+        "D": "Basqınçılar tərəfindən atəş açılırsa, çalışıb atəş xəttindən yayınmaq və onların bütün tələblərinə əməl etmək"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q034",
       "question": "34. Aşağıda sadalananlardan hansı mühafizə üzrə məxfi məlumatlara aid edilə bilər?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "Gəminin mühafizə planı",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "A": "Gəminin mühafizə planı",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q035",
       "question": "35. Aşağıda sadalananlardan hansı mühafizə üzrə məxfi məlumatlara aid edilə bilər?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "Gəminin həyəcan xəbərdaretmə sisteminin işə salınma düymələrinin yerləşməsi və işə salınma proseduru",
-        "D": "lövbər dayanacağı sahəsində"
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "Gəminin həyəcan xəbərdaretmə sisteminin işə salınma düymələrinin yerləşməsi və işə salınma proseduru",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "şimal-şərq istiqamətində"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q036",
       "question": "36. Aşağıda sadalananlardan hansı mühafizə üzrə məxfi məlumatlara aid edilə bilər?",
       "options": {
-        "A": "əminin mühafizəsi üzrə keçirilən məşğələlər, məşqlər və təlimlər",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
         "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "D": "əminin mühafizəsi üzrə keçirilən məşğələlər, məşqlər və təlimlər"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q037",
       "question": "37. Aşağıda sadalananlardan hansı mühafizə üzrə məxfi məlumatlara aid edilə bilər?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "Mühafizə səviyyələri üzrə həyata keçirilən tədbirlər"
+        "A": "Mühafizə səviyyələri üzrə həyata keçirilən tədbirlər",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "şimal-şərq istiqamətində"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q038",
       "question": "38. Gəmiyə silahlı basqın zamanı gəmi həyəcan xəbərdaretmə sistemini işə salmaq üçün heyətin istənilən üzvü kapitandan icazə almalıdırmı?",
       "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "A": "İcazə almadan sistemi işə salmadır",
         "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "İcazə almadan sistemi işə salmadır",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -438,20 +438,20 @@
       "question": "39. Gəmidə qeyri-leqal sərnişinlərin olma əlamətləri aşkar edilərkən gəmidə hansı tədbir görülməlidir?",
       "options": {
         "A": "50 metr məsafədə dənizdə",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "Gəmiyə baxış keçirilməlidir",
+        "B": "Gəmiyə baxış keçirilməlidir",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "D": "gəmi limana daxil olana qədər"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q040",
       "question": "40. Gəminin mühafizə səviyyəsi dəyişdirilərkən gəmidə hansı tədbir görülməlidir?",
       "options": {
-        "A": "bütün cavablar doğrudur",
+        "A": "əllə idarəetmə rejiminə keçdikdə",
         "B": "Gəmiyə baxış keçirilməlidir",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "bütün cavablar doğrudur",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
       "correct_answer": "B",
@@ -461,70 +461,70 @@
       "id": "q041",
       "question": "41. Gəminin mühafizəsini şərh edən beynəlxalq sənəd necə adlanır?",
       "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "bütün cavablar doğrudur",
-        "D": "Gəmi və liman vasitələrinin mühafizəsi üzrə Beynəlxalq Məcəllə"
+        "A": "bütün cavablar doğrudur",
+        "B": "Gəmi və liman vasitələrinin mühafizəsi üzrə Beynəlxalq Məcəllə",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q042",
       "question": "42. Gəminin mühafizəsini şərh edən beynəlxalq sənəd necə adlanır?",
       "options": {
-        "A": "bütün cavablar doğrudur",
+        "A": "Beynəlxalq konvensiya SOLAS – 74/78",
         "B": "şimal-şərq istiqamətində",
-        "C": "Beynəlxalq konvensiya SOLAS – 74/78",
-        "D": "avtomatik rejimdə işləyərkən"
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q043",
       "question": "43. Gəmidə mühafizə məsələlərini həll etmək üçün təyin olunmuş şəxs necə adlanır?",
       "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "avtomatik rejimdə işləyərkən",
-        "C": "Gəminin mühafizəyə məsul şəxsi",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "Gəminin mühafizəyə məsul şəxsi",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q044",
       "question": "44. Şirkətdə mühafizə məsələlərini həll etmək üçün təyin olunmuş şəxs necə adlanır?",
       "options": {
-        "A": "bütün cavablar doğrudur",
+        "A": "Şirkətin mühafizəyə məsul şəxsi",
         "B": "bütün cavablar yanlışdır",
-        "C": "Şirkətin mühafizəyə məsul şəxsi",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q045",
       "question": "45. Müşahidə aparmaq üçün texniki mühafizə avadanlığına aşağıda göstərilənlərdən hansı aid edilə bilər?",
       "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "Videokameralar və monitorlar",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "50 metr məsafədə dənizdə"
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "bütün cavablar yanlışdır",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "Videokameralar və monitorlar"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q046",
       "question": "46. Müşahidə aparmaq üçün texniki mühafizə avadanlığına aşağıda göstərilənlərdən hansı aid edilə bilər?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "10 uzel sürətlə manevr etdikdə",
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "bütün cavablar doğrudur",
         "C": "Otaqlara icazəsiz daxil olma barədə kapitan körpüsünə (gəmidə müəyyən edilmiş digər yerə) siqnal ötürən vericilər",
-        "D": "bütün cavablar doğrudur"
+        "D": "şimal-şərq istiqamətində"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -535,31 +535,31 @@
       "options": {
         "A": "əllə idarəetmə rejiminə keçdikdə",
         "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "Gəmi həyəcan xəbərdaretmə sistemi ilə"
+        "C": "Gəmi həyəcan xəbərdaretmə sistemi ilə",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q048",
       "question": "48. Telefonla gəmiyə təhdid olarkən, təhdidin məzmununu və danışıq tərzini maksimal olaraq yadda saxlamaq lazımdırmı?",
       "options": {
-        "A": "Bəli",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "Bəli"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q049",
       "question": "49. Rəsmi şəxslər üçün gəmiyə giriş üzrə nəzarət tədbirlərinin yerinə yetirilməsi tələb edilirmi?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "A": "gəmi limana daxil olana qədər",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "D": "Bəli"
       },
       "correct_answer": "D",
@@ -569,12 +569,12 @@
       "id": "q050",
       "question": "50. Gəmidə həyata keçirilən mühafizə tədbirlərini təsvir edən sənəd necə adlanır?",
       "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "Gəminin mühafizə planı",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "A": "Gəminin mühafizə planı",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -582,9 +582,9 @@
       "question": "51. Gəmi və liman vasitələrinin mühafizəsi üzrə Beynəlxalq Məcəllənin (GLVM BM ) B hissəsinin tələbləri yerinə yetirmək:",
       "options": {
         "A": "Əgər A hissəsində göstəriş varsa, mütləqdir",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "gəmi limana daxil olana qədər"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -593,46 +593,46 @@
       "id": "q052",
       "question": "52. Gəminin texniki mühafizə vasitələri GHXS (gəmi həyəcan xəbərdaretmə sistemi) nə etməlidir?",
       "options": {
-        "A": "Gəmi-sahil istiqamətində gəminin mühafizəsinin pozulması haqqında xəbərdaretmə formalaşdırmalı və ötürməlidir",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "Gəmi-sahil istiqamətində gəminin mühafizəsinin pozulması haqqında xəbərdaretmə formalaşdırmalı və ötürməlidir",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q053",
       "question": "53. Gəmi təlimləri keçirilməlidir:",
       "options": {
-        "A": "gəmi limana daxil olana qədər",
+        "A": "Heyətin 25%-dən çoxu eyni vaxtda əvəzləndiyi zaman, son üç ay ərzində bu təlimlərdə iştirak etməyənlər",
         "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "Heyətin 25%-dən çoxu eyni vaxtda əvəzləndiyi zaman, son üç ay ərzində bu təlimlərdə iştirak etməyənlər",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "gəmi limana daxil olana qədər"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q054",
       "question": "54. Girişə nəzarət və onun idarəetmə sisteminin funksional effektivliyi nə ilə ölçülür?",
       "options": {
-        "A": "Buraxma qabiliyyəti və səhvlərin tezliyi ilə",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "bütün cavablar yanlışdır",
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "bütün cavablar yanlışdır",
+        "C": "Buraxma qabiliyyəti və səhvlərin tezliyi ilə",
         "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q055",
       "question": "55. Gəmi tarixinin fasiləsiz qeydiyyat jurnalı:",
       "options": {
-        "A": "gəmi limana daxil olana qədər",
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "Gəmidə saxlanılmalı və istənilən vaxt yoxlama üçün əl çatan olmalıdır",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "C": "gəmi limana daxil olana qədər",
+        "D": "lövbər dayanacağı sahəsində"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -641,48 +641,48 @@
       "id": "q056",
       "question": "56. Gəmi həyəcan xəbərdaretmə sistemində onun iş qabiliyyətinin yoxlanılması nəzərdə tutulubmu?",
       "options": {
-        "A": "Nəzərdə tutulub",
-        "B": "avtomatik rejimdə işləyərkən",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "şimal-şərq istiqamətində"
+        "A": "şimal-şərq istiqamətində",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "Nəzərdə tutulub"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q057",
       "question": "57. Lövbərdə dayanan zaman günün qaranlıq dövründə gəmi əmlakının oğurlanmasının qarşısı hansı tədbirlə alına bilər?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "Günün qaranlıq vaxtında göyərtədə növbə çəkmə xidməti təşkil etməklə",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "Günün qaranlıq vaxtında göyərtədə növbə çəkmə xidməti təşkil etməklə",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q058",
       "question": "58. Məşğələ və təlim və haqqında qeydlər icazəsiz müdaxilədən qorunmalıdır ifadəsi düzdürmü?",
       "options": {
-        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "Bəli",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
+        "A": "Bəli",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "lövbər dayanacağı sahəsində"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q059",
       "question": "59. Gəminin mühafizəsinin təmin edilməsi üzrə məşqlər hansı dövrdən bir keçirilir?",
       "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "3 aydan bir"
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "3 aydan bir",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -690,11 +690,11 @@
       "question": "5. Yaxalama.",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "2, 3, 4",
-        "C": "bütün cavablar doğrudur",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "2, 3, 4",
+        "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -713,10 +713,10 @@
       "id": "q062",
       "question": "62. Gəminin mühafizə təhlükəsizliyi üzrə ən böyük məsuliyyəti kim daşıyır?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "A": "şimal-şərq istiqamətində",
         "B": "cənub-qərb dreyfi zamanı",
         "C": "Gəmi kapitanı",
-        "D": "şimal-şərq istiqamətində"
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -726,81 +726,81 @@
       "question": "63. Gəminin mühafizə planı üzrə müəyyən edilmiş vəzifələrə malik şəxslər hansı biliklərə malik olmalıdırlar?",
       "options": {
         "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "Təhdidin müasir növləri və onun variantları üzrə",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "bütün cavablar yanlışdır"
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "bütün cavablar yanlışdır",
+        "D": "Təhdidin müasir növləri və onun variantları üzrə"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q064",
       "question": "64. Gəminin mühafizə planı üzrə müəyyən edilmiş vəzifələrə malik şəxslər hansı biliklərə malik olmalıdırlar?",
       "options": {
-        "A": "Mühafizə qabiliyyətinə təhdid yarada biləcək şəxslərin səciyyəvi davranış əlamətləri və tipləri üzrə",
+        "A": "cənub-qərb dreyfi zamanı",
         "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "50 metr məsafədə dənizdə",
-        "D": "cənub-qərb dreyfi zamanı"
+        "C": "Mühafizə qabiliyyətinə təhdid yarada biləcək şəxslərin səciyyəvi davranış əlamətləri və tipləri üzrə",
+        "D": "50 metr məsafədə dənizdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q065",
       "question": "65. Gəminin mühafizə planı üzrə müəyyən edilmiş vəzifələrə malik şəxslər hansı biliklərə malik olmalıdırlar?",
       "options": {
-        "A": "Mühafizə tədbirlərindən yayınmaq üçün tətbiq edilən hiylələr üzrə",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "Mühafizə tədbirlərindən yayınmaq üçün tətbiq edilən hiylələr üzrə"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q066",
       "question": "66. Gəminin mühafizə planı üzrə müəyyən edilmiş vəzifələrə malik şəxslər hansı biliklərə malik olmalıdırlar?",
       "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "bütün cavablar doğrudur",
-        "C": "İnsan kütlələri ilə davranış və onları idarəetmə üsulları üzrə",
+        "A": "İnsan kütlələri ilə davranış və onları idarəetmə üsulları üzrə",
+        "B": "bütün cavablar yanlışdır",
+        "C": "bütün cavablar doğrudur",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q067",
       "question": "67. Gəminin mühafizə planı üzrə müəyyən edilmiş vəzifələrə malik şəxslər hansı biliklərə malik olmalıdırlar?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "Mühafizəyə aid rabitə üzrə",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
+        "A": "Mühafizəyə aid rabitə üzrə",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q068",
       "question": "68. Gəminin mühafizə planı üzrə müəyyən edilmiş vəzifələrə malik şəxslər hansı biliklərə malik olmalıdırlar?",
       "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "Fövqəladə hallara reaksiya vermə qaydası və proqnozlaşdırılmış vəziyyətlərdə fəaliyyət planları üzrə",
+        "A": "hər 6 aydan bir keçirilən təlimlərdə",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "D": "Fövqəladə hallara reaksiya vermə qaydası və proqnozlaşdırılmış vəziyyətlərdə fəaliyyət planları üzrə"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q069",
       "question": "69. Gəminin mühafizə planı üzrə müəyyən edilmiş vəzifələrə malik şəxslər hansı biliklərə malik olmalıdırlar?",
       "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
         "B": "şimal-şərq istiqamətində",
         "C": "Mühafizə avadanlığı və sistemlərinin istismarı üzrə",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -809,32 +809,32 @@
       "id": "q070",
       "question": "70. Gəminin mühafizə planı üzrə müəyyən edilmiş vəzifələrə malik şəxslər hansı biliklərə malik olmalıdırlar?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "Mühafizə sistem və avadanlığının sınaqları, kalibrlənməsi və dənizdə olarkən texniki xidməti üzrə",
+        "A": "Mühafizə sistem və avadanlığının sınaqları, kalibrlənməsi və dənizdə olarkən texniki xidməti üzrə",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
         "C": "şimal-şərq istiqamətində",
         "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q071",
       "question": "71. Gəminin mühafizə planı üzrə müəyyən edilmiş vəzifələrə malik şəxslər hansı biliklərə malik olmalıdırlar?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "Yoxlamalar, nəzarət etmə və şəraitə dair müşahidə aparma üsulları üzrə",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "Yoxlamalar, nəzarət etmə və şəraitə dair müşahidə aparma üsulları üzrə",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q072",
       "question": "72. Gəminin mühafizə planı üzrə müəyyən edilmiş vəzifələrə malik şəxslər hansı biliklərə malik olmalıdırlar?",
       "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "cənub-qərb dreyfi zamanı",
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "10 uzel sürətlə manevr etdikdə",
         "C": "gəmi limana daxil olana qədər",
         "D": "İnsanlara, şəxsi əşyalara, baqaja, yükə və gəmi ehtiyatlarına kontakt baxış metodları üzrə"
       },
@@ -845,20 +845,20 @@
       "id": "q005",
       "question": "5. Müntəzəm",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "1, 3, 4",
-        "C": "bütün cavablar doğrudur",
+        "A": "bütün cavablar doğrudur",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "1, 3, 4",
         "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q074",
       "question": "74. Gəminin mühafizəsi üzrə təlimlər hansı aralıqlarla keçirilməlidir?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "A": "hər 6 aydan bir keçirilən təlimlərdə",
+        "B": "gərginlik 220 V həddinə çatdıqda",
         "C": "12 ayda 1 dəfə",
         "D": "lövbər dayanacağı sahəsində"
       },
@@ -869,12 +869,12 @@
       "id": "q075",
       "question": "75. Gəmiyə girişə nəzarət edən növbə çəkən heyət üzvü gəminin hansı jurnalında qeydlər aparmalıdır?",
       "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "Gələnlər jurnalında",
-        "D": "50 metr məsafədə dənizdə"
+        "A": "Gələnlər jurnalında",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "bütün cavablar doğrudur",
+        "D": "lövbər dayanacağı sahəsində"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     }
   ]

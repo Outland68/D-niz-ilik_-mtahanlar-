@@ -5,24 +5,24 @@
       "id": "q001",
       "question": "MARPOL 73/78 Konvensiyasının I Əlavəsi hansı maddənin dənizə boşaldılmasını tənzimləyir?",
       "options": {
-        "A": "Tullantı sular",
-        "B": "Neft və neft məhsulları",
-        "C": "Zibil",
+        "A": "Neft və neft məhsulları",
+        "B": "Zibil",
+        "C": "Tullantı sular",
         "D": "Zərərli maye maddələr"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "MARPOL I Əlavə — Neft çirkliyi qarşısının alınması qaydalarını tənzimləyir."
     },
     {
       "id": "q002",
       "question": "MARPOL-a görə, xüsusi sahələrdə gəmilərin neft tullantıları üçün icazə verilən hədd nədir?",
       "options": {
-        "A": "15 ppm",
-        "B": "100 ppm",
-        "C": "0 ppm (tam qadağa)",
-        "D": "50 ppm"
+        "A": "100 ppm",
+        "B": "0 ppm (tam qadağa)",
+        "C": "50 ppm",
+        "D": "15 ppm"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Xüsusi sahələrdə (məs. Aralıq Dənizi) neft tullantısı tamamilə qadağandır."
     }
   ]

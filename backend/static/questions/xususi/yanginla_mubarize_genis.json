@@ -6,23 +6,23 @@
       "question": "Hansı səbəbdən gəmidə yanğın baş verə bilər?",
       "options": {
         "A": "Gəmi çox sürətlə hərəkət etdikdə",
-        "B": "Pis hava şəraitində",
-        "C": "Yükün düzgün bağlanmaması nəticəsində",
-        "D": "Təhlükəsizlik qaydalarına əməl etmədikdə"
+        "B": "Yükün düzgün bağlanmaması nəticəsində",
+        "C": "Təhlükəsizlik qaydalarına əməl etmədikdə",
+        "D": "Pis hava şəraitində"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q002",
       "question": "Maşın bölməsi qrupuna kim rəhbərlik edir?",
       "options": {
-        "A": "Baş köməkçi",
+        "A": "Baş mexanik",
         "B": "2-ci mexanik",
-        "C": "Baş mexanik",
-        "D": "Kapitan"
+        "C": "Kapitan",
+        "D": "Baş köməkçi"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -30,11 +30,11 @@
       "question": "Yanğınsöndürmə zamanı hansı faktor insan həyatına təhlükə yaradır?",
       "options": {
         "A": "Aşağı təzyiq",
-        "B": "Küləyin istiqaməti",
-        "C": "Yüksək rütubət",
-        "D": "Yüksək istilik"
+        "B": "Yüksək rütubət",
+        "C": "Yüksək istilik",
+        "D": "Küləyin istiqaməti"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -42,9 +42,9 @@
       "question": "Yanğın zamanı insan həyatına təhlükə yaradan faktor hansıdır?",
       "options": {
         "A": "Suyun temperaturu",
-        "B": "Gəminin tərpənməsi",
+        "B": "Elektrik naqillərinin rəngi",
         "C": "Yanğından ayrılan qazlar",
-        "D": "Elektrik naqillərinin rəngi"
+        "D": "Gəminin tərpənməsi"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -65,48 +65,48 @@
       "id": "q006",
       "question": "Yanğının təhlükəli faktoru hansıdır?",
       "options": {
-        "A": "Külək, yağış, dalğa",
-        "B": "Təzyiq, temperatur, sürət",
-        "C": "Səs-küy, işıq, rütubət",
-        "D": "Alov, istilik, tüstü"
+        "A": "Təzyiq, temperatur, sürət",
+        "B": "Səs-küy, işıq, rütubət",
+        "C": "Alov, istilik, tüstü",
+        "D": "Külək, yağış, dalğa"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q007",
       "question": "Yanğına qarşı təhlükəsizlik tədbirləri hansı gəmilərə şamil olunur?",
       "options": {
-        "A": "Yalnız yük gəmilərinə",
-        "B": "Yalnız hərbi gəmilərə",
-        "C": "Bütün gəmilərə",
-        "D": "Yalnız sərnişin gəmilərinə"
+        "A": "Bütün gəmilərə",
+        "B": "Yalnız sərnişin gəmilərinə",
+        "C": "Yalnız hərbi gəmilərə",
+        "D": "Yalnız yük gəmilərinə"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q008",
       "question": "Maşın bölməsində yanğının söndürülməsini kim idarə edir?",
       "options": {
-        "A": "Baş mexanik",
-        "B": "Baş köməkçi",
-        "C": "2-ci mexanik",
+        "A": "2-ci mexanik",
+        "B": "Baş mexanik",
+        "C": "Baş köməkçi",
         "D": "Kapitan"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q009",
       "question": "“Yanğınsöndürmənin əməliyyat taktiki planı” kimin üçün əsas sənəddir?",
       "options": {
-        "A": "Qəza partiyasının komandiri üçün",
-        "B": "Baş mexanik üçün",
-        "C": "Kapitan üçün",
-        "D": "Bütün heyət üçün"
+        "A": "Bütün heyət üçün",
+        "B": "Kapitan üçün",
+        "C": "Baş mexanik üçün",
+        "D": "Qəza partiyasının komandiri üçün"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -114,35 +114,35 @@
       "question": "A sinif yanğınlar hansılardır?",
       "options": {
         "A": "Yanar qazlar",
-        "B": "Metallar",
-        "C": "Bərk materiallar",
-        "D": "Yanar mayelər"
+        "B": "Yanar mayelər",
+        "C": "Metallar",
+        "D": "Bərk materiallar"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q011",
       "question": "B sinif yanğınlar hansılardır?",
       "options": {
-        "A": "Yanar qazlar",
-        "B": "Bərk materiallar",
+        "A": "Yanar mayelər",
+        "B": "Yanar qazlar",
         "C": "Elektrik avadanlıqları",
-        "D": "Yanar mayelər"
+        "D": "Bərk materiallar"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q012",
       "question": "C sinif yanğınlar hansılardır?",
       "options": {
-        "A": "Metal tozları",
-        "B": "Yanar mayelər",
-        "C": "Bərk materiallar",
-        "D": "Yanar qazlar"
+        "A": "Bərk materiallar",
+        "B": "Metal tozları",
+        "C": "Yanar qazlar",
+        "D": "Yanar mayelər"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -150,47 +150,47 @@
       "question": "D sinif yanğınlar hansılardır?",
       "options": {
         "A": "Elektrik avadanlıqları",
-        "B": "Bərk materiallar",
-        "C": "Metallar və metal tozları",
+        "B": "Metallar və metal tozları",
+        "C": "Bərk materiallar",
         "D": "Yanar qazlar"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q014",
       "question": "E sinif yanğınlar hansılardır?",
       "options": {
-        "A": "Yanar mayelər",
-        "B": "Metallar",
-        "C": "Bərk materiallar",
-        "D": "Elektrik avadanlıqlarının yanması"
+        "A": "Bərk materiallar",
+        "B": "Elektrik avadanlıqlarının yanması",
+        "C": "Yanar mayelər",
+        "D": "Metallar"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q015",
       "question": "“Yanğın” nədir?",
       "options": {
-        "A": "Maddi ziyan vuran nəzarətsiz yanmadır",
+        "A": "İstilik ayıran kimyəvi reaksiyadır",
         "B": "Nəzarət altında aparılan yanma prosesidir",
-        "C": "İstilik ayıran kimyəvi reaksiyadır",
+        "C": "Maddi ziyan vuran nəzarətsiz yanmadır",
         "D": "Yalnız tüstü əmələ gətirən prosesdir"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q016",
       "question": "Anbarda taxta yanır. Bu hansı sinif yanğındır?",
       "options": {
-        "A": "D sinif",
-        "B": "A sinif",
-        "C": "C sinif",
-        "D": "B sinif"
+        "A": "C sinif",
+        "B": "B sinif",
+        "C": "A sinif",
+        "D": "D sinif"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -198,11 +198,11 @@
       "question": "Göyərtədə neft məhsulu yanır. Bu hansı sinif yanğındır?",
       "options": {
         "A": "A sinif",
-        "B": "E sinif",
-        "C": "C sinif",
-        "D": "B sinif"
+        "B": "C sinif",
+        "C": "B sinif",
+        "D": "E sinif"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -210,11 +210,11 @@
       "question": "Bütün maddələr neçə aqreqat halında olur?",
       "options": {
         "A": "2",
-        "B": "5",
-        "C": "4",
-        "D": "3"
+        "B": "3",
+        "C": "5",
+        "D": "4"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -223,22 +223,22 @@
       "options": {
         "A": "karbon qazı ilə",
         "B": "yalnız su ilə",
-        "C": "yalnız köpüklə",
-        "D": "köpük və su eyni vaxtda olmamaq şərti ilə"
+        "C": "köpük və su eyni vaxtda olmamaq şərti ilə",
+        "D": "yalnız köpüklə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q020",
       "question": "Neçə cür su şırnağı növu var?",
       "options": {
-        "A": "3 cür",
-        "B": "2 cür",
-        "C": "4 cür",
-        "D": "5 cür"
+        "A": "5 cür",
+        "B": "3 cür",
+        "C": "2 cür",
+        "D": "4 cür"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -247,8 +247,8 @@
       "options": {
         "A": "oksigen, istilik, yanar maddə",
         "B": "təzyiq, temperatur, rütubət",
-        "C": "tüstü, alov, qaz",
-        "D": "su, hava, torpaq"
+        "C": "su, hava, torpaq",
+        "D": "tüstü, alov, qaz"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -258,9 +258,9 @@
       "question": "Su ilə yanğının söndürülməsi zamanı nəyi nəzərə almaq lazımdır?",
       "options": {
         "A": "Suyun gəminin dayanıqlığına olan təsirini",
-        "B": "Suyun mənbəyini",
+        "B": "Suyun temperaturunu",
         "C": "Suyun rəngini",
-        "D": "Suyun temperaturunu"
+        "D": "Suyun mənbəyini"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -269,36 +269,36 @@
       "id": "q023",
       "question": "Gəmidə yanğınla mübarizə üzrə əməliyyat planı neçə yanğın mənbəyinə əsaslanaraq tərtib olunur?",
       "options": {
-        "A": "iki yanğın mənbəyinə görə",
-        "B": "bütün mənbələrə görə",
-        "C": "üç yanğın mənbəyinə görə",
-        "D": "bir yanğın mənbəyinə görə"
+        "A": "bütün mənbələrə görə",
+        "B": "üç yanğın mənbəyinə görə",
+        "C": "bir yanğın mənbəyinə görə",
+        "D": "iki yanğın mənbəyinə görə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q024",
       "question": "Əgər gəmi daxili sularda üzürsə yanğınsöndürmənin “Əməliyyat-taktiki xəritəsi” hansı dildə tərtib olunur?",
       "options": {
-        "A": "yalnız rus",
-        "B": "işçi və ingilis",
-        "C": "işçi və rus",
-        "D": "yalnız ingilis"
+        "A": "işçi və ingilis",
+        "B": "işçi və rus",
+        "C": "yalnız ingilis",
+        "D": "yalnız rus"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q025",
       "question": "Əl yanğın lülələri ilə iş əsas neçə vəziyyətdə yerinə yetirilir?",
       "options": {
-        "A": "4",
-        "B": "3",
-        "C": "2",
-        "D": "5"
+        "A": "5",
+        "B": "2",
+        "C": "3",
+        "D": "4"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -306,9 +306,9 @@
       "question": "Qapalı yerlərdə yanğının baş verməsi üçün havada oksigenin miqdarı minimum nə qədər olmalıdır?",
       "options": {
         "A": "10%",
-        "B": "25%",
+        "B": "21%",
         "C": "16%",
-        "D": "21%"
+        "D": "25%"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -317,9 +317,9 @@
       "id": "q027",
       "question": "Hansı yanğın köpüklə söndürülmür?",
       "options": {
-        "A": "Neft məhsulları",
+        "A": "Bərk materiallar",
         "B": "Yanar mayelər",
-        "C": "Bərk materiallar",
+        "C": "Neft məhsulları",
         "D": "Yanar metallar"
       },
       "correct_answer": "D",
@@ -329,12 +329,12 @@
       "id": "q028",
       "question": "Hansı yanğını köpüklə söndürmək qadağandır?",
       "options": {
-        "A": "Taxta materialları",
-        "B": "Kağız materiallarını",
-        "C": "Gərginlik altında olan elektrik avadanlıqlarını",
-        "D": "Neft məhsullarını"
+        "A": "Neft məhsullarını",
+        "B": "Gərginlik altında olan elektrik avadanlıqlarını",
+        "C": "Kağız materiallarını",
+        "D": "Taxta materialları"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -342,47 +342,47 @@
       "question": "Yanan partlayıcı maddələr nə ilə söndürülməlidir?",
       "options": {
         "A": "toz ilə",
-        "B": "yalnız köpüklə",
-        "C": "yalnız su ilə",
+        "B": "yalnız su ilə",
+        "C": "yalnız köpüklə",
         "D": "karbon qazı ilə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q030",
       "question": "Yanğın zamanı yığılmış su nə vaxt xaric edilir?",
       "options": {
-        "A": "yanğının söndürülməsi ilə eyni vaxtda",
-        "B": "yanğın söndürüldükdən sonra",
+        "A": "yanğın söndürüldükdən sonra",
+        "B": "heç vaxt",
         "C": "yanğın başlamazdan əvvəl",
-        "D": "heç vaxt"
+        "D": "yanğının söndürülməsi ilə eyni vaxtda"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q031",
       "question": "Rəhbər heyətin yanğının söndürülməsi üzrə iş fəaliyyəti neçə əsas mərhələdən ibarətdir?",
       "options": {
-        "A": "4",
-        "B": "2",
-        "C": "5",
-        "D": "3"
+        "A": "5",
+        "B": "3",
+        "C": "2",
+        "D": "4"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q032",
       "question": "Şəxsi heyətin yanğınla mübarizəsinə biləvasitə kim rəhbərlik edir?",
       "options": {
-        "A": "Kapitanın baş köməkçisi",
-        "B": "2-ci mexanik",
-        "C": "Baş mexanik",
-        "D": "Kapitan"
+        "A": "Baş mexanik",
+        "B": "Kapitanın baş köməkçisi",
+        "C": "Kapitan",
+        "D": "2-ci mexanik"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -390,9 +390,9 @@
       "question": "Yanğınla uğurlu mübarizənin şərtləri hansılardır?",
       "options": {
         "A": "vəziyyəti düzgün qiymətləndirmək, müvafiq qərarın qəbul edilməsi",
-        "B": "yalnız sürətli hərəkət etmək",
+        "B": "yalnız suyu tez tökmək",
         "C": "yalnız kapitanı gözləmək",
-        "D": "yalnız suyu tez tökmək"
+        "D": "yalnız sürətli hərəkət etmək"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -401,10 +401,10 @@
       "id": "q034",
       "question": "“Yanğınsöndürmənin əməliyyat-taktiki planı” nə üçün istifadə edilir?",
       "options": {
-        "A": "Yükün siyahısını aparmaq üçün",
-        "B": "Heyətin əmək haqqını hesablamaq üçün",
+        "A": "Gəminin marşrutunu təyin etmək üçün",
+        "B": "Yükün siyahısını aparmaq üçün",
         "C": "Baş komanda məntəqəsindən heyəti idarə etmək üçün",
-        "D": "Gəminin marşrutunu təyin etmək üçün"
+        "D": "Heyətin əmək haqqını hesablamaq üçün"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -413,34 +413,34 @@
       "id": "q035",
       "question": "Yanğını söndürərkən hansı maddə gəminin dayanıqlığına təsir edir?",
       "options": {
-        "A": "Köpük",
-        "B": "Karbon qazı",
-        "C": "Su",
-        "D": "Toz"
+        "A": "Su",
+        "B": "Köpük",
+        "C": "Toz",
+        "D": "Karbon qazı"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q036",
       "question": "Açıq göyərtədə yanğın zamanı gəmini necə döndərmək lazımdır?",
       "options": {
-        "A": "küləyin əksinə döndərmək lazımdır",
-        "B": "sahilə tərəf döndərmək lazımdır",
-        "C": "dayanmaq lazımdır, dönmək olmaz",
-        "D": "elə döndərmək lazımdır ki, alov təhlükəli yük və materialdan əks tərəfə yönəlsin"
+        "A": "dayanmaq lazımdır, dönmək olmaz",
+        "B": "küləyin əksinə döndərmək lazımdır",
+        "C": "elə döndərmək lazımdır ki, alov təhlükəli yük və materialdan əks tərəfə yönəlsin",
+        "D": "sahilə tərəf döndərmək lazımdır"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q037",
       "question": "Yanğına qarşı mübarizə əməliyyatlarında ən mühüm əhəmiyyət kəsb edir:",
       "options": {
-        "A": "yükün xilas edilməsi",
+        "A": "sənədlərin qorunması",
         "B": "insanların xilas edilməsi",
-        "C": "gəminin sürətinin artırılması",
-        "D": "sənədlərin qorunması"
+        "C": "yükün xilas edilməsi",
+        "D": "gəminin sürətinin artırılması"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -449,36 +449,36 @@
       "id": "q038",
       "question": "Həcmli yanğınsöndürmə sisteminin işə salınması zamanı hansı tələblər yerinə yetirilməlidir?",
       "options": {
-        "A": "qəza bölməsində heyəti yığıb təlimatlandırmaq",
-        "B": "bölməni açıq saxlamaq",
-        "C": "bölmədə heyəti saxlamaq",
-        "D": "havalandırmanı işə salmaq"
+        "A": "havalandırmanı işə salmaq",
+        "B": "bölmədə heyəti saxlamaq",
+        "C": "bölməni açıq saxlamaq",
+        "D": "qəza bölməsində heyəti yığıb təlimatlandırmaq"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q039",
       "question": "Bölmədən karbon qazını tam çıxarmaq üçün bölməni neçə dəqiqə havalandırmaq lazımdır?",
       "options": {
-        "A": "10 dəqiqə",
-        "B": "30 dəqiqə",
-        "C": "15 dəqiqə",
-        "D": "60 dəqiqə"
+        "A": "15 dəqiqə",
+        "B": "60 dəqiqə",
+        "C": "30 dəqiqə",
+        "D": "10 dəqiqə"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q040",
       "question": "Yanğınsöndürmədə hansı qazdan istifadə edilir?",
       "options": {
-        "A": "Hidrogen",
+        "A": "Azot",
         "B": "Oksigen",
-        "C": "Azot",
-        "D": "Karbon qazı"
+        "C": "Karbon qazı",
+        "D": "Hidrogen"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -486,32 +486,32 @@
       "question": "Quru yük bölməsində yanğın karbon qazı ilə söndürülübsə bölmənin açılmasına nə vaxt icazə verilir?",
       "options": {
         "A": "kapitanın istənilən vaxt icazəsi ilə",
-        "B": "dərhal",
-        "C": "limana gəldikdən sonra",
+        "B": "limana gəldikdən sonra",
+        "C": "dərhal",
         "D": "1 saat sonra"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q042",
       "question": "Həcmli kimyəvi yanğınsöndürmə sisteminin qoşulması əmrini kim verir?",
       "options": {
-        "A": "2-ci mexanik",
-        "B": "Baş mexanik",
-        "C": "Kapitan",
-        "D": "Qəza partiyasının komandiri"
+        "A": "Kapitan",
+        "B": "Qəza partiyasının komandiri",
+        "C": "Baş mexanik",
+        "D": "2-ci mexanik"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q043",
       "question": "Nə zaman havalandırma sistemini işlətmək qadağandır?",
       "options": {
-        "A": "Həmişə qadağandır",
-        "B": "Yanğın kəşfiyyatı zamanı",
-        "C": "Su ilə söndürmə zamanı",
+        "A": "Su ilə söndürmə zamanı",
+        "B": "Həmişə qadağandır",
+        "C": "Yanğın kəşfiyyatı zamanı",
         "D": "Həcmli yanğınsöndürmə zamanı"
       },
       "correct_answer": "D",
@@ -521,33 +521,33 @@
       "id": "q044",
       "question": "Gəminin hansı hissəsində siqaret çəkməyə icazə verilir?",
       "options": {
-        "A": "Yalnız kayutlarda",
-        "B": "Təyin olunmuş yerdə",
-        "C": "Yalnız göyərtədə",
-        "D": "İstənilən yerdə"
+        "A": "Yalnız göyərtədə",
+        "B": "İstənilən yerdə",
+        "C": "Yalnız kayutlarda",
+        "D": "Təyin olunmuş yerdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q045",
       "question": "Yanğının karbon qazı ilə söndürülməsinin effektivliyi nə ilə bağlıdır?",
       "options": {
-        "A": "havanın temperaturu ilə",
-        "B": "sahələrin qapalı olması ilə",
-        "C": "gəminin sürəti ilə",
-        "D": "küləyin sürəti ilə"
+        "A": "sahələrin qapalı olması ilə",
+        "B": "küləyin sürəti ilə",
+        "C": "havanın temperaturu ilə",
+        "D": "gəminin sürəti ilə"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q046",
       "question": "Sprinkler stasionar yanğınsödürmə sistemi nə zaman işə düşür?",
       "options": {
-        "A": "Kapitan əmr verdikdə",
+        "A": "Gəmi lövbər saldıqda",
         "B": "Temperatur yüksəldikdə",
-        "C": "Gəmi lövbər saldıqda",
+        "C": "Kapitan əmr verdikdə",
         "D": "Tüstü yarandıqda"
       },
       "correct_answer": "B",
@@ -557,45 +557,45 @@
       "id": "q047",
       "question": "Sprinkler stasionar yanğınsöndürmə sisteminin qoşulması əmrini kim verir?",
       "options": {
-        "A": "2-ci mexanik verir",
-        "B": "Kapitan verir",
-        "C": "Baş mexanik verir",
-        "D": "Avtomatik işə düşür"
+        "A": "Kapitan verir",
+        "B": "Avtomatik işə düşür",
+        "C": "2-ci mexanik verir",
+        "D": "Baş mexanik verir"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q048",
       "question": "Qığılcımsöndürmə sistemi gəminin hansı sistemində olur?",
       "options": {
-        "A": "Su təchizatı sistemində",
-        "B": "Elektrik sistemində",
-        "C": "Qazxaricedici sistemində",
+        "A": "Elektrik sistemində",
+        "B": "Qazxaricedici sistemində",
+        "C": "Su təchizatı sistemində",
         "D": "Havalandırma sistemində"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q049",
       "question": "Gəmidə suvarma sistemi nə üçün istifadə edilir?",
       "options": {
-        "A": "Yükü sərinlətmək üçün",
-        "B": "Gəmini istinin təsirindən qorumaq üçün",
-        "C": "Gəmini yumaq üçün",
-        "D": "İçməli su təmin etmək üçün"
+        "A": "Gəmini yumaq üçün",
+        "B": "İçməli su təmin etmək üçün",
+        "C": "Yükü sərinlətmək üçün",
+        "D": "Gəmini istinin təsirindən qorumaq üçün"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q050",
       "question": "Köpüklə söndürmə sistemi ən çox harada quraşdırılır?",
       "options": {
-        "A": "Kayutlarda",
-        "B": "Anbarlarda",
-        "C": "Göyərtədə",
+        "A": "Göyərtədə",
+        "B": "Kayutlarda",
+        "C": "Anbarlarda",
         "D": "Qazanxanalarda və maye yanacaq qurğularında"
       },
       "correct_answer": "D",
@@ -605,12 +605,12 @@
       "id": "q051",
       "question": "Köpüklü odsöndürənlərin tərkibinə görə neçə növü var?",
       "options": {
-        "A": "5",
-        "B": "2",
-        "C": "4",
-        "D": "3"
+        "A": "3",
+        "B": "4",
+        "C": "2",
+        "D": "5"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -629,24 +629,24 @@
       "id": "q053",
       "question": "Hansı odsöndürən balonlardan əlcəksiz istifadə etmək təhlükəlidir?",
       "options": {
-        "A": "Karbonlu (CO2)",
-        "B": "Sulu",
-        "C": "Tozlu",
-        "D": "Köpüklü"
+        "A": "Tozlu",
+        "B": "Karbonlu (CO2)",
+        "C": "Köpüklü",
+        "D": "Sulu"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q054",
       "question": "“SOLAS-74” Beynəlxalq Konvensiyasının tələblərinə görə yanğınsöndürmə vasitələrinin “Texniki xidmət və təmiri planı”nda hansı bənd öz əksini tapmır?",
       "options": {
-        "A": "təmir aparan işçilər haqqında məlumat",
-        "B": "avadanlığın siyahısı",
-        "C": "xidmət müddətləri",
-        "D": "yoxlama tarixləri"
+        "A": "avadanlığın siyahısı",
+        "B": "təmir aparan işçilər haqqında məlumat",
+        "C": "yoxlama tarixləri",
+        "D": "xidmət müddətləri"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -654,11 +654,11 @@
       "question": "Köpüklü odsöndürən balonların işləmə müddəti nə qədərdir?",
       "options": {
         "A": "2 dəqiqə",
-        "B": "1 dəqiqə",
-        "C": "5 dəqiqə",
+        "B": "5 dəqiqə",
+        "C": "1 dəqiqə",
         "D": "30 saniyə"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -666,8 +666,8 @@
       "question": "Kəşfiyyat qrupunun tərkibinə daxildir?",
       "options": {
         "A": "Başçı, başçının müavini, sığortalayıcı, rabitəçi",
-        "B": "Yalnız iki matros",
-        "C": "Yalnız kapitan və baş mexanik",
+        "B": "Yalnız kapitan və baş mexanik",
+        "C": "Yalnız iki matros",
         "D": "Yalnız həkim və mexanik"
       },
       "correct_answer": "A",
@@ -677,12 +677,12 @@
       "id": "q057",
       "question": "Yanğını kəşfiyyat edərkən hansı təhlükəsizlik qaydalarına riayət etmək lazımdır?",
       "options": {
-        "A": "Qapıları və pəncərələri ehtiyatla açmaq",
-        "B": "Qapıları sürətlə açmaq",
-        "C": "Bütün işıqları söndürmək",
-        "D": "Tənha hərəkət etmək"
+        "A": "Tənha hərəkət etmək",
+        "B": "Bütün işıqları söndürmək",
+        "C": "Qapıları sürətlə açmaq",
+        "D": "Qapıları və pəncərələri ehtiyatla açmaq"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -690,47 +690,47 @@
       "question": "Yanğını kəşfiyyat edərkən istinin təsirindən necə qorunmaq olar?",
       "options": {
         "A": "Köpük pərdəsinin köməyi ilə",
-        "B": "Toz pərdəsinin köməyi ilə",
-        "C": "Qoruyucu geyimsiz hərəkət edərək",
-        "D": "Su şırnağının yaratdığı pərdənin köməyi ilə"
+        "B": "Qoruyucu geyimsiz hərəkət edərək",
+        "C": "Su şırnağının yaratdığı pərdənin köməyi ilə",
+        "D": "Toz pərdəsinin köməyi ilə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q059",
       "question": "Yanğını kəşfiyyat edərkən hansı addımlarla hərəkət etmək lazımdır?",
       "options": {
-        "A": "Sıçrayışlarla hərəkət etmək",
+        "A": "Sürətli qaçaraq hərəkət etmək",
         "B": "Adi addımlarla hərəkət etmək",
-        "C": "Sürətli qaçaraq hərəkət etmək",
-        "D": "Ehtiyatlı sürüşən addımlarla hərəkət etmək"
+        "C": "Ehtiyatlı sürüşən addımlarla hərəkət etmək",
+        "D": "Sıçrayışlarla hərəkət etmək"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q060",
       "question": "Oda davamlı arakəsmələrin neçə tipi var?",
       "options": {
-        "A": "5",
-        "B": "3",
+        "A": "3",
+        "B": "5",
         "C": "4",
         "D": "2"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q061",
       "question": "Yanğın həyəcan siqnalı verilərkən hansı fəaliyyətləri yerinə yetirmək lazımdır?",
       "options": {
-        "A": "dərhal gəmini tərk etmək",
-        "B": "işi davam etdirmək",
-        "C": "kayutda gizlənmək",
-        "D": "işi dayandırmaq, qapıları örtüb toplantı məntəqəsinə getmək və növbəti komandanı gözləmək"
+        "A": "kayutda gizlənmək",
+        "B": "dərhal gəmini tərk etmək",
+        "C": "işi dayandırmaq, qapıları örtüb toplantı məntəqəsinə getmək və növbəti komandanı gözləmək",
+        "D": "işi davam etdirmək"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -738,35 +738,35 @@
       "question": "Bölmənin hermetikləşdirilməsi hansı həyəcan siqnalında həyata keçirilir?",
       "options": {
         "A": "Sükut siqnalında",
-        "B": "Adam suya düşdü siqnalında",
-        "C": "Ümumgəmi həyəcan siqnalında",
-        "D": "Yanğın kəşfiyyatı siqnalında"
+        "B": "Yanğın kəşfiyyatı siqnalında",
+        "C": "Adam suya düşdü siqnalında",
+        "D": "Ümumgəmi həyəcan siqnalında"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q063",
       "question": "Yanmış bölmə və ərazini yanğın təhlükəsinin aradan qaldırılmasından sonra nə qədər vaxt izləmək lazımdır?",
       "options": {
-        "A": "1 saat",
-        "B": "6 saat",
-        "C": "12 saat",
-        "D": "24 saat"
+        "A": "24 saat",
+        "B": "12 saat",
+        "C": "6 saat",
+        "D": "1 saat"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q064",
       "question": "“Gəminin davamlılığı uğrunda mübarizə” tələblərinə əsasən “Əməliyyat-taktiki xəritələr planı”nı kimlər mükəmməl bilməlidirlər?",
       "options": {
-        "A": "bütün heyət üzvü",
-        "B": "yalnız kapitan",
-        "C": "yalnız qəza partiyası",
-        "D": "yalnız baş mexanik"
+        "A": "yalnız qəza partiyası",
+        "B": "yalnız baş mexanik",
+        "C": "bütün heyət üzvü",
+        "D": "yalnız kapitan"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -774,44 +774,44 @@
       "question": "Yük bölməsinin “Yanğınsöndürmənin əməliyyat taktiki-planı (ƏTP)”na hansı vaxtda düzəlişlər oluna bilər?",
       "options": {
         "A": "yalnız qəza baş verdikdə",
-        "B": "hər səfərdə",
+        "B": "ildə bir dəfə",
         "C": "heç vaxt",
-        "D": "ildə bir dəfə"
+        "D": "hər səfərdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q066",
       "question": "Gəmidə qapalı yərlərdə neçə metrlik yanğın şlanqlarından istifadə olunur?",
       "options": {
-        "A": "60 m",
-        "B": "20 m",
-        "C": "40 m",
-        "D": "10 m"
+        "A": "20 m",
+        "B": "60 m",
+        "C": "10 m",
+        "D": "40 m"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q067",
       "question": "A tipli konstruksiyaların xüsusiyyəti hansıdır?",
       "options": {
-        "A": "Alov keçirmir, tüstü keçir",
-        "B": "Yalnız istiliyi saxlayır",
-        "C": "Alov və tüstü keçmir",
-        "D": "Heç bir təsirə davam gətirmir"
+        "A": "Yalnız istiliyi saxlayır",
+        "B": "Alov və tüstü keçmir",
+        "C": "Heç bir təsirə davam gətirmir",
+        "D": "Alov keçirmir, tüstü keçir"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q068",
       "question": "B tipli konstruksiyaların xüsusiyyəti hansıdır?",
       "options": {
-        "A": "İstilik keçirmir",
-        "B": "Alov və tüstü keçmir",
-        "C": "Tüstü keçirmir",
+        "A": "Tüstü keçirmir",
+        "B": "İstilik keçirmir",
+        "C": "Alov və tüstü keçmir",
         "D": "Alov keçirmir"
       },
       "correct_answer": "D",
@@ -833,48 +833,48 @@
       "id": "q070",
       "question": "Yanğınla mübarizə üçün vasitələr harada olmalıdır?",
       "options": {
-        "A": "Kapitan kayutunda",
-        "B": "Xüsusi olaraq ayrılmış yerdə",
-        "C": "İstənilən yerdə",
-        "D": "Anbarın dərinliyində"
+        "A": "Anbarın dərinliyində",
+        "B": "Kapitan kayutunda",
+        "C": "Xüsusi olaraq ayrılmış yerdə",
+        "D": "İstənilən yerdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q071",
       "question": "Şlanq xətti neçə cür yığılır?",
       "options": {
-        "A": "2 və 3 qat",
+        "A": "3 qat",
         "B": "yalnız 1 qat",
-        "C": "3 qat",
-        "D": "1 və 2 qat"
+        "C": "1 və 2 qat",
+        "D": "2 və 3 qat"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q072",
       "question": "Tozlu odsöndürənlərin istifadəsində hansı çatışmazlıq olur?",
       "options": {
-        "A": "yalnız ağırlıq",
-        "B": "yalnız yüksək qiymət",
-        "C": "görmənin zəifləməsi və nəfəsalmanın çətinləşməsi",
-        "D": "yalnız qısa müddətli işləmə"
+        "A": "görmənin zəifləməsi və nəfəsalmanın çətinləşməsi",
+        "B": "yalnız qısa müddətli işləmə",
+        "C": "yalnız ağırlıq",
+        "D": "yalnız yüksək qiymət"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q073",
       "question": "Yanğın kəşfiyyatının nəticəsi və gəminin vəziyyətinin qiymətləndirilməsi rəhbərliyə hansı əsası verir?",
       "options": {
-        "A": "heyəti dəyişmək üçün əsas",
+        "A": "yanğının söndürülmə qərarının verilməsi",
         "B": "gəmini tərk etmək üçün əsas",
-        "C": "yanğının söndürülmə qərarının verilməsi",
-        "D": "kapitana hesabat vermək üçün əsas"
+        "C": "kapitana hesabat vermək üçün əsas",
+        "D": "heyəti dəyişmək üçün əsas"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -882,11 +882,11 @@
       "question": "Yük anbarlarında yanğın zamanı nəyi nəzərə almaq lazımdır?",
       "options": {
         "A": "Yükün dəyərini",
-        "B": "Anbarların hermetikləşməsinin vacibliyini",
-        "C": "Anbarın işıqlandırılmasını",
-        "D": "Anbarın havalandırılmasının vacibliyini"
+        "B": "Anbarın havalandırılmasının vacibliyini",
+        "C": "Anbarların hermetikləşməsinin vacibliyini",
+        "D": "Anbarın işıqlandırılmasını"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -905,58 +905,58 @@
       "id": "q076",
       "question": "Hansı yanğınlar genişlənmiş yanğınlar sayılır?",
       "options": {
-        "A": "Yalnız iki mərtəbəni əhatə edənlər",
-        "B": "Yalnız göyərtədə olanlar",
-        "C": "Sahəsi 1 kvadratmetrdən az olanlar",
-        "D": "Sahəsi 1 kvadratmetrdən çox olanlar"
+        "A": "Yalnız göyərtədə olanlar",
+        "B": "Sahəsi 1 kvadratmetrdən çox olanlar",
+        "C": "Yalnız iki mərtəbəni əhatə edənlər",
+        "D": "Sahəsi 1 kvadratmetrdən az olanlar"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q077",
       "question": "Yanğını görən şəxs Kapitanın növbə köməkçisinə xəbər verdikdən sonra nə etməlidir?",
       "options": {
-        "A": "Yanğını təkbaşına söndürməyə davam etməlidir",
-        "B": "Digər heyət üzvlərini axtarmalıdır",
-        "C": "Bölmədə qalıb gözləməlidir",
-        "D": "Bölməni tərk etməlidir"
+        "A": "Bölmədə qalıb gözləməlidir",
+        "B": "Bölməni tərk etməlidir",
+        "C": "Yanğını təkbaşına söndürməyə davam etməlidir",
+        "D": "Digər heyət üzvlərini axtarmalıdır"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q078",
       "question": "Gəmidə yanğınla mübarizə üzrə əməliyyat planı hansı bölmələr üçün hazırlanır?",
       "options": {
-        "A": "Yalnız maşın bölməsi üçün",
-        "B": "Yalnız yük bölmələri üçün",
-        "C": "Yalnız kayutlar üçün",
-        "D": "Bütün bölmələr üçün"
+        "A": "Yalnız kayutlar üçün",
+        "B": "Bütün bölmələr üçün",
+        "C": "Yalnız yük bölmələri üçün",
+        "D": "Yalnız maşın bölməsi üçün"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q079",
       "question": "Nəfəsalmada çətinlik olduqda və qəbul edilən havanın temperaturu yüksəldikdə qəza qrupu nə etməlidir?",
       "options": {
-        "A": "təcili qəza bölməsini tərk etməlidir",
-        "B": "su içməlidir",
-        "C": "işi davam etdirməlidir",
-        "D": "kapitanı gözləməlidir"
+        "A": "işi davam etdirməlidir",
+        "B": "kapitanı gözləməlidir",
+        "C": "su içməlidir",
+        "D": "təcili qəza bölməsini tərk etməlidir"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q080",
       "question": "Nəfəsalma aparatı ASV-2-də minimum təzyiq nə qədər olmalıdır?",
       "options": {
-        "A": "100% (200 bar)",
+        "A": "60% (120 bar)",
         "B": "80% (160 bar)",
-        "C": "60% (120 bar)",
-        "D": "50% (100 bar)"
+        "C": "50% (100 bar)",
+        "D": "100% (200 bar)"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -978,8 +978,8 @@
       "question": "Kəşfiyyat keçirilən zaman ən azı neçə kəşfiyyatçı qəza bölməsinə daxil olmalıdır?",
       "options": {
         "A": "2 nəfər",
-        "B": "3 nəfər",
-        "C": "1 nəfər",
+        "B": "1 nəfər",
+        "C": "3 nəfər",
         "D": "4 nəfər"
       },
       "correct_answer": "A",
@@ -989,84 +989,84 @@
       "id": "q083",
       "question": "Aşağıdakılardan hansılar yanğın kəşfiyyatının vəzifələrinə daxil deyil?",
       "options": {
-        "A": "insanların axtarışı və onlarla birlikdə kəşfiyyatın aparılması",
-        "B": "yanğının səbəbinin araşdırılması",
-        "C": "yanğının yerinin müəyyən edilməsi",
+        "A": "yanğının yerinin müəyyən edilməsi",
+        "B": "insanların axtarışı və onlarla birlikdə kəşfiyyatın aparılması",
+        "C": "yanğının səbəbinin araşdırılması",
         "D": "yanma sahəsinin ölçülməsi"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q084",
       "question": "Kəşfiyyat qrupunun hazırlığına kim rəhbərlik edir?",
       "options": {
-        "A": "baş mexanik",
-        "B": "kapitanın baş köməkçisi",
-        "C": "qəza partiyasının komandiri",
-        "D": "kapitan"
+        "A": "kapitan",
+        "B": "qəza partiyasının komandiri",
+        "C": "baş mexanik",
+        "D": "kapitanın baş köməkçisi"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q085",
       "question": "Beynəlxalq sahil birləşməsi dənizin sahilindən su qəbul edilməsi üçün hansı ölçüdə olmalıdır?",
       "options": {
-        "A": "xarici 150 mm, daxili 70 mm",
-        "B": "xarici 200 mm, daxili 80 mm",
-        "C": "xarici 178 mm, daxili 64 mm",
-        "D": "xarici 100 mm, daxili 50 mm"
+        "A": "xarici 100 mm, daxili 50 mm",
+        "B": "xarici 178 mm, daxili 64 mm",
+        "C": "xarici 150 mm, daxili 70 mm",
+        "D": "xarici 200 mm, daxili 80 mm"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q086",
       "question": "Yüngül dərəcəli zəhərlənmənin əlamətləri hansılardır?",
       "options": {
-        "A": "huşun tamamilə itirilməsi",
-        "B": "dərinin göyərməsi",
-        "C": "baş ağrıları, baş gicəllənməsi, ürək bulanması, ümumi zəiflik",
-        "D": "nəbzin dayanması"
+        "A": "nəbzin dayanması",
+        "B": "baş ağrıları, baş gicəllənməsi, ürək bulanması, ümumi zəiflik",
+        "C": "huşun tamamilə itirilməsi",
+        "D": "dərinin göyərməsi"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q087",
       "question": "Karbon qazı ilə zəhərlənmə zamanı ilk yardım olaraq nəyi yerinə yetirmək lazımdır?",
       "options": {
-        "A": "zərərçəkənə su içirdilməlidir",
-        "B": "təmiz hava ilə tənəffüs etmə üçün şərait yaradılmalıdır",
+        "A": "təmiz hava ilə tənəffüs etmə üçün şərait yaradılmalıdır",
+        "B": "zərərçəkənə su içirdilməlidir",
         "C": "zərərçəkən yatırılıb hərəkətsiz saxlanmalıdır",
         "D": "zərərçəkənə isti yemək verilməlidir"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q088",
       "question": "Karbon qazı ilə zəhərlənmə zamanı nəbz, tənəffüs dayanıbsa ilk yardım olaraq nəyi yerinə yetirmək lazımdır?",
       "options": {
-        "A": "zərərçəkmiş şəxs sərinlədilir",
-        "B": "zərərçəkmiş şəxs tənha buraxılır",
-        "C": "zərərçəkmiş şəxsə su verilir",
-        "D": "zərərçəkmiş şəxsə ürəyin qapalı masajı yerinə yetirilir"
+        "A": "zərərçəkmiş şəxsə su verilir",
+        "B": "zərərçəkmiş şəxs sərinlədilir",
+        "C": "zərərçəkmiş şəxsə ürəyin qapalı masajı yerinə yetirilir",
+        "D": "zərərçəkmiş şəxs tənha buraxılır"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q089",
       "question": "Səthi yanıqlara neçənci dərəcəli yanıqlar aiddir?",
       "options": {
-        "A": "I, IV",
-        "B": "II, III",
-        "C": "I, II",
-        "D": "III, IV"
+        "A": "III, IV",
+        "B": "I, II",
+        "C": "II, III",
+        "D": "I, IV"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -1074,23 +1074,23 @@
       "question": "Dərin yanıqlara neçənci dərəcəli yanıqlar aiddir?",
       "options": {
         "A": "II, III",
-        "B": "III, IV",
-        "C": "I, III",
-        "D": "I, II"
+        "B": "I, III",
+        "C": "I, II",
+        "D": "III, IV"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q091",
       "question": "4-cü dərəcəli yanığın əlamətləri hansılardır?",
       "options": {
-        "A": "yalnız epidermis zədələnir",
-        "B": "dəri bütövlükdə, dəri altı və daha dərin toxumalar, əzələlər, sinirlər, sümük toxuması yanıb nevroza uğrayır",
-        "C": "şişkinlik və suluqlar yaranır",
-        "D": "yalnız dəri qızarır"
+        "A": "dəri bütövlükdə, dəri altı və daha dərin toxumalar, əzələlər, sinirlər, sümük toxuması yanıb nevroza uğrayır",
+        "B": "şişkinlik və suluqlar yaranır",
+        "C": "yalnız dəri qızarır",
+        "D": "yalnız epidermis zədələnir"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -1098,35 +1098,35 @@
       "question": "Yanıqlar zədələnmənin dərinliyinə görə neçə dərəcəyə bölünür?",
       "options": {
         "A": "5",
-        "B": "3",
+        "B": "4",
         "C": "2",
-        "D": "4"
+        "D": "3"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q093",
       "question": "1-ci dərəcəli yanığın əlamətləri nədir?",
       "options": {
-        "A": "sümük zədələnir",
-        "B": "dəri qızarır, suluqlar yaranır",
-        "C": "şişkinlik, ağrı, epidermis yanır",
+        "A": "şişkinlik, ağrı, epidermis yanır",
+        "B": "sümük zədələnir",
+        "C": "dəri qızarır, suluqlar yaranır",
         "D": "toxumalar tamamilə yanır"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q094",
       "question": "2-ci dərəcəli yanığın əlamətləri nədir?",
       "options": {
-        "A": "dəri qızarır, şişkinlik artır, suluqlar yaranır",
-        "B": "toxumalar tamamilə yanıb nevroza uğrayır",
+        "A": "toxumalar tamamilə yanıb nevroza uğrayır",
+        "B": "dəri qızarır, şişkinlik artır, suluqlar yaranır",
         "C": "sümük toxuması zədələnir",
         "D": "yalnız epidermis yanır"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -1134,9 +1134,9 @@
       "question": "Yanıq zamanı ilk yardım olaraq nəyi yerinə yetirmək lazımdır?",
       "options": {
         "A": "yanığı törədən termiki amilin dəriyə və toxumalara təsirini dayandırmalı",
-        "B": "yanmış yer bağlanmadan açıq saxlanmalıdır",
-        "C": "yanmış yer isti su ilə yuyulmalıdır",
-        "D": "yanmış yerə dərhal yağ sürtülməlidir"
+        "B": "yanmış yer isti su ilə yuyulmalıdır",
+        "C": "yanmış yerə dərhal yağ sürtülməlidir",
+        "D": "yanmış yer bağlanmadan açıq saxlanmalıdır"
       },
       "correct_answer": "A",
       "explanation": ""

@@ -5,12 +5,12 @@
       "id": "q001",
       "question": "1. Gəminin elektrik sxemlərində və elektrik avadanlıqlarında həyata keçirilmiş dəyişikliklər haqqında məlumatlar harada öz əksini tapmalıdır?",
       "options": {
-        "A": "Hər fırtınadan sonra",
+        "A": "5.00 %-dən çox olmadıqda",
         "B": "500 A",
-        "C": "Gəminin texniki sənədlərində",
-        "D": "5.00 %-dən çox olmadıqda"
+        "C": "Hər fırtınadan sonra",
+        "D": "Gəminin texniki sənədlərində"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -18,23 +18,23 @@
       "question": "2. Cərəyanla qurutma, izolyasiyasının müqavimətinin neçə Mom olan elektrik maşınlarında həyata keçirilməsinə icazə verilir?",
       "options": {
         "A": "12 uzel",
-        "B": "1.0 Mom müqavimət olduqda",
-        "C": "0.1 Mom-dan az olmayan elektrik maşınlarında",
-        "D": "Hər növbə dəyişikliyində"
+        "B": "0.1 Mom-dan az olmayan elektrik maşınlarında",
+        "C": "Hər növbə dəyişikliyində",
+        "D": "1.0 Mom müqavimət olduqda"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q003",
       "question": "3. Akkumulyator batareyalarında keçirilən texniki baxışların mütəmadilik, dövrilik müddətini qeyd edin?",
       "options": {
-        "A": "200 A",
-        "B": "Gəmi sahibi tərəfindən",
-        "C": "Hər ayda bir dəfədən az olmayan müddət ərzində",
-        "D": "Dəniz su filtri"
+        "A": "Hər ayda bir dəfədən az olmayan müddət ərzində",
+        "B": "200 A",
+        "C": "Dəniz su filtri",
+        "D": "Gəmi sahibi tərəfindən"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -43,8 +43,8 @@
       "options": {
         "A": "3.50-dən çox olmadıqda",
         "B": "Gəmi kapitanı",
-        "C": "Sıfıra bərabər olar",
-        "D": "Gəmi sahibi tərəfindən"
+        "C": "Gəmi sahibi tərəfindən",
+        "D": "Sıfıra bərabər olar"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -53,34 +53,34 @@
       "id": "q005",
       "question": "5. Tullantılara nəzarət rayonlarından keçid zamanı tərkibində neçə faiz kükürd olan yanacaqdan istifadə edilməsinə icazə verilir?",
       "options": {
-        "A": "5.00 %-dən çox olmadıqda",
-        "B": "İmpuls transformatoru",
-        "C": "1.00 %-dən çox olmayan",
-        "D": "200 A"
+        "A": "200 A",
+        "B": "1.00 %-dən çox olmayan",
+        "C": "İmpuls transformatoru",
+        "D": "5.00 %-dən çox olmadıqda"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q006",
       "question": "6. Ən yaxın sahildən 12 mil məsafədə olduqda MARPOL-73/78 BK-nın V əlavəsinə əsasən nələrin dənizə tullanmasına icazə verilir?",
       "options": {
-        "A": "Dondurulmuş halda balıq, ət, digər qida məhsulları və xırdalanmış ərzaq tullantıları",
-        "B": "Azalar",
-        "C": "Hər fırtınadan sonra",
-        "D": "İmpuls transformatoru"
+        "A": "Hər fırtınadan sonra",
+        "B": "İmpuls transformatoru",
+        "C": "Dondurulmuş halda balıq, ət, digər qida məhsulları və xırdalanmış ərzaq tullantıları",
+        "D": "Azalar"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q007",
       "question": "7. Əl yanğın xəbərdarlıq edicilər harada yerləşdirilməlidirlər?",
       "options": {
-        "A": "24 saat",
-        "B": "1.0 Mom müqavimət olduqda",
+        "A": "1.0 Mom müqavimət olduqda",
+        "B": "Gəmi sahibi tərəfindən",
         "C": "Hər bir yanğın zonasında",
-        "D": "Gəmi sahibi tərəfindən"
+        "D": "24 saat"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -89,58 +89,58 @@
       "id": "q008",
       "question": "8. Növbətçi qayıq hansı sürətlə manevr etmək imkanlarına malik olmalıdır?",
       "options": {
-        "A": "Rəqəmsal meqometr vasitəsilə",
+        "A": "6 uzel",
         "B": "10 uzel",
-        "C": "6 uzel",
-        "D": "0.5 Mom-dan az olmayan elektrik maşınlarında"
+        "C": "0.5 Mom-dan az olmayan elektrik maşınlarında",
+        "D": "Rəqəmsal meqometr vasitəsilə"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q009",
       "question": "9. Gəmidə təmir işləri yerinə yetirildiyi zaman yanğın təhlükəsizliyinin təmin olunmasına kim cavabdehdir?",
       "options": {
-        "A": "Dəniz su filtri",
-        "B": "12 saat",
-        "C": "1500 A",
-        "D": "Gəmi təmiri müəssisəsi"
+        "A": "Gəmi təmiri müəssisəsi",
+        "B": "1500 A",
+        "C": "Dəniz su filtri",
+        "D": "12 saat"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q010",
       "question": "10. Gəminin heyət üzvlərindən hansı vəzifəli şəxs gəminin bütün mexaniki qurğularının texniki vasitələrini və gövdə konstruksiyalarını rəhbər heyət üzvləri arasında təhkimatlar üzrə bölüşdürür?",
       "options": {
-        "A": "Sıfıra bərabər olar",
-        "B": "10 uzel",
+        "A": "10 uzel",
+        "B": "Baş mexanik",
         "C": "İşıq siqnalizasiya lövhəsində",
-        "D": "Baş mexanik"
+        "D": "Sıfıra bərabər olar"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q011",
       "question": "11. Gəminin qəzaya uğraması nəticəsində heyət üzvünün əmlakına zərər dəydikdə və ya əmlak itirildikdə, məhv olduqda həmin ziyan heyət üzvünə kim tərəfindən ödənilməlidir?",
       "options": {
-        "A": "Sığorta şirkəti tərəfindən",
-        "B": "İmpuls transformatoru",
-        "C": "Liman müfəttişliyi tərəfindən",
-        "D": "Hər növbə dəyişikliyində"
+        "A": "Liman müfəttişliyi tərəfindən",
+        "B": "Hər növbə dəyişikliyində",
+        "C": "Sığorta şirkəti tərəfindən",
+        "D": "İmpuls transformatoru"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q012",
       "question": "12. “Transducer” sözünün düzgün tərcüməsini qeyd edin?",
       "options": {
-        "A": "10.0 Mom",
-        "B": "Gəmi kapitanı",
+        "A": "Gəmi jurnalının son səhifəsində",
+        "B": "10.0 Mom",
         "C": "Ötürücü cihaz",
-        "D": "Gəmi jurnalının son səhifəsində"
+        "D": "Gəmi kapitanı"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -149,58 +149,58 @@
       "id": "q013",
       "question": "13. “Sea-chest” sözünün düzgün tərcüməsini qeyd edin?",
       "options": {
-        "A": "12 saat",
-        "B": "Kapitan körpüsünün üstündə",
-        "C": "Kinqston",
-        "D": "Hər iki tərəfdən 6 mil məsafədə"
+        "A": "Kapitan körpüsünün üstündə",
+        "B": "Hər iki tərəfdən 6 mil məsafədə",
+        "C": "12 saat",
+        "D": "Kinqston"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q014",
       "question": "14. “Seal” sözünün düzgün tərcüməsini qeyd edin?",
       "options": {
-        "A": "10.0 Mom",
-        "B": "10 uzel",
-        "C": "Sıfıra bərabər olar",
-        "D": "Kipləndirici, salnik"
+        "A": "10 uzel",
+        "B": "Kipləndirici, salnik",
+        "C": "10.0 Mom",
+        "D": "Sıfıra bərabər olar"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q015",
       "question": "15. “Assembly” sözünün düzgün tərcüməsini qeyd edin?",
       "options": {
-        "A": "Liman müfəttişliyi tərəfindən",
-        "B": "Elektromaqnit generatoru",
-        "C": "Yığmaq, montaj etmək",
-        "D": "İşıq siqnalizasiya lövhəsində"
+        "A": "Elektromaqnit generatoru",
+        "B": "Yığmaq, montaj etmək",
+        "C": "İşıq siqnalizasiya lövhəsində",
+        "D": "Liman müfəttişliyi tərəfindən"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q016",
       "question": "16. Baş paylayıcı lövhədə quraşdırılmış voltmetrlər nəyi göstərir?",
       "options": {
-        "A": "Xəttdə olan cərəyan gərginliyini",
+        "A": "Sıfıra bərabər olar",
         "B": "Rəqəmsal meqometr vasitəsilə",
-        "C": "5.00 %-dən çox olmadıqda",
-        "D": "Sıfıra bərabər olar"
+        "C": "Xəttdə olan cərəyan gərginliyini",
+        "D": "5.00 %-dən çox olmadıqda"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q017",
       "question": "17. Orqanizmdən keçən 50 Hz tezliklə, dəyişən elektrik cərəyanı hansı ölçüdə olduqda insan onu hiss etmiş olur?",
       "options": {
-        "A": "Gəmi kapitanı",
+        "A": "İmpuls transformatoru",
         "B": "1.1 mA",
-        "C": "İmpuls transformatoru",
-        "D": "İldə bir dəfə"
+        "C": "İldə bir dəfə",
+        "D": "Gəmi kapitanı"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -209,22 +209,22 @@
       "id": "q018",
       "question": "18. Cərəyan göstəricisinin əvəzinə nəzarət elektrik lampasından istifadə etmək olarmı?",
       "options": {
-        "A": "12 uzel",
+        "A": "Azalar",
         "B": "500 A",
-        "C": "Azalar",
-        "D": "Qətiyyən olmaz"
+        "C": "Qətiyyən olmaz",
+        "D": "12 uzel"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q019",
       "question": "19. Dəyişən cərəyanlı elektromaqnitin lövbərinin ilişməsi nəyə səbəb ola bilər?",
       "options": {
-        "A": "Hər fırtınadan sonra",
-        "B": "Gəmi sahibi tərəfindən",
+        "A": "Gəmi sahibi tərəfindən",
+        "B": "5.00 %-dən çox olmadıqda",
         "C": "Elektromaqnitin sarğısının yanmasına",
-        "D": "5.00 %-dən çox olmadıqda"
+        "D": "Hər fırtınadan sonra"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -234,8 +234,8 @@
       "question": "20. Gəmi şəraitində möhürlərin çıxarılması, nəzarət ölçü cihazlarının açılması və təmir edilməsi gəmi heyət üzvlərindən kimin nəzarəti altında həyata keçirilməlidir?",
       "options": {
         "A": "12 saat",
-        "B": "0.5 Mom-dan az olmayan elektrik maşınlarında",
-        "C": "Baş mexanik və növbətçi mexanik",
+        "B": "Baş mexanik və növbətçi mexanik",
+        "C": "0.5 Mom-dan az olmayan elektrik maşınlarında",
         "D": "Kapitanın növbə köməkçisinin"
       },
       "correct_answer": "D",
@@ -245,32 +245,32 @@
       "id": "q021",
       "question": "21. Cərəyanın güc transformatorunun paralel iş rejiminə ardıcıl olaraq düzgün qoşulma qaydasını qeyd edin:",
       "options": {
-        "A": "0.50 %-dən çox olmadıqda",
-        "B": "Paralel qoşulma öncə birinci, sonra isə ikinci şəbəkədən qoşulmaqla həyata keçirilir",
-        "C": "Gəmi jurnalının son səhifəsində",
-        "D": "Dəyişməz qalır"
+        "A": "Gəmi jurnalının son səhifəsində",
+        "B": "Dəyişməz qalır",
+        "C": "Paralel qoşulma öncə birinci, sonra isə ikinci şəbəkədən qoşulmaqla həyata keçirilir",
+        "D": "0.50 %-dən çox olmadıqda"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q022",
       "question": "22. İstismarda olan yarımkeçirici dəyişdiricilərin izolyasiyasının normal müqavimətini qeyd edin?",
       "options": {
-        "A": "1.0 Mom",
+        "A": "Dəniz su filtri",
         "B": "Elektromaqnit generatoru",
         "C": "10 uzel",
-        "D": "Dəniz su filtri"
+        "D": "1.0 Mom"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q023",
       "question": "23. Uzun müddət istismar edilməyən elektrik cihazlarının dövri texniki baxışlarının keçirilməsi və yoxlanması hansı müddətlərdə həyata keçirilir?",
       "options": {
-        "A": "200 A",
-        "B": "Gəmi kapitanı",
+        "A": "Gəmi kapitanı",
+        "B": "200 A",
         "C": "0.10 %-dən az olduqda",
         "D": "Bir ayda bir dəfədən az olmayaraq"
       },
@@ -281,24 +281,24 @@
       "id": "q024",
       "question": "24. Qoruyucu qurğunun işə düşməsi nəticəsində iş rejimindən çıxarılan və ya çıxardılan mexanizmin (qurğunun) avtomatik və ya məsafədən işə salınması üçün nə etmək lazım olduğunu qeyd edin:",
       "options": {
-        "A": "Əl vasitəsi ilə qoruyucu qurğunu əvvəlki vəziyyətə gətirmək",
-        "B": "1500 A",
-        "C": "Azalar",
-        "D": "Sıfıra bərabər olar"
+        "A": "Sıfıra bərabər olar",
+        "B": "Azalar",
+        "C": "1500 A",
+        "D": "Əl vasitəsi ilə qoruyucu qurğunu əvvəlki vəziyyətə gətirmək"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q025",
       "question": "25. Nəzarət Məlumat Ölçü Sistemlərinin (MÖS) kanalının funksiyası nədən ibarətdir?",
       "options": {
-        "A": "Gəmi jurnalının son səhifəsində",
-        "B": "Nəzarət edilən parametrlərin normadan kənara çıxdığı hallarda işıq siqnallarının formalaşdırılması",
+        "A": "Nəzarət edilən parametrlərin normadan kənara çıxdığı hallarda işıq siqnallarının formalaşdırılması",
+        "B": "Gəmi jurnalının son səhifəsində",
         "C": "İldə bir dəfə",
         "D": "Azalar"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -317,24 +317,24 @@
       "id": "q027",
       "question": "27. Aşağıda qeyd edilənlərdən hansı cihazdan istifadə edərək Avtomatik İdarəetmə Sistemlərində gərginliyin ölçülməsi yerinə yetirilə bilər?",
       "options": {
-        "A": "Elektron voltmetrdən və ya yüksək çıxış müqaviməti olan əqrəbli voltmetrdən istifadə edərək",
+        "A": "Azalar",
         "B": "Gəmi jurnalının son səhifəsində",
-        "C": "Azalar",
-        "D": "0.01 Mom"
+        "C": "0.01 Mom",
+        "D": "Elektron voltmetrdən və ya yüksək çıxış müqaviməti olan əqrəbli voltmetrdən istifadə edərək"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q028",
       "question": "28. Dəyişən cərəyanlı gəmi elektroenergetik sistemlərinin paylama şəbəkələrinin bütün şaxələrində hansı növ qoruma quraşdırılmalıdır?",
       "options": {
-        "A": "Gəmi jurnalının son səhifəsində",
-        "B": "0.50 %-dən çox olmadıqda",
-        "C": "Həddindən artıq yüklənmədən və qısa qapanmadan",
-        "D": "Hər növbə dəyişikliyində"
+        "A": "Hər növbə dəyişikliyində",
+        "B": "Həddindən artıq yüklənmədən və qısa qapanmadan",
+        "C": "Gəmi jurnalının son səhifəsində",
+        "D": "0.50 %-dən çox olmadıqda"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -343,8 +343,8 @@
       "options": {
         "A": "Gəmi səfərə çıxmazdan öncə və hər 10 gündən bir",
         "B": "Hər fırtınadan sonra",
-        "C": "10.0 Mom",
-        "D": "Dəyişməz qalır"
+        "C": "Dəyişməz qalır",
+        "D": "10.0 Mom"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -377,12 +377,12 @@
       "id": "q032",
       "question": "32. Gəminin akkumulyator batareyalarının qidalandırılmasına dair başqa bir özəl, xüsusi göstəriş olmadığı təqdirdə (akkumulyatorların nominal həcmi miqdarına bərabər olan 0.25 A-saat cərəyanla) normal qidalandırılması hansı müddətlərdə həyata keçirilməlidir?",
       "options": {
-        "A": "6 saat",
-        "B": "Gəmi kapitanı",
+        "A": "Gəmi kapitanı",
+        "B": "3 saat",
         "C": "0.5 Mom-dan az olmayan elektrik maşınlarında",
-        "D": "3 saat"
+        "D": "6 saat"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -390,11 +390,11 @@
       "question": "33. Akumulyator batareyalarının sürətləndirilmiş qidalandırılmasını (normal qidalandırma cərəyan şiddətindən iki dəfə çox cərəyan şiddəti ilə) neçə saat ərzində yerinə yetirmək lazımdır?",
       "options": {
         "A": "İmpuls transformatoru",
-        "B": "3 ssat",
-        "C": "500 A",
-        "D": "İldə bir dəfə"
+        "B": "500 A",
+        "C": "İldə bir dəfə",
+        "D": "3 ssat"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -402,11 +402,11 @@
       "question": "34. Gəmidə gəmi elektrik avadanlıqlarının, habelə ehtiyat hissələrinin sərf edilməsinin və qalıqlarının qeydiyyatı aparılmalıdır. Bu qeydiyyat kitablarının formasını və qaydalarını kim müəyyən edir?",
       "options": {
         "A": "Baş mexanik və növbətçi mexanik",
-        "B": "Dəyişməz qalır",
-        "C": "0.01 Mom",
-        "D": "Gəmi sahibi"
+        "B": "0.01 Mom",
+        "C": "Gəmi sahibi",
+        "D": "Dəyişməz qalır"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -414,23 +414,23 @@
       "question": "35. Gəmidə istismara yararlı və saz vəziyyətdə olan elektrik avadanlıqlarını və qurğularını istismara hazırlanmasına və istismar edilməsinə icazə verilir. Nasaz olan elektrik avadanlıqlarının üzərində asılan xəbərdarlıq lövhələri hansı məzmunlu olmalıdırlar?",
       "options": {
         "A": "0.5 Mom-dan az olmayan elektrik maşınlarında",
-        "B": "Hər növbə dəyişikliyində",
-        "C": "Nasazlıq var. İşə salmaq qəti qadağandır",
+        "B": "Nasazlıq var. İşə salmaq qəti qadağandır",
+        "C": "Hər növbə dəyişikliyində",
         "D": "5.00 %-dən çox olmadıqda"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q036",
       "question": "36. Nə üçün düzləndiricinin çıxışına paralel olaraq, fırçasız generatorun rotorunun üzərində varistor birləşdirilir?",
       "options": {
-        "A": "10.0 Mom",
-        "B": "0.10 %-dən az olduqda",
-        "C": "Yarımkeçirici düzləndiricinin elektrik cərəyanından qorunması üçün",
-        "D": "1500 A"
+        "A": "1500 A",
+        "B": "Yarımkeçirici düzləndiricinin elektrik cərəyanından qorunması üçün",
+        "C": "0.10 %-dən az olduqda",
+        "D": "10.0 Mom"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -439,10 +439,10 @@
       "options": {
         "A": "Hər növbə dəyişikliyində",
         "B": "200 A",
-        "C": "Hər 6 aydan bir",
-        "D": "6-12 ay"
+        "C": "6-12 ay",
+        "D": "Hər 6 aydan bir"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "",
       "image_url": "/images/g_mi_elektrik_mexanikl_rinin_t_kmill_dir/img_p4_1.png"
     },
@@ -450,60 +450,60 @@
       "id": "q038",
       "question": "38. Paylayıcı lövhələr bağlanılmalıdır?",
       "options": {
-        "A": "Hər növbə dəyişikliyində",
+        "A": "Az gərginlikli elektrik paylayıcılarının qapılarını bağlamaq üçün təyin edilmiş açarlardan fərqli olan, xüsusi açarla",
         "B": "1500 A",
-        "C": "Sıfıra bərabər olar",
-        "D": "Az gərginlikli elektrik paylayıcılarının qapılarını bağlamaq üçün təyin edilmiş açarlardan fərqli olan, xüsusi açarla"
+        "C": "Hər növbə dəyişikliyində",
+        "D": "Sıfıra bərabər olar"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q039",
       "question": "39. Lokal şəbəkə və kompüterlər arasında ikipanelli məlumat mübadiləsini təmin etmək üçün istifadə edilir:",
       "options": {
-        "A": "Hər 6 aydan bir",
-        "B": "10.0 Mom",
-        "C": "Şəbəkə adapteri",
-        "D": "0.50 %-dən çox olmadıqda"
+        "A": "10.0 Mom",
+        "B": "Şəbəkə adapteri",
+        "C": "0.50 %-dən çox olmadıqda",
+        "D": "Hər 6 aydan bir"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q040",
       "question": "40. Kompüter sistem və şəbəkələrində istifadə edilən “Protokol” sözü nə deməkdir?",
       "options": {
-        "A": "12 uzel",
-        "B": "10 uzel",
-        "C": "5.00 %-dən çox olmadıqda",
-        "D": "Kompüter sistem və şəbəkələrində eyni səviyyədə, lakin müxtəlif şəbəkələrdə yerləşən məlumatların mübadiləsinin formatını və prosedurlarını nizama (müəyyən qaydaya) salan qaydalar məcmusudur"
+        "A": "5.00 %-dən çox olmadıqda",
+        "B": "Kompüter sistem və şəbəkələrində eyni səviyyədə, lakin müxtəlif şəbəkələrdə yerləşən məlumatların mübadiləsinin formatını və prosedurlarını nizama (müəyyən qaydaya) salan qaydalar məcmusudur",
+        "C": "10 uzel",
+        "D": "12 uzel"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q041",
       "question": "41. Kompüter sistem və şəbəkələrində istifadə edilən “Interfeys” sözü nə deməkdir?",
       "options": {
-        "A": "Liman müfəttişliyi tərəfindən",
-        "B": "Kompüter sistem və şəbəkələrində qonşu səviyyələrdə, lakin eyni şəbəkədə yerləşən məlumatların mübadiləsinin formatını və prosedurlarını nizama (müəyyən qaydaya) salan qaydalar məcmusudur",
-        "C": "Rəqəmsal meqometr vasitəsilə",
-        "D": "10 uzel"
+        "A": "Kompüter sistem və şəbəkələrində qonşu səviyyələrdə, lakin eyni şəbəkədə yerləşən məlumatların mübadiləsinin formatını və prosedurlarını nizama (müəyyən qaydaya) salan qaydalar məcmusudur",
+        "B": "10 uzel",
+        "C": "Liman müfəttişliyi tərəfindən",
+        "D": "Rəqəmsal meqometr vasitəsilə"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q042",
       "question": "42. Registrin qaydalarına əsasən gəmi sinxron maşınlarında hava zazorlarında qeyri müntəzəmliyin aralıqlarının kəmiyyətinin qiyməti nə qədər təşkil edir?",
       "options": {
-        "A": "1500 A",
-        "B": "Kapitan körpüsünün üstündə",
-        "C": "Orta aralığa nisbətdə ± 10%",
-        "D": "Dəyişməz qalır"
+        "A": "Kapitan körpüsünün üstündə",
+        "B": "1500 A",
+        "C": "Dəyişməz qalır",
+        "D": "Orta aralığa nisbətdə ± 10%"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -511,8 +511,8 @@
       "question": "43. Fırçalı və kontakt üzüklü sinxron generatorlarda kontakt üzüklərinin qütblərinin dəyişdirilməsi hansı səbəblərdən yerinə yetirilir?",
       "options": {
         "A": "24 saat",
-        "B": "Hər iki tərəfdən 6 mil məsafədə",
-        "C": "Liman müfəttişliyi tərəfindən",
+        "B": "Liman müfəttişliyi tərəfindən",
+        "C": "Hər iki tərəfdən 6 mil məsafədə",
         "D": "Üzüklərin yeyilməsinin müntəzəm şəkildə, bərabər səviyyədə həyata keçməsinin təmin edilməsi üçün"
       },
       "correct_answer": "D",
@@ -522,24 +522,24 @@
       "id": "q044",
       "question": "44. Üç fazalı asinxron elektrik mühərrikinin nominal cərəyan şiddəti 200A bərabərdir. Yüklənmədən birbaşa şəbəkəyə qoşulma zamanı cərəyan sıçrayışı neçə amper təşkil edəcək?",
       "options": {
-        "A": "Azalar",
-        "B": "1000 A",
-        "C": "3 saat",
-        "D": "Gəmi kapitanı"
+        "A": "Gəmi kapitanı",
+        "B": "3 saat",
+        "C": "1000 A",
+        "D": "Azalar"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q045",
       "question": "45. Üç fazalı asinxron elektrik mühərriki nominal cərəyanlı yüklə işləyir. Bu zaman qəflətən bir faza qırılır. Elektrik mühərrikinin istehlak etdiyi cərəyan necə dəyişəcək?",
       "options": {
-        "A": "Gəmi sahibi tərəfindən",
-        "B": "Artacaq",
-        "C": "24 saat",
-        "D": "1500 A"
+        "A": "Artacaq",
+        "B": "1500 A",
+        "C": "Gəmi sahibi tərəfindən",
+        "D": "24 saat"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -547,9 +547,9 @@
       "question": "46. Sinxron elektrik mühərrikinin cərəyan gərginliyi 10 % azaldıqda mühərrikin dövrlər sayı nə cür dəyişir?",
       "options": {
         "A": "500 A",
-        "B": "0.5 Mom-dan az olmayan elektrik maşınlarında",
+        "B": "Dəyişməz qalır",
         "C": "Dəyişməz olaraq sabit qalır",
-        "D": "Dəyişməz qalır"
+        "D": "0.5 Mom-dan az olmayan elektrik maşınlarında"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -558,12 +558,12 @@
       "id": "q047",
       "question": "47. Özü havalandırılan elektrik mühərrikini xaricdən, asılı olmayan üfürmə ilə təchiz etsək onun daimi qızma saatı nə cür dəyişəcəkdir?",
       "options": {
-        "A": "Hər növbə dəyişikliyində",
-        "B": "Azalacaq",
-        "C": "Dəyişməz qalır",
-        "D": "Sıfıra bərabər olar"
+        "A": "Dəyişməz qalır",
+        "B": "Sıfıra bərabər olar",
+        "C": "Hər növbə dəyişikliyində",
+        "D": "Azalacaq"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     }
   ]

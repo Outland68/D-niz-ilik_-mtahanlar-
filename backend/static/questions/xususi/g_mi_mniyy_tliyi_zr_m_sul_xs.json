@@ -5,8 +5,8 @@
       "id": "q005",
       "question": "5. Şirkətin ƏİS",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "fırtınalı havada təxirə salınmaqla",
         "C": "bütün cavablar yanlışdır",
         "D": "1,3,5"
       },
@@ -18,20 +18,20 @@
       "question": "5. Gəmidə odlu və qaynaq işlərinin aparılması.",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,2,3,5"
+        "B": "1,2,3,5",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Bunkerləmə əməliyyatı.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
+        "A": "bütün cavablar yanlışdır",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "D": "1,2,4,5"
       },
       "correct_answer": "D",
@@ -41,24 +41,24 @@
       "id": "q005",
       "question": "5. Gəmilərin toqquşması.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "A": "2,3,5",
+        "B": "fırtınalı havada təxirə salınmaqla",
         "C": "bütün cavablar yanlışdır",
-        "D": "2,3,5"
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Partlayış.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
+        "A": "1,2",
         "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "C": "bütün cavablar yanlışdır",
-        "D": "1,2"
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -66,23 +66,23 @@
       "question": "5. İnsanın yüksəklikdən yıxılması.",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "3,4"
+        "B": "bütün cavablar yanlışdır",
+        "C": "3,4",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Yanğın.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,5"
+        "A": "1,5",
+        "B": "bütün cavablar yanlışdır",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -90,32 +90,32 @@
       "question": "5. Dənizin çirklənməsi",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "3,4",
         "C": "bütün cavablar yanlışdır",
-        "D": "3,4"
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. İnsanın bort kənarına yıxılması",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "3,5"
+        "A": "bütün cavablar yanlışdır",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "3,5",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Gəmi gövdəsinin zədələnməsi.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
+        "A": "bütün cavablar yanlışdır",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "D": "1,2,4"
       },
       "correct_answer": "D",
@@ -149,36 +149,36 @@
       "id": "q005",
       "question": "5. Nəticələri.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,2,3,4,5"
+        "A": "bütün cavablar yanlışdır",
+        "B": "1,2,3,4,5",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Təhlükəli işlərin aparılmasına nəzarət.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
+        "A": "bütün cavablar yanlışdır",
         "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,2,3,4,5"
+        "C": "1,2,3,4,5",
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Gəmi heyətinin gəmiçilik şirkətində təlimatlandırılması.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "A": "1,2,3",
+        "B": "fırtınalı havada təxirə salınmaqla",
         "C": "bütün cavablar yanlışdır",
-        "D": "1,2,3"
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -186,35 +186,35 @@
       "question": "16. Rəhbər sənədlərin və şirkətin ƏİS tələblərinə uyğun olaraq kapitan gəmidə əməyin əmniyyətliyinə dair hansı əmri verməlidir?",
       "options": {
         "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "Gəmidə yanğın əmlakına cavabdeh şəxsin təyin olunması barədə əmr",
+        "B": "Gəmidə yanğın əmlakına cavabdeh şəxsin təyin olunması barədə əmr",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
         "D": "cənub-qərb dreyfi zamanı"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Gəmi heyəti tərəfindən gəmidə fərdi mühafizə vasitələrindən istifadə nəzarəti",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,2,3,4,5"
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "bütün cavablar yanlışdır",
+        "C": "1,2,3,4,5",
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Xilasedici gödəkcə.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,2,3,4"
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "1,2,3,4",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -222,8 +222,8 @@
       "question": "5. Respirator.",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
+        "B": "bütün cavablar yanlışdır",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "D": "1,2,3,5"
       },
       "correct_answer": "D",
@@ -233,8 +233,8 @@
       "id": "q005",
       "question": "5. Gəminin mühafizəsi üzrə komitə.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "fırtınalı havada təxirə salınmaqla",
         "C": "bütün cavablar yanlışdır",
         "D": "3"
       },
@@ -245,36 +245,36 @@
       "id": "q021",
       "question": "21. Şirkətin ƏİS-nə əsasən gəmidə əmniyyətlilik üzrə komitənin işinə kim rəhbərlik edir?",
       "options": {
-        "A": "bütün cavablar yanlışdır",
+        "A": "şimal-şərq istiqamətində",
         "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "Kapitanın növbə köməkçisi",
-        "D": "şimal-şərq istiqamətində"
+        "C": "bütün cavablar yanlışdır",
+        "D": "Kapitanın növbə köməkçisi"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Aşpaz.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,2,3,4"
+        "A": "1,2,3,4",
+        "B": "bütün cavablar yanlışdır",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Gəmi əməliyyatlarının və işlərinin aparılması zamanı əmniyyətliliyə əməl olunması.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,2,3,4,5"
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "bütün cavablar yanlışdır",
+        "C": "1,2,3,4,5",
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -282,20 +282,20 @@
       "question": "5. İkinci ucu gəmiyə etibarli bərkidilmiş əmniyyətlik kəndiri ilə qoruyucu kəmər olmadan leyer hasarından və ya falş bortdan kənara çıxmaq.",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,2,3,5"
+        "B": "1,2,3,5",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Yanalma burazına durdurucunun qoyulması zamanı komanda üzvü həmişə taramlığın əksi tərəfdən durmalıdır.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
+        "A": "bütün cavablar yanlışdır",
         "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
+        "C": "fırtınalı havada təxirə salınmaqla",
         "D": "1,2,3,4"
       },
       "correct_answer": "D",
@@ -305,12 +305,12 @@
       "id": "q005",
       "question": "5. Gəminin baş mexaniki.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "4"
+        "A": "4",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -329,60 +329,60 @@
       "id": "q005",
       "question": "5. Baş köməkçi qabaqcadan sərnişinlərin qəbulu və boşaldılmasını əmniyyətliyi üçün tələb olunan sayda heyət ayırmalıdır.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
+        "A": "1,3,5",
         "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,3,5"
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q029",
       "question": "29. Hansı dövrdən bir sərnişinlərin çıxış pilləkəninin işə yaralılığı şəhadətləndirilməlidir?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "Beş ildə bir dəfə",
+        "A": "Beş ildə bir dəfə",
+        "B": "gəmi limana daxil olana qədər",
         "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "gəmi limana daxil olana qədər"
+        "D": "lövbər dayanacağı sahəsində"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Küləyin gücü 5 baldan yuxarı, dalğalanma 6 baldan yuxarı olduqda.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "3"
+        "A": "bütün cavablar yanlışdır",
+        "B": "3",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Gəmi heyətinin istəyi zamanı.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "A": "1,2,4",
+        "B": "fırtınalı havada təxirə salınmaqla",
         "C": "bütün cavablar yanlışdır",
-        "D": "1,2,4"
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Yük əməliyyatlarının aparılması zamanı əmniyyətliyə əməl olunmasını.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "A": "1,2,3,5",
+        "B": "fırtınalı havada təxirə salınmaqla",
         "C": "bütün cavablar yanlışdır",
-        "D": "1,2,3,5"
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -391,19 +391,19 @@
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
         "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,2,4,5"
+        "C": "1,2,4,5",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Pirotexniki raketləri adamların toplandığı yerlərə, gəmilərə və sahil qurğularına tərəf buraxmaq.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
+        "A": "bütün cavablar yanlışdır",
         "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
+        "C": "fırtınalı havada təxirə salınmaqla",
         "D": "1,2,3,5"
       },
       "correct_answer": "D",
@@ -413,21 +413,21 @@
       "id": "q005",
       "question": "5. Heyətin istirahət otağında.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "2"
+        "A": "bütün cavablar yanlışdır",
+        "B": "2",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Gəminin pirotexniki vasitələri metal seyfdə saxlanılmalıdır.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "bütün cavablar yanlışdır",
+        "C": "fırtınalı havada təxirə salınmaqla",
         "D": "1,2,3,4,5"
       },
       "correct_answer": "D",
@@ -449,9 +449,9 @@
       "id": "q005",
       "question": "5. Şirkətin ƏİS –nin ISM kod yoxlama siyahısına uyğun yerinə yetirmək.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "bütün cavablar yanlışdır",
+        "C": "fırtınalı havada təxirə salınmaqla",
         "D": "1,2,3,4"
       },
       "correct_answer": "D",
@@ -461,45 +461,45 @@
       "id": "q005",
       "question": "5. Sızıntı olan yerlərdə yanacağın yığılması üçün altlıq yerləşdirilməlidir.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,2,3,4,5"
+        "A": "bütün cavablar yanlışdır",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "1,2,3,4,5",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. İş yerində əmniyyətlik üzrə təlimat keçirtməli və ISM kod yoxlama vərəqini doldurmalıdır.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "1,2,3,4,5",
         "C": "bütün cavablar yanlışdır",
-        "D": "1,2,3,4,5"
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Kabel şəbəkəsi 0,7 mom, qaynaq aparatı 0,9 mom.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "3"
+        "A": "3",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. 1 saatda 30 həcmdən az olmayan hava mübadiləsi.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
+        "A": "bütün cavablar yanlışdır",
         "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
+        "C": "fırtınalı havada təxirə salınmaqla",
         "D": "4"
       },
       "correct_answer": "D",
@@ -533,20 +533,20 @@
       "id": "q045",
       "question": "45. Əmniyyətli idarəetmə üzrə Beynəlxalq Məcəllə Beynəlxalq Dəniz Təşkilatının hansı Qətnaməsi ilə qəbul olunmuşdur?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "Qətnamə A.883(21)",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "Qətnamə A.883(21)",
+        "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Gəmi heyətinin mülki məsuliyyətinin müəyyən edilməsi.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "fırtınalı havada təxirə salınmaqla",
         "C": "bütün cavablar yanlışdır",
         "D": "1, 3, 4"
       },
@@ -557,84 +557,84 @@
       "id": "q047",
       "question": "47. Beynəlxalq Konvensiya SOLAS-74/78-nin hansı fəsli ilə Əmniyyətli İdarəetmə Haqqında Beynəlxalq Məcəllə qüvvəyə mindilirmişdir?",
       "options": {
-        "A": "V fəsli",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "V fəsli",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "cənub-qərb dreyfi zamanı"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Yük markası üzrə Beynəlxalq Konvensiya, 1966 il (LL-66/68).",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,3,4,5"
+        "A": "bütün cavablar yanlışdır",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "1,3,4,5",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Fövqəladə hallar nazirliyi.",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,2,4"
+        "A": "bütün cavablar yanlışdır",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "1,2,4",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q050",
       "question": "50. Aşağıda göstərilənlərdən hansı şirkətin əmniyyətli idarəetmə sisteminin məqsədlərinə aiddir?",
       "options": {
-        "A": "Gəmilərin təhlükəsiz istismar praktikasını və insan üçün təhlükəsiz ətraf mühiti təmin etmək",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "Gəmilərin təhlükəsiz istismar praktikasını və insan üçün təhlükəsiz ətraf mühiti təmin etmək",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "cənub-qərb dreyfi zamanı"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q051",
       "question": "51. BK SOLAS-74/78-nin IX fəslinə müvafiq olaraq Əmniyyətli idarəetmə haqqında Beynəlxalq Məcəllə hansı gəmilərə şamil olunur?",
       "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "Tutumu 150 r/t az olanlara",
+        "A": "Tutumu 150 r/t az olanlara",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
         "D": "şimal-şərq istiqamətində"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q052",
       "question": "52. Əmniyyətli idarəetmə sistemi nə deməkdir?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "ƏİS - Şirkətin heyətinə təhlükəsizlik siyasətini və ətraf mühitin mühafizəsini effektiv həyata keçirməyə imkan yaradan strukturlaşdırılmış və sənədləşdirilmiş sistemdir",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "ƏİS - Şirkətin heyətinə təhlükəsizlik siyasətini və ətraf mühitin mühafizəsini effektiv həyata keçirməyə imkan yaradan strukturlaşdırılmış və sənədləşdirilmiş sistemdir",
         "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q053",
       "question": "53. Əmniyyətli idarəetmə üzrə məlumatları gəmi heyəti hansı dildə almalıdır?",
       "options": {
-        "A": "İngilis dilində",
-        "B": "fırtınalı havada təxirə salınmaqla",
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "İngilis dilində",
         "C": "lövbər dayanacağı sahəsində",
         "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -642,31 +642,31 @@
       "question": "5. Gəmi heyəti üzvlərinin 5%-i eyni zamanda əvəzlənərkən.",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,4"
+        "B": "bütün cavablar yanlışdır",
+        "C": "1,4",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q055",
       "question": "55. Əmniyyətli idarəetmə sisteminə aid olan sənədlər toplusu necə adlanır?",
       "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "Əmniyyətli İdarəetmə üzrə Məcəllə",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "C": "avtomatik rejimdə işləyərkən",
+        "D": "Əmniyyətli İdarəetmə üzrə Məcəllə"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q056",
       "question": "56. Təhlükəli yüklər saxlanılan otağa daxil olmamışdan qabaq hansı ehtiyyat tədbirini görmək lazımdır?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "lövbər dayanacağı sahəsində",
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "C": "cənub-qərb dreyfi zamanı",
         "D": "Qaz-hava mühitinin nəzarətini həyata keçirmək"
       },
@@ -677,24 +677,24 @@
       "id": "q057",
       "question": "57. Təhlükəli yüklər saxlanılan otağı yük əməliyyatı keçirməzdən əvvəl hansı minimal müddət ərzində havalandırmaq lazımdır?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "B": "cənub-qərb dreyfi zamanı",
-        "C": "30 dəq",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "30 dəq"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q058",
       "question": "58. Əmniyyətli idarəetmə üzrə beynəlxalq məcəllə neçə hissədən ibarətdir?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "bütün cavablar yanlışdır",
-        "D": "2"
+        "A": "bütün cavablar yanlışdır",
+        "B": "2",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     }
   ]

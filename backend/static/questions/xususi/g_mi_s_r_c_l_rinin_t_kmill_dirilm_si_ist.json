@@ -5,12 +5,12 @@
       "id": "q001",
       "question": "1. Şəkildə nəyin işarəsi verilib?",
       "options": {
-        "A": "“okklyuziya” cəbhəsinin;",
-        "B": "isti cəbhənin",
-        "C": "soyuq cəbhənin",
-        "D": "stasionar cəbhənin"
+        "A": "soyuq cəbhənin",
+        "B": "stasionar cəbhənin",
+        "C": "isti cəbhənin",
+        "D": "“okklyuziya” cəbhəsinin;"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "",
       "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_001.png"
     },
@@ -18,8 +18,8 @@
       "id": "q002",
       "question": "2. Dünya okeanında qüvvətli və davamlı, 2-5 düyün sürəti olan cərəyanı qeyd edin.",
       "options": {
-        "A": "Kuroşio",
-        "B": "Kanar",
+        "A": "Kanar",
+        "B": "Kuroşio",
         "C": "Qolfstrim",
         "D": "Labrador"
       },
@@ -30,12 +30,12 @@
       "id": "q003",
       "question": "3. Xəritədə çəhrayı rəngdə qeyd edilmiş simvolu açıqlayın.",
       "options": {
-        "A": "siklon",
-        "B": "antisiクロン",
-        "C": "tayfun",
-        "D": "fırtına"
+        "A": "antisiクロン",
+        "B": "siklon",
+        "C": "fırtına",
+        "D": "tayfun"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "",
       "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_003.png"
     },
@@ -43,24 +43,24 @@
       "id": "q004",
       "question": "4. Farvaterə dənizdən daxil olarkən (reqion A) farvaterin solunda olan buyların hansı rəqəmlərlə nömrələnir ?",
       "options": {
-        "A": "cüt",
-        "B": "tək",
-        "C": "rəqəmsiz",
-        "D": "hərfi"
+        "A": "tək",
+        "B": "rəqəmsiz",
+        "C": "hərfi",
+        "D": "cüt"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Xarici təzyiqin azalması halında maye yüklərin qaynama temperaturu necə dəyişir?",
       "options": {
-        "A": "artır",
+        "A": "azalır",
         "B": "dəyişmir",
-        "C": "azalır",
-        "D": "rəqs edir"
+        "C": "rəqs edir",
+        "D": "artır"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -69,8 +69,8 @@
       "options": {
         "A": "losmanın təhlükəsizliyini təmin edən losman “trapı”, mərasim “trapı” və digər vasitələr",
         "B": "gəminin lövbərə dayanma qaydaları",
-        "C": "yüklərin bərkidilməsi qaydaları",
-        "D": "gəminin yan alması"
+        "C": "gəminin yan alması",
+        "D": "yüklərin bərkidilməsi qaydaları"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -79,12 +79,12 @@
       "id": "q007",
       "question": "7. Hidrokostyumda hansı hündürlükdən suya təhlükəsiz tullanmaq olar?",
       "options": {
-        "A": "3 metr",
-        "B": "5 metr",
-        "C": "10 metr",
-        "D": "15 metr"
+        "A": "10 metr",
+        "B": "3 metr",
+        "C": "15 metr",
+        "D": "5 metr"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "",
       "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_007.jpeg"
     },
@@ -92,24 +92,24 @@
       "id": "q008",
       "question": "8. Qeyd edilən hansı amil qaydaların tələblərinin yerinə yetirilməməsinə səbəb ola bilər?",
       "options": {
-        "A": "biləvasitə təhlükə",
-        "B": "kapitanın əmri",
-        "C": "hava şəraiti",
-        "D": "yanacaq çatışmazlığı"
+        "A": "kapitanın əmri",
+        "B": "biləvasitə təhlükə",
+        "C": "yanacaq çatışmazlığı",
+        "D": "hava şəraiti"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q009",
       "question": "9. Hava şəraiti haqqında xəritədə göstərilən Hind okeanının şərq hissəsində yaranan “Frontal” siklon necə adlandırılır?",
       "options": {
-        "A": "tək mərkəzli",
-        "B": "çox mərkəzli (iki mərkəzli)",
-        "C": "tropik",
-        "D": "subtropik"
+        "A": "subtropik",
+        "B": "tropik",
+        "C": "çox mərkəzli (iki mərkəzli)",
+        "D": "tək mərkəzli"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "",
       "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_009.png"
     },
@@ -117,12 +117,12 @@
       "id": "q010",
       "question": "10. Hansı gəminin işıqlarını müşahidə edirsiniz?",
       "options": {
-        "A": "“Laq” üsulu ilə yedək əməliyyatı ilə məşğul olan gəmi, yedək gəmisinin uzunluğu 50 m-dən azdır, hərəkəti üstümüzədir",
-        "B": "balıqçı gəmisi",
-        "C": "yelkənli gəmi",
-        "D": "lövbərdə olan gəmi"
+        "A": "balıqçı gəmisi",
+        "B": "“Laq” üsulu ilə yedək əməliyyatı ilə məşğul olan gəmi, yedək gəmisinin uzunluğu 50 m-dən azdır, hərəkəti üstümüzədir",
+        "C": "lövbərdə olan gəmi",
+        "D": "yelkənli gəmi"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "",
       "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_010.jpeg"
     },
@@ -130,12 +130,12 @@
       "id": "q011",
       "question": "11. Cümləni tamamlayın: “What is the ………. of the derricks of the vessel?”",
       "options": {
-        "A": "capacity",
-        "B": "length",
-        "C": "weight",
-        "D": "height"
+        "A": "length",
+        "B": "capacity",
+        "C": "height",
+        "D": "weight"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -143,23 +143,23 @@
       "question": "12. Uyğun gələn söz önünü seçin: “Dispose the sludge ….. the sludge tank.“",
       "options": {
         "A": "on",
-        "B": "into",
-        "C": "from",
+        "B": "from",
+        "C": "into",
         "D": "with"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q013",
       "question": "13. Şəkildə göstərilən naviqasiya xəritələrində istifadə edilən şərti işarənin düzgün mənasını qeyd edin.",
       "options": {
-        "A": "radiolokasiya bazis xətti",
-        "B": "farvater xətti",
-        "C": "kabel xətti",
-        "D": "dərinlik xətti"
+        "A": "kabel xətti",
+        "B": "dərinlik xətti",
+        "C": "farvater xətti",
+        "D": "radiolokasiya bazis xətti"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "",
       "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_013.jpeg"
     },
@@ -167,36 +167,36 @@
       "id": "q014",
       "question": "14. Gəmilərdə təhlükəli yüklərlə iş üzrə təlimat nə zaman aparılmalıdır?",
       "options": {
-        "A": "hər gün",
+        "A": "yalnız limanda",
         "B": "hər həftə",
-        "C": "əmniyyətliliyin idarə edilməsi sistemin tələblərinə uyğun olaraq",
-        "D": "yalnız limanda"
+        "C": "hər gün",
+        "D": "əmniyyətliliyin idarə edilməsi sistemin tələblərinə uyğun olaraq"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q015",
       "question": "15. “Blind sector” termininə uyğun olan tərifi qeyd edin:",
       "options": {
-        "A": "gəmi RLS ilə müşahidə edilməyən sahə",
-        "B": "görünən sahə",
+        "A": "görünən sahə",
+        "B": "təhlükəsiz sahə",
         "C": "işıqlı sahə",
-        "D": "təhlükəsiz sahə"
+        "D": "gəmi RLS ilə müşahidə edilməyən sahə"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q016",
       "question": "16. Hava şəraiti haqqında xəritənin məlumatına görə Sakit okeanın şimal-qərb hissəsində “NOCK TEN” adlı tropik fırtınanın ən çox ehtimal edildiyi hərəkət istiqamətini qeyd edin:",
       "options": {
-        "A": "şimal - şərq istiqamətində",
-        "B": "şimal - qərb istiqamətində",
+        "A": "cənub - qərb istiqamətində",
+        "B": "şimal - şərq istiqamətində",
         "C": "cənub - şərq istiqamətində",
-        "D": "cənub - qərb istiqamətində"
+        "D": "şimal - qərb istiqamətində"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "",
       "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_016.png"
     },
@@ -204,12 +204,12 @@
       "id": "q017",
       "question": "17. Şəkildə göstərilən naviqasiya xəritələrində istifadə edilən şərti işarənin düzgün mənasını qeyd edin?",
       "options": {
-        "A": "hərəkətin bölünmə sisteminin sərhədi",
-        "B": "dövlət sərhədi",
-        "C": "zona sərhədi",
-        "D": "lövbər sərhədi"
+        "A": "dövlət sərhədi",
+        "B": "zona sərhədi",
+        "C": "lövbər sərhədi",
+        "D": "hərəkətin bölünmə sisteminin sərhədi"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "",
       "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_017.jpeg"
     },
@@ -217,12 +217,12 @@
       "id": "q018",
       "question": "18. Dənizdə insan həyatının qorunması haqqında” (SOLAS) Beynəlxalq Konvensiyanın tələblərinə uyğun olaraq gəmidə su ilə mübarizə üzrə təlimlərin keçirilməsi müddətini qeyd edin:",
       "options": {
-        "A": "hər ay",
-        "B": "hər 3 aydan bir",
-        "C": "Beynəlxalq Konvensiyada bu tələb yoxdur",
-        "D": "hər il"
+        "A": "hər il",
+        "B": "Beynəlxalq Konvensiyada bu tələb yoxdur",
+        "C": "hər 3 aydan bir",
+        "D": "hər ay"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "",
       "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_018.jpeg"
     },
@@ -230,22 +230,22 @@
       "id": "q019",
       "question": "19. ”Inoperative” termininə uyğun olan tərifi qeyd edin:",
       "options": {
-        "A": "işləyən",
-        "B": "hazır olan",
-        "C": "işləməyən, fəaliyyət göstərməyən",
+        "A": "hazır olan",
+        "B": "işləməyən, fəaliyyət göstərməyən",
+        "C": "işləyən",
         "D": "təzə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q020",
       "question": "20. Gəmidən insanları vertolyotla qaldırmaq üçün gəmi göyərtəsinin bir hissəsi hansı hərf ilə nişanlanmalıdır?",
       "options": {
-        "A": "ağ rəngli böyük “V“ hərfi ilə",
+        "A": "sarı rəngli “M” hərfi ilə",
         "B": "ağ rəngli böyük “H“ hərfi ilə",
         "C": "qırmızı rəngli “X” hərfi ilə",
-        "D": "sarı rəngli “M” hərfi ilə"
+        "D": "ağ rəngli böyük “V“ hərfi ilə"
       },
       "correct_answer": "B",
       "explanation": "",
@@ -255,12 +255,12 @@
       "id": "q021",
       "question": "21. “NAVTEX” qəbuledicinin çap menyusundan hansı məlumatları operator çıxara bilməz?",
       "options": {
-        "A": "naviqasiya xəbərdarlıqlarını",
-        "B": "hava xəbərdarlıqlarını",
-        "C": "axtarış və xilasetmə üzrə məlumatları",
-        "D": "bütün məlumatları"
+        "A": "axtarış və xilasetmə üzrə məlumatları",
+        "B": "naviqasiya xəbərdarlıqlarını",
+        "C": "bütün məlumatları",
+        "D": "hava xəbərdarlıqlarını"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "",
       "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_021.jpeg"
     },
@@ -281,22 +281,22 @@
       "id": "q023",
       "question": "23. Gəmidən müvafiq vizual vasitələrlə ötürülən “X” siqnalı nəyi ifadə edir?",
       "options": {
-        "A": "Yanğın var",
+        "A": "Sükan zədələnib",
         "B": "Gəmi batır",
-        "C": "Tibbi yardım tələb olunur",
-        "D": "Sükan zədələnib"
+        "C": "Yanğın var",
+        "D": "Tibbi yardım tələb olunur"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q024",
       "question": "24. Fəlakət rayonlarında “GMDSS” sisteminə aid radio əlaqənin məhdudlaşdırılması göstərişini ifadə edən siqnalı qeyd edin?",
       "options": {
-        "A": "“MAY DAY”",
-        "B": "“SILENCE”",
+        "A": "“SILENCE”",
+        "B": "“PAN PAN”",
         "C": "“PRUDONCE”",
-        "D": "“PAN PAN”"
+        "D": "“MAY DAY”"
       },
       "correct_answer": "C",
       "explanation": "",
@@ -306,21 +306,21 @@
       "id": "q025",
       "question": "25. Gəmidən insanın dənizə düşdüyü hallarda dərhal yerinə yetirilən gəmi manevrləri hansılardır?",
       "options": {
-        "A": "“Anderson” manevri, “Uilyamson” manevri",
-        "B": "dairəvi manevr",
-        "C": "ziqzaq manevri",
-        "D": "arxaya gediş"
+        "A": "arxaya gediş",
+        "B": "ziqzaq manevri",
+        "C": "“Anderson” manevri, “Uilyamson” manevri",
+        "D": "dairəvi manevr"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q026",
       "question": "26. Gəminin “Laq”ın göstəricisinə görə keçdiyi məsafə 64 mildir, “Laq”ın əmsalı K= 0,95. Gəminin keçdiyi həqiqi məsafəni qeyd edin?",
       "options": {
-        "A": "64,0 mil",
+        "A": "67,3 mil",
         "B": "60,8 mil",
-        "C": "67,3 mil",
+        "C": "64,0 mil",
         "D": "58,2 mil"
       },
       "correct_answer": "B",
@@ -331,9 +331,9 @@
       "question": "27. Siz 1saylı gəmidəsiniz. Şəkildə sizin gəminizin həqiqi kursu hansı hərf ilə qeyd edilmişdir?",
       "options": {
         "A": "A",
-        "B": "B",
-        "C": "C",
-        "D": "D"
+        "B": "D",
+        "C": "B",
+        "D": "C"
       },
       "correct_answer": "A",
       "explanation": "",
@@ -343,10 +343,10 @@
       "id": "q028",
       "question": "28. “MAMS” çəpərləmə sistemində istifadə edilən farvaterlərin sağ və sol tərəflərini göstərən işarələr necə adlandırılır?",
       "options": {
-        "A": "“Kardinal”",
+        "A": "“Təhlükəsiz”",
         "B": "“Lateral”",
         "C": "“Xüsusi”",
-        "D": "“Təhlükəsiz”"
+        "D": "“Kardinal”"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -355,12 +355,12 @@
       "id": "q029",
       "question": "29. Gəmidə avtosükanın texniki vəziyyətinə kim cavabdehdir?",
       "options": {
-        "A": "Kapitan",
-        "B": "Böyük köməkçi",
-        "C": "Elektrik mexaniki",
-        "D": "Növbətçi şturman"
+        "A": "Elektrik mexaniki",
+        "B": "Növbətçi şturman",
+        "C": "Böyük köməkçi",
+        "D": "Kapitan"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "",
       "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_ist/q_029.jpeg"
     },
@@ -370,8 +370,8 @@
       "options": {
         "A": "“SEELONCE MAYDAY”",
         "B": "“SEELONCE ONCE FEENEE”",
-        "C": "“PRUDONCE”",
-        "D": "“RESTRICTED”"
+        "C": "“RESTRICTED”",
+        "D": "“PRUDONCE”"
       },
       "correct_answer": "B",
       "explanation": "",
@@ -382,59 +382,59 @@
       "question": "31. “Toqquşma” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
       "options": {
         "A": "“Grounding”",
-        "B": "“Collision”",
-        "C": "“Flooding”",
-        "D": "“Fire”"
+        "B": "“Flooding”",
+        "C": "“Fire”",
+        "D": "“Collision”"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q032",
       "question": "32. “Yanğın, partlayış” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
       "options": {
-        "A": "“Fire, explosion”",
-        "B": "“Collision”",
-        "C": "“Grounding”",
+        "A": "“Collision”",
+        "B": "“Grounding”",
+        "C": "“Fire, explosion”",
         "D": "“Disabled”"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q033",
       "question": "33. “Kren, çevrilmə təhlükəsi” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
       "options": {
-        "A": "“Listing, capsizing”",
-        "B": "“Grounding”",
-        "C": "“Sinking”",
-        "D": "“Drifting”"
+        "A": "“Sinking”",
+        "B": "“Drifting”",
+        "C": "“Listing, capsizing”",
+        "D": "“Grounding”"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q034",
       "question": "34. “Saya oturma” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
       "options": {
-        "A": "“Grounding”",
+        "A": "“Capsizing”",
         "B": "“Collision”",
-        "C": "“Capsizing”",
-        "D": "“Abandoning”"
+        "C": "“Abandoning”",
+        "D": "“Grounding”"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q035",
       "question": "35. “İdarə etmənin itirilməsi və dreyf” anlayışının ingilis dilinə tərcüməsini qeyd edin:",
       "options": {
-        "A": "“Disabled & Adrift”",
-        "B": "“Grounding”",
-        "C": "“Collision”",
-        "D": "“Fire”"
+        "A": "“Collision”",
+        "B": "“Fire”",
+        "C": "“Grounding”",
+        "D": "“Disabled & Adrift”"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -453,24 +453,24 @@
       "id": "q037",
       "question": "37. “Yük manifesti” nədir?",
       "options": {
-        "A": "dəniz ilə yük daşımalarını nizamlayan beynəlxalq qanunlar toplusu",
-        "B": "gəmi jurnalının çıxarılışı",
-        "C": "ekipaj siyahısı",
-        "D": "yanacaq hesabatı"
+        "A": "gəmi jurnalının çıxarılışı",
+        "B": "ekipaj siyahısı",
+        "C": "yanacaq hesabatı",
+        "D": "dəniz ilə yük daşımalarını nizamlayan beynəlxalq qanunlar toplusu"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q038",
       "question": "38. Qəbul edilmiş yük haqqında qeydlər aparılmasından və kapitanın yük köməkçisi tərəfindən imzalanmasından sonra “yük orderi” necə adlandırılır?",
       "options": {
-        "A": "konosament",
-        "B": "manifest",
-        "C": "notis",
+        "A": "notis",
+        "B": "konosament",
+        "C": "manifest",
         "D": "dispaç"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -478,9 +478,9 @@
       "question": "39. Gəminin ümumi yükün qəbuluna hazır olması haqqında məlumat hansı sənəddə qeyd edilməlidir?",
       "options": {
         "A": "gəmi jurnalında",
-        "B": "liman kitabında",
+        "B": "ekipaj siyahısında",
         "C": "pasportda",
-        "D": "ekipaj siyahısında"
+        "D": "liman kitabında"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -489,12 +489,12 @@
       "id": "q040",
       "question": "40. Yük göndərən sahibkara şturman qəbzinin əsasında hansı sənəd verilir?",
       "options": {
-        "A": "konosament",
-        "B": "akt",
-        "C": "notis",
-        "D": "fatxura"
+        "A": "akt",
+        "B": "notis",
+        "C": "fatxura",
+        "D": "konosament"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -513,24 +513,24 @@
       "id": "q042",
       "question": "42. Aşağıdakılardan hansı məlumat konosamentə daxil edilir?",
       "options": {
-        "A": "yüklənmə limanı",
-        "B": "kapitanın ev ünvanı",
+        "A": "kapitanın ev ünvanı",
+        "B": "yüklənmə limanı",
         "C": "gəminin tikildiyi il",
         "D": "ekipajın maaşı"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q043",
       "question": "43. Hansı sənədin təqdim edilməsi ilə gəmi yük əməliyyatlarına hazırlığını bəyan edir?",
       "options": {
-        "A": "kapitanın bildirişi (Notis)",
-        "B": "ekipaj siyahısı",
+        "A": "ekipaj siyahısı",
+        "B": "sanitar şəhadətnamə",
         "C": "gəmi pasportu",
-        "D": "sanitar şəhadətnamə"
+        "D": "kapitanın bildirişi (Notis)"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     }
   ]

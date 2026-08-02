@@ -6,21 +6,21 @@
       "question": "1. Suya düşmüş adamı xilas etmək məqsədi ilə bir dairə etmə manevri hansı hallarda istifadə olunur?",
       "options": {
         "A": "50 metr məsafədə dənizdə",
-        "B": "Gəmidən adamı suya düşərkən görüblər",
+        "B": "gəmi limana daxil olana qədər",
         "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "gəmi limana daxil olana qədər"
+        "D": "Gəmidən adamı suya düşərkən görüblər"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q002",
       "question": "2. Gəmini idarə edən vasitələri sadalayın:",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "C": "Sükan qurğusu, sükanaltı qurğusu, maşın teleqrafı, lövbər qurğusu, daxili rabitə sistemi",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -29,10 +29,10 @@
       "id": "q003",
       "question": "3. Gəminin axıntıdan dreyfini necə hesablayırlar?",
       "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "lövbər dayanacağı sahəsində",
         "C": "Xəritədə axıntı üçbucağı çəkilir və axıntıdan dreyfin bucağı (β) hesablanır",
-        "D": "lövbər dayanacağı sahəsində"
+        "D": "10 uzel sürətlə manevr etdikdə"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -41,36 +41,36 @@
       "id": "q004",
       "question": "4. Gəminin fırlanma mərkəzinin nöqtəsi sabit sayılırmı?",
       "options": {
-        "A": "Gəminin üfüqi müstəvisinin müxtəlif yerlərində yerləşir",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "Gəminin üfüqi müstəvisinin müxtəlif yerlərində yerləşir",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Gəmi sirkulyasiya edəndə (dönəndə) ilkin anda hansı yana əyilir?",
       "options": {
-        "A": "Sükan çevrilən tərəfə",
-        "B": "şimal-şərq istiqamətində",
-        "C": "50 metr məsafədə dənizdə",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "Sükan çevrilən tərəfə",
+        "C": "şimal-şərq istiqamətində",
+        "D": "50 metr məsafədə dənizdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q006",
       "question": "6. Gəminin tormoz yolu hansı məna daşıyır?",
       "options": {
-        "A": "Gəminin sabitləşmiş önə ən tam sürət rejimindən, arxaya ən tam sürət rejiminə komanda verildikdən sonra, tam dayanma anına qədər yolu",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "Gəminin sabitləşmiş önə ən tam sürət rejimindən, arxaya ən tam sürət rejiminə komanda verildikdən sonra, tam dayanma anına qədər yolu",
         "C": "fırtınalı havada təxirə salınmaqla",
         "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -89,12 +89,12 @@
       "id": "q008",
       "question": "8. Standart manevrlərə nə aiddir?",
       "options": {
-        "A": "Gəminin sürəti, sirkulyasiya manevri, qabağa çəkmə, taktiki diametr, “ziqzaq” manevri üzrə sınaqlar, tormoz yolu",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "D": "Gəminin sürəti, sirkulyasiya manevri, qabağa çəkmə, taktiki diametr, “ziqzaq” manevri üzrə sınaqlar, tormoz yolu"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -102,11 +102,11 @@
       "question": "9. Gəminin manevr elementlərinə nə aiddir?",
       "options": {
         "A": "50 metr məsafədə dənizdə",
-        "B": "avtomatik rejimdə işləyərkən",
+        "B": "İti getmə (yeyinlik), sirkulyasiya qabiliyyəti, inersiya",
         "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "İti getmə (yeyinlik), sirkulyasiya qabiliyyəti, inersiya"
+        "D": "avtomatik rejimdə işləyərkən"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -125,10 +125,10 @@
       "id": "q011",
       "question": "11. Gəminin “ziqzaq” manevri üzrə sınaqlarda sükanı çevirmə bucağı və istiqamətin dəyişmə dərəcəsi nə qədər olmalıdır?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "A": "gəmi limana daxil olana qədər",
         "B": "10°/10°",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "gəmi limana daxil olana qədər"
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "lövbər dayanacağı sahəsində"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -139,8 +139,8 @@
       "options": {
         "A": "əllə idarəetmə rejiminə keçdikdə",
         "B": "Gil, daşlıq",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "lövbər dayanacağı sahəsində"
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "avtomatik rejimdə işləyərkən"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -151,32 +151,32 @@
       "options": {
         "A": "cənub-qərb dreyfi zamanı",
         "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "Gəminin və suya buraxılan lövbər zəncirinin uzunluğundan",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "Gəminin və suya buraxılan lövbər zəncirinin uzunluğundan"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q014",
       "question": "14. “Fertoinq” üsulu ilə gəmi lövbərə dayanarkən, lövbər zəncirləri arası tövsiyə olunan bucaq nə qədər olmalıdır?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "180°",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "180°"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q015",
       "question": "15. Gəminin “şprinq”ə qoyulması nə deməkdir?",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
+        "A": "fırtınalı havada təxirə salınmaqla",
         "B": "Gəminin lövbəri dənizin dibindən çıxmırsa, onu güclü axıntının köməyi ilə çıxartmaq",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "fırtınalı havada təxirə salınmaqla"
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "gərginlik 220 V həddinə çatdıqda"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -185,12 +185,12 @@
       "id": "q016",
       "question": "16. Dayaz sularda üzmə gəminin idarə olunmasına necə təsir edir?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
-        "B": "Suyun müqaviməti artır, dalğalanma prosesləri artır, gəminin sürəti azalır, gəminin orta su oturumu artır",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+        "A": "Suyun müqaviməti artır, dalğalanma prosesləri artır, gəminin sürəti azalır, gəminin orta su oturumu artır",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -198,8 +198,8 @@
       "question": "17. Gəmi “brideldə durub” mənasını açıqlayın:",
       "options": {
         "A": "Gəmi üfüqi vəziyyətdə olan çəlləyə qoyulub",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "bütün cavablar doğrudur",
+        "B": "bütün cavablar doğrudur",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "D": "50 metr məsafədə dənizdə"
       },
       "correct_answer": "A",
@@ -211,8 +211,8 @@
       "options": {
         "A": "Qanadlarının dönmə bucağını dəyişən vint",
         "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "bütün cavablar doğrudur"
+        "C": "bütün cavablar doğrudur",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -221,48 +221,48 @@
       "id": "q019",
       "question": "19. Diferent gəminin idarə olunmasına necə təsir edir?",
       "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
         "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "Diferent gəminin burun hissəsinə nə qədər çox olarsa, bir o qədər onun idarə olunması çətinləşir",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "Diferent gəminin burun hissəsinə nə qədər çox olarsa, bir o qədər onun idarə olunması çətinləşir"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q020",
       "question": "20. Sirkulyasiya (dönmə) zamanı gəminin sürəti necə dəyişir?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "Sürət tədricən azalır",
+        "A": "Sürət tədricən azalır",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q021",
       "question": "21. Gəmi körpüdə dayanarkən, onun əsas və əlavə burazları necə bərkidilməlidir?",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
+        "A": "Şəraitdən asılı olaraq bu əməliyyata gəmi kapitanı göstəriş verir",
         "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "Şəraitdən asılı olaraq bu əməliyyata gəmi kapitanı göstəriş verir"
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "avtomatik rejimdə işləyərkən"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q022",
       "question": "22. Gəmidə istifadə olunan daxili yanma mühərriklərinin revers vaxtı nə qədərdir?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "Kiçik gəmilərdə - 5 – 20 saniyə, böyük gəmilərdə - 1 – 2 dəqiqə",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "Kiçik gəmilərdə - 5 – 20 saniyə, böyük gəmilərdə - 1 – 2 dəqiqə",
+        "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -271,8 +271,8 @@
       "options": {
         "A": "Gəminin kursu yan tərəfdən əks tərəfə “qaçır”",
         "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "şimal-şərq istiqamətində"
+        "C": "şimal-şərq istiqamətində",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -281,60 +281,60 @@
       "id": "q024",
       "question": "24. Suya düşmüş adamı xilas etmək məqsədi ilə “Şarnov” dönməsi manevri hansı hallarda istifadə olunur?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "bütün cavablar doğrudur",
-        "C": "Adamın suya düşməsini heç kim görmədikdə və gəmini tez bir zamanda keçmiş yoluna qaytarmaq məqsədi ilə",
-        "D": "50 metr məsafədə dənizdə"
+        "A": "Adamın suya düşməsini heç kim görmədikdə və gəmini tez bir zamanda keçmiş yoluna qaytarmaq məqsədi ilə",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q025",
       "question": "25. Suya düşmüş adamı xilas etmək məqsədi ilə “Vilyamson” dönməsi manevri hansı hallarda istifadə olunur?",
       "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "bütün cavablar doğrudur",
-        "C": "Bütün hallarda istifadə etmək olar",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "bütün cavablar doğrudur",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "bütün cavablar yanlışdır",
+        "D": "Bütün hallarda istifadə etmək olar"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q026",
       "question": "26. Gəminin küləkdən dreyfini necə hesablayırlar?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "Küləyin həqiqi istiqamətini və sürətini hesablayaraq, gəminin dreyf cədvəlindən dreyf bucağı (α) seçilir",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "bütün cavablar doğrudur"
+        "A": "bütün cavablar doğrudur",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "Küləyin həqiqi istiqamətini və sürətini hesablayaraq, gəminin dreyf cədvəlindən dreyf bucağı (α) seçilir"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q027",
       "question": "27. Gəminin fırlanma mərkəzi nədir?",
       "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "A": "Gəminin üfüqi müstəvisində yerləşən qüvvə nöqtəsidir",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "C": "gəmi limana daxil olana qədər",
-        "D": "Gəminin üfüqi müstəvisində yerləşən qüvvə nöqtəsidir"
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q028",
       "question": "28. İnersiya gəminin hansı hərəkət rejimlərində təyin olunur?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
+        "A": "Sabitləşmiş önə ən tam sürət rejimində, “stop” komandası verildikdən sonra, tam dayanan anına qədər",
         "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "Sabitləşmiş önə ən tam sürət rejimində, “stop” komandası verildikdən sonra, tam dayanan anına qədər",
-        "D": "şimal-şərq istiqamətində"
+        "C": "şimal-şərq istiqamətində",
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -343,8 +343,8 @@
       "options": {
         "A": "Losman (bələdçi) vərəqəsində, manevr elementlərinin cədvəlində, manevr xüsusiyyətlərinin formulyarında",
         "B": "avtomatik rejimdə işləyərkən",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "bütün cavablar doğrudur"
+        "C": "bütün cavablar doğrudur",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -353,24 +353,24 @@
       "id": "q030",
       "question": "30. İnersiya elementlərinə nə aiddir?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "Məsafə və vaxt",
+        "A": "Məsafə və vaxt",
+        "B": "cənub-qərb dreyfi zamanı",
         "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "cənub-qərb dreyfi zamanı"
+        "D": "lövbər dayanacağı sahəsində"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q031",
       "question": "31. Gəminin sirkulyasiya elementləri təyin edilərkən, sükanı çevirmə bucağı nə qədər olmalıdır?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "35°",
         "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "35°"
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -389,8 +389,8 @@
       "id": "q033",
       "question": "33. Gəmi lövbərdə dayanarkən, istiqaməti hansı tərəfə olmalıdır?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "avtomatik rejimdə işləyərkən",
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "fırtınalı havada təxirə salınmaqla",
         "C": "bütün cavablar yanlışdır",
         "D": "Külək və axıntı istiqamətinə qarşı; onların eyni zamanda birgə təsiri olarsa, ikisindən daha güclü təsirə qarşı"
       },
@@ -402,33 +402,33 @@
       "question": "34. Gəmi iki lövbərə dayanarkən, lövbər zəncirləri arası tövsiyə olunan bucaq nə qədər olmalıdır?",
       "options": {
         "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "30° - 40°",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "30° - 40°",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q035",
       "question": "35. Gəminin lövbərdə dayanması üçün “Fertoinq” üsulu hansı hallarda istifadə olunur?",
       "options": {
-        "A": "Güclü qabarma-çəkilmə axıntılar olan və məhdud sahəli akvatoriyalarda",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "Güclü qabarma-çəkilmə axıntılar olan və məhdud sahəli akvatoriyalarda"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q036",
       "question": "36. Gəmi lövbərə dayanarkən, “lövbər dayanacağının planşeti” nə üçün çəkilir?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
+        "A": "gərginlik 220 V həddinə çatdıqda",
         "B": "Gəminin təyin edilmiş yerinə, onun dəyişilməsinə, naviqasiya cəhətdən təhlükəsizliyinə nəzarət məqsədi ilə",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "50 metr məsafədə dənizdə"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -437,34 +437,34 @@
       "id": "q037",
       "question": "37. Hansı üsullarla gəmi korma ilə körpüyə yan ala bilər?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "Sərbəst şəkildə, şəraitdən asılı olaraq",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "A": "Sərbəst şəkildə, şəraitdən asılı olaraq",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q038",
       "question": "38. “Bitinq” üsulu ilə yedəkləmə vaxtı, yedək burazı yedək olan gəminin hansı hissəsində bərkidilir?",
       "options": {
-        "A": "Yedək gəmisindən yedək olan gəmiyə iki buraz verilərək, onları bak və ya korma hissəsinə aralayaraq knextlərdə bərkidirlər",
+        "A": "gəmi limana daxil olana qədər",
         "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "gəmi limana daxil olana qədər",
+        "C": "Yedək gəmisindən yedək olan gəmiyə iki buraz verilərək, onları bak və ya korma hissəsinə aralayaraq knextlərdə bərkidirlər",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q039",
       "question": "39. Dar keçidlərdə və kanallarda üzmə gəminin idarə olunmasına necə təsir edir?",
       "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
+        "A": "cənub-qərb dreyfi zamanı",
         "B": "Gəminin burnu yaxın sahildən aralanmaq istəyir, kanalda isə gəmilər arası sorma (çəkmə) effekti əmələ gəlir",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "10 uzel sürətlə manevr etdikdə"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -473,12 +473,12 @@
       "id": "q040",
       "question": "40. “Sleminq” sözü hansı mənanı daşıyır?",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "Gəminin suya baş vurması zamanında dalğaların onun alt hissəsinə zərbələrlə vurulması",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "gəmi limana daxil olana qədər",
+        "B": "Gəminin suya baş vurması zamanında dalğaların onun alt hissəsinə zərbələrlə vurulması",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -498,9 +498,9 @@
       "question": "42. Gəmi yük və ballast altında olduğu zaman, onun sirkulyasiyası necə dəyişir?",
       "options": {
         "A": "Sirkulyasiya diametri çoxalır",
-        "B": "50 metr məsafədə dənizdə",
+        "B": "bütün cavablar yanlışdır",
         "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "bütün cavablar yanlışdır"
+        "D": "50 metr məsafədə dənizdə"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -509,46 +509,46 @@
       "id": "q043",
       "question": "43. Gəmi körpüdə dayanarkən, onun burazları hansı dartma qüvvəsinə məruz qalırlar?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "Gəminin bort üzrə yuxarı hissəsindən verilibsə, onda dartma qüvvəsi də bir o qədər yüksəkdir, bort üzrə aşağı tərəfə dartma qüvvəsi azalır",
-        "D": "bütün cavablar yanlışdır"
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "bütün cavablar yanlışdır",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "Gəminin bort üzrə yuxarı hissəsindən verilibsə, onda dartma qüvvəsi də bir o qədər yüksəkdir, bort üzrə aşağı tərəfə dartma qüvvəsi azalır"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q044",
       "question": "44. Gəmi lövbərdə dayanarkən onu döndərmək məqsədi ilə, eyni zamanda baş mühərriki istifadə etmək olarmı?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "A": "Olar",
         "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "Olar"
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "cənub-qərb dreyfi zamanı"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q045",
       "question": "45. Hansı rəhbər sənədin gəmi sürücülüyünün təhlükəsizliyinə dair tələblərinə görə, dənizdə gəminin yerinin təyin etməsinin diskretliyinə dair tövsiyələr verilib?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "şturman xidmətinin təşkili üzrə tövsiyələrdə (РШС-89)"
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "şturman xidmətinin təşkili üzrə tövsiyələrdə (РШС-89)",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q046",
       "question": "46. Gəmi hərəkətin bölünmə sisteminə hansı qaydalara əsasən daxil olmalı və sistemi tərk etməlidir?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "A": "50 metr məsafədə dənizdə",
         "B": "bütün cavablar doğrudur",
         "C": "Hərəkətin bölünmə sisteminin başlanğıc v.y. axırıncı nöqtəsində, əgər bu mümkün deyilsə, bölünmə sisteminin istiqaməti üzrə kiçik bucaq altında",
-        "D": "50 metr məsafədə dənizdə"
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -557,12 +557,12 @@
       "id": "q047",
       "question": "47. Gəmi hərəkətin bölünmə sisteminin üzərindən hansı qaydada keçməlidir?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "Zəruri şəraitdə hərəkətin bölünmə sisteminin istiqamətinə 900 bucaq altında keçməlidir",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "Zəruri şəraitdə hərəkətin bölünmə sisteminin istiqamətinə 900 bucaq altında keçməlidir"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -570,11 +570,11 @@
       "question": "48. Gəmilər hərəkətin bölünmə sistemində üzərkən, qaydalara görə hansı üstünlüklərə malikdirlər?",
       "options": {
         "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "Heç bir üstünlükləri yoxdur",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "D": "Heç bir üstünlükləri yoxdur"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -593,48 +593,48 @@
       "id": "q050",
       "question": "50. “Sancma” üsulu ilə yedəkləmə vaxtı yedək gəmisi öz işini necə aparır?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "Şəraitdən asılı olaraq, yedək gəmisi yedəklənən gəmini müxtəlif istiqamətlərdən burun hissəsi ilə itəliyir və lazımi vəziyyətə gətirir"
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "Şəraitdən asılı olaraq, yedək gəmisi yedəklənən gəmini müxtəlif istiqamətlərdən burun hissəsi ilə itəliyir və lazımi vəziyyətə gətirir",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q051",
       "question": "51. Fırtına zamanı gəmi hansı hallarda fırtınanın təsirinə daha çox məruz qalır?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "bütün cavablar doğrudur",
-        "C": "Gəmi dalğaya qarşı laqla dayananda, dalğanın uzunluğu gəminin uzunluğundan çox olanda, gəminin mühərrikləri “stop” vəziyyətində olanda, gəmi öz istiqamətini xeyli dəyişəndə, sürəti dalğanın sürətindən çox və ya xeyli az olanda, dalğanın zirvəsində olanda",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "Gəmi dalğaya qarşı laqla dayananda, dalğanın uzunluğu gəminin uzunluğundan çox olanda, gəminin mühərrikləri “stop” vəziyyətində olanda, gəmi öz istiqamətini xeyli dəyişəndə, sürəti dalğanın sürətindən çox və ya xeyli az olanda, dalğanın zirvəsində olanda",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q052",
       "question": "52. Gəminin helikopterlə birgə işləməsi üçün, onu açıq göyərtədə qəbul etmək məqsədilə hazırlanan sahə neçə metrdən az olmamalıdır?",
       "options": {
-        "A": "5 metr",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "C": "5 metr",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q053",
       "question": "53. Gəmi lövbərinin oxunun pəncələrinə görə dəniz dibinin səviyyəsindən qalxan vəziyyətdə olması, lövbərin saxlama qüvvəsinə necə təsir edir?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "bütün cavablar yanlışdır",
-        "D": "Lövbərin saxlama qüvvəsi azalır"
+        "A": "Lövbərin saxlama qüvvəsi azalır",
+        "B": "şimal-şərq istiqamətində",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -642,8 +642,8 @@
       "question": "54. Niyə “matrosov” lövbərinin saxlama gücü, “xol” lövbərinə nisbətən daha çoxdur?",
       "options": {
         "A": "”matrosov” lövbərinin pəncələri onun oxuna daha yaxın yerləşir",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "lövbər dayanacağı sahəsində",
         "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
       "correct_answer": "A",
@@ -653,12 +653,12 @@
       "id": "q055",
       "question": "55. Hansı hallarda beynəlxalq dəniz hüququna əsasən, açıq dənizdə hərbi gəmilər tərəfindən gəmiyə baxış keçirilir?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "Əgər gəmi qanunsuz radio ötürmə (tele ötürmə) ilə məşğuldursa",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "Əgər gəmi qanunsuz radio ötürmə (tele ötürmə) ilə məşğuldursa"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -667,34 +667,34 @@
       "options": {
         "A": "gərginlik 220 V həddinə çatdıqda",
         "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "Olar",
-        "D": "şimal-şərq istiqamətində"
+        "C": "şimal-şərq istiqamətində",
+        "D": "Olar"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q057",
       "question": "57. Axtarış-xilasetmə işlərini apararkən, tövsiyə olunmuş axtarış sxemləri hansı sənəddə göstərilib?",
       "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "IAMSAR",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "C": "bütün cavablar doğrudur",
+        "D": "IAMSAR"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q058",
       "question": "58. Suya düşmüş insanı xilas etmək üçün standart manevrlərdən hansı “dərhal manevr” kimi istifadə olunmur?",
       "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "Şarnov manevri",
-        "C": "50 metr məsafədə dənizdə",
+        "A": "50 metr məsafədə dənizdə",
+        "B": "bütün cavablar doğrudur",
+        "C": "Şarnov manevri",
         "D": "lövbər dayanacağı sahəsində"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {

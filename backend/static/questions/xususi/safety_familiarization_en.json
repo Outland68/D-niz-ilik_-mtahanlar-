@@ -5,48 +5,48 @@
       "id": "q001",
       "question": "If 25% of the crew -or more- has not participated in Fire drill during the last month, what is the time limit to conduct such a drill after the vessel has left a port?",
       "options": {
-        "A": "Within 24 hrs",
-        "B": "Within 12 hrs",
-        "C": "Within 48 hrs",
-        "D": "Within 72 hrs"
+        "A": "Within 48 hrs",
+        "B": "Within 24 hrs",
+        "C": "Within 72 hrs",
+        "D": "Within 12 hrs"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q002",
       "question": "What kind of information must be posted in all passenger cabins?",
       "options": {
-        "A": "Ship’s speed, current location, and weather forecast",
-        "B": "The route to muster station, how to put on lifejacket and different emergency signals used onboard the ship",
-        "C": "The meal times and daily recreational activities",
-        "D": "Names and ranks of all senior officers on board"
+        "A": "Names and ranks of all senior officers on board",
+        "B": "The meal times and daily recreational activities",
+        "C": "Ship’s speed, current location, and weather forecast",
+        "D": "The route to muster station, how to put on lifejacket and different emergency signals used onboard the ship"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q003",
       "question": "Select emergencies which could lead to fires or the foundering of ships.",
       "options": {
-        "A": "Collision and hull failure",
+        "A": "Failure of main steering gear in calm seas",
         "B": "Minor oil leaks in dry store",
-        "C": "Failure of main steering gear in calm seas",
-        "D": "Loss of internet connectivity"
+        "C": "Loss of internet connectivity",
+        "D": "Collision and hull failure"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q004",
       "question": "Select emergencies which could lead to fires or the foundering of ships.",
       "options": {
-        "A": "Scheduled generator maintenance",
-        "B": "Anchor drag in soft mud",
-        "C": "Shifting of cargo and engine-room explosion or fire",
+        "A": "Anchor drag in soft mud",
+        "B": "Shifting of cargo and engine-room explosion or fire",
+        "C": "Scheduled generator maintenance",
         "D": "Failure of pantry equipment"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -54,9 +54,9 @@
       "question": "How can you avoid and/or reduce potential panic among passengers if a dangerous situation occurs?",
       "options": {
         "A": "Lock passengers inside their cabins until the situation is resolved",
-        "B": "Direct all passengers to immediately head to the lifeboats without instructions",
+        "B": "Sound the abandon ship signal immediately without explanation",
         "C": "Inform passengers at frequent intervals over the public announcement system about the situation and how they shall act. Use as many of the ship’s officers and crew among the passengers to assist",
-        "D": "Sound the abandon ship signal immediately without explanation"
+        "D": "Direct all passengers to immediately head to the lifeboats without instructions"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -78,11 +78,11 @@
       "question": "How many separate means of escape routes from passengers and crew spaces shall passenger ships carrying less than 36 passengers have? (SOLAS II-2/28)",
       "options": {
         "A": "One",
-        "B": "Two",
-        "C": "Three",
-        "D": "Four"
+        "B": "Three",
+        "C": "Four",
+        "D": "Two"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -90,33 +90,33 @@
       "question": "Emergency instructions in appropriate languages shall be posted in passenger cabins. Which one of the given instructions has to be included according to present SOLAS regulations?",
       "options": {
         "A": "The contact details of the port authority",
-        "B": "Instructions on how to operate communication radios",
-        "C": "The method of donning lifejackets",
+        "B": "The method of donning lifejackets",
+        "C": "Instructions on how to operate communication radios",
         "D": "Guidelines on how to deploy liferafts manually"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q009",
       "question": "If some of the passengers are disabled, i.e. using wheelchair, cane, blind etc., what precaution should the crew take?",
       "options": {
-        "A": "Ensure they remain in their cabins throughout the entire voyage",
-        "B": "All passengers that will require some form of assistance in case of evacuation, etc. must be registered, so there can be crew sent to assist them if needed",
-        "C": "Assign them to the top deck cabins for quicker access",
-        "D": "Instruct them to evacuate ahead of all other passengers automatically"
+        "A": "Assign them to the top deck cabins for quicker access",
+        "B": "Instruct them to evacuate ahead of all other passengers automatically",
+        "C": "Ensure they remain in their cabins throughout the entire voyage",
+        "D": "All passengers that will require some form of assistance in case of evacuation, etc. must be registered, so there can be crew sent to assist them if needed"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q010",
       "question": "If the general/fire alarm is sounding, and evacuation is required, what is the best way to ensure that all passengers are aware of the situation?",
       "options": {
-        "A": "Sending crew members to knock on every cabin door individually without using public systems",
+        "A": "Blowing the ship's horn continuously without giving oral instructions",
         "B": "Using public announcement system to inform about situation. Inform passengers to report to designated area for head count",
         "C": "Turning off all power on board to signal immediate action",
-        "D": "Blowing the ship's horn continuously without giving oral instructions"
+        "D": "Sending crew members to knock on every cabin door individually without using public systems"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -126,9 +126,9 @@
       "question": "Who usually gives the order to abandon ship?",
       "options": {
         "A": "Chief Officer",
-        "B": "Chief Engineer",
+        "B": "Safety Officer",
         "C": "Master",
-        "D": "Safety Officer"
+        "D": "Chief Engineer"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -149,44 +149,44 @@
       "id": "q013",
       "question": "What equipment might be used to give Abandon Ship command?",
       "options": {
-        "A": "Signal flags and flares",
+        "A": "Public address or a megaphone",
         "B": "VHF hand-held radio set on Channel 16 only",
-        "C": "Public address or a megaphone",
-        "D": "The ship’s whistle only"
+        "C": "The ship’s whistle only",
+        "D": "Signal flags and flares"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q014",
       "question": "What is the best posture in the water to reduce your body temperature loss?",
       "options": {
-        "A": "HELP",
+        "A": "Vertical survival posture",
         "B": "Starfish position",
-        "C": "Tread water vigorously",
-        "D": "Vertical survival posture"
+        "C": "HELP",
+        "D": "Tread water vigorously"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q015",
       "question": "What is the best posture in the water to reduce your body temperature loss?",
       "options": {
-        "A": "Back float position",
+        "A": "Huddle",
         "B": "Horizontal swimmer position",
-        "C": "Huddle",
-        "D": "Side-stroke position"
+        "C": "Side-stroke position",
+        "D": "Back float position"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q016",
       "question": "Can you drink sea water?",
       "options": {
-        "A": "Yes, in small controlled amounts",
-        "B": "Yes, if mixed with fresh water",
+        "A": "Yes, if mixed with fresh water",
+        "B": "Yes, in small controlled amounts",
         "C": "No",
         "D": "Yes, provided it is taken from open seas"
       },
@@ -197,10 +197,10 @@
       "id": "q017",
       "question": "Using spoken radio communication, what is the code word used to indicate a distress message.",
       "options": {
-        "A": "PAN PAN",
+        "A": "SECURITE",
         "B": "MAYDAY",
-        "C": "SECURITE",
-        "D": "URGENT"
+        "C": "URGENT",
+        "D": "PAN PAN"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -209,10 +209,10 @@
       "id": "q018",
       "question": "What are types of lifeboats?",
       "options": {
-        "A": "Inflatable, rigid, and semi-rigid",
+        "A": "Fast rescue, slow rescue, and survival craft",
         "B": "Partially enclosed, self-righting partially enclosed and totally enclosed",
         "C": "Open wood, steel frame, and fiberglass",
-        "D": "Fast rescue, slow rescue, and survival craft"
+        "D": "Inflatable, rigid, and semi-rigid"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -221,12 +221,12 @@
       "id": "q019",
       "question": "What number of lifeboats are required on cargo Ship?",
       "options": {
-        "A": "Sufficient capacity for 100% of persons on board placed anywhere",
-        "B": "Capacity is twice the number of persons the ship is certified to carry with at least one lifeboat on each side of the ship",
-        "C": "One lifeboat on the stern of the vessel only",
-        "D": "Capacity for 50% on the port side and 50% on the starboard side"
+        "A": "One lifeboat on the stern of the vessel only",
+        "B": "Capacity for 50% on the port side and 50% on the starboard side",
+        "C": "Capacity is twice the number of persons the ship is certified to carry with at least one lifeboat on each side of the ship",
+        "D": "Sufficient capacity for 100% of persons on board placed anywhere"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -234,8 +234,8 @@
       "question": "What number of lifeboats is required in Passenger Ship?",
       "options": {
         "A": "Sufficient for the number of persons that the ship is certified to carry",
-        "B": "Twice the number of total certified capacity",
-        "C": "Exactly 4 lifeboats regardless of passenger count",
+        "B": "Exactly 4 lifeboats regardless of passenger count",
+        "C": "Twice the number of total certified capacity",
         "D": "Enough for 75% of passengers, with liferafts covering the rest"
       },
       "correct_answer": "A",
@@ -246,45 +246,45 @@
       "question": "What equipment level within a Liferaft is usually referred to?",
       "options": {
         "A": "“Class 1 Pack” or “Class 2 Pack”",
-        "B": "“SOLAS A pack” or “SOLAS B pack”",
-        "C": "“IMO Pack Alpha” or “IMO Pack Beta”",
-        "D": "“Standard Pack” or “Emergency Pack”"
+        "B": "“Standard Pack” or “Emergency Pack”",
+        "C": "“SOLAS A pack” or “SOLAS B pack”",
+        "D": "“IMO Pack Alpha” or “IMO Pack Beta”"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q022",
       "question": "What is the minimum number of rescue boats on passenger ships with 500 g.t. and over?",
       "options": {
-        "A": "At least 1 rescue boat on any side of the ship",
-        "B": "At least 1 rescue boat on each side of the ship",
-        "C": "At least 4 rescue boats total",
-        "D": "No rescue boats required if lifeboats are present"
+        "A": "No rescue boats required if lifeboats are present",
+        "B": "At least 1 rescue boat on any side of the ship",
+        "C": "At least 1 rescue boat on each side of the ship",
+        "D": "At least 4 rescue boats total"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q023",
       "question": "What is the minimum number of rescue boats on passenger ships, less than 500 g.t?",
       "options": {
-        "A": "At least 1 rescue boat on any side of the ship",
+        "A": "No rescue boats are mandated below 500 g.t.",
         "B": "At least 2 rescue boats on each side",
         "C": "At least 1 rescue boat on both sides",
-        "D": "No rescue boats are mandated below 500 g.t."
+        "D": "At least 1 rescue boat on any side of the ship"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q024",
       "question": "What is the minimum number of rescue boats on cargo ships?",
       "options": {
-        "A": "At least 2 rescue boats",
+        "A": "Cargo ships do not require rescue boats",
         "B": "At least 1 rescue boat",
-        "C": "1 rescue boat for every 15 crew members",
-        "D": "Cargo ships do not require rescue boats"
+        "C": "At least 2 rescue boats",
+        "D": "1 rescue boat for every 15 crew members"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -293,46 +293,46 @@
       "id": "q025",
       "question": "How many Immersion suits should be assigned to the crew of the rescue boat?",
       "options": {
-        "A": "For every person",
-        "B": "For half of the team",
+        "A": "Only for the boat commander",
+        "B": "For every person",
         "C": "At least 2 suits per boat",
-        "D": "Only for the boat commander"
+        "D": "For half of the team"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q026",
       "question": "How many immersion suits shall there be on open lifeboats of passenger and cargo ships?",
       "options": {
-        "A": "One for each person on board",
-        "B": "At least 3 immersion suits",
-        "C": "At least 5 immersion suits",
-        "D": "None required on open lifeboats"
+        "A": "At least 3 immersion suits",
+        "B": "One for each person on board",
+        "C": "None required on open lifeboats",
+        "D": "At least 5 immersion suits"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q027",
       "question": "In fire prevention principles what does STARVATION means?",
       "options": {
-        "A": "Reducing the chemical reaction rate using powder",
-        "B": "Removing the fuel from a fire. It is unable to sustain combustion",
-        "C": "Cooling the temperature below flash point using water",
-        "D": "Restricting the oxygen flow to the flame source"
+        "A": "Restricting the oxygen flow to the flame source",
+        "B": "Reducing the chemical reaction rate using powder",
+        "C": "Removing the fuel from a fire. It is unable to sustain combustion",
+        "D": "Cooling the temperature below flash point using water"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q028",
       "question": "In fire prevention principles what does SMOTHERING means?",
       "options": {
-        "A": "Lowering the heat using water mist",
-        "B": "Removing combustible material from the room",
+        "A": "Stopping the chain reaction chemically",
+        "B": "Lowering the heat using water mist",
         "C": "This is achieved by reducing the oxygen (air) surrounding the fire",
-        "D": "Stopping the chain reaction chemically"
+        "D": "Removing combustible material from the room"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -341,12 +341,12 @@
       "id": "q029",
       "question": "In fire prevention principles what does COOLING means?",
       "options": {
-        "A": "This is usually achieved by using water to reduce the temperature of the burning substance below its ignition temperature",
-        "B": "Eliminating fuel source from surrounding area",
-        "C": "Cutting off oxygen supply with a fire blanket",
-        "D": "Isolating the burning space completely"
+        "A": "Isolating the burning space completely",
+        "B": "This is usually achieved by using water to reduce the temperature of the burning substance below its ignition temperature",
+        "C": "Eliminating fuel source from surrounding area",
+        "D": "Cutting off oxygen supply with a fire blanket"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -354,11 +354,11 @@
       "question": "In fire prevention principles what does INTERFERENCE means?",
       "options": {
         "A": "Depriving the fire of oxygen completely",
-        "B": "Washing away the liquid fuel surface",
-        "C": "This is an anti-catalytic effect which breaks the chemical chain reaction that sustains a fire",
-        "D": "Lowering thermal radiation using foam spray"
+        "B": "Lowering thermal radiation using foam spray",
+        "C": "Washing away the liquid fuel surface",
+        "D": "This is an anti-catalytic effect which breaks the chemical chain reaction that sustains a fire"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     }
   ]

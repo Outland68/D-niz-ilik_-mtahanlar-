@@ -6,8 +6,8 @@
       "question": "1. Cihazın kalibrovkası zamanı qaz balonundan nə vaxt istifadə edilir?",
       "options": {
         "A": "Sensorların dəyişilməsi, nasos sıradan çıxan zaman, texniki xidmət zamanı",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
         "D": "şimal-şərq istiqamətində"
       },
       "correct_answer": "A",
@@ -29,22 +29,22 @@
       "id": "q003",
       "question": "3. LEL – tüstü qazı hansı qazlara aiddir, onun gəmidə mənbəyi:",
       "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "bütün cavablar doğrudur",
-        "C": "İnsan orqanizminə təsir edən zərərli qazdır, mənbəyi baş mühərrik, dizel generatoru, buxarqazan",
+        "A": "bütün cavablar doğrudur",
+        "B": "İnsan orqanizminə təsir edən zərərli qazdır, mənbəyi baş mühərrik, dizel generatoru, buxarqazan",
+        "C": "bütün cavablar yanlışdır",
         "D": "gəmi limana daxil olana qədər"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q004",
       "question": "4. Cihaz sensorunun sınağı nə vaxt yerinə yetirilir?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "B": "Sensoru dəyişdirəndə, təzə sensor üçün 5 dəqiqə, işlənmiş sensoru 60 saniyə",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "bütün cavablar doğrudur"
+        "C": "bütün cavablar doğrudur",
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -53,84 +53,84 @@
       "id": "q005",
       "question": "5. Cihazı idarə edən düymənin əsas vəzifələri:",
       "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "Yandırıb-söndürmək, rəqəmləri azaldıb-çoxaltmaq, kalibrovkanı yerinə yetirmək, menyuya girmək"
+        "A": "gəmi limana daxil olana qədər",
+        "B": "Yandırıb-söndürmək, rəqəmləri azaldıb-çoxaltmaq, kalibrovkanı yerinə yetirmək, menyuya girmək",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q006",
       "question": "6. Əl ilə kalibrovka nə zaman yerinə yetirilir?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
+        "A": "şimal-şərq istiqamətində",
         "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "Hər dəfə qaz olan obyekti yoxlamağa gedəndə",
-        "D": "şimal-şərq istiqamətində"
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "Hər dəfə qaz olan obyekti yoxlamağa gedəndə"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q007",
       "question": "7. Gəmi yük anbarlarında, tanklarında əmələ gələn qaz növləri:",
       "options": {
-        "A": "Kükürd, karbon, metan qazları",
-        "B": "avtomatik rejimdə işləyərkən",
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "Kükürd, karbon, metan qazları",
         "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q008",
       "question": "8. Cihaza ehtiyat giriş nə üçündür?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "İstismar zamanı cihazın yaddaşında yığılan qəza məlumatlarını öyrənmək üçün",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "cənub-qərb dreyfi zamanı"
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "İstismar zamanı cihazın yaddaşında yığılan qəza məlumatlarını öyrənmək üçün",
+        "D": "lövbər dayanacağı sahəsində"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q009",
       "question": "9. Cihazın həyacan siqnalları nə vaxt və necə özünü göstərir?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "A": "Nasos, datçiklər sıradan çıxanda, rəqəmlər göstərilən hədd normasından fərqli olduqda həm işıq və həm də səs siqnalı kimi özünü göstərir",
         "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "Nasos, datçiklər sıradan çıxanda, rəqəmlər göstərilən hədd normasından fərqli olduqda həm işıq və həm də səs siqnalı kimi özünü göstərir"
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q010",
       "question": "10. Nasosun həyacan siqnalı nə zaman baş verir?",
       "options": {
-        "A": "hər 6 aydan bir keçirilən təlimlərdə",
-        "B": "Nasos işləyən zaman, süzgəcin(filterin) şlanqın və nasosun çirklənməsi zamanı",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "Nasos işləyən zaman, süzgəcin(filterin) şlanqın və nasosun çirklənməsi zamanı"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q011",
       "question": "11. Partlayış təhlükəsi olan atmosferdə oksigenin hansı miqdarında cihazın kalibrovka edilməsi mümkündür?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "avtomatik rejimdə işləyərkən",
-        "C": "bütün cavablar yanlışdır",
-        "D": "Oksigenin konsentrasiyası 20, 9% olduqda mümkündür"
+        "A": "bütün cavablar yanlışdır",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "Oksigenin konsentrasiyası 20, 9% olduqda mümkündür",
+        "D": "avtomatik rejimdə işləyərkən"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -138,59 +138,59 @@
       "question": "12. Cihazın əsas işçi elementlərin texniki xidməti zamanı(çirklənən zaman) onun təmizlənməsi üçün hansı vasitələrdən istifadə olunur?",
       "options": {
         "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "Elementlərin silib təmizlənməsi yalnız içməli su və pambıq parça olmalıdır",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "Elementlərin silib təmizlənməsi yalnız içməli su və pambıq parça olmalıdır",
         "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q013",
       "question": "13. Cihazın “Ok” düyməsinin əsas funksiyaları hansılardır?",
       "options": {
-        "A": "“Ok” düyməsi cihazı aktiv deaktiv, kalibrovka zamanı, həyacan siqnalının söndürülməsi zamanı, kodun verilməsi zamanı istifadə edilir",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "“Ok” düyməsi cihazı aktiv deaktiv, kalibrovka zamanı, həyacan siqnalının söndürülməsi zamanı, kodun verilməsi zamanı istifadə edilir"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q014",
       "question": "14. Cihazın sensoru çirklənəndə hansı şəraitdə öz-özünə təmizlənir?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
-        "B": "Sensor 10-30 dəqiqə təmiz havada saxlanıldıqda öz-özünə təmizlənir",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "Sensor 10-30 dəqiqə təmiz havada saxlanıldıqda öz-özünə təmizlənir"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q015",
       "question": "15. Gəmilərdə qazölçən cihazlardan əsas etibarı ilə haralarda istifadə edilir?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "Maşın-qazan şöbəsində, maye yanacaq olan yerlərdə, kameron şöbəsində, malyarkada istifadə edilir",
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "Maşın-qazan şöbəsində, maye yanacaq olan yerlərdə, kameron şöbəsində, malyarkada istifadə edilir",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q016",
       "question": "16. Cihaz sənaye sahəsində hansı işçi temperaturda işləyə bilər?",
       "options": {
-        "A": "Cihazın işçi temperaturu -20 °S-dən +55 °S-yə qədər olur",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "Cihazın işçi temperaturu -20 °S-dən +55 °S-yə qədər olur",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -199,8 +199,8 @@
       "options": {
         "A": "10 uzel sürətlə manevr etdikdə",
         "B": "Cihaz aktiv olunduqdan sonra əgər displeydə “ nasos nasazdır” yazısı gələrsə",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "cənub-qərb dreyfi zamanı"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -210,11 +210,11 @@
       "question": "18. Oksigenin hansı miqdarında cihazlardan istifadə etmək qadağandır?",
       "options": {
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "27.6 %",
-        "D": "gəmi limana daxil olana qədər"
+        "B": "27.6 %",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "10 uzel sürətlə manevr etdikdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -223,70 +223,70 @@
       "options": {
         "A": "cənub-qərb dreyfi zamanı",
         "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "Yanar qazların konsentrasiyası normadan fərqli olduqda"
+        "C": "Yanar qazların konsentrasiyası normadan fərqli olduqda",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q020",
       "question": "20. Karbon dioksid qazı ilə zəhərlənmənin əlamətləri və ilk tibbi yardım:",
       "options": {
-        "A": "A və B bəndində olduğu kimi, əlavə olaraq yuxuluq, həyacanlıq.Zərərçəkən 24 saat və ya tam sağalana qədər yataq rejiminə riayət etməlidir",
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "B": "50 metr məsafədə dənizdə",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "bütün cavablar yanlışdır"
+        "C": "bütün cavablar yanlışdır",
+        "D": "A və B bəndində olduğu kimi, əlavə olaraq yuxuluq, həyacanlıq.Zərərçəkən 24 saat və ya tam sağalana qədər yataq rejiminə riayət etməlidir"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q021",
       "question": "21. Qaz həyacan siqnalı nə zaman sönür?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "Qaz mühiti qəbul olunan həddə qayıtdıqda",
-        "D": "bütün cavablar yanlışdır"
+        "A": "Qaz mühiti qəbul olunan həddə qayıtdıqda",
+        "B": "bütün cavablar yanlışdır",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q022",
       "question": "22. Hansı halda nümunə nasosunun “nasazlıq” həyacan siqnalı çağırmağa başlayır?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "Nasosun kalibrovkası tamamlananda, nasos nasaz olduqda və ya kalibr şlanqı bərkidildikdə,filteri yenisi ilə əvəz etdikdə və kalibr qazı tətbiq edildikdə"
+        "A": "Nasosun kalibrovkası tamamlananda, nasos nasaz olduqda və ya kalibr şlanqı bərkidildikdə,filteri yenisi ilə əvəz etdikdə və kalibr qazı tətbiq edildikdə",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q023",
       "question": "23. Displeydə nasosun nasazlığını bildirən xəbərdarlıqdan sonra, nasosun yeniden kalibr olunması nasazlığı aradan qaldırmazsa nə etmək lazımdır?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "A": "Nasosu yenisi ilə əvəz etmək lazımdır",
         "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "Nasosu yenisi ilə əvəz etmək lazımdır"
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q024",
       "question": "24. Cihazın nasosunun filteri tıxanan zaman , filteri hansı üsulla təmizləmək lazımdır?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "A": "Yumşaq təmiz fırçadan istifadə edərək, filter təmizlənməli və tam qurudulduqdan sonra yerinə bərkidilməlidir",
         "B": "bütün cavablar doğrudur",
-        "C": "Yumşaq təmiz fırçadan istifadə edərək, filter təmizlənməli və tam qurudulduqdan sonra yerinə bərkidilməlidir",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
         "D": "50 metr məsafədə dənizdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -294,23 +294,23 @@
       "question": "25. Nasosun filterini yenisi ilə əvəz edərkən hansı ardıcıllığa əməl etmək lazımdır?",
       "options": {
         "A": "lövbər dayanacağı sahəsində",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "Detektoru söndürdükdən sonra “Filips” vintaçanla vintləri boşaldıb, filteri yenisi ilə əvəz etdikdən sonra vintləri yenidən bərkitmək lazımdır",
+        "B": "Detektoru söndürdükdən sonra “Filips” vintaçanla vintləri boşaldıb, filteri yenisi ilə əvəz etdikdən sonra vintləri yenidən bərkitmək lazımdır",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q026",
       "question": "26. Dəm qazının hansı konsentrasiyası insan üçün ölüm təhlükəsi yaradır?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "1.1 %",
+        "A": "1.1 %",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -330,59 +330,59 @@
       "question": "4. Karbon qazı ilə",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "1,3,4",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "bütün cavablar doğrudur"
+        "B": "bütün cavablar doğrudur",
+        "C": "1,3,4",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q029",
       "question": "29. Cihazı söndürmək üçün hansı əməliyyatı yerinə yetirmək lazımdır?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "bütün cavablar doğrudur",
-        "C": "Ok” düyməsini ekranda “OFF” yazısı gələnədək sıxıb saxlamaq lazımdır",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "bütün cavablar doğrudur",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "Ok” düyməsini ekranda “OFF” yazısı gələnədək sıxıb saxlamaq lazımdır"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q030",
       "question": "30. “Ok” düyməsini 2 dəfə sürətlə basmaq hansı əməliyyatlar zamanı yerinə yetirilir?",
       "options": {
-        "A": "Hamısı",
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "C": "bütün cavablar yanlışdır",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "D": "Hamısı"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q031",
       "question": "31. Bəzi üzvi maddələrin buxarı ( silikonlar, hallogenli karbohidratlar) cihazin işinə necə təsir göstərir?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
+        "A": "Cihazın işini müvəqqəti ləngidir ki, bu da cihazın işinə mənfi təsir göstərir",
         "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "bütün cavablar yanlışdır",
-        "D": "Cihazın işini müvəqqəti ləngidir ki, bu da cihazın işinə mənfi təsir göstərir"
+        "C": "şimal-şərq istiqamətində",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q032",
       "question": "32. Bəzi üzvi maddələrin buxarı ( silikonlar , hallogenli karbohidratlar) cihazın işini müvəqqəti ləngidir ki, hansı əməliyyatdan sonra cihazın normal fəaliyyəti bərpa olunur?",
       "options": {
-        "A": "Yenidən kalibrovka edildikdən sonra cihaz öz normal fəaliyyətini bərpa edir",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "Yenidən kalibrovka edildikdən sonra cihaz öz normal fəaliyyətini bərpa edir",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "lövbər dayanacağı sahəsində"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -390,45 +390,45 @@
       "question": "33. Yanar qaz sensoru hər dəfə çirkləndiricinin, zəhərli qazların və ya buxarların təsirinə məruz qaldıqdan sonra hansı əməliyyat aparılmalıdır?",
       "options": {
         "A": "lövbər dayanacağı sahəsində",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "Yanar qaz sensoru mütləq kalibrovka qazı ilə sınaq edilməlidir",
+        "B": "Yanar qaz sensoru mütləq kalibrovka qazı ilə sınaq edilməlidir",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q034",
       "question": "34. Hansı halda təkrar kalibrovka etməyə ehtiyac vardır?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "Qaz dəyərləri normadan fərqlidirsə",
-        "D": "şimal-şərq istiqamətində"
+        "A": "şimal-şərq istiqamətində",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "Qaz dəyərləri normadan fərqlidirsə"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q035",
       "question": "35. Şkalanın istənilən qəfil yüksəlməsi və ya düşməsi (xaotik göstəricisi) zamanı nə başa düşülür?",
       "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "Qaz konsentrasiyasının olduğunu bildirir ki, bu hal təhlükəli mühitdən xəbər veri",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "bütün cavablar doğrudur",
+        "C": "Qaz konsentrasiyasının olduğunu bildirir ki, bu hal təhlükəli mühitdən xəbər veri",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q036",
       "question": "36. Detektorun uzun müddət yanar qaz konsentrasiyası və havanın təsirinə məruz qalması zamanı detektorda hansı dəyişikliklər baş verir?",
       "options": {
-        "A": "bütün cavablar doğrudur",
+        "A": "50 metr məsafədə dənizdə",
         "B": "Detektorun elementləri yüklənir ki, bu hal detektorun iş xarakteristikasına mənfi təsir göstərir",
-        "C": "50 metr məsafədə dənizdə",
-        "D": "lövbər dayanacağı sahəsində"
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "bütün cavablar doğrudur"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -437,36 +437,36 @@
       "id": "q037",
       "question": "37. Kalibrovka əməliyyatı tamamlanmamış dayandırılanda ekranda (displeydə) hansı işarə(yazı) yazılır?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "şimal-şərq istiqamətində",
-        "C": "CAL ABORTED",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "A": "şimal-şərq istiqamətində",
+        "B": "CAL ABORTED",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q038",
       "question": "38. Cihazın ekranında (displeydə) “CAL DUE” yazısı hansı əməliyyatın aparılmasını tələb edir?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "Cihazın Kalibrovka edilməsini",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "Cihazın Kalibrovka edilməsini",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q039",
       "question": "39. Aşağı səviyyəli həyacan siqnallarının əlamətləri hansılardır?",
       "options": {
-        "A": "Sürətsiz səs və vizual siqnal, ALARM və müvafiq qaz xətləri(işarəsi) yanıb sönür , vibro siqnal işə düşür",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "lövbər dayanacağı sahəsində",
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "Sürətsiz səs və vizual siqnal, ALARM və müvafiq qaz xətləri(işarəsi) yanıb sönür , vibro siqnal işə düşür",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     }
   ]

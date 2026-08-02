@@ -5,36 +5,36 @@
       "id": "q001",
       "question": "1. Dəniz suyunu içmək olarmı?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "qəti olmaz",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "qəti olmaz"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q002",
       "question": "2. Əgər salın hər iki girişi bağlı olarsa, orada rahat nəfəs almaq olarmı?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "bütün cavablar doğrudur",
-        "C": "bəli",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+        "A": "bütün cavablar doğrudur",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "bəli"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q003",
       "question": "3. Üç davamlı uzun səs siqnalı nəyi bildirir?",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "suda adam həyəcan siqnalını",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "suda adam həyəcan siqnalını"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -43,8 +43,8 @@
       "options": {
         "A": "ayda 1 dəfə",
         "B": "lövbər dayanacağı sahəsində",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -53,72 +53,72 @@
       "id": "q005",
       "question": "5. Gəmini tərk etmək komandasını kim verir?",
       "options": {
-        "A": "bütün cavablar yanlışdır",
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
         "B": "kapitan",
-        "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q006",
       "question": "6. Gəmi hərəkətdə olarkən lyallardakı suyun səviyyəsi hansı müddətdən bir ölçülür?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "şimal-şərq istiqamətində",
-        "C": "hər növbədə bir dəfə",
-        "D": "cənub-qərb dreyfi zamanı"
+        "A": "hər növbədə bir dəfə",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "şimal-şərq istiqamətində"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q007",
       "question": "7. Həyəcan cədvəli harada yerləşməlidir?",
       "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "kapitan körpüsündə və heyətin yerləşdiyi yerlərdə",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "lövbər dayanacağı sahəsində"
+        "A": "kapitan körpüsündə və heyətin yerləşdiyi yerlərdə",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q008",
       "question": "8. Yanğının karbon qazı ilə söndürülməsinin effektivliyi nə ilə bağlıdır?",
       "options": {
-        "A": "bölmənin qapalı olması ilə",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "bölmənin qapalı olması ilə",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q009",
       "question": "9. Hansı bölmələrdə köpüklə stasionar yanğınsöndürmə sistemi istifadə olunur?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "qazanxanalarda və maye yanacaq qurğularında"
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "qazanxanalarda və maye yanacaq qurğularında",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q010",
       "question": "10. Xilasedici vasitələrdə olarkən pirotexniki vasitələrin istifadəsinin icazəsini kim verir?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "bütün cavablar yanlışdır",
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "bütün cavablar yanlışdır",
+        "C": "fırtınalı havada təxirə salınmaqla",
         "D": "xilasetmə vasitəsinin komandiri"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -126,20 +126,20 @@
       "question": "11. Salda insanın hərarətinin qəflətən kəskin düşməsinə nə səbəb olur?",
       "options": {
         "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "külək",
-        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "külək"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q001",
       "question": "1. 2. 3. 4. 5.",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "5",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "A": "hər 6 aydan bir keçirilən təlimlərdə",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "5",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
       "correct_answer": "D",
@@ -150,72 +150,72 @@
       "id": "q013",
       "question": "13. Xilasedici dairələrin üzərində nə qeyd olunur?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "qeydiyyat limanı, gəminin adı",
-        "C": "şimal-şərq istiqamətində",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "şimal-şərq istiqamətində",
+        "C": "qeydiyyat limanı, gəminin adı",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q014",
       "question": "14. Xilasedici dairələr hansı maksimal hündürlükdən suya atılmağa davamlı olmalıdır?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
+        "A": "30 m",
         "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "30 m",
-        "D": "lövbər dayanacağı sahəsində"
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "50 metr məsafədə dənizdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q015",
       "question": "15. Xilasedici canlıq hansı müddət ərzində huşunu itirmiş insanın ağzını su üzərində olan vəziyyətə çevirməlidir?",
       "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "5 saniyə",
-        "C": "bütün cavablar doğrudur",
+        "A": "5 saniyə",
+        "B": "bütün cavablar doğrudur",
+        "C": "10 uzel sürətlə manevr etdikdə",
         "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q016",
       "question": "16. Xilasedici canlıq hansı maksimal müddət ərzində kənardan kömək olmadan geyinilməlidir?",
       "options": {
-        "A": "60 saniyə",
-        "B": "avtomatik rejimdə işləyərkən",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "60 saniyə",
+        "D": "avtomatik rejimdə işləyərkən"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q017",
       "question": "17. Hidrotermokostyum ilə suya hansı maksimal hündürlükdən tullanmaq olar?",
       "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "4,5 m",
-        "C": "bütün cavablar yanlışdır",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "A": "4,5 m",
+        "B": "bütün cavablar yanlışdır",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "gəmi limana daxil olana qədər"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q018",
       "question": "18. Hidrotermokostyumun odadavamlılıq müddəti nə qədərdir?",
       "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "10 uzel sürətlə manevr etdikdə",
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "C": "2 saniyə",
         "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -223,11 +223,11 @@
       "question": "19. Hidrotermokostyum hansı müddət ərzində kömək olmadan geyinilməlidir?",
       "options": {
         "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "2 dəqiqə",
-        "C": "avtomatik rejimdə işləyərkən",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "2 dəqiqə",
         "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -236,70 +236,70 @@
       "options": {
         "A": "əllə idarəetmə rejiminə keçdikdə",
         "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "çevirmir"
+        "C": "çevirmir",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q021",
       "question": "21. Su xaricində olan xilasedici qayığın mühərrikini maksimum hansı vaxt ərzində işlətmək olar?",
       "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "5 dəqiqə"
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "5 dəqiqə",
+        "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q022",
       "question": "22. Xilasedici qayığın tam yanacaq ehtiyatı neçə saat və hansı sürətlə manevr etməyə imkan yaradır?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "6 uzel ilə azı 24 saat",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "6 uzel ilə azı 24 saat",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q023",
       "question": "23. Növbətçi qayığın tam yanacaq ehtiyatı neçə saat və hansı sürətlə manevr etməyə imkan yaradır?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "bütün cavablar yanlışdır",
-        "D": "6 uzel ilə azı 4 saat"
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "6 uzel ilə azı 4 saat",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q024",
       "question": "24. Xilasedici salın daxilində və xaricində yerləşən işıq qoşulduqdan sonra hansı müddət ərzində sizi işıqla təmin etməlidir?",
       "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "azı 12 saat",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "fırtınalı havada təxirə salınmaqla"
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "azı 12 saat"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q025",
       "question": "25. Hava təchizatı ilə təmin olunmuş tam örtülü qayıqlar azı hansı müddət ərzində nəfəs almağa şərait yaradır?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "10 dəqiqə",
-        "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "cənub-qərb dreyfi zamanı"
+        "A": "10 dəqiqə",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -307,23 +307,23 @@
       "question": "26. Odadavamlı xilasedici qayıqların minimal mühafizə müddəti nə qədərdir?",
       "options": {
         "A": "avtomatik rejimdə işləyərkən",
-        "B": "bütün cavablar doğrudur",
-        "C": "8 dəqiqə",
+        "B": "8 dəqiqə",
+        "C": "bütün cavablar doğrudur",
         "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q027",
       "question": "27. Xilasedici qayığın mühərriki ən azı hansı müddətdən bir yoxlanılmalıdır?",
       "options": {
-        "A": "həftədə bir dəfə, 3 dəqiqə ərzində",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "bütün cavablar yanlışdır",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+        "A": "gəmi limana daxil olana qədər",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "həftədə bir dəfə, 3 dəqiqə ərzində",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -332,8 +332,8 @@
       "options": {
         "A": "bütün cavablar yanlışdır",
         "B": "gəmi limana daxil olana qədər",
-        "C": "5 dəqiqə",
-        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "5 dəqiqə"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -342,60 +342,60 @@
       "id": "q029",
       "question": "29. İşə salınma kəndirini kəsmək üçün istifadə edilən suda batmayan bıçaq xilasedici salda harada yerləşir?",
       "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "örtüyün üstündə",
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "örtüyün üstündə",
+        "C": "gəmi limana daxil olana qədər",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q030",
       "question": "30. Kollektiv xilasedici vasitədə olarkən dəniz xəstəliyinə qarşı dərmanı kim qəbul etməlidir?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "50 metr məsafədə dənizdə",
-        "D": "hamı"
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "hamı",
+        "D": "50 metr məsafədə dənizdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q031",
       "question": "31. Bütün həyəcan siqnalları üzrə məşqlər hansı vaxtda keçirilir?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "sutkanın istənilən vaxtı",
+        "A": "gəmi limana daxil olana qədər",
+        "B": "sutkanın istənilən vaxtı",
+        "C": "50 metr məsafədə dənizdə",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q032",
       "question": "32. Açılan metal dayağı harada istifadə olunur?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "dəliklərin tutulmasında",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "şimal-şərq istiqamətində",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "dəliklərin tutulmasında"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q033",
       "question": "33. D sinif yanğınlar nə ilə söndürülür?",
       "options": {
-        "A": "xüsusi tərkibli tozla",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "bütün cavablar doğrudur"
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "bütün cavablar doğrudur",
+        "D": "xüsusi tərkibli tozla"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -404,8 +404,8 @@
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
         "B": "yanan səthi havadan izolyasiya etmək üçün",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "bütün cavablar yanlışdır"
+        "C": "bütün cavablar yanlışdır",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -414,12 +414,12 @@
       "id": "q035",
       "question": "35. Gəmidə hansı yerlərdə siqaret çəkməyə icazə verilir?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
+        "A": "əmrlə təyin olunmuş yerlərdə",
         "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "əmrlə təyin olunmuş yerlərdə",
+        "C": "fırtınalı havada təxirə salınmaqla",
         "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -428,8 +428,8 @@
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "qəza partiyasının rəhbəri"
+        "C": "qəza partiyasının rəhbəri",
+        "D": "avtomatik rejimdə işləyərkən"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -440,8 +440,8 @@
       "options": {
         "A": "bütün cavablar yanlışdır",
         "B": "şimal-şərq istiqamətində",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "sıxılmış hava"
+        "C": "sıxılmış hava",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -450,12 +450,12 @@
       "id": "q038",
       "question": "38. C sinif yanğınların baş verməsi nə ilə əlaqədardır?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "50 metr məsafədə dənizdə",
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "D": "yanan qazlar ilə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -474,36 +474,36 @@
       "id": "q040",
       "question": "40. Xilasedici salda (qayıqda) UQD radiostansiya \"MAYDAY\" fəlakət siqnalını ötürmək üçün hansı kanala köklənməlidir?",
       "options": {
-        "A": "hər 6 aydan bir keçirilən təlimlərdə",
-        "B": "16",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
+        "A": "16",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "10 uzel sürətlə manevr etdikdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q041",
       "question": "41. Ümumi gəmi həyəcan siqnalı necə verilir?",
       "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "gəmi limana daxil olana qədər",
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "C": "7 qısa 1 uzun",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "D": "gəmi limana daxil olana qədər"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q004",
       "question": "4. gərginlik altında olan elektrik avadanlıqlarını",
       "options": {
-        "A": "1,4",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "1,4",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -511,21 +511,21 @@
       "question": "43. Yanğın nədir?",
       "options": {
         "A": "lövbər dayanacağı sahəsində",
-        "B": "maddi ziyan vuran nəzarətsiz yanmadır",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "maddi ziyan vuran nəzarətsiz yanmadır"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q044",
       "question": "44. Yanğınla mübarizə üçün vasitələr harada olmalıdır?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
+        "A": "xüsusi olaraq ayrılmış yerdə",
         "B": "avtomatik rejimdə işləyərkən",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "xüsusi olaraq ayrılmış yerdə"
+        "C": "50 metr məsafədə dənizdə",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -534,12 +534,12 @@
       "id": "q045",
       "question": "45. Yanmış bölmə və ərazini, yanğın təhlükəsinin aradan qaldırılmasından sonra hansı müddət ərzində izləmək lazımdır?",
       "options": {
-        "A": "12 saat",
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "12 saat",
         "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -547,23 +547,23 @@
       "question": "4. zəif tüstü.",
       "options": {
         "A": "2,3",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q047",
       "question": "47. Yanğını kəşfiyyat edərkən hansı təhlükəsizlik qaydalarına riayət etmək lazımdır?",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "qapıları və pəncərələri ehtiyatla açmaq"
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "qapıları və pəncərələri ehtiyatla açmaq",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -571,11 +571,11 @@
       "question": "48. Nəfəsalma aparatlarında hansı yoxlamalar aparılır?",
       "options": {
         "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "gündəlik və döyüş yoxlaması",
-        "D": "fırtınalı havada təxirə salınmaqla"
+        "B": "gündəlik və döyüş yoxlaması",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "cənub-qərb dreyfi zamanı"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -583,23 +583,23 @@
       "question": "49. Yanğına qarşı mübarizə əməliyyatlarında nə ən mühüm əhəmiyyət kəsb edir?",
       "options": {
         "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "insanların xilasedilməsi",
+        "B": "insanların xilasedilməsi",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "D": "şimal-şərq istiqamətində"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q050",
       "question": "50. Gəmidə təhlükəli yüklə doldurulmuş bölməyə girdikdə hansı təhlükəsizlik qaydalarına riayət etmək lazımdır?",
       "options": {
-        "A": "hava-qaz mühitini yoxlayaraq daxil olmaq",
-        "B": "şimal-şərq istiqamətində",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "C": "şimal-şərq istiqamətində",
+        "D": "hava-qaz mühitini yoxlayaraq daxil olmaq"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -607,35 +607,35 @@
       "question": "51. Gəmidə SOLAS-74 Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq yanğınsöndürmə ləvazimatları dəstinin minimal sayı nə qədər olmalıdır?",
       "options": {
         "A": "gəmi limana daxil olana qədər",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "2 dəst",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "2 dəst"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q052",
       "question": "52. Yanğına qarşı su sisteminə nə daxildir?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "boru xətti, yanğın nasosu, yanğın şlanqı və lüləsi",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "A": "boru xətti, yanğın nasosu, yanğın şlanqı və lüləsi",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "şimal-şərq istiqamətində"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q053",
       "question": "53. Yanğın zamanı yığılmış su nə vaxt xaric edilir?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "avtomatik rejimdə işləyərkən",
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "şimal-şərq istiqamətində",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "D": "yanğının söndürülməsi ilə eyni vaxtda"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -643,11 +643,11 @@
       "question": "54. Yanğının baş verməsi üçün havada oksigenin miqdarı minimum nə qədər olmalıdır?",
       "options": {
         "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "B": "50 metr məsafədə dənizdə",
+        "B": "16%",
         "C": "bütün cavablar doğrudur",
-        "D": "16%"
+        "D": "50 metr məsafədə dənizdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -666,12 +666,12 @@
       "id": "q056",
       "question": "56. Dəm qazının hansı konsentrasiyası insan üçün ölüm təhlükəsi yaradır?",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "A": "10 uzel sürətlə manevr etdikdə",
         "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "1.1%"
+        "C": "1.1%",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -679,71 +679,71 @@
       "question": "57. Yanğın həyəcan siqnalı verilərkən hansı fəaliyyətləri yerinə yetirmək lazımdır?",
       "options": {
         "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "işi dayandırmaq, qapıları örtüb toplantı məntəqəsinə getmək və növbəti əmri gözləmək"
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "işi dayandırmaq, qapıları örtüb toplantı məntəqəsinə getmək və növbəti əmri gözləmək",
+        "D": "cənub-qərb dreyfi zamanı"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q058",
       "question": "58. Bu faktorlardan hansı yanğının yaranmasına səbəb olmur?",
       "options": {
-        "A": "karbon qazı",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "lövbər dayanacağı sahəsində",
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "karbon qazı",
         "D": "50 metr məsafədə dənizdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q059",
       "question": "59. Ətraf mühitin temperaturu 800 S olduqda, istiliyə davamlı kostyumun mühafizə təsiri hansı müddəti təşkil etməlidir?",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "3 dəqiqə",
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+        "D": "3 dəqiqə"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q060",
       "question": "60. Yanğınsöndürmədə hansı qazdan istifadə edilir?",
       "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "karbon qazı"
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "bütün cavablar doğrudur",
+        "C": "karbon qazı",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q061",
       "question": "61. Zərərli mühitə daxil olarkən nəfəsalma aparatındakı balonda (200 bar) minimum təzyiq nə qədər olmalıdır?",
       "options": {
-        "A": "80% (160 bar)",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "şimal-şərq istiqamətində",
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "şimal-şərq istiqamətində",
+        "C": "80% (160 bar)",
         "D": "cənub-qərb dreyfi zamanı"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q062",
       "question": "62. Qəza nəfəsalma aparatının (EEBD) hava ehtiyatı ən azı nə qədər olmalıdır?",
       "options": {
-        "A": "10 dəqiqə",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "10 dəqiqə"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -751,11 +751,11 @@
       "question": "63. Qəza nəfəsalma aparatının (EEBD) minimal sayı nə qədər olmalıdır?",
       "options": {
         "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "hər göyərtədə 2 dəst",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "cənub-qərb dreyfi zamanı"
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "hər göyərtədə 2 dəst"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -763,20 +763,20 @@
       "question": "64. Şlanq xətti hansı şəkildə yığılır?",
       "options": {
         "A": "şimal-şərq istiqamətində",
-        "B": "bütün cavablar doğrudur",
-        "C": "1 qat və 2 qat",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "bütün cavablar doğrudur",
+        "D": "1 qat və 2 qat"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q065",
       "question": "65. Xilasedici dairənin çəkisi azı nə qədər olur?",
       "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "A": "2.5 kq",
         "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "2.5 kq",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "D": "10 uzel sürətlə manevr etdikdə"
       },
       "correct_answer": "B",
@@ -786,24 +786,24 @@
       "id": "q066",
       "question": "66. Xilasedici salın suda istifadəsi hər bir hava şəraitində azı neçə sutka nəzərdə tutulub?",
       "options": {
-        "A": "30 sutka",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "bütün cavablar yanlışdır",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+        "A": "bütün cavablar yanlışdır",
+        "B": "30 sutka",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q067",
       "question": "67. Atılan tipli sala sudan birinci kim daxil olur?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "güclü insan",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "güclü insan"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -811,35 +811,35 @@
       "question": "68. Xilasedici salda radiolokasiya cavabvericisi işə salındıqdan sonra RLS- nın gözləmə rejimi hansı müddət ərzində işlək vəziyyətdə olur?",
       "options": {
         "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "şimal-şərq istiqamətində",
-        "C": "bütün cavablar doğrudur",
+        "B": "bütün cavablar doğrudur",
+        "C": "şimal-şərq istiqamətində",
         "D": "4 gün"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q069",
       "question": "69. Xilasedici salın konteyneri hansı hündürlükdən suya atılmağa davamlı olmalıdır?",
       "options": {
-        "A": "azı 18 m",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "azı 18 m"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q070",
       "question": "70. Xilasedici qayıqların və salların təchizatında dəniz xəstəliyinə qarşı hər bir insan üçün hansı miqdarda dərman dozası ayrılır?",
       "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "A": "10 uzel sürətlə manevr etdikdə",
         "B": "6 ədəd",
-        "C": "10 uzel sürətlə manevr etdikdə",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -847,11 +847,11 @@
       "question": "71. Neçə vaxtdan bir xilasedici salın təchizatı yoxlanılmalıdır?",
       "options": {
         "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "fırtınalı havada təxirə salınmaqla",
         "D": "bir ildən bir"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -859,81 +859,81 @@
       "question": "72. Partlayıcı maddələr nə ilə söndürülür?",
       "options": {
         "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "su ilə",
+        "B": "su ilə",
+        "C": "gərginlik 220 V həddinə çatdıqda",
         "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q073",
       "question": "73. Sıxıcı sarğılar əsasən nə vaxt işlədilir?",
       "options": {
-        "A": "qanaxmaları dayandırmaq üçün",
-        "B": "bütün cavablar doğrudur",
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "qanaxmaları dayandırmaq üçün",
         "C": "gəmi limana daxil olana qədər",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q074",
       "question": "74. Xarici qanaxmanın hansı qorxuludur?",
       "options": {
-        "A": "arterial",
+        "A": "avtomatik rejimdə işləyərkən",
         "B": "bütün cavablar yanlışdır",
-        "C": "avtomatik rejimdə işləyərkən",
+        "C": "arterial",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q075",
       "question": "75. Daxili qanaxmanın əlamətləri hansılardır?",
       "options": {
-        "A": "arterial təzyiqin aşağı enməsi, halsızlıq, ürəyin tez-tez döyünməsi, soyuq tər",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "50 metr məsafədə dənizdə",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "arterial təzyiqin aşağı enməsi, halsızlıq, ürəyin tez-tez döyünməsi, soyuq tər"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q076",
       "question": "76. Güclü burun qanaxmasında ilk tibbi yardım necə göstərilir?",
       "options": {
-        "A": "buruna tampon qoymaqla",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "gəmi limana daxil olana qədər",
+        "A": "gəmi limana daxil olana qədər",
+        "B": "buruna tampon qoymaqla",
+        "C": "gərginlik 220 V həddinə çatdıqda",
         "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q077",
       "question": "77. İsti vurma nəticəsində ilk yardım necə göstərilir?",
       "options": {
-        "A": "soyuq su ilə vannaya salmaqla",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "50 metr məsafədə dənizdə",
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "soyuq su ilə vannaya salmaqla",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q078",
       "question": "78. 3 %-li hidrogen peroksid nə üçün işlədilir?",
       "options": {
-        "A": "yaraları yumaq üçün dezinfeksiyaedici maddə",
+        "A": "hər 6 aydan bir keçirilən təlimlərdə",
         "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "C": "yaraları yumaq üçün dezinfeksiyaedici maddə",
+        "D": "lövbər dayanacağı sahəsində"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -942,10 +942,10 @@
       "id": "q079",
       "question": "79. Karbon qazı ilə zəhərlənmədə ilk yardım necə göstərilir?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "B": "təmiz havaya çıxartmaqla",
         "C": "lövbər dayanacağı sahəsində",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -954,36 +954,36 @@
       "id": "q080",
       "question": "80. Dəniz xəstəliyinin şikayətləri hansılardır?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "cənub-qərb dreyfi zamanı",
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "iştahsızlıq, zəiflik, baş gicəllənmə, ürək bulanma və qusma",
         "C": "gəmi limana daxil olana qədər",
-        "D": "iştahsızlıq, zəiflik, baş gicəllənmə, ürək bulanma və qusma"
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q081",
       "question": "81. Normal arterial təzyiq neçə olmalıdır?",
       "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "şimal-şərq istiqamətində",
+        "A": "şimal-şərq istiqamətində",
+        "B": "bütün cavablar yanlışdır",
         "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "D": "120/80"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q082",
       "question": "82. Xilasedici vasitələr hansı təsirlərə davam gətirmirlər?",
       "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "zərbəyə və normadan çox hündürlükdən suya atılmaya",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "zərbəyə və normadan çox hündürlükdən suya atılmaya",
+        "D": "avtomatik rejimdə işləyərkən"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -992,8 +992,8 @@
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "xilasedici salın konteynerini",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "cənub-qərb dreyfi zamanı"
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -1002,12 +1002,12 @@
       "id": "q084",
       "question": "84. Fərdi xilasedici vasitələr hansı məqsədlər üçün istifadə olunur?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "insanın suyun üzərində saxlanması, sudan və soyuqdan təcrid olunması üçün"
+        "A": "insanın suyun üzərində saxlanması, sudan və soyuqdan təcrid olunması üçün",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "şimal-şərq istiqamətində"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -1016,8 +1016,8 @@
       "options": {
         "A": "Dənizdə İnsan Həyatının Mühafizəsinə dair Beynəlxalq Konvensiyadır",
         "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "lövbər dayanacağı sahəsində"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -1026,12 +1026,12 @@
       "id": "q086",
       "question": "86. \"Bütün dənizçilər üçün təhlükəsizlik üzrə tanışlıq, ilkin hazırlıq və təlimat\" kursu \"Dənizçilərin hazırlanmasına onlara diplom verilməsinə və növbə çəkməyə dair\" (DHDNÇ-78) Beynəlxalq Konvensiyanın hansı bölmələrinə əsasən keçirilir?",
       "options": {
-        "A": "A-VI/1-1, 2, 3, 4",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "A": "hər 6 aydan bir keçirilən təlimlərdə",
+        "B": "gərginlik 220 V həddinə çatdıqda",
         "C": "bütün cavablar yanlışdır",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "D": "A-VI/1-1, 2, 3, 4"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -1039,11 +1039,11 @@
       "question": "87. Xilasedici salda neçə ədəd və hansı növdə pirotexnika vasitələr olmalıdır?",
       "options": {
         "A": "şimal-şərq istiqamətində",
-        "B": "6 falşfeyer, 4 paraşütlü raket, 2 tüstü şaşkası",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "D": "6 falşfeyer, 4 paraşütlü raket, 2 tüstü şaşkası"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     }
   ]

@@ -5,8 +5,8 @@
       "id": "q001",
       "question": "1. MARPOL-73/78 Beynəlxalq Konvensiyasının tələblərinə əsasən tankerdən dənizə atılan suların tərkibində neftin miqdarı nə qədər olmalıdır?",
       "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "fırtınalı havada təxirə salınmaqla",
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "bütün cavablar doğrudur",
         "C": "15 ppm",
         "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
@@ -19,22 +19,22 @@
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "cənub-qərb dreyfi zamanı",
-        "C": "icazə verilir",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "icazə verilir"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. yük şlanqlarının çəkisi.",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "1,2,3,4",
-        "C": "avtomatik rejimdə işləyərkən",
+        "A": "1,2,3,4",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -42,9 +42,9 @@
       "question": "4. Hansı neft məhsulları alışma temperaturuna görə uçan yüklərə aiddir?",
       "options": {
         "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "gərginlik 220 V həddinə çatdıqda",
         "C": "alışma temperaturuna görə 60 0C-dən aşağı olan neft məhsulları",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -53,12 +53,12 @@
       "id": "q005",
       "question": "5. Yük boşaldılan zaman boru kəmərinin klapanları hansı ardıcıllıqla açılır?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "tankın klapanı, boru kəmərinin kəsən klapanı, manifoldun klapanı",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "A": "tankın klapanı, boru kəmərinin kəsən klapanı, manifoldun klapanı",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "avtomatik rejimdə işləyərkən"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -66,11 +66,11 @@
       "question": "6. Zəhərlənmənin bütün hallarında zərərçəkənə neçə dəqiqə ərzində oksigenlə nəfəs verilməsi məsləhət görülür?",
       "options": {
         "A": "50 metr məsafədə dənizdə",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "30-45 dəqiqə",
+        "B": "30-45 dəqiqə",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -78,11 +78,11 @@
       "question": "7. Yuxarı nəfəs orqanlarının qıcıqlanması zamanı yaxalama üçün neçə %-li qida sodası istifadə olunur?",
       "options": {
         "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "2%-li"
+        "B": "2%-li",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "10 uzel sürətlə manevr etdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -101,10 +101,10 @@
       "id": "q009",
       "question": "9. Gəmi-Sahil yoxlama vərəqi yük göyərtəsi rayonunda daşınan elektrik avadanlıqları barəsində nəyi nəzərdə tutur?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
-        "B": "bütün cavablar doğrudur",
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "50 metr məsafədə dənizdə",
         "C": "Daşınan elektrik avadanlığının kabelləri şəbəkədən ayrılmalıdır",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+        "D": "bütün cavablar doğrudur"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -126,20 +126,20 @@
       "question": "11. Boşaltma / xam neftlə yuma əməliyyatı zamanı inert qaz sistemi sıradan çıxarsa, nə etmək lazımdır?",
       "options": {
         "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "Boşaltmanı, xam neftlə yumanı saxlamaq",
-        "C": "bütün cavablar yanlışdır",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "Boşaltmanı, xam neftlə yumanı saxlamaq",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q012",
       "question": "12. Yük şlanqlarının sınağı zamanı yoxlama təzyiqi işçi təzyiqdən neçə dəfə çox olmalıdır?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "şimal-şərq istiqamətində",
-        "C": "50 metr məsafədə dənizdə",
+        "A": "şimal-şərq istiqamətində",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "D": "1.5 dəfə"
       },
       "correct_answer": "D",
@@ -149,69 +149,69 @@
       "id": "q013",
       "question": "13. Bağlama (burazlanma) və gəminin bortunda yedək gəmisi durduqda yükün ölçülməsinə və nümunələrin götürülməsinə:",
       "options": {
-        "A": "Qadağan olunur",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "Qadağan olunur",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q014",
       "question": "14. Ürəyin bağlı masajı vaxtı döş qəfəsi 1 dəqiqə ərzində neçə dəfə sıxılmalıdır?",
       "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "80-100"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q015",
-      "question": "15. Gəmi-Sahil yoxlama vərəqinin tələblərinə uyğun olaraq terminal nümayəndəsinə hansı sistemlərin işlək olması barəsində sübutlar təqdim edilməlidir?",
-      "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "Tanklardakı yükün yuxarı həddə olmasını xəbər verən müstəqil siqnalizasiya sisteminin",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q016",
-      "question": "16. Tankerlərdə qaz klapanları hansı məqsədlə istifadə olunur?",
-      "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "avtomatik rejimdə işləyərkən",
-        "C": "Neft məhsulları buxarlarının yük tanklarından atmosferə çıxmasının qarşısını almaq üçün",
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "80-100",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
+      "id": "q015",
+      "question": "15. Gəmi-Sahil yoxlama vərəqinin tələblərinə uyğun olaraq terminal nümayəndəsinə hansı sistemlərin işlək olması barəsində sübutlar təqdim edilməlidir?",
+      "options": {
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "Tanklardakı yükün yuxarı həddə olmasını xəbər verən müstəqil siqnalizasiya sisteminin"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q016",
+      "question": "16. Tankerlərdə qaz klapanları hansı məqsədlə istifadə olunur?",
+      "options": {
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "Neft məhsulları buxarlarının yük tanklarından atmosferə çıxmasının qarşısını almaq üçün"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
       "id": "q017",
       "question": "17. 1-ci tip kimyəvi tankerlərdə yük zonasının konstruktiv müdafiəsinə görə yük tanklarından borta qədər olan məsafə neçə metr təşkil edir?",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "avtomatik rejimdə işləyərkən",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "11.5 metr"
+        "A": "11.5 metr",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "avtomatik rejimdə işləyərkən"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q018",
       "question": "18. Tankerlərdə neçə əsas yükləmə xətti sistemindən istifadə olunur?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "lövbər dayanacağı sahəsində",
         "D": "3 sistem"
       },
       "correct_answer": "D",
@@ -222,93 +222,93 @@
       "question": "19. Yükləmə əməliyyatına başlamazdan əvvəl inert qaz sisteminin 3 yollu klapanı hansı vəziyyətdə olmalıdır?",
       "options": {
         "A": "bütün cavablar yanlışdır",
-        "B": "qapalı",
-        "C": "50 metr məsafədə dənizdə",
-        "D": "şimal-şərq istiqamətində"
+        "B": "50 metr məsafədə dənizdə",
+        "C": "şimal-şərq istiqamətində",
+        "D": "qapalı"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q020",
       "question": "20. Gəmi xüsusi rayonda olmadıqda dənizə tullamaq qadağan olunmur:",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "Xırdalanmış qida tullantılarını",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "şimal-şərq istiqamətində",
+        "D": "Xırdalanmış qida tullantılarını"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q021",
       "question": "21. Marpol-73/78-in V əlavəsinin tələblərinə uyğun olaraq xüsusi rayonlarda yaxın sahildən 12 mildən az olmayan məsafədə nəyi gəmidən tullamaq olar?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
+        "A": "fırtınalı havada təxirə salınmaqla",
         "B": "lövbər dayanacağı sahəsində",
-        "C": "Xırdalanmış qida tullantılarını",
-        "D": "fırtınalı havada təxirə salınmaqla"
+        "C": "şimal-şərq istiqamətində",
+        "D": "Xırdalanmış qida tullantılarını"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q022",
       "question": "22. Neçə növ qazayırıcı sistem mövcuddur?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "2",
+        "A": "bütün cavablar yanlışdır",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
         "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "bütün cavablar yanlışdır"
+        "D": "2"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q023",
       "question": "23. MARPOL-73/78-in I əlavəsinin tələblərinə uyğun olaraq xüsusi rayonlardan kənarda yük tanklarından tərkibində neft suları tullayarkən nəyə riayət etmək vacib deyil?",
       "options": {
-        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "Ətraf mühitin temperaturuna"
+        "A": "Ətraf mühitin temperaturuna",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q024",
       "question": "24. İnertizə olunmuş tanklı tankerlərdə ildırımlı tufan xəbərdarlığı alınan zaman uçan neft məhsulları ilə əməliyyatların keçirilməsi:",
       "options": {
-        "A": "Qadağan olunur",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "B": "Qadağan olunur",
         "C": "şimal-şərq istiqamətində",
         "D": "avtomatik rejimdə işləyərkən"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q025",
       "question": "25. Yük tanklarının içində partlama təhlükəsinin qarşısını almaq üçün hansı sistemdən istifadə olunur?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "B": "cənub-qərb dreyfi zamanı",
-        "C": "İnert qaz sistemindən",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "İnert qaz sistemindən"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Yarınəm tipli.",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "A": "avtomatik rejimdə işləyərkən",
         "B": "1,2,3",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -318,32 +318,32 @@
       "question": "27. Hansı neft məhsulları alışma temperaturuna görə uçmayan yüklərə aiddir?",
       "options": {
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "bütün cavablar doğrudur",
-        "C": "alışma temperaturuna görə 600 C-dən yuxarı olan neft məhsulları",
-        "D": "50 metr məsafədə dənizdə"
+        "B": "50 metr məsafədə dənizdə",
+        "C": "bütün cavablar doğrudur",
+        "D": "alışma temperaturuna görə 600 C-dən yuxarı olan neft məhsulları"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q028",
       "question": "28. SOLAS-74 Beynəlxalq Konvensiyası ilə tankerlerdə ən azı neçə yanğın əleyhinə komplekti nəzərdə tutulub?",
       "options": {
-        "A": "4",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "bütün cavablar doğrudur"
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "bütün cavablar doğrudur",
+        "D": "4"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q029",
       "question": "29. Yük tankının içində zərərçəkənə təcili tibbi yardım göstərən zaman oksigen reanimatordan istifadə etmək olarmı?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "A": "şimal-şərq istiqamətində",
         "B": "Qəti olmaz",
-        "C": "şimal-şərq istiqamətində",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "D": "lövbər dayanacağı sahəsində"
       },
       "correct_answer": "B",
@@ -353,44 +353,44 @@
       "id": "q030",
       "question": "30. Yük əməliyyatları zamanı ballast tanklarının qapaqları hansı vəziyyətdə olmalıdır?",
       "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "bağlı",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "bağlı",
+        "D": "10 uzel sürətlə manevr etdikdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q031",
       "question": "31. Kimyəvi yük daşıyan tankerlərdə yük şlanqlarının qırılma / cırılma sınağı zamanı yoxlama təzyiqi işçi təzyiqdən neçə dəfə çox olmalıdır?",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "50 metr məsafədə dənizdə",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "5 dəfə"
+        "A": "50 metr məsafədə dənizdə",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "5 dəfə",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q032",
       "question": "32. İnert qazın yük tankının girişində temperaturu neçə dərəcədən artıq olmamalıdır?",
       "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "650 C"
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "650 C",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "gəmi limana daxil olana qədər"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q033",
       "question": "33. Yük zonasının konstruktiv müdafiəsinə görə zərərli və təhlükəli yükdaşıyan tankerlərin neçə tipi vardır?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "avtomatik rejimdə işləyərkən",
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "fırtınalı havada təxirə salınmaqla",
         "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "D": "3"
       },
@@ -402,45 +402,45 @@
       "question": "34. Termiki yanıqlarda ilk yardım zamanı nə etmək lazımdır?",
       "options": {
         "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "Yüksək temperaturun zərərçəkənə təsir etməsinin qarşısını almaq, quru aseptik sarğı qoymaq"
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "Yüksək temperaturun zərərçəkənə təsir etməsinin qarşısını almaq, quru aseptik sarğı qoymaq",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Q= 3600 х πd2.",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "1,4",
-        "C": "avtomatik rejimdə işləyərkən",
+        "A": "1,4",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q036",
       "question": "36. İnsanı həyata qaytarmaq üçün adi şəraitdə klinik ölümün vaxtı nə qədər olmalıdır?",
       "options": {
-        "A": "4-5 dəqiqə",
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+        "C": "4-5 dəqiqə",
+        "D": "gəmi limana daxil olana qədər"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q037",
       "question": "37. Orta yaş insanlarda nəbz bir dəqiqə ərzində neçə olmalıdır?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "B": "bütün cavablar doğrudur",
         "C": "75-80",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -449,60 +449,60 @@
       "id": "q038",
       "question": "38. Yükün boşaldılmasının ilkin mərhələsində yükün axar sürəti neçə m/s olmalıdır?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "A": "1 m/s",
         "B": "cənub-qərb dreyfi zamanı",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "1 m/s"
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q039",
       "question": "39. Yük əməliyyatları zamanı fövqəladə hallar baş verərsə hansı tədbirlər görülməlidir?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "Yük əməliyyatlarını saxlamaq, terminal nümayəndələrinə xəbər vermək, plan üzrə hərəkət etmək",
+        "A": "Yük əməliyyatlarını saxlamaq, terminal nümayəndələrinə xəbər vermək, plan üzrə hərəkət etmək",
+        "B": "lövbər dayanacağı sahəsində",
         "C": "hər ayda bir dəfədən az olmayan müddətdə",
         "D": "əllə idarəetmə rejiminə keçdikdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q040",
       "question": "40. Yüklə reys zamanı vaxtaşırı nəyi yoxlamaq vacib deyil?",
       "options": {
-        "A": "Gəminin suya oturumunu",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "Gəminin suya oturumunu",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q041",
       "question": "41. Yuyucu sistemin kəmərlərində təzyiq nə qədər olmalıdır?",
       "options": {
-        "A": "8 kq/sm2",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "şimal-şərq istiqamətində",
+        "A": "şimal-şərq istiqamətində",
+        "B": "8 kq/sm2",
+        "C": "10 uzel sürətlə manevr etdikdə",
         "D": "fırtınalı havada təxirə salınmaqla"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q042",
       "question": "42. Yükün səviyyəsinin ölçülməsinin neçə əsas üsulu mövcuddur?",
       "options": {
-        "A": "3",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "3",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -510,9 +510,9 @@
       "question": "43. Tankların qurudulması və təmizlənməsi zamanı neçə üsuldan istifadə olunur?",
       "options": {
         "A": "3",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "avtomatik rejimdə işləyərkən"
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -521,12 +521,12 @@
       "id": "q044",
       "question": "44. Yük boşaltmazdan əvvəl yük nasosunun klapanları hansı vəziyyətdə olmalıdır?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
+        "A": "Basma klapanı bağlı ,sovurucu klapanı açıq",
         "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "Basma klapanı bağlı ,sovurucu klapanı açıq",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -534,8 +534,8 @@
       "question": "45. Tankerlərin yükləmə sisteminə nə daxil deyil?",
       "options": {
         "A": "gəmi limana daxil olana qədər",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "D": "Yükləmə nasosları"
       },
       "correct_answer": "D",
@@ -546,23 +546,23 @@
       "question": "46. Tankerlərdə neçə növ tank mövcuddur?",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "4"
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "C": "4",
+        "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q047",
       "question": "47. Xüsusi rayonda olan zaman tankların yuyulmasında hansı üsullardan istifadə olunur?",
       "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "Qapalı dövrlü",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "Qapalı dövrlü",
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -571,8 +571,8 @@
       "options": {
         "A": "Cərəyan xətlərini şəbəkədən ayırmaq",
         "B": "lövbər dayanacağı sahəsində",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "bütün cavablar yanlışdır"
+        "C": "bütün cavablar yanlışdır",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -581,60 +581,60 @@
       "id": "q049",
       "question": "49. Tankların yuma sisteminə nə daxil deyil?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "Qaz-analizator"
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "Qaz-analizator",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q050",
       "question": "50. Tankerlərdə neçə yanğın söndürən nasos olmalıdır?",
       "options": {
-        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "3",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q051",
-      "question": "51. Tankların yuyulması zamanı neçə üsuldan istifadə olunur?",
-      "options": {
         "A": "3",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "şimal-şərq istiqamətində",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "D": "gəmi limana daxil olana qədər"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
+      "id": "q051",
+      "question": "51. Tankların yuyulması zamanı neçə üsuldan istifadə olunur?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "3",
+        "C": "şimal-şərq istiqamətində",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
       "id": "q052",
       "question": "52. Tankların yuyulması nə zaman zəruri deyil?",
       "options": {
-        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "B": "fırtınalı havada təxirə salınmaqla",
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "Təmirdən çıxan zaman",
         "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "Təmirdən çıxan zaman"
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q053",
       "question": "53. “SAZRİUS” abreviaturası hansı prosesdə istifadə olunur?",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "Yuyucu sistemində suların avtomatik ölçmə, qeyd edilmə və tullamanın idarə edilməsi prosesində",
+        "A": "gəmi limana daxil olana qədər",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "gəmi limana daxil olana qədər"
+        "D": "Yuyucu sistemində suların avtomatik ölçmə, qeyd edilmə və tullamanın idarə edilməsi prosesində"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     }
   ]

@@ -5,36 +5,36 @@
       "id": "q001",
       "question": "1. Əmniyyətli İdarəetmə haqqında Beynəlxalq Məcəlləyə nə aiddir?",
       "options": {
-        "A": "Ətraf mühitinin qorunması",
-        "B": "Yalnız gəmilərin sürət həddinin tənzimlənməsi",
+        "A": "Yalnız gəmilərin sürət həddinin tənzimlənməsi",
+        "B": "Yük konteynerlərinin icarə şərtləri",
         "C": "Liman rüsumlarının hesablanması qaydaları",
-        "D": "Yük konteynerlərinin icarə şərtləri"
+        "D": "Ətraf mühitinin qorunması"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q002",
       "question": "2. Əmniyyətli İdarəetmə haqqında Beynəlxalq Məcəllənin məqsədləri nədir?",
       "options": {
-        "A": "Gəmilərin təhlükəsiz istismarına aid beynəlxalq standartın yaradılmasıdır",
+        "A": "Gəmi heyətinin əmək haqlarının tənzimlənməsidir",
         "B": "Dəniz daşımalarında gəlirlərin artırılmasıdır",
-        "C": "Gəmi heyətinin əmək haqlarının tənzimlənməsidir",
+        "C": "Gəmilərin təhlükəsiz istismarına aid beynəlxalq standartın yaradılmasıdır",
         "D": "Tərsanələrdə gəmi tikintisi qiymətlərinin müəyyən edilməsidir"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q003",
       "question": "3. ƏİBM hansı gəmilərə şamil olunur?",
       "options": {
-        "A": "Qross tonnajı 500 və yuxarı olan gəmilərə",
-        "B": "Qross tonnajı 100-dən aşağı olan bütün gəmilərə",
-        "C": "Yalnız hərbi gəmilərə və dövlət katerlərinə",
-        "D": "Yalnız avadansız balıqçı qayıqlarına"
+        "A": "Qross tonnajı 100-dən aşağı olan bütün gəmilərə",
+        "B": "Yalnız avadansız balıqçı qayıqlarına",
+        "C": "Qross tonnajı 500 və yuxarı olan gəmilərə",
+        "D": "Yalnız hərbi gəmilərə və dövlət katerlərinə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -42,8 +42,8 @@
       "question": "4. ƏİBM hansı gəmilərə şamil olunur?",
       "options": {
         "A": "Bütün sərnişin daşıyan gəmilərə şamil olunur",
-        "B": "Yalnız uzunluğu 10 metrdən az olan gəmilərə",
-        "C": "Yalnız taxta gövdəli yelkənli gəmilərə",
+        "B": "Yalnız taxta gövdəli yelkənli gəmilərə",
+        "C": "Yalnız uzunluğu 10 metrdən az olan gəmilərə",
         "D": "Yalnız mühərriksiz barjalara"
       },
       "correct_answer": "A",
@@ -53,60 +53,60 @@
       "id": "q005",
       "question": "5. SOLAS 74/78 Beynəlxalq Konvensiyasının IX Fəslinin 2-ci Qaydasına əsasən, ƏİBM hansı gəmilərə şamil olunur?",
       "options": {
-        "A": "Bütün sərnişin daşıyan gəmilərə",
-        "B": "Yalnız dənizdə idman yaxtalarına",
-        "C": "Yalnız yedək katerlərinə",
-        "D": "Yalnız elmi-tədqiqat sualtı aparatlarına"
+        "A": "Yalnız yedək katerlərinə",
+        "B": "Yalnız elmi-tədqiqat sualtı aparatlarına",
+        "C": "Bütün sərnişin daşıyan gəmilərə",
+        "D": "Yalnız dənizdə idman yaxtalarına"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q006",
       "question": "6. Beynəlxalq Dəniz Təşkilatı (İMO) nədir?",
       "options": {
-        "A": "Beynəlxalq dənizçilik standartları yaradan təşkilatdır",
+        "A": "Yalnız dəniz quldurluğu ilə mübarizə aparan hərbi ittifaqdır",
         "B": "Gəmi yanacağı satan kommersiya şirkətidir",
-        "C": "Yalnız dəniz quldurluğu ilə mübarizə aparan hərbi ittifaqdır",
-        "D": "Liman kranlarını istehsal edən holdinqdir"
+        "C": "Liman kranlarını istehsal edən holdinqdir",
+        "D": "Beynəlxalq dənizçilik standartları yaradan təşkilatdır"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q007",
       "question": "7. Gəmidə qəza baş versə və batma təhdidi yaransa, birinci növbədə nəyi qorumaq lazımdır?",
       "options": {
-        "A": "İnsan həyatını",
-        "B": "Gəmi dokumentasiyasını",
-        "C": "Karterdəki işlənmiş yağı",
-        "D": "Gəmi ambarındakı yükləri"
+        "A": "Gəmi ambarındakı yükləri",
+        "B": "Karterdəki işlənmiş yağı",
+        "C": "Gəmi dokumentasiyasını",
+        "D": "İnsan həyatını"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q008",
       "question": "8. Gəmidə qəza baş versə və batma təhdidi yaransa, ikinci növbədə nəyi qorumaq lazımdır?",
       "options": {
-        "A": "Ətraf mühiti",
+        "A": "Buxar qazanını",
         "B": "Gəmi kapitanının şəxsi əşyalarını",
-        "C": "Seyr fənərlərini",
-        "D": "Buxar qazanını"
+        "C": "Ətraf mühiti",
+        "D": "Seyr fənərlərini"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q009",
       "question": "9. Gəmidə qəza baş versə və batma təhdidi yaransa, üçüncü növbədə nəyi qorumaq lazımdır?",
       "options": {
-        "A": "Gəmini qorumaq lazımdır",
-        "B": "Liman binalarını qorumaq lazımdır",
-        "C": "Sahil fənərlərini qorumaq lazımdır",
-        "D": "Radioötürücü antenanı qorumaq lazımdır"
+        "A": "Sahil fənərlərini qorumaq lazımdır",
+        "B": "Radioötürücü antenanı qorumaq lazımdır",
+        "C": "Liman binalarını qorumaq lazımdır",
+        "D": "Gəmini qorumaq lazımdır"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -115,8 +115,8 @@
       "options": {
         "A": "Gəmidə olan yükləri qorumaq lazımdır",
         "B": "Ətrafda olan balıqları qorumaq lazımdır",
-        "C": "Tərsanə kranlarını qorumaq lazımdır",
-        "D": "Liman yedəklərini qorumaq lazımdır"
+        "C": "Liman yedəklərini qorumaq lazımdır",
+        "D": "Tərsanə kranlarını qorumaq lazımdır"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -125,48 +125,48 @@
       "id": "q011",
       "question": "11. ƏİBM neçə hissədən, neçə bölmədən ibarətdir?",
       "options": {
-        "A": "2 hissə 16 bölmə",
-        "B": "4 hissə 20 bölmə",
+        "A": "3 hissə 12 bölmə",
+        "B": "2 hissə 16 bölmə",
         "C": "1 hissə 10 bölmə",
-        "D": "3 hissə 12 bölmə"
+        "D": "4 hissə 20 bölmə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q012",
       "question": "12. ƏİBM Şirkətin qarşısında hansı tələblər qoyur?",
       "options": {
-        "A": "Gəmidə olan kapitan və gəmi heyəti tələb olunan biliklərə sahib olmalıdır",
-        "B": "Bütün heyət üzvləri ən azı 3 xarici dil bilməlidir",
+        "A": "Bütün heyət üzvləri ən azı 3 xarici dil bilməlidir",
+        "B": "Gəmi kapitanı hər gün İMO-ya şəxsi hesabat göndərməlidir",
         "C": "Gəmi hər ay tərsanədə doka qaldırılmalıdır",
-        "D": "Gəmi kapitanı hər gün İMO-ya şəxsi hesabat göndərməlidir"
+        "D": "Gəmidə olan kapitan və gəmi heyəti tələb olunan biliklərə sahib olmalıdır"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q013",
       "question": "13. ƏİBM baxımından aşağıdakı tələblərdən hansı düzgündür?",
       "options": {
-        "A": "Bütün gəmi heyəti tibbi baxımdan sağlam olmalıdır",
-        "B": "Gəmi heyəti yalnız sahildə yaşamaq hüququna malikdir",
-        "C": "Dənizçilər hər 2 ildən bir diplomlarını yenidən imtahansız dəyişməlidir",
-        "D": "Gəmi kapitanı gəmi mühərrikini şəxsən söküb yığmalıdır"
+        "A": "Gəmi heyəti yalnız sahildə yaşamaq hüququna malikdir",
+        "B": "Gəmi kapitanı gəmi mühərrikini şəxsən söküb yığmalıdır",
+        "C": "Bütün gəmi heyəti tibbi baxımdan sağlam olmalıdır",
+        "D": "Dənizçilər hər 2 ildən bir diplomlarını yenidən imtahansız dəyişməlidir"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q014",
       "question": "14. ƏİBM baxımından ƏİS nə etməlidir?",
       "options": {
-        "A": "ƏİS kapitanın səlahiyyətlərini təsdiq etməlidir",
-        "B": "ƏİS kapitanın bütün qərarlarını ləğv etməlidir",
-        "C": "ƏİS gəmi naviqasiyasını avtomatik idarə etməlidir",
-        "D": "ƏİS yalnız Maliyyə Nazirliyinə hesabat verməlidir"
+        "A": "ƏİS yalnız Maliyyə Nazirliyinə hesabat verməlidir",
+        "B": "ƏİS gəmi naviqasiyasını avtomatik idarə etməlidir",
+        "C": "ƏİS kapitanın bütün qərarlarını ləğv etməlidir",
+        "D": "ƏİS kapitanın səlahiyyətlərini təsdiq etməlidir"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -186,9 +186,9 @@
       "question": "16. Hansı tarixdə BDT A.741(18) qətnaməsini qəbul edib?",
       "options": {
         "A": "04.11.93",
-        "B": "01.01.80",
-        "C": "12.12.05",
-        "D": "15.05.15"
+        "B": "12.12.05",
+        "C": "15.05.15",
+        "D": "01.01.80"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -198,9 +198,9 @@
       "question": "17. Hansı tarixdə BDT SOLAS 74/78 Beynəlxalq Konvensiyasının tərkibinə IX Fəsil əlavə edib?",
       "options": {
         "A": "24.05.94",
-        "B": "10.10.85",
+        "B": "20.08.10",
         "C": "01.01.00",
-        "D": "20.08.10"
+        "D": "10.10.85"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -209,84 +209,84 @@
       "id": "q018",
       "question": "18. SOLAS 74/78 Beynəlxalq Konvensiyasının IX Fəsli necə adlanır?",
       "options": {
-        "A": "Təhlükəsizliyin idarə edilməsi",
-        "B": "Yanğınsöndürmə vasitələri",
+        "A": "Yanğınsöndürmə vasitələri",
+        "B": "Yüklərin yerləşdirilməsi və bərkidilməsi",
         "C": "Radiotəhlükəsizlik və GMDSS",
-        "D": "Yüklərin yerləşdirilməsi və bərkidilməsi"
+        "D": "Təhlükəsizliyin idarə edilməsi"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q019",
       "question": "19. Bayraq Administrasiyası tərəfindən hansı yoxlamalar keçirilir?",
       "options": {
-        "A": "Xarici yoxlamalar",
-        "B": "Şirkətdaxili gündəlik auditlər",
-        "C": "Yalnız maliyyə-mühasibat yoxlamaları",
-        "D": "Yalnız heyətin tibbi yoxlamaları"
+        "A": "Yalnız maliyyə-mühasibat yoxlamaları",
+        "B": "Yalnız heyətin tibbi yoxlamaları",
+        "C": "Xarici yoxlamalar",
+        "D": "Şirkətdaxili gündəlik auditlər"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q020",
       "question": "20. Şirkət tərəfindən hansı yoxlamalar keçirilir?",
       "options": {
-        "A": "Daxili yoxlamalar",
-        "B": "Bayraq dövlətinin rəsmi beynəlxalq sertifikatlaşdırması",
-        "C": "Liman Müfəttişliyi (PSC) tərəfindən rəsmi yoxlama",
+        "A": "Liman Müfəttişliyi (PSC) tərəfindən rəsmi yoxlama",
+        "B": "Daxili yoxlamalar",
+        "C": "Bayraq dövlətinin rəsmi beynəlxalq sertifikatlaşdırması",
         "D": "Gömrük və sərhəd keçid yoxlamaları"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q021",
       "question": "21. Audit üçün əsas tələb nədir?",
       "options": {
-        "A": "Audit keçirən şəxs yoxladığı işindən asılı olmamalıdır",
-        "B": "Auditor yoxladığı obyektdə şəxsən cavabdeh mexanik olmalıdır",
-        "C": "Audit yalnız gecə vaxtı həyata keçirilməlidir",
-        "D": "Audit yalnız gəmi lövbərdə olarkən aparılmalıdır"
+        "A": "Auditor yoxladığı obyektdə şəxsən cavabdeh mexanik olmalıdır",
+        "B": "Audit yalnız gəmi lövbərdə olarkən aparılmalıdır",
+        "C": "Audit keçirən şəxs yoxladığı işindən asılı olmamalıdır",
+        "D": "Audit yalnız gecə vaxtı həyata keçirilməlidir"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q022",
       "question": "22. ƏİBM məqsədlərini göstərin:",
       "options": {
-        "A": "Hər bir dənizçilik şirkətində ƏİS yaradılmalıdır",
-        "B": "Bütün gəmilərin dizel mühərrikləri elektrik mühərriki ilə əvəz edilməlidir",
-        "C": "Gəmilərdə bütün maşın növbələri ləğv edilməlidir",
-        "D": "Yalnız xarici ölkə vətəndaşları gəmiyə işə götürülməlidir"
+        "A": "Yalnız xarici ölkə vətəndaşları gəmiyə işə götürülməlidir",
+        "B": "Gəmilərdə bütün maşın növbələri ləğv edilməlidir",
+        "C": "Bütün gəmilərin dizel mühərrikləri elektrik mühərriki ilə əvəz edilməlidir",
+        "D": "Hər bir dənizçilik şirkətində ƏİS yaradılmalıdır"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q023",
       "question": "23. ƏİBM məqsədlərini göstərin:",
       "options": {
-        "A": "Dənizdə insanlarla bədbəxt hadisələrin qarşısı alınsın",
-        "B": "Gəmilərin sürəti 2 dəfə artırılsın",
-        "C": "Limanlarda yükboşaltma vaxtı maksimum azaldılsın",
-        "D": "Gəmi kapitanının məsuliyyəti tam ləğv olunsun"
+        "A": "Gəmilərin sürəti 2 dəfə artırılsın",
+        "B": "Gəmi kapitanının məsuliyyəti tam ləğv olunsun",
+        "C": "Dənizdə insanlarla bədbəxt hadisələrin qarşısı alınsın",
+        "D": "Limanlarda yükboşaltma vaxtı maksimum azaldılsın"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q024",
       "question": "24. ƏİBM əsas tələbini göstərin:",
       "options": {
-        "A": "Əmniyyətli İdarəetmə Sistemi (ƏİS) yaradılsın",
+        "A": "Gəmilərdə yanacaq sərfi 50% azaldılsın",
         "B": "Gəmilər üçün yeni naviqasiya fənərləri istehsal olunsun",
-        "C": "Bütün dənizçilər üçün pulsuz təlim mərkəzləri tikilsin",
-        "D": "Gəmilərdə yanacaq sərfi 50% azaldılsın"
+        "C": "Əmniyyətli İdarəetmə Sistemi (ƏİS) yaradılsın",
+        "D": "Bütün dənizçilər üçün pulsuz təlim mərkəzləri tikilsin"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -305,12 +305,12 @@
       "id": "q026",
       "question": "26. Aşağıdakılardan hansı ƏİBM tələblərinə aid deyil?",
       "options": {
-        "A": "Gəmilərdə Mühafizənin İdarəedilməsi haqqında Sistem yaradılması",
-        "B": "Şirkətin təhlükəsizlik siyasətinin işlənib hazırlanması",
-        "C": "Kapitanın səlahiyyət və məsuliyyətinin müəyyən edilməsi",
-        "D": "Fövqəladə hallara hazırlaşma prosedurlarının yaradılması"
+        "A": "Kapitanın səlahiyyət və məsuliyyətinin müəyyən edilməsi",
+        "B": "Gəmilərdə Mühafizənin İdarəedilməsi haqqında Sistem yaradılması",
+        "C": "Fövqəladə hallara hazırlaşma prosedurlarının yaradılması",
+        "D": "Şirkətin təhlükəsizlik siyasətinin işlənib hazırlanması"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -318,9 +318,9 @@
       "question": "27. ƏİS hansı təşkilatların tövsiyələrinə riayət etmir?",
       "options": {
         "A": "Sahil Mühafizə Xidməti",
-        "B": "Beynəlxalq Dəniz Təşkilatı (İMO)",
+        "B": "Təsnifat Cəmiyyətləri (Recognized Organizations)",
         "C": "Bayraq Administrasiyaları",
-        "D": "Təsnifat Cəmiyyətləri (Recognized Organizations)"
+        "D": "Beynəlxalq Dəniz Təşkilatı (İMO)"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -341,48 +341,48 @@
       "id": "q029",
       "question": "29. ƏİBM üçün Rəhbər Sənəd hesab olunmayanı göstərin",
       "options": {
-        "A": "Təsnifat Cəmiyyətinin Əsasnaməsi",
-        "B": "SOLAS-74 Beynəlxalq Konvensiyası",
-        "C": "MARPOL-73/78 Beynəlxalq Konvensiyası",
-        "D": "STCW-78/95 Beynəlxalq Konvensiyası"
+        "A": "SOLAS-74 Beynəlxalq Konvensiyası",
+        "B": "STCW-78/95 Beynəlxalq Konvensiyası",
+        "C": "Təsnifat Cəmiyyətinin Əsasnaməsi",
+        "D": "MARPOL-73/78 Beynəlxalq Konvensiyası"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q030",
       "question": "30. ƏİS nədir?",
       "options": {
-        "A": "Əmniyyətli İdarəetmə Sistemidir (Safety Management System)",
-        "B": "Gəmilərin Avtomatik İdentifikasiya Sistemidir (AIS)",
-        "C": "Qlobal Dəniz Fəlakət və Əmniyyətli Rabitə Sistemidir (GMDSS)",
+        "A": "Gəmilərin Avtomatik İdentifikasiya Sistemidir (AIS)",
+        "B": "Qlobal Dəniz Fəlakət və Əmniyyətli Rabitə Sistemidir (GMDSS)",
+        "C": "Əmniyyətli İdarəetmə Sistemidir (Safety Management System)",
         "D": "Gəmilərin Yanğından Mühafizə Sistemidir"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q031",
       "question": "31. ƏİS hansı tələblərə uyğun olmalıdır?",
       "options": {
-        "A": "Təhlükəsizlik və ətraf mühitə aid bütün beynəlxalq standartlara",
-        "B": "Yalnız gəmi sahibinin şəxsi arzularına",
-        "C": "Yalnız liman yükləmə operatorlarının tələblərinə",
-        "D": "Yalnız gəmi aşpazının tərtib etdiyi menyuya"
+        "A": "Yalnız gəmi sahibinin şəxsi arzularına",
+        "B": "Yalnız liman yükləmə operatorlarının tələblərinə",
+        "C": "Yalnız gəmi aşpazının tərtib etdiyi menyuya",
+        "D": "Təhlükəsizlik və ətraf mühitə aid bütün beynəlxalq standartlara"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q032",
       "question": "32. ƏİBM-in 2-ci bölməsinin tələbləri əsasında şirkətdə hansı təhlükəsizlik siyasətinin yaradılması tələb olunur?",
       "options": {
-        "A": "Şirkətin təhlükəsizlik və ətraf mühitinin çirkləndirilməməsi siyasəti",
-        "B": "Şirkətin kommersiya qiymət siyasəti",
+        "A": "Şirkətin kommersiya qiymət siyasəti",
+        "B": "Şirkətin təhlükəsizlik və ətraf mühitinin çirkləndirilməməsi siyasəti",
         "C": "Şirkətin reklam və marketinq siyasəti",
         "D": "Şirkətin kadrların ixtisarı siyasəti"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -390,8 +390,8 @@
       "question": "33. Gəmiyə verilən Əmniyyətli İdarəetmə Şəhadətnaməsi hansı halda öz qüvvəsini itirir?",
       "options": {
         "A": "Böyük uyğunsuzluq sübut olunarsa",
-        "B": "Gəmi rəngləndikdə və ya təmizləndikdə",
-        "C": "Gəmi heyəti dəyişdirildikdə",
+        "B": "Gəmi heyəti dəyişdirildikdə",
+        "C": "Gəmi rəngləndikdə və ya təmizləndikdə",
         "D": "Gəmi başqa limana lövbər saldıqda"
       },
       "correct_answer": "A",
@@ -401,168 +401,168 @@
       "id": "q034",
       "question": "34. Şirkətə verilən uyğunluq haqqında sənəd hansı halda öz qüvvəsini itirir?",
       "options": {
-        "A": "Böyük uyğunsuzluq sübut olunarsa",
-        "B": "Şirkətin telefon nömrəsi dəyişdikdə",
-        "C": "Şirkətin veb-saytı yeniləndikdə",
-        "D": "Gəmi mühərrikinin yağı dəyişdirildikdə"
+        "A": "Şirkətin telefon nömrəsi dəyişdikdə",
+        "B": "Böyük uyğunsuzluq sübut olunarsa",
+        "C": "Gəmi mühərrikinin yağı dəyişdirildikdə",
+        "D": "Şirkətin veb-saytı yeniləndikdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q035",
       "question": "35. Gəmiyə verilən Əmniyyətli İdarəetmə Şəhadətnaməsi hansı halda öz qüvvəsini itirir?",
       "options": {
-        "A": "Uyğunluq haqqında sənəd ləğv olunarsa",
+        "A": "Gəmi 10 uzel sürətlə üzdükdə",
         "B": "Gəmi kapitanı istirahətə çıxdıqda",
         "C": "Gəmidə seyr fənərləri yandırıldıqda",
-        "D": "Gəmi 10 uzel sürətlə üzdükdə"
+        "D": "Uyğunluq haqqında sənəd ləğv olunarsa"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q036",
       "question": "36. Uyğunluq haqqında sənəd (DOC) kimə verilir?",
       "options": {
-        "A": "Şirkətə",
+        "A": "Yük sahibinə",
         "B": "Şəxsən gəmi kapitanına",
-        "C": "Liman agentinə",
-        "D": "Yük sahibinə"
+        "C": "Şirkətə",
+        "D": "Liman agentinə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q037",
       "question": "37. Əmniyyətli İdarəetmə üzrə Şəhadətnamə (SMC) kimə verilir?",
       "options": {
-        "A": "Gəmiyə",
+        "A": "Təsnifat cəmiyyətinin baş direktoruna",
         "B": "Gəmiçilik şirkətinin mərkəzi ofisinə",
-        "C": "Təsnifat cəmiyyətinin baş direktoruna",
+        "C": "Gəmiyə",
         "D": "Liman müfəttişliyinə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q038",
       "question": "38. Müvəqqəti uyğunluq sənədi (Interim DOC) hansı müddətə verilə bilər?",
       "options": {
-        "A": "12 ay",
+        "A": "10 il",
         "B": "5 il",
         "C": "1 ay",
-        "D": "10 il"
+        "D": "12 ay"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q039",
       "question": "39. Müvəqqəti Əmniyyətli İdarəetmə üzrə Şəhadətnamə (Interim SMC) hansı müddətə verilə bilər?",
       "options": {
-        "A": "6 ay",
-        "B": "3 il",
+        "A": "5 il",
+        "B": "6 ay",
         "C": "24 ay",
-        "D": "5 il"
+        "D": "3 il"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q040",
       "question": "40. ƏİBM əsas hansı nöqsanlara diqqət yetirir?",
       "options": {
-        "A": "Uyğunsuzluq və böyük uyğunsuzluq",
-        "B": "Gəmi korpusunun rənginin solması",
-        "C": "Karter yağının azca çirklənməsi",
-        "D": "Kayıtlarda orfoqrafik xətalar"
+        "A": "Gəmi korpusunun rənginin solması",
+        "B": "Uyğunsuzluq və böyük uyğunsuzluq",
+        "C": "Kayıtlarda orfoqrafik xətalar",
+        "D": "Karter yağının azca çirklənməsi"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q041",
       "question": "41. Uyğunsuzluq nədir?",
       "options": {
-        "A": "ƏİBM-in tələblərinə uyğun olmayan nöqsan",
-        "B": "Gəminin nəzərdə tutulan vaxtdan 5 dəqiqə gecikməsi",
-        "C": "Gəmi kütləsinin 1 ton artıq olması",
-        "D": "Küləyin istiqamətinin dəyişməsi"
+        "A": "Gəmi kütləsinin 1 ton artıq olması",
+        "B": "ƏİBM-in tələblərinə uyğun olmayan nöqsan",
+        "C": "Küləyin istiqamətinin dəyişməsi",
+        "D": "Gəminin nəzərdə tutulan vaxtdan 5 dəqiqə gecikməsi"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q042",
       "question": "42. Böyük uyğunsuzluq nədir?",
       "options": {
-        "A": "Qəzaya səbəb ola biləcək təkrar olunan uyğunsuzluq",
+        "A": "Seyr fənərinin şüşəsinin çirklənməsi",
         "B": "Gəmi aşpazının yeməyi gecikdirməsi",
         "C": "Gəmi lövbərinin paslanması",
-        "D": "Seyr fənərinin şüşəsinin çirklənməsi"
+        "D": "Qəzaya səbəb ola biləcək təkrar olunan uyğunsuzluq"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q043",
       "question": "43. ƏİBM neçə bölmədən ibarətdir?",
       "options": {
-        "A": "16 bölmə",
-        "B": "8 bölmə",
-        "C": "24 bölmə",
+        "A": "8 bölmə",
+        "B": "24 bölmə",
+        "C": "16 bölmə",
         "D": "30 bölmə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q044",
       "question": "44. ƏİBM neçə hissədən ibarətdir?",
       "options": {
-        "A": "2 hissə",
-        "B": "5 hissə",
-        "C": "10 hissə",
-        "D": "1 hissə"
+        "A": "1 hissə",
+        "B": "2 hissə",
+        "C": "5 hissə",
+        "D": "10 hissə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q045",
       "question": "45. ƏİBM-in A hissəsi necə adlanır?",
       "options": {
-        "A": "Həyata keçirmə",
-        "B": "Şəhadətləndirmə və yoxlama",
-        "C": "Maliyyə auditi",
-        "D": "Texniki xidmət"
+        "A": "Şəhadətləndirmə və yoxlama",
+        "B": "Maliyyə auditi",
+        "C": "Texniki xidmət",
+        "D": "Həyata keçirmə"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q046",
       "question": "46. ƏİBM-in B hissəsi necə adlanır?",
       "options": {
-        "A": "Şəhadətləndirmə və yoxlama",
+        "A": "Qəzaların araşdırılması",
         "B": "Həyata keçirmə",
         "C": "Dənizçilərin diplomlaşdırılması",
-        "D": "Qəzaların araşdırılması"
+        "D": "Şəhadətləndirmə və yoxlama"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q047",
       "question": "47. SOLAS 74/78 Beynəlxalq Konvensiyanın hansı fəsli ƏİBM-ə aiddir?",
       "options": {
-        "A": "IX Fəsil",
-        "B": "III Fəsil",
+        "A": "III Fəsil",
+        "B": "XII Fəsil",
         "C": "V Fəsil",
-        "D": "XII Fəsil"
+        "D": "IX Fəsil"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -570,9 +570,9 @@
       "question": "48. Əmniyyətli İdarəetmə Sisteminin (ƏİS) Normativ Hüquq bazasına hansı aid deyil?",
       "options": {
         "A": "Yer Kürəsinin Nizamnaməsi (The Earth Charter 2000)",
-        "B": "SOLAS-74 Beynəlxalq Konvensiyası",
+        "B": "STCW-78/95 Beynəlxalq Konvensiyası",
         "C": "MARPOL-73/78 Beynəlxalq Konvensiyası",
-        "D": "STCW-78/95 Beynəlxalq Konvensiyası"
+        "D": "SOLAS-74 Beynəlxalq Konvensiyası"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -582,9 +582,9 @@
       "question": "49. Əmniyyətli İdarəetmə Sisteminin (ƏİS) normativ hüquq bazasına hansı aid deyil?",
       "options": {
         "A": "Hərbi Gəmilərin Nizamnaməsi",
-        "B": "SOLAS-74 Beynəlxalq Konvensiyası",
-        "C": "MARPOL-73/78 Beynəlxalq Konvensiyası",
-        "D": "Dənizdə Yük Nişanı haqqında Beynəlxalq Konvensiya"
+        "B": "MARPOL-73/78 Beynəlxalq Konvensiyası",
+        "C": "Dənizdə Yük Nişanı haqqında Beynəlxalq Konvensiya",
+        "D": "SOLAS-74 Beynəlxalq Konvensiyası"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -593,12 +593,12 @@
       "id": "q050",
       "question": "50. Gəmidə hansı adda sənəd olmur?",
       "options": {
-        "A": "Tibbi arayış haqqında Şəhadətnamə",
-        "B": "Əmniyyətli İdarəetmə Şəhadətnaməsi (SMC)",
+        "A": "Gəmi maşın jurnalı",
+        "B": "Tibbi arayış haqqında Şəhadətnamə",
         "C": "Uyğunluq haqqında Sənədin surəti (DOC)",
-        "D": "Gəmi maşın jurnalı"
+        "D": "Əmniyyətli İdarəetmə Şəhadətnaməsi (SMC)"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -606,9 +606,9 @@
       "question": "51. SOLAS 74/78 neçə fəsildən ibarətdir?",
       "options": {
         "A": "14 Fəsil",
-        "B": "8 Fəsil",
-        "C": "20 Fəsil",
-        "D": "5 Fəsil"
+        "B": "5 Fəsil",
+        "C": "8 Fəsil",
+        "D": "20 Fəsil"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -629,72 +629,72 @@
       "id": "q053",
       "question": "53. “Dənizçilərin hazırlanmasına, onlara diplom verilməsinə və növbə çəkməyə dair” Beynəlxalq Məcəllə (STCW – 78/95, DHDNÇ BM – 78/95) hansı sahəyə aid olan sənəddir?",
       "options": {
-        "A": "Dənizçilərin sertifikatlaşdırılması, diplomların verilməsi haqqında qaydaları təyin edən Məcəllədir",
-        "B": "Gəmi mühərriklərinin təmir qiymətlərini müəyyən edən sənəddir",
-        "C": "Liman kranlarının texniki parametrlərini göstərən kataloqdur",
-        "D": "Gəmilərin satışı və icarəsi haqqında müqavilədir"
+        "A": "Gəmi mühərriklərinin təmir qiymətlərini müəyyən edən sənəddir",
+        "B": "Liman kranlarının texniki parametrlərini göstərən kataloqdur",
+        "C": "Gəmilərin satışı və icarəsi haqqında müqavilədir",
+        "D": "Dənizçilərin sertifikatlaşdırılması, diplomların verilməsi haqqında qaydaları təyin edən Məcəllədir"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q054",
       "question": "54. ƏİS təlimat qovluğuna aşağıdakılardan hansılar aid deyil?",
       "options": {
-        "A": "Mühafizə haqqında təlimat",
-        "B": "Gəmi heyətinin vəzifə təlimatları",
-        "C": "Fövqəladə hallarda fəaliyyət prosedurları",
-        "D": "Gəmiyə xidmət və texniki qulluq prosedurları"
+        "A": "Fövqəladə hallarda fəaliyyət prosedurları",
+        "B": "Gəmiyə xidmət və texniki qulluq prosedurları",
+        "C": "Gəmi heyətinin vəzifə təlimatları",
+        "D": "Mühafizə haqqında təlimat"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q055",
       "question": "55. Şirkətə ƏİBM üzrə verilən Müvəqqəti Uyğunluq Sənədi hansı müddətə verilir?",
       "options": {
-        "A": "12 ay",
-        "B": "5 il",
+        "A": "30 gün",
+        "B": "12 ay",
         "C": "6 ay",
-        "D": "30 gün"
+        "D": "5 il"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q056",
       "question": "56. Təyin olunmuş Şəxsin (DPA) əsas vəzifəsi nədir?",
       "options": {
-        "A": "Şirkətin gəmilərində təhlükəsizlik və ətraf mühitin çirkləndirilməməsini təmin etmək",
-        "B": "Gəmilərə ərzaq və içməli su almaq",
-        "C": "Liman rüsumlarını ödəmək",
-        "D": "Gəmilərin satışı üçün alıcı tapmaq"
+        "A": "Gəmilərə ərzaq və içməli su almaq",
+        "B": "Liman rüsumlarını ödəmək",
+        "C": "Gəmilərin satışı üçün alıcı tapmaq",
+        "D": "Şirkətin gəmilərində təhlükəsizlik və ətraf mühitin çirkləndirilməməsini təmin etmək"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q057",
       "question": "57. Hansı təşkilat Uyğunluq haqqında sənədi (DOC) verə bilər?",
       "options": {
-        "A": "Bayraq Administrasiyası",
-        "B": "Liman Polisi",
-        "C": "Şəhər Bələdiyyəsi",
-        "D": "Dəniz Turizm Şirkəti"
+        "A": "Dəniz Turizm Şirkəti",
+        "B": "Şəhər Bələdiyyəsi",
+        "C": "Bayraq Administrasiyası",
+        "D": "Liman Polisi"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q058",
       "question": "58. Təyin Olunmuş Şəxs (DPA) kim ola bilər?",
       "options": {
-        "A": "Gəmiçilik şirkətinin işçisi",
-        "B": "Liman gömrük müfəttişi",
-        "C": "Xarici ölkənin konsulu",
-        "D": "Təcrübəçi matros"
+        "A": "Liman gömrük müfəttişi",
+        "B": "Təcrübəçi matros",
+        "C": "Gəmiçilik şirkətinin işçisi",
+        "D": "Xarici ölkənin konsulu"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -703,8 +703,8 @@
       "options": {
         "A": "Şirkətin gəmilərində təhlükəsizliyə və ətraf mühitin çirkləndirilməməsinə görə cavabdehdir",
         "B": "Yalnız gəmi restoranının gəlirlərinə görə",
-        "C": "Yalnız liman işçilərinin əmək haqqına görə",
-        "D": "Yalnız gəmi biletlərinin satışına görə"
+        "C": "Yalnız gəmi biletlərinin satışına görə",
+        "D": "Yalnız liman işçilərinin əmək haqqına görə"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -713,48 +713,48 @@
       "id": "q060",
       "question": "60. Təyin olunmuş şəxsin vəzifələrinə aid olmayanları göstərin:",
       "options": {
-        "A": "Gəmi heyətini cəzalandırmaq",
-        "B": "Təhlükəsizlik monitorinqini təmin etmək",
+        "A": "Gəmilərin resurslarla təminatına nezaret etmək",
+        "B": "Gəmi heyətini cəzalandırmaq",
         "C": "Rəhbərliklə birbaşa əlaqə saxlamaq",
-        "D": "Gəmilərin resurslarla təminatına nezaret etmək"
+        "D": "Təhlükəsizlik monitorinqini təmin etmək"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q061",
       "question": "61. Şirkətin siyasətləri ƏİS-də öz əksini tapır?",
       "options": {
-        "A": "Bəli",
+        "A": "Yalnız gəmi kapitanının istəyi ilə",
         "B": "Xeyr, qadağandır",
-        "C": "Yalnız gəmi kapitanının istəyi ilə",
+        "C": "Bəli",
         "D": "Yalnız liman müfəttişinin tələbi ilə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q062",
       "question": "62. Gəmidə ƏİS üzrə təlimat qovluğunda nə yazılıb?",
       "options": {
-        "A": "Gəmi heyətinin vəzifələri",
-        "B": "Gəmi aşpazının reseptləri",
-        "C": "Liman şəhərlərinin mənzərələri",
+        "A": "Gəmi aşpazının reseptləri",
+        "B": "Liman şəhərlərinin mənzərələri",
+        "C": "Gəmi heyətinin vəzifələri",
         "D": "Dəniz balıqlarının növləri"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q063",
       "question": "63. ƏİBM baxımından şirkətdə hansı növ yoxlamalar olur?",
       "options": {
-        "A": "Daxili və xarici yoxlamalar",
+        "A": "Yalnız şifahi sorğu yoxlamaları",
         "B": "Yalnız gizli polislə yoxlamalar",
         "C": "Yalnız vergi müfəttişliyi yoxlamaları",
-        "D": "Yalnız şifahi sorğu yoxlamaları"
+        "D": "Daxili və xarici yoxlamalar"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -762,9 +762,9 @@
       "question": "64. ƏİBM baxımdan gəmidə hansı xarici yoxlama keçirilmir?",
       "options": {
         "A": "İllik yoxlama",
-        "B": "İlkin yoxlama (Initial audit)",
-        "C": "Aralıq yoxlama (Intermediate audit)",
-        "D": "Yenidən sertifikatlaşdırma yoxlaması (Renewal audit)"
+        "B": "Yenidən sertifikatlaşdırma yoxlaması (Renewal audit)",
+        "C": "İlkin yoxlama (Initial audit)",
+        "D": "Aralıq yoxlama (Intermediate audit)"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -773,48 +773,48 @@
       "id": "q065",
       "question": "65. Xarici yoxlama üçün tələb olunan vaxta gəmi limana gəlib çatmır. Xarici yoxalamanı maksimum hansı müddətə yubatmaq olar?",
       "options": {
-        "A": "3 ay",
-        "B": "1 il",
+        "A": "1 il",
+        "B": "3 ay",
         "C": "6 ay",
         "D": "1 ay"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q066",
       "question": "66. İlkin yoxlamanı keçirmək üçün hansılar olmalıdır?",
       "options": {
-        "A": "Azı bir dəfə daxili yoxlama keçirilməlidir",
+        "A": "Gəmi boyanmalıdır",
         "B": "Gəmi mühərriki sökülməlidir",
-        "C": "Gəmi boyanmalıdır",
-        "D": "Bütün heyət dəyişdirilməlidir"
+        "C": "Bütün heyət dəyişdirilməlidir",
+        "D": "Azı bir dəfə daxili yoxlama keçirilməlidir"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q067",
       "question": "67. Gəmi kapitanının məsuliyyətini kim təyin edir?",
       "options": {
-        "A": "Şirkət və rəhbər sənədlər",
-        "B": "Cərəyan şiddəti nominal dəyəri",
-        "C": "Növbətçi matroslar",
-        "D": "Liman agentinin köməkçisi"
+        "A": "Cərəyan şiddəti nominal dəyəri",
+        "B": "Liman agentinin köməkçisi",
+        "C": "Şirkət və rəhbər sənədlər",
+        "D": "Növbətçi matroslar"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q068",
       "question": "68. Gəminin növbə xidmətinin düzgün təşkil olunması üçün bu xidmət gəmidə:",
       "options": {
-        "A": "24 saat ərzində təyin olunur",
-        "B": "Yalnız gündüz saatlarında təyin olunur",
-        "C": "Yalnız fırtına zamanı təyin olunur",
-        "D": "Yalnız limanda təyin olunur"
+        "A": "Yalnız fırtına zamanı təyin olunur",
+        "B": "Yalnız limanda təyin olunur",
+        "C": "24 saat ərzində təyin olunur",
+        "D": "Yalnız gündüz saatlarında təyin olunur"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     }
   ]

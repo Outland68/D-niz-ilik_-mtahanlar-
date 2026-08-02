@@ -5,12 +5,12 @@
       "id": "q001",
       "question": "1. Xilasedici avadanlıqlar neçə hissəyə bölünür?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "2"
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "2",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -41,24 +41,24 @@
       "id": "q004",
       "question": "4. Xilasedici dairələrin ən azı neçə faizi işıq verən buylarla təmin olunmalıdır?",
       "options": {
-        "A": "50%",
+        "A": "lövbər dayanacağı sahəsində",
         "B": "şimal-şərq istiqamətində",
-        "C": "lövbər dayanacağı sahəsində",
+        "C": "50%",
         "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Xilasedici dairə komplektinin tərkib hissəsi olan tüstü azı neçə dəqiqə işlək vəziyyətdə olmalıdır?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "15 dəq",
-        "C": "şimal-şərq istiqamətində",
+        "A": "şimal-şərq istiqamətində",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "15 dəq",
         "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -67,8 +67,8 @@
       "options": {
         "A": "50 metr məsafədə dənizdə",
         "B": "2 saat",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "gəmi limana daxil olana qədər"
+        "C": "gəmi limana daxil olana qədər",
+        "D": "10 uzel sürətlə manevr etdikdə"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -78,9 +78,9 @@
       "question": "7. Uzunluğu 60 metrə qədər olan sərnişin gəmilərində minimum neçə ədəd xilasedici dairə olmalıdır?",
       "options": {
         "A": "8",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "cənub-qərb dreyfi zamanı"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -89,10 +89,10 @@
       "id": "q008",
       "question": "8. Uzunluğu 60-120 metrə qədər olan sərnişin gəmilərində minimum neçə ədəd xilasedici dairə olmalıdır?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
+        "A": "bütün cavablar doğrudur",
         "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "C": "12",
-        "D": "bütün cavablar doğrudur"
+        "D": "50 metr məsafədə dənizdə"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -102,59 +102,59 @@
       "question": "9. Uzunluğu 180-240 metrə qədər olan sərnişin gəmilərində minimum neçə ədəd xilasedici dairə olmalıdır?",
       "options": {
         "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "24",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "şimal-şərq istiqamətində"
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "şimal-şərq istiqamətində",
+        "D": "24"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q010",
       "question": "10. Uzunluğu 120-180 metrə qədər olan sərnişin gəmilərində minimum neçə ədəd xilasedici dairə olmalıdır?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "avtomatik rejimdə işləyərkən",
-        "C": "18",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "18"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q011",
       "question": "11. İşıq və tüstü verən buylar gəminin hansı hissəsində quraşdırılmalıdır?",
       "options": {
-        "A": "Kapitan körpüsündə",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "gəmi limana daxil olana qədər",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "Kapitan körpüsündə",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q012",
       "question": "12. Xilasedici dairələrin sayi gəminin hansı parametrlərinə uyğun nəzərə alınır?",
       "options": {
-        "A": "Gəminin uzunluğuna görə",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "Gəminin uzunluğuna görə",
         "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q013",
       "question": "13. Xilasedici dairələr gəminin hansı hissəsində yerləşdirilir?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "Gəminin bütün açıq göyərtələrində hər iki bort üzrə",
-        "D": "50 metr məsafədə dənizdə"
+        "A": "Gəminin bütün açıq göyərtələrində hər iki bort üzrə",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "şimal-şərq istiqamətində",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -162,8 +162,8 @@
       "question": "14. Minimum neçə ədəd xilasedici dairə gəminin arxasına yaxın yerdə yerləşdirilməlidir?",
       "options": {
         "A": "1 ədəd",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "D": "gəmi limana daxil olana qədər"
       },
       "correct_answer": "A",
@@ -173,36 +173,36 @@
       "id": "q015",
       "question": "15. Xilasedici jilet gəmidə kimlər üçün nəzərdə tutulmuşdur?",
       "options": {
-        "A": "Gəmidə olan bütün insanlar üçün",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "gəmi limana daxil olana qədər",
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "Gəmidə olan bütün insanlar üçün",
         "D": "hər ayda bir dəfədən az olmayan müddətdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q016",
       "question": "16. Böyüklər üçün nəzərdə tutulmuş xilasedici gödəkçə hansı boy və çəki standartına uyğun istehsal edilmişdir?",
       "options": {
-        "A": "Boy-155 sm artıq, çəki 43 kq artıq",
-        "B": "bütün cavablar doğrudur",
-        "C": "gərginlik 220 V həddinə çatdıqda",
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "Boy-155 sm artıq, çəki 43 kq artıq",
+        "C": "bütün cavablar doğrudur",
         "D": "əllə idarəetmə rejiminə keçdikdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q017",
       "question": "17. Xilasedici gödəkçə geyinilmiş vəziyyətdə hansı maksimal hündürlükdən suya tullanmaq olar?",
       "options": {
-        "A": "4.5 m",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "gərginlik 220 V həddinə çatdıqda",
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "4.5 m",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -210,44 +210,44 @@
       "question": "18. Xilasedici gödəkçənin üzərində silinməyən rəng ilə yazılır:",
       "options": {
         "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "bütün cavablar doğrudur",
-        "C": "Gəminin adı, Qeydiyyat limanı",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "bütün cavablar doğrudur",
+        "D": "Gəminin adı, Qeydiyyat limanı"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q019",
       "question": "19. Xilasedici gödəkçə təchiz olunmalıdır:",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "Fitverən, İşıq lampası, Batareya",
+        "A": "Fitverən, İşıq lampası, Batareya",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
         "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "D": "cənub-qərb dreyfi zamanı"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q020",
       "question": "20. Sərnişin gəmilərində uşaqlar və körpələr üçün ümumi xilasedici gödəkçənin neçə faizi qədər əlavə xilasedici gödəkçə olmalıdır?",
       "options": {
-        "A": "10%",
+        "A": "lövbər dayanacağı sahəsində",
         "B": "avtomatik rejimdə işləyərkən",
-        "C": "lövbər dayanacağı sahəsində",
+        "C": "10%",
         "D": "əllə idarəetmə rejiminə keçdikdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q021",
       "question": "21. Hidrotermokostyum hansı maksimal müddət ərzində kənardan kömək olmadan geyinilməlidir?",
       "options": {
-        "A": "hər 6 aydan bir keçirilən təlimlərdə",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "10 uzel sürətlə manevr etdikdə",
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "D": "2 dəq"
       },
       "correct_answer": "D",
@@ -258,8 +258,8 @@
       "question": "22. Uşaqlar üçün nəzərdə tutulmuş hidrotermokostyum hansı boy və çəki standartına uyğun istehsal edilmişdir?",
       "options": {
         "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "şimal-şərq istiqamətində",
+        "B": "şimal-şərq istiqamətində",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "D": "Boy-150 sm qədər, çəki 50 kq qədər"
       },
       "correct_answer": "D",
@@ -269,70 +269,70 @@
       "id": "q023",
       "question": "23. Hidrotermokostyum təchiz olunmalıdır:",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "bütün cavablar yanlışdır",
-        "C": "Fit, İşıq lampası, Batareya",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "Fit, İşıq lampası, Batareya",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q024",
       "question": "24. İstilikqoruyucu vasitə hansı temperatur aralığında öz funksiyasını yerinə yetirməlidir?",
       "options": {
-        "A": "-300C +200C",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "-300C +200C"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q025",
       "question": "25. Hidrotermokostyum geyinili vəziyyətdə hansı maksimal hündürlükdən suya tullanmaq olar?",
       "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "A": "4.5 m",
         "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "4.5 m"
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q026",
       "question": "26. “Təxliyə yollarının sxemləri”ni işləyib hazırlamaq və təsdiq etmək kimin öhdəliyidir?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "Gəmi sahibinin",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "cənub-qərb dreyfi zamanı"
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "şimal-şərq istiqamətində",
+        "C": "cənub-qərb dreyfi zamanı",
+        "D": "Gəmi sahibinin"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q027",
       "question": "27. Üç davamlı uzun səs siqnalı nəyi bildirir?",
       "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "Suda adam həyəcan siqnalı",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "Suda adam həyəcan siqnalı",
+        "D": "gəmi limana daxil olana qədər"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q028",
       "question": "28. Yeddi qısa bir uzun səs siqnalı aşağıdakılardan hansını bildirir?",
       "options": {
-        "A": "gəmi limana daxil olana qədər",
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "B": "Gəmini tərk etmə siqnalı",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "C": "gəmi limana daxil olana qədər",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -342,11 +342,11 @@
       "question": "29. Yeddi qısa bir uzun səs siqnalı aşağıdakılardan hansını bildirir?",
       "options": {
         "A": "hər 6 aydan bir keçirilən təlimlərdə",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "Ümumgəmi həyəcan siqnalı"
+        "B": "Ümumgəmi həyəcan siqnalı",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -354,45 +354,45 @@
       "question": "30. Maşın bölməsində neçə təxliyə yolu nəzərdə tutulmuşdur?",
       "options": {
         "A": "hər 6 aydan bir keçirilən təlimlərdə",
-        "B": "2",
-        "C": "50 metr məsafədə dənizdə",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "2",
+        "D": "50 metr məsafədə dənizdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q031",
       "question": "31. Təlim-məşq həyəcanları və fövqəladə hallar zamanı liftdən eyni zamanda maksimum neçə nəfərin istifadə etməsinə icazə verilir?",
       "options": {
-        "A": "İcazə verilmir",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "İcazə verilmir"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q032",
       "question": "32. Beynəlxalq səfərlər həyata keçirən gəmilərdə sərnişinlərin təlim toplanışı gəmiyə mindikdən sonra neçə saat ərzində keçirilməlidir.",
       "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "24",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "24",
+        "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q033",
       "question": "33. Gəmini tərk etmə komandasını kim verir?",
       "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "lövbər dayanacağı sahəsində",
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "C": "Kapitan",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "D": "avtomatik rejimdə işləyərkən"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -401,48 +401,48 @@
       "id": "q034",
       "question": "34. Gəmidə Təlim həyəcanları kimin göstərişi üzrə elan edilir?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "Kapitan"
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "Kapitan",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q035",
       "question": "35. Kayut kartoçkası (vərəqəsi) harada yerləşir?",
       "options": {
-        "A": "Sərnişinlərin yataq yerlərinin yanında",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "A": "hər 6 aydan bir keçirilən təlimlərdə",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "C": "cənub-qərb dreyfi zamanı",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "D": "Sərnişinlərin yataq yerlərinin yanında"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q036",
       "question": "36. Kayut kartoçkasında qeyd edilmir:",
       "options": {
-        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "Heyətin vəzifələri haqqında məlumat",
-        "D": "50 metr məsafədə dənizdə"
+        "A": "Heyətin vəzifələri haqqında məlumat",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q037",
       "question": "37. ”Təxliyə yolu” kim tərəfindən hazırlanıb təsdiq olunur?",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "Gəmi rəhbərliyi",
+        "A": "Gəmi rəhbərliyi",
+        "B": "cənub-qərb dreyfi zamanı",
         "C": "bütün cavablar yanlışdır",
-        "D": "cənub-qərb dreyfi zamanı"
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -461,44 +461,44 @@
       "id": "q039",
       "question": "39. Elektrik işığı olmadığı halda təxliyyə yolu boyu işıqsaçan işarələr hansı müddət arzində işıqlanmalıdır?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "60 dəq"
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "60 dəq",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q040",
       "question": "40. Sərnişin gəmilərində sərnişinlərin təxliyəsi üçün maksimum tutumu olan xilasedici sal neçə nəfərlikdir?",
       "options": {
-        "A": "150 nəfərə qədər",
-        "B": "50 metr məsafədə dənizdə",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "B": "150 nəfərə qədər",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "50 metr məsafədə dənizdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q041",
       "question": "41. Təxliyə yolları təyin edilərkən aşağıdakı yolların hansından keçməsi nəzərə alınır?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "Yaşayış koridorları"
+        "A": "Yaşayış koridorları",
+        "B": "lövbər dayanacağı sahəsində",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q042",
       "question": "42. Fövqəladə hal zamanı insan davranışları bölünür:",
       "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "bütün cavablar doğrudur",
         "C": "Aktiv, Passiv, Panik",
         "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
@@ -509,36 +509,36 @@
       "id": "q043",
       "question": "43. Fövqəladə hal zamanı “Aktiv” insan davranışını seçin.",
       "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "Şəraitdən aslı olaraq fəaliyyətə başlayırlar",
+        "A": "Şəraitdən aslı olaraq fəaliyyətə başlayırlar",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q044",
       "question": "44. Fövqəladə hal zamanı “Passiv” insan davranışını seçin.",
       "options": {
-        "A": "Bu tip insanlar heç bir hərəkət etmirlər",
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
         "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "D": "Bu tip insanlar heç bir hərəkət etmirlər"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q045",
       "question": "45. Sərnşinlərin təxliyəsi zamanı gəmini ilk növbədə kimlər tərk edir?",
       "options": {
-        "A": "Uşaqlar və qadınlar",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "bütün cavablar doğrudur",
         "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "bütün cavablar doğrudur"
+        "D": "Uşaqlar və qadınlar"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -547,67 +547,67 @@
       "options": {
         "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "Gəmi liftindən və eskalatordan istifadə",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "Gəmi liftindən və eskalatordan istifadə"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q047",
       "question": "47. Kayutun yoxlanılması zamanı hansı edilmir?",
       "options": {
-        "A": "Qəza zamanı kayutlar yoxlanılmır",
+        "A": "əllə idarəetmə rejiminə keçdikdə",
         "B": "bütün cavablar doğrudur",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q048",
-      "question": "48. Sərnişinlərə bilavasitə sərnişin otaqlarında xidmət göstərən heyət üzvləri təhlükəsizlik haqqında təlimatları sərnişinlərə hansı dildə çatdırmalıdır?",
-      "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "Gəminin işçi dilində",
+        "C": "Qəza zamanı kayutlar yoxlanılmır",
         "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
+      "id": "q048",
+      "question": "48. Sərnişinlərə bilavasitə sərnişin otaqlarında xidmət göstərən heyət üzvləri təhlükəsizlik haqqında təlimatları sərnişinlərə hansı dildə çatdırmalıdır?",
+      "options": {
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "Gəminin işçi dilində",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
       "id": "q049",
       "question": "49. Sərnişin gəmilərində təlim məqsədilə səslənən Ümumgəmi həyəcan siqnalı zamanı gəmi heyət üzvlərinin görməli olduğu ilk işlər nədən ibarətdir?",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "Uniforma və ya onun atributlarını (baş örtükləri, qol bağı və s) geyinməklə toplantı məntəqəsinə gedərək təyin olunmuş mövqelərində yerləşmək"
+        "A": "Uniforma və ya onun atributlarını (baş örtükləri, qol bağı və s) geyinməklə toplantı məntəqəsinə gedərək təyin olunmuş mövqelərində yerləşmək",
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "cənub-qərb dreyfi zamanı"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q050",
       "question": "50. Ümumgəmi həyəcan siqnalını heyət üzvlərindən kimlər elan edə bilər?",
       "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "Şəraitə uyğun olaraq Kapitanın növbə köməkçisi",
+        "A": "Şəraitə uyğun olaraq Kapitanın növbə köməkçisi",
+        "B": "gəmi limana daxil olana qədər",
         "C": "gərginlik 220 V həddinə çatdıqda",
         "D": "cənub-qərb dreyfi zamanı"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q051",
       "question": "51. Qəzalı vəziyyətin inkişafından asılı olaraq, təhlükənin sovuşması və gəmidə normal iş rejimə qayıtmaq qərarını gəmidə kim verir?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
+        "A": "əllə idarəetmə rejiminə keçdikdə",
         "B": "Kapitan",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "lövbər dayanacağı sahəsində",
         "D": "gəmi limana daxil olana qədər"
       },
       "correct_answer": "B",
@@ -618,35 +618,35 @@
       "question": "52. Gəmi kapitanlarının, baş köməkçilərin, baş mexaniklərin, ikinci mexaniklərin və fövqəladə hallarda sərnişinlərin təhlükəsizliyinə cavabdeh olan istənilən digər şəxslərin hazırlıq səviyyəsinə qoyulan tələblərə aid deyil:",
       "options": {
         "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "Restoran və otel idarəçiliyi",
+        "B": "Restoran və otel idarəçiliyi",
+        "C": "fırtınalı havada təxirə salınmaqla",
         "D": "lövbər dayanacağı sahəsində"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q053",
       "question": "53. “Suda adam” həyəcan siqnalını heyət üzvlərindən kim elan edə bilər?",
       "options": {
-        "A": "Kapitanın növbə köməkçisi",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "Kapitanın növbə köməkçisi",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "gəmi limana daxil olana qədər"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q054",
       "question": "54. Fövqəladə hadisələr zamanı sərnişinlərlə səslə mümkün olmadıqda aşağıdakı əl ilə əlaqə yaratma üsulu nəyi bildirir?",
       "options": {
-        "A": "hər 6 aydan bir keçirilən təlimlərdə",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "Diqqət"
+        "A": "Diqqət",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -654,33 +654,33 @@
       "question": "55. Fövqəladə hadisələr zamanı sərnişinlərlə səslə mümkün olmadıqda aşağıdakı əl ilə əlaqə yaratma üsulu nəyi bildirir?",
       "options": {
         "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "Dur, olmaz",
-        "D": "şimal-şərq istiqamətində"
+        "B": "Dur, olmaz",
+        "C": "şimal-şərq istiqamətində",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q056",
       "question": "56. Fövqəladə hadisələr zamanı sərnişinlərlə səslə mümkün olmadıqda aşağıdakı əl ilə əlaqə yaratma üsulu nəyi bildirir?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "Sağa get",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "C": "50 metr məsafədə dənizdə",
+        "D": "Sağa get"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q057",
       "question": "57. Fövqəladə hadisələr zamanı sərnişinlərlə səslə mümkün olmadıqda aşağıdakı əl ilə əlaqə yaratma üsulu nəyi bildirir?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
+        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "B": "Bura gəl",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -690,11 +690,11 @@
       "question": "58. Fövqəladə hadisələr zamanı sərnişinlərlə səslə mümkün olmadıqda aşağıdakı əl ilə əlaqə yaratma üsulu nəyi bildirir?",
       "options": {
         "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "Mühərriki söndür",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "D": "Mühərriki söndür"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -702,9 +702,9 @@
       "question": "59. Fövqəladə hadisələr zamanı sərnişinlərlə səslə mümkün olmadıqda aşağıdakı əl ilə əlaqə yaratma üsulu nəyi bildirir?",
       "options": {
         "A": "Arxaya get",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -713,36 +713,36 @@
       "id": "q060",
       "question": "60. Fövqəladə hadisələr zamanı sərnişinlərlə səslə mümkün olmadıqda aşağıdakı əl ilə əlaqə yaratma üsulu nəyi bildirir?",
       "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "Yavaş, asta",
+        "A": "Yavaş, asta",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
         "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q061",
       "question": "61. Sərnişinlərin təxliyəsinin təşkili asılı deyil:",
       "options": {
-        "A": "Gəminin yanacaq ehtiyyatından",
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "Gəminin yanacaq ehtiyyatından"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q062",
       "question": "62. Həyəcan elan edilərkən sərnişin hissəsi üzrə kapitan köməkçisinin elanlarına aid olmayan variantı seçin.",
       "options": {
-        "A": "Gəminin sürəti və istiqaməti haqqında",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "Gəminin sürəti və istiqaməti haqqında",
         "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
         "D": "əllə idarəetmə rejiminə keçdikdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -761,9 +761,9 @@
       "id": "q064",
       "question": "64. Xilasedici qayıq və ya sala yerləşdirilən sərnişin və heyət üzvləri kimin göstərişlərinə əməl etməlidirlər?",
       "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "bütün cavablar yanlışdır",
+        "A": "fırtınalı havada təxirə salınmaqla",
+        "B": "bütün cavablar yanlışdır",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "D": "Xilasedici qayığın və ya salın komandirinın"
       },
       "correct_answer": "D",
@@ -773,12 +773,12 @@
       "id": "q065",
       "question": "65. Təhlükəli yüklərin daşınması hansı Beynəlxalq Məcəllə əsasında həyata keçirilir?",
       "options": {
-        "A": "bütün cavablar yanlışdır",
+        "A": "IMDG Code",
         "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "IMDG Code"
+        "C": "bütün cavablar yanlışdır",
+        "D": "lövbər dayanacağı sahəsində"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -786,11 +786,11 @@
       "question": "66. Göyərtə yüklərini yükləməzdən əvvəl aşağıdakı prosedurlardan hansını yerinə yetirməyə ehtiyac yoxdur?",
       "options": {
         "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "Bütün prosedurlar yerinə yetirilməlidir"
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "Bütün prosedurlar yerinə yetirilməlidir",
+        "D": "10 uzel sürətlə manevr etdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -823,10 +823,10 @@
       "options": {
         "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "Yük sahibi haqqında məlumata"
+        "C": "Yük sahibi haqqında məlumata",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -834,9 +834,9 @@
       "question": "70. Yükün vəziyyətini yoxlayarkən aşağıda göstərilənlərdən hansına diqqət yetirmək lazım deyil?",
       "options": {
         "A": "Gəminin sürətini azaltmaq və gəminin burnunu dalğaya qarşı gətirmək",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
       },
       "correct_answer": "A",
       "explanation": ""

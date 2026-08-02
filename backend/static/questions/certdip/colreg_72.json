@@ -5,36 +5,36 @@
       "id": "q001",
       "question": "COLREG-72 qaydalarına görə, dayanmış gəmi gecə vaxtı hansı işıqları yandırmalıdır?",
       "options": {
-        "A": "Yalnız yaşıl işıq",
+        "A": "Gövdənin üzərindən görünən ağ işıq",
         "B": "Yan işıqlar",
-        "C": "Gövdənin üzərindən görünən ağ işıq",
-        "D": "Qırmızı işıq"
+        "C": "Qırmızı işıq",
+        "D": "Yalnız yaşıl işıq"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "COLREG-72 Qayda 30: Lövbərdə dayanan gəmi – ağ dairəvi işıq."
     },
     {
       "id": "q002",
       "question": "Dar kanalda hərəkət edən gəmi hansı qaydaya əməl etməlidir?",
       "options": {
-        "A": "Kanalın ortası ilə hərəkət etməlidir",
-        "B": "Kanalın sağ tərəfi ilə mümkün qədər yaxın getməlidir",
-        "C": "Kanalın sol tərəfindən getməlidir",
-        "D": "Həmişə motoru söndürməlidir"
+        "A": "Həmişə motoru söndürməlidir",
+        "B": "Kanalın sol tərəfindən getməlidir",
+        "C": "Kanalın ortası ilə hərəkət etməlidir",
+        "D": "Kanalın sağ tərəfi ilə mümkün qədər yaxın getməlidir"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "COLREG-72 Qayda 9: Dar kanallarda gəmi, kanalın sağ tərəfi boyunca hərəkət etməlidir."
     },
     {
       "id": "q003",
       "question": "Aşağıdakılardan hansı 'idarəolunmayan gəmi' kimi təsnif edilir?",
       "options": {
-        "A": "Sürəti azaldılmış gəmi",
-        "B": "Qeyri-adi vəziyyət nəticəsində manevr etmə qabiliyyətini itirmiş gəmi",
+        "A": "Qeyri-adi vəziyyət nəticəsində manevr etmə qabiliyyətini itirmiş gəmi",
+        "B": "Sürəti 5 düyündən az olan gəmi",
         "C": "Yük daşıyan gəmi",
-        "D": "Sürəti 5 düyündən az olan gəmi"
+        "D": "Sürəti azaldılmış gəmi"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "COLREG-72 Qayda 3(f): İdarəolunmayan gəmi - qeyri-adi vəziyyət nəticəsində COLREG-ə uyğun manevr etmə qabiliyyətini itirmiş gəmidir."
     }
   ]

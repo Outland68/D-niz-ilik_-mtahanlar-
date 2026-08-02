@@ -5,12 +5,12 @@
       "id": "q001",
       "question": "1. Nominal gücün 45-50% aşmayan yüklə işləyən dizel generatorların paralel rejimdə işləməsinin müddəti, davamiyyəti nə qədər olmalıdır?",
       "options": {
-        "A": "Minimal",
-        "B": "Ən azı 24 saat",
-        "C": "Səfər boyu məhdudiyyətsiz",
-        "D": "Ən azı 12 saat"
+        "A": "Səfər boyu məhdudiyyətsiz",
+        "B": "Ən azı 12 saat",
+        "C": "Minimal",
+        "D": "Ən azı 24 saat"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -29,96 +29,96 @@
       "id": "q003",
       "question": "3. Cərəyanla qurutma üsulundan hansı izolyasiya müqavimətinə malik olan elektrik maşınlarında tətbiq edilməsinə icazə verilir?",
       "options": {
-        "A": "0.1 Mom-dan az olmayanda",
-        "B": "0.01 Mom-dan az olmayanda",
+        "A": "0.01 Mom-dan az olmayanda",
+        "B": "İzolyasiya müqaviməti sıfır olduqda",
         "C": "10 Mom-dan çox olduqda",
-        "D": "İzolyasiya müqaviməti sıfır olduqda"
+        "D": "0.1 Mom-dan az olmayanda"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q004",
       "question": "4. Akkumulyator batareyalarının texniki baxışlarının dövrilik (vaxtaşırılıq) müddətlərini qeyd edin?",
       "options": {
-        "A": "Bir ayda bir dəfədən az olmayaraq",
-        "B": "İldə bir dəfə",
-        "C": "Hər gün növbə təhvilində",
-        "D": "Hər 6 aydan bir"
+        "A": "Hər gün növbə təhvilində",
+        "B": "Hər 6 aydan bir",
+        "C": "Bir ayda bir dəfədən az olmayaraq",
+        "D": "İldə bir dəfə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q005",
       "question": "5. Sinxron generatorların işə salınma və paralel iş rejiminə keçirilmə qaydaları nə ilə müəyyən edilir?",
       "options": {
-        "A": "Mövcud olan sinxronlaşdırma vasitələri və elektrik stansiyasının avtomatlaşdırma səviyyəsi ilə",
-        "B": "Gəminin üzmə sürəti və kursu ilə",
-        "C": "Akkumulyator batareyalarının tutumu ilə",
-        "D": "Karterdəki yağın temperaturu ilə"
+        "A": "Gəminin üzmə sürəti və kursu ilə",
+        "B": "Karterdəki yağın temperaturu ilə",
+        "C": "Mövcud olan sinxronlaşdırma vasitələri və elektrik stansiyasının avtomatlaşdırma səviyyəsi ilə",
+        "D": "Akkumulyator batareyalarının tutumu ilə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q006",
       "question": "6. Gəminin kəmiyyət mərkəzinin müəyyən edilməsini qeyd edin (center buoyancy)?",
       "options": {
-        "A": "Suyun gəmiyə təsir edən hidrostatik təyziq qüvvələrinin əlavə nöqtəsi",
-        "B": "Gəminin ağırlıq mərkəzinin ən yüksək nöqtəsi",
-        "C": "Pər valının fırlanma oxu",
-        "D": "Gəminin lövbər zəncirinin bərkidildiyi nöqtə"
+        "A": "Gəminin ağırlıq mərkəzinin ən yüksək nöqtəsi",
+        "B": "Suyun gəmiyə təsir edən hidrostatik təyziq qüvvələrinin əlavə nöqtəsi",
+        "C": "Gəminin lövbər zəncirinin bərkidildiyi nöqtə",
+        "D": "Pər valının fırlanma oxu"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q007",
       "question": "7. Gəminin batmazlıq qabiliyyətini təmin edən əsas konstruktiv tədbirləri qeyd edin.",
       "options": {
-        "A": "Gəmi gövdəsinin sukeçirməyən arakəsmələrə, göyərtələrə və platformalara bölüşdürülməsi",
-        "B": "Gəminin lövbər zəncirlərinin uzadılması",
-        "C": "Sükan yelləncəyinin sahəsinin artırılması",
-        "D": "Buxar qazanlarının təzyiqinin azaldılması"
+        "A": "Sükan yelləncəyinin sahəsinin artırılması",
+        "B": "Gəmi gövdəsinin sukeçirməyən arakəsmələrə, göyərtələrə və platformalara bölüşdürülməsi",
+        "C": "Buxar qazanlarının təzyiqinin azaldılması",
+        "D": "Gəminin lövbər zəncirlərinin uzadılması"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q008",
       "question": "8. Gəminin üzmə ehtiyatının müəyyən edilməsini qeyd edin:",
       "options": {
-        "A": "Gəmi gövdəsinin su keçirməzliyinin həcmi yük vater xəttindən yüksəkdə",
-        "B": "Gəminin karterində olan yağın həcmi",
+        "A": "Suüstü hissənin külək sahəsi",
+        "B": "Gəmi gövdəsinin su keçirməzliyinin həcmi yük vater xəttindən yüksəkdə",
         "C": "Dizel-generatorların yanacaq çənlərinin tutumu",
-        "D": "Suüstü hissənin külək sahəsi"
+        "D": "Gəminin karterində olan yağın həcmi"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q009",
       "question": "9. DHDNÇ-78 Beynəlxalq Konvensiyasının tələblərinə əsasən baş mühərriklərinin gücü 750 kVt-dan 3000 kVt-dək olan 2-ci mexanik vəzifəsində işləmək üçün tələb edilən gəmidə minimal iş stajını qeyd edin.",
       "options": {
-        "A": "12 ay",
+        "A": "24 ay",
         "B": "6 ay",
-        "C": "24 ay",
+        "C": "12 ay",
         "D": "36 ay"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q010",
       "question": "10. Dənizdə baş vermiş hadisələrin baxılması qaydalarını hansı beynəlxalq sənəd nizamlayır (müəyyən edir)?",
       "options": {
-        "A": "“Dəniz qəza hadisələrinin və anlaşılmazlıqlarının araşdırılmasına dair” Beynəlxalq Məcəllə",
-        "B": "MARPOL 73/78 Konvensiyasının II Əlavəsi",
+        "A": "Beynəlxalq Yük Nişanı Konvensiyası",
+        "B": "“Dəniz qəza hadisələrinin və anlaşılmazlıqlarının araşdırılmasına dair” Beynəlxalq Məcəllə",
         "C": "SOLAS-74 Konvensiyasının IX Fəsli",
-        "D": "Beynəlxalq Yük Nişanı Konvensiyası"
+        "D": "MARPOL 73/78 Konvensiyasının II Əlavəsi"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -137,60 +137,60 @@
       "id": "q012",
       "question": "12. DHDNÇ Beynəlxalq Konvensiyasının tələblərinə əsasən gəmidə hansı vəzifələr “idarəetmə” səviyyəsi üzrə məsuliyyətə malikdirlər?",
       "options": {
-        "A": "Gəmi kapitanı, 2-ci mexanik, baş mexanik, kapitanın baş köməkçisi",
-        "B": "Yalnız növbətçi mexanik və 3-cü köməkçi",
+        "A": "Yalnız növbətçi mexanik və 3-cü köməkçi",
+        "B": "Gəmi kapitanı, 2-ci mexanik, baş mexanik, kapitanın baş köməkçisi",
         "C": "Yalnız gəmi elektrik mexaniki və боцман",
         "D": "Yalnız matroslar və motoristlər"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q013",
       "question": "13. MARPOL-73/78 BK-nın V Əlavəsi gəmidə aşağıda qeyd edilənlərdən hansını tələb edir?",
       "options": {
-        "A": "Zibillərin idarə edilməsi planı, Zibillərlə əməliyyatlara dair təşviqat plakatları, Zibillərlə əməliyyatların qeydiyyat jurnalı",
+        "A": "Yalnız Hava kirliliyinin qarşısının alınması şəhadətnaməsi",
         "B": "Yalnız Neftlə əməliyyatlar jurnalı I hissə",
         "C": "Yalnız Ballast sularının idarə olunması planı",
-        "D": "Yalnız Hava kirliliyinin qarşısının alınması şəhadətnaməsi"
+        "D": "Zibillərin idarə edilməsi planı, Zibillərlə əməliyyatlara dair təşviqat plakatları, Zibillərlə əməliyyatların qeydiyyat jurnalı"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q014",
       "question": "14. MARPOL-73/78 BK-nın V Əlavəsində qeyd edilmiş “Xüsusi rayonlarda” gəmilərdən bortdan kənara, dənizə aşağıda qeyd edilənlərdən hansılarının tullanması qadağan edilmişdir?",
       "options": {
-        "A": "Separasiya materialları, əsgi, metal, şüşə və plasmasdan hazırlanan məmulatlar, qablaşdırma materialları",
+        "A": "Yalnız təmizlənmiş ballast suyu",
         "B": "Yalnız təmiz dəniz suyu",
-        "C": "Yalnız təmizlənmiş ballast suyu",
-        "D": "Yalnız dəniz balıqları"
+        "C": "Yalnız dəniz balıqları",
+        "D": "Separasiya materialları, əsgi, metal, şüşə və plasmasdan hazırlanan məmulatlar, qablaşdırma materialları"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q015",
       "question": "15. MARPOL-73/78 BK-nın V Əlavəsində qeyd edilmiş “Xüsusi rayonlarda” sahilboyu üzgüçülükdə, sahildən 12 mildən az olmayan məsafədə olduqda, gəmilərdən bortdan kənara aşağıda qeyd edilənlərdən hansıların tullanmasına icazə verilir?",
       "options": {
-        "A": "Diri balıq, xırdalanmış qida məhsulları",
-        "B": "Plastik qablar və sintetik kanatlar",
-        "C": "İşlənmiş mühərrik yağları",
-        "D": "Metal qırıntıları və boya qutuları"
+        "A": "İşlənmiş mühərrik yağları",
+        "B": "Metal qırıntıları və boya qutuları",
+        "C": "Diri balıq, xırdalanmış qida məhsulları",
+        "D": "Plastik qablar və sintetik kanatlar"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q016",
       "question": "16. Yanğın təhlükəsizliyinə dair təlimatlandırmanın həyata keçirilməsi hansı şəkildə qeydiyyata alınır?",
       "options": {
-        "A": "Təlimatlandırma haqqında jurnalda müvafiq qeydlərin həyata keçirilməsi",
-        "B": "Şifahi şəkildə maşın bölməsində bildirməklə",
-        "C": "Gəmi radiostansiyası ilə sahildəki müfəttişə bildirməklə",
+        "A": "Gəmi radiostansiyası ilə sahildəki müfəttişə bildirməklə",
+        "B": "Təlimatlandırma haqqında jurnalda müvafiq qeydlərin həyata keçirilməsi",
+        "C": "Şifahi şəkildə maşın bölməsində bildirməklə",
         "D": "Qeydiyyata alınmasına ehtiyac yoxdur"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -198,9 +198,9 @@
       "question": "17. Gəminin yanğınsöndürmə sisteminin tərkibinə daxildir?",
       "options": {
         "A": "Boru xəttləri, Yanğınsöndürmə nasosları, Sistemin kran və klapanları, Yanğınsöndürmə qoltuqları və yanğınsöndürmə lülələri",
-        "B": "Yalnız pər valı və sükan mekanizmi",
-        "C": "Yalnız seyr fənərləri və gəmi fiti",
-        "D": "Yalnız separatorlar və hidroforlar"
+        "B": "Yalnız separatorlar və hidroforlar",
+        "C": "Yalnız pər valı və sükan mekanizmi",
+        "D": "Yalnız seyr fənərləri və gəmi fiti"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -210,9 +210,9 @@
       "question": "18. İdarəetmə postlarının otaqlarında saxlanması qadağandır:",
       "options": {
         "A": "Qazların, yanacaq materiallarının, oddan təhlükəli, tez yanan materialların",
-        "B": "Seyr xəritələrinin və naviqasiya alətlərinin",
-        "C": "Maşın jurnalının və texniki təlimatların",
-        "D": "Növbətçi mexanikin şəxsi əşyalarının"
+        "B": "Maşın jurnalının və texniki təlimatların",
+        "C": "Növbətçi mexanikin şəxsi əşyalarının",
+        "D": "Seyr xəritələrinin və naviqasiya alətlərinin"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -221,60 +221,60 @@
       "id": "q019",
       "question": "19. Gəminin texniki istismarına dair gəminin baş mexanikinin göstərişləri və sərəncamları hansı növ heyət üzvləri üçün mütləqdir?",
       "options": {
-        "A": "Gəminin bütün növ heyət üzvləri üçün",
+        "A": "Yalnız elektrik mexaniki üçün",
         "B": "Yalnız 4-cü mexanik üçün",
-        "C": "Yalnız elektrik mexaniki üçün",
+        "C": "Gəminin bütün növ heyət üzvləri üçün",
         "D": "Yalnız aşpaz və stüard üçün"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q020",
       "question": "20. Gəmi jurnallarının qeydiyyatını kim aparır?",
       "options": {
-        "A": "Dəniz limanının kapitanı",
+        "A": "Tərsanə rəisi",
         "B": "Gəminin baş mexaniki",
         "C": "Növbətçi matros",
-        "D": "Tərsanə rəisi"
+        "D": "Dəniz limanının kapitanı"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q021",
       "question": "21. P = const sabit təyziqdə keçən bərabərçəkili proses necə adlanır?",
       "options": {
-        "A": "İzobara prosesi",
-        "B": "İzoXora prosesi",
+        "A": "Adiabatik proses",
+        "B": "İzobara prosesi",
         "C": "İzotermik proses",
-        "D": "Adiabatik proses"
+        "D": "İzoXora prosesi"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q022",
       "question": "22. Nizam-intizam qaydalarına zidd olan hərəkətlərə yol vermiş nəqliyyat donanması işçilərinə hansı növ intizam tənbehləri tətbiq edilə bilər?",
       "options": {
-        "A": "Məzəmmət, töhmət, işdən azad edilmə, şiddətli töhmət, xidmətə uyğunsuzluq haqqında xəbərdarlıq etmə",
-        "B": "Yalnız pul cəriməsi hüququ",
-        "C": "Gəmi diplomunun ləğvi hüququ olmadan azad etmə",
-        "D": "Növbə saatlarının iki dəfə artırılması"
+        "A": "Gəmi diplomunun ləğvi hüququ olmadan azad etmə",
+        "B": "Növbə saatlarının iki dəfə artırılması",
+        "C": "Yalnız pul cəriməsi hüququ",
+        "D": "Məzəmmət, töhmət, işdən azad edilmə, şiddətli töhmət, xidmətə uyğunsuzluq haqqında xəbərdarlıq etmə"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q023",
       "question": "23. Gəminin limanda və ya lövbərdə durduğu zaman maşın jurnalında hansı qeydlər aparılır?",
       "options": {
-        "A": "Gəminin güc qurğularının hazırlığı, baş mühərriklərin iş rejimi, gəminin durduğu limanın adı, baş mühərriklərin işə salınma və işdən çıxarılma saatları, köməkçi mühərriklərin işi barədə məlumatlar",
-        "B": "Yalnız liman rüsumlarının ödənilmə məbləği",
+        "A": "Yalnız liman rüsumlarının ödənilmə məbləği",
+        "B": "Gəminin güc qurğularının hazırlığı, baş mühərriklərin iş rejimi, gəminin durduğu limanın adı, baş mühərriklərin işə salınma və işdən çıxarılma saatları, köməkçi mühərriklərin işi barədə məlumatlar",
         "C": "Yalnız gəmiyə gələn qonaqların adları",
         "D": "Yalnız havanın nisbi rütubət faizi"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -282,8 +282,8 @@
       "question": "24. Biləvasitə mühərrikin silindirinin daxilində mexaniki işi nə yerinə yetirir?",
       "options": {
         "A": "Yanmış yanacağın istilik enerjisi",
-        "B": "Soyutma suyunun hidrostatik təzyiqi",
-        "C": "Yağlama yağının karterə axma sürəti",
+        "B": "Yağlama yağının karterə axma sürəti",
+        "C": "Soyutma suyunun hidrostatik təzyiqi",
         "D": "Hava kompressorunun elektrik mühərriki"
       },
       "correct_answer": "A",
@@ -293,12 +293,12 @@
       "id": "q025",
       "question": "25. Mühərrikin Silindir Porşen Qrupuna yanma kamerasında yaranan hansı qüvvələr təsir edir?",
       "options": {
-        "A": "Termiki və mexaniki qüvvələr",
-        "B": "Yalnız hidravlik qüvvələr",
-        "C": "Yalnız inersiya qüvvələri",
-        "D": "Elektromaqnit qüvvələri"
+        "A": "Yalnız hidravlik qüvvələr",
+        "B": "Yalnız inersiya qüvvələri",
+        "C": "Elektromaqnit qüvvələri",
+        "D": "Termiki və mexaniki qüvvələr"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -306,9 +306,9 @@
       "question": "26. Şəkillərdə iki növ Yüksək Təzyiqli Yanacaq nasosları (YTYN/ТНВД) göstərilmişdir. Zolotnik tipli YTYN-nu göstərin?",
       "options": {
         "A": "1",
-        "B": "2",
-        "C": "hər ikisi",
-        "D": "heç biri"
+        "B": "heç biri",
+        "C": "2",
+        "D": "hər ikisi"
       },
       "correct_answer": "A",
       "explanation": "",
@@ -318,24 +318,24 @@
       "id": "q027",
       "question": "27. İsti ehtiyat rejimində olmayan köməkçi dizel generatorların yüklənməsini qeyd edin?",
       "options": {
-        "A": "3-5 dəqiqə qızdırılmaqla",
-        "B": "Qızdırılmadan anında 100% yük verməklə",
-        "C": "Ən azı 2 saat yüksüz işlətdikdən sonra",
-        "D": "Yalnız baş mühərrik işlədikdə"
+        "A": "Qızdırılmadan anında 100% yük verməklə",
+        "B": "Yalnız baş mühərrik işlədikdə",
+        "C": "3-5 dəqiqə qızdırılmaqla",
+        "D": "Ən azı 2 saat yüksüz işlətdikdən sonra"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q028",
       "question": "28. Addımı tənzimlənən vint (ATV/ВРШ) qurğusuna işləyən dizel mühərrikini sınaq məqsədi ilə işə salarkən pərin addımını hansı vəziyyətdə qoymaq lazımdır?",
       "options": {
-        "A": "“0” vəziyyətinə",
+        "A": "Arxaya tam gediş vəziyyətinə",
         "B": "Maksimal gediş vəziyyətinə",
-        "C": "Arxaya tam gediş vəziyyətinə",
-        "D": "Vintin addımının fərqi yoxdur"
+        "C": "Vintin addımının fərqi yoxdur",
+        "D": "“0” vəziyyətinə"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -354,36 +354,36 @@
       "id": "q030",
       "question": "30. Baş mühərrikin qəza zamanı qoruyucu sisteminin işdən ayrılması kim tərəfindən və hansı hallarda yerinə yetirilə bilər (və ya işdən ayrılmasına göstəriş verilə bilər)?",
       "options": {
-        "A": "Gəminin qəzaya uğraması təhlükəsi mövcud olduğu təqdirdə kapitanın növbə köməkçisi və kapitanın növbə köməkçisinin göstərişi ilə növbətçi mexanik tərəfindən",
-        "B": "İstənilən vaxt növbətçi motorist tərəfindən",
-        "C": "Yalnız liman müfəttişinin yazılı icazəsi ilə",
-        "D": "Qəza zamanı qoruyucu sistemi söndürmək qadağandır"
+        "A": "İstənilən vaxt növbətçi motorist tərəfindən",
+        "B": "Yalnız liman müfəttişinin yazılı icazəsi ilə",
+        "C": "Qəza zamanı qoruyucu sistemi söndürmək qadağandır",
+        "D": "Gəminin qəzaya uğraması təhlükəsi mövcud olduğu təqdirdə kapitanın növbə köməkçisi və kapitanın növbə köməkçisinin göstərişi ilə növbətçi mexanik tərəfindən"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q031",
       "question": "31. Xüsusi qızdırılma sistemi olmadığı təqdirdə yağı hansı üsul ilə qızdırmaq olar?",
       "options": {
-        "A": "Yağın mühərrikin yağlama sisteminə vurub yenidən xaric etməklə (məcburi yağvurma ilə)",
-        "B": "Açıq alovla karterin altını qızdırmaqla",
-        "C": "Yağa qaynar su əlavə etməklə",
-        "D": "Yağ çənini günəş şüası altında saxlamaqla"
+        "A": "Açıq alovla karterin altını qızdırmaqla",
+        "B": "Yağın mühərrikin yağlama sisteminə vurub yenidən xaric etməklə (məcburi yağvurma ilə)",
+        "C": "Yağ çənini günəş şüası altında saxlamaqla",
+        "D": "Yağa qaynar su əlavə etməklə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q032",
       "question": "32. Mühərrikin gücünün bərabər olaraq silindirlər üzrə paylanılması nə ilə təmin edillir?",
       "options": {
-        "A": "Tsikllıq yanacağın verilməsi ilə",
-        "B": "Soyutma suyunun təzyiqinin artırılması ilə",
-        "C": "Hava filtrinin təmizlənməsi ilə",
-        "D": "Karter yağının səviyyəsinin azaldılması ilə"
+        "A": "Karter yağının səviyyəsinin azaldılması ilə",
+        "B": "Tsikllıq yanacağın verilməsi ilə",
+        "C": "Soyutma suyunun təzyiqinin artırılması ilə",
+        "D": "Hava filtrinin təmizlənməsi ilə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -391,9 +391,9 @@
       "question": "33. Məsafədən idarəetmə sisteminin işinin yoxlanılması məqsədi ilə bütün mövcud olan idarəetmə postlarından turboaqreqatın sınaq üçün işə salınmasını nə zaman yerinə yetirmək lazımdır?",
       "options": {
         "A": "Turbinin qızdırılması üzrə işlər başa çatdıqdan sonra",
-        "B": "Turbin tam soyuduqdan sonra",
-        "C": "Gəmi limana daxil olduqdan sonra",
-        "D": "Yalnız tərsanə təmiri zamanı"
+        "B": "Yalnız tərsanə təmiri zamanı",
+        "C": "Turbin tam soyuduqdan sonra",
+        "D": "Gəmi limana daxil olduqdan sonra"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -402,12 +402,12 @@
       "id": "q034",
       "question": "34. Silindirlər üzrə yanmanın maksimal təzyiqinin buraxıla bilən qiymətini qeyd edin (istismar təlimatında digər kənara çıxmalar göstərilmədiyi təqdirdə).",
       "options": {
-        "A": "% 3,5",
-        "B": "% 10,0",
+        "A": "% 10,0",
+        "B": "% 25,0",
         "C": "% 15,5",
-        "D": "% 25,0"
+        "D": "% 3,5"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -415,9 +415,9 @@
       "question": "35. Termotənzimləyici vintelin (TTV/ТРВ) borucuqlarının və daxiledici ştuser daxil olmaqla TTV/ТРВ-dən sonrakı armaturlarının üst səthinin donması nəyin əlaməti olduğunu qeyd edin.",
       "options": {
         "A": "Normal işin əlamətidir",
-        "B": "Freon sızmasının əlamətidir",
+        "B": "Yağın donmasının əlamətidir",
         "C": "Kompressorun zədələnməsinin əlamətidir",
-        "D": "Yağın donmasının əlamətidir"
+        "D": "Freon sızmasının əlamətidir"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -426,12 +426,12 @@
       "id": "q036",
       "question": "36. Gəminin heyət üzvləri sırasından kim səfər zamanı sükan qurğusunu və onun idarəetmə mexanizmini vaxtaşırı olaraq yoxlamalıdır?",
       "options": {
-        "A": "Növbətçi mexanik",
-        "B": "Gəmi aşpazı",
-        "C": "Təcrübəçi matros",
-        "D": "Liman müfəttişi"
+        "A": "Təcrübəçi matros",
+        "B": "Liman müfəttişi",
+        "C": "Növbətçi mexanik",
+        "D": "Gəmi aşpazı"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -439,9 +439,9 @@
       "question": "37. Kapitan körpüsündən gəmi baş dizel mühərrikinin və addımı tənzimlənən pər qurğusunun (ATP/ВРШ) məsafədən idarə edilməsi zamanı manevr və revers etməyə hazırlıq üzrə işlər kimin tərəfindən yerinə yetirilir?",
       "options": {
         "A": "Kapitanın növbə köməkçisi tərəfindən",
-        "B": "Yalnız gəmi electricianı tərəfindən",
-        "C": "Yalnız boatswain (боцман) tərəfindən",
-        "D": "Yalnız mühərrik ustası tərəfindən"
+        "B": "Yalnız mühərrik ustası tərəfindən",
+        "C": "Yalnız gəmi electricianı tərəfindən",
+        "D": "Yalnız boatswain (боцман) tərəfindən"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -450,12 +450,12 @@
       "id": "q038",
       "question": "38. Baş mühərriklərin (ATP/ВРШ) idarə edilməsi kapitan körpüsünə verildiyi bütün hallarda hansı qurğunun yoxlayaraq istismara hazır vəziyyətə gətirilməsi lazımdır?",
       "options": {
-        "A": "Maşın teleqrafını yoxlayaraq istismara hazır vəziyyətə gətirmək lazımdır.",
-        "B": "Radar antenasını söndürmək lazımdır",
-        "C": "Akkumulyator batareyasını ayırmaq lazımdır",
-        "D": "Separatoları dayandırmaq lazımdır"
+        "A": "Separatoları dayandırmaq lazımdır",
+        "B": "Akkumulyator batareyasını ayırmaq lazımdır",
+        "C": "Maşın teleqrafını yoxlayaraq istismara hazır vəziyyətə gətirmək lazımdır.",
+        "D": "Radar antenasını söndürmək lazımdır"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -463,8 +463,8 @@
       "question": "39. Sutka ərzində gəminin növbətçi mexanikinə neçə saat ərzində istirahət saatı verilməlidir?",
       "options": {
         "A": "Ən azı (minimum) 10 saat",
-        "B": "Ən azı 4 saat",
-        "C": "Maksimum 2 saat",
+        "B": "Maksimum 2 saat",
+        "C": "Ən azı 4 saat",
         "D": "İstirahət saatı nəzərdə tutulmur"
       },
       "correct_answer": "A",
@@ -474,60 +474,60 @@
       "id": "q040",
       "question": "40. Vaxtaşırı olaraq növbəsiz istismar edilən maşın bölmələrinə növbətçi mexaniki neçə saatdan bir gəlməlidir?",
       "options": {
-        "A": "İstənilən anda çağırışa əsasən",
-        "B": "Dəqiq hər 12 saatdan bir",
-        "C": "Yalnız sutkada bir dəfə",
-        "D": "Yalnız limana daxil olduqda"
+        "A": "Yalnız limana daxil olduqda",
+        "B": "İstənilən anda çağırışa əsasən",
+        "C": "Dəqiq hər 12 saatdan bir",
+        "D": "Yalnız sutkada bir dəfə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q041",
       "question": "41. Növbətçi mexanik növbədən kimin icazəsi olmadan uzaqlaşa (ayrıla) bilməz?",
       "options": {
-        "A": "Gəminin baş mexanikinin və ya onun gəmidə olmadığı hallarda isə ikinci mexanikin müvafiq icazəsi olmadan növbəçəkmə yerini tərk edə bilməz;",
-        "B": "Növbətçi matrosun icazəsi olmadan",
-        "C": "Gəmi stüardının icazəsi olmadan",
-        "D": "İstənilən vaxt icazəsiz ayrılaraq gedə bilər"
+        "A": "İstənilən vaxt icazəsiz ayrılaraq gedə bilər",
+        "B": "Gəminin baş mexanikinin və ya onun gəmidə olmadığı hallarda isə ikinci mexanikin müvafiq icazəsi olmadan növbəçəkmə yerini tərk edə bilməz;",
+        "C": "Növbətçi matrosun icazəsi olmadan",
+        "D": "Gəmi stüardının icazəsi olmadan"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q042",
       "question": "42. “Sea – chest” sözünün düzgün olan tərcüməsini qeyd edin.",
       "options": {
-        "A": "Kinqston",
-        "B": "Dəniz sandığı / Lövbər quyusu",
+        "A": "Dəniz sandığı / Lövbər quyusu",
+        "B": "Kinqston",
         "C": "Karter yağ çəni",
         "D": "Buxar seperatoru"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q043",
       "question": "43. “Idle – running” sözünün düzgün olan tərcüməsini qeyd edin.",
       "options": {
-        "A": "Boş – boşuna iş (yüksüz iş)",
-        "B": "Tam yüklə iş",
-        "C": "Fövqəladə dayandırılma",
+        "A": "Tam yüklə iş",
+        "B": "Fövqəladə dayandırılma",
+        "C": "Boş – boşuna iş (yüksüz iş)",
         "D": "Əksinə fırlanma (revers)"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q044",
       "question": "44. “Frequency” sözünün düzgün tərcüməsini qeyd edin.",
       "options": {
-        "A": "Tezlik",
+        "A": "Cərəyan şiddəti",
         "B": "Elektrik gərginliyi",
-        "C": "Müqavimət",
-        "D": "Cərəyan şiddəti"
+        "C": "Tezlik",
+        "D": "Müqavimət"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -536,8 +536,8 @@
       "options": {
         "A": "Karter",
         "B": "Dirsəkli val",
-        "C": "Porşen ştoku",
-        "D": "Silindr qapağı"
+        "C": "Silindr qapağı",
+        "D": "Porşen ştoku"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -547,9 +547,9 @@
       "question": "46. “Camshaft” sözünün düzgün tərcüməsini qeyd edin.",
       "options": {
         "A": "Paylayıcı val",
-        "B": "Dirsəkli val",
-        "C": "Pərin valı",
-        "D": "Turbin rotoru"
+        "B": "Turbin rotoru",
+        "C": "Dirsəkli val",
+        "D": "Pərin valı"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -558,36 +558,36 @@
       "id": "q047",
       "question": "47. Birləşmə üsulunu üç bucaqlı birləşmədən ulduzvari birləşməyə dəyişdikdə dəyişən cərəyanlı asinxron elektrik mühərrikinin gücü necə dəyişər?",
       "options": {
-        "A": "3 dəfə azalar",
-        "B": "3 dəfə artar",
+        "A": "3 dəfə artar",
+        "B": "3 dəfə azalar",
         "C": "2 dəfə azalar",
         "D": "Dəyişməz qalar"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q048",
       "question": "48. Cərəyan göstəricisinin əvəzinə nəzarət elektrik lampasından istifadə etmək olarmı?",
       "options": {
-        "A": "Qətiyyən olmaz",
-        "B": "Yalnız aşağı gərginlikdə olar",
-        "C": "Hər zaman olar",
-        "D": "Yalnız baş mexanikin icazəsi ilə olar"
+        "A": "Yalnız baş mexanikin icazəsi ilə olar",
+        "B": "Qətiyyən olmaz",
+        "C": "Yalnız aşağı gərginlikdə olar",
+        "D": "Hər zaman olar"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q049",
       "question": "49. Dəyişən cərəyanın ölçülməsi məqsədi ilə ampermetrlərin ölçmə həddlərinin genişləndirilməsi üçün istifadə edilir:",
       "options": {
-        "A": "Cərəyan ölçmə transformatoru",
-        "B": "Şunt müqaviməti",
-        "C": "Əlavə rezistor",
+        "A": "Əlavə rezistor",
+        "B": "Cərəyan ölçmə transformatoru",
+        "C": "Şunt müqaviməti",
         "D": "Kondensator batareyası"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -595,8 +595,8 @@
       "question": "50. Gəmi elektrik maşınlarının xidmət müddəti adətən nə ilə ölçülür?",
       "options": {
         "A": "İzolyasiyanın istismar müddəti ilə",
-        "B": "Yastıqların aşınma müddəti ilə",
-        "C": "Rotorun fırlanma dövrlərinin sayı ilə",
+        "B": "Rotorun fırlanma dövrlərinin sayı ilə",
+        "C": "Yastıqların aşınma müddəti ilə",
         "D": "Fırçaların dəyişdirilmə tezliyi ilə"
       },
       "correct_answer": "A",

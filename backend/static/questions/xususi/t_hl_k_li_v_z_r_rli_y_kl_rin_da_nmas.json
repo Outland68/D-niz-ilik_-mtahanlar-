@@ -7,8 +7,8 @@
       "options": {
         "A": "Təhlükəli yüklərin dənizdə daşınmasının Beynəlxalq Məcəlləsi (IMDG Code)",
         "B": "bütün cavablar yanlışdır",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "10 uzel sürətlə manevr etdikdə"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -17,24 +17,24 @@
       "id": "q002",
       "question": "2. “Dəniz çirkləndirici”nin tərifi hansı Beynəlxalq sənəddə göstərir?",
       "options": {
-        "A": "MARPOL-73/78 Konvensiyasının III əlavəsi",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "bütün cavablar doğrudur",
-        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "bütün cavablar doğrudur",
+        "C": "MARPOL-73/78 Konvensiyasının III əlavəsi",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q003",
       "question": "3. Təhlükəli yüklərin daşınmasına qoyulan tələblər SOLAS-74 Konvesniyasının hansı fəslinin tərkibinə daxildir?",
       "options": {
-        "A": "VII",
+        "A": "lövbər dayanacağı sahəsində",
         "B": "avtomatik rejimdə işləyərkən",
-        "C": "lövbər dayanacağı sahəsində",
+        "C": "VII",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -43,8 +43,8 @@
       "options": {
         "A": "əllə idarəetmə rejiminə keçdikdə",
         "B": "III",
-        "C": "bütün cavablar yanlışdır",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "bütün cavablar yanlışdır"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -53,36 +53,36 @@
       "id": "q005",
       "question": "5. “Zərərli maddələrə” nələr daxildir?",
       "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "İnsanların sağlamlığına və ətraf mühitə zərər vura biləcək maddələr",
         "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "İnsanların sağlamlığına və ətraf mühitə zərər vura biləcək maddələr"
+        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q006",
       "question": "6. Gəmilərin təhlükəli yüklərin daşınması üçün yararlı olması haqqında sənədləri hansı təşkilat verir?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "Bayraq Dövlətinin Administrasiyası",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "şimal-şərq istiqamətində",
+        "C": "Bayraq Dövlətinin Administrasiyası",
+        "D": "cənub-qərb dreyfi zamanı"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q007",
       "question": "7. Təhlükəli yüklərin daşınması zamanı gəmi heyətinin icra edəcəyi tədbirlər hansı sənəddə göstərilir?",
       "options": {
-        "A": "Qəza tədbirləri üzrə göstərişlərdə",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "Qəza tədbirləri üzrə göstərişlərdə",
+        "D": "gəmi limana daxil olana qədər"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -90,23 +90,23 @@
       "question": "8. TXDDBM (IMDG Code) neçə cilddən ibarətdir?",
       "options": {
         "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "2",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "2",
         "D": "lövbər dayanacağı sahəsində"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q009",
       "question": "9. Təhlükəli yüklərin dəniz nəqliyyatı ilə daşınması hansı Beynəlxalq təşkilatın tələbləri əsasında tənzimlənir?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "Beynəlxalq Dəniz Təşkilatı (IMO)",
+        "A": "Beynəlxalq Dəniz Təşkilatı (IMO)",
+        "B": "fırtınalı havada təxirə salınmaqla",
         "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "fırtınalı havada təxirə salınmaqla"
+        "D": "şimal-şərq istiqamətində"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -114,47 +114,47 @@
       "question": "10. Qısaldılmış EMS yazılışı nəyi ifadə edir?",
       "options": {
         "A": "avtomatik rejimdə işləyərkən",
-        "B": "Qəza tədbirləri üzrə göstərişlər qəza kartoçkaları",
-        "C": "şimal-şərq istiqamətində",
+        "B": "şimal-şərq istiqamətində",
+        "C": "Qəza tədbirləri üzrə göstərişlər qəza kartoçkaları",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q011",
       "question": "11. Qısaldılmiş MFAQ yazılışı nəyi ifadə edir?",
       "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "50 metr məsafədə dənizdə",
-        "C": "İlkin tibbi yardım göstərilməsi üzrə rəhbərlik",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "A": "İlkin tibbi yardım göstərilməsi üzrə rəhbərlik",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "50 metr məsafədə dənizdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q012",
       "question": "12. HAZMAT termini nəyi ifadə edir?",
       "options": {
-        "A": "Təhlükəli materiallar",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "C": "Təhlükəli materiallar",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q013",
       "question": "13. Qısaldılmış CFR US yazılışı nəyi ifadə edir?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "ABŞ-ın Federal Qaydalar Məcəlləsi",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "ABŞ-ın Federal Qaydalar Məcəlləsi",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -162,11 +162,11 @@
       "question": "14. “MARİNE POLLUTANTE” yazısı nəyi ifadə edir?",
       "options": {
         "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "Dəniz çirkləndiricisi"
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "Dəniz çirkləndiricisi",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -185,8 +185,8 @@
       "id": "q016",
       "question": "16. Ammonyakla zəhərlənmə zamanı zərərçəkənə neçə %-li süd məhlulu verilməlidir?",
       "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "10 uzel sürətlə manevr etdikdə",
         "C": "əllə idarəetmə rejiminə keçdikdə",
         "D": "3%-li"
       },
@@ -197,60 +197,60 @@
       "id": "q017",
       "question": "17. Yanıq toxumaların zədələnməsi neçə qrupa bölünür?",
       "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "3"
+        "A": "cənub-qərb dreyfi zamanı",
+        "B": "3",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "lövbər dayanacağı sahəsində"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q018",
       "question": "18. Ağırlığına görə yanıqlar neçə dərəcəyə bölünür?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "4-dək",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "4-dək",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "lövbər dayanacağı sahəsində"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q019",
       "question": "19. Təhükəli yüklər neçə sinifə bölünülər?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "9 sinifə",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "9 sinifə"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q020",
       "question": "20. Oksidləşdirici və üzvi peroksidlər hansı sinifə aiddir?",
       "options": {
-        "A": "5 sinif",
+        "A": "gərginlik 220 V həddinə çatdıqda",
         "B": "fırtınalı havada təxirə salınmaqla",
         "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "D": "5 sinif"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q021",
       "question": "21. Tez alışan mayelər hansı sinifə aiddir?",
       "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "3 sinif",
-        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "3 sinif",
+        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -259,70 +259,70 @@
       "options": {
         "A": "gərginlik 220 V həddinə çatdıqda",
         "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "4 sinif"
+        "C": "4 sinif",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q023",
       "question": "23. Qazlar hansı sinifə aiddir?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
-        "B": "2 sinif",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "gəmi limana daxil olana qədər",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "2 sinif",
+        "D": "50 metr məsafədə dənizdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q024",
       "question": "24. Partlayıcı maddələr hansı sinifə aiddir?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "1 sinif",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q025",
-      "question": "25. Radioaktiv maddələr hansı sinifə aiddir?",
-      "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
+        "A": "1 sinif",
         "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "7 sinif",
-        "D": "lövbər dayanacağı sahəsində"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q026",
-      "question": "26. Aşılayıcı və korroziya doğuran maddələr hansı sinifə aiddir?",
-      "options": {
-        "A": "8 sinif",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "lövbər dayanacağı sahəsində",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
+      "id": "q025",
+      "question": "25. Radioaktiv maddələr hansı sinifə aiddir?",
+      "options": {
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "7 sinif",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q026",
+      "question": "26. Aşılayıcı və korroziya doğuran maddələr hansı sinifə aiddir?",
+      "options": {
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "8 sinif",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
       "id": "q027",
       "question": "27. Digər təhlükəli yüklər hansı sinifə aiddir?",
       "options": {
-        "A": "9 sinif",
-        "B": "şimal-şərq istiqamətində",
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "9 sinif",
         "C": "50 metr məsafədə dənizdə",
-        "D": "avtomatik rejimdə işləyərkən"
+        "D": "şimal-şərq istiqamətində"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -330,9 +330,9 @@
       "question": "28. Zəhərli və yoluxucu maddələr hansı sinifə aiddir?",
       "options": {
         "A": "6 sinif",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -341,24 +341,24 @@
       "id": "q029",
       "question": "29. 2-ci sinifin neçə yarım sinifi var?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "4 yarım sinif",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "şimal-şərq istiqamətində",
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "4 yarım sinif"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q030",
       "question": "30. 1-ci sinifin neçə yarım sinifi var?",
       "options": {
-        "A": "4 yarım sinif",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "4 yarım sinif",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -366,23 +366,23 @@
       "question": "31. 3-cü sinifin neçə yarım sinifi var?",
       "options": {
         "A": "50 metr məsafədə dənizdə",
-        "B": "avtomatik rejimdə işləyərkən",
-        "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "3 yarım sinif"
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "3 yarım sinif",
+        "D": "avtomatik rejimdə işləyərkən"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q032",
       "question": "32. Alışma temperaturu aşağı (-18˚S) olan yüklər hansı yarım sinifə aiddir?",
       "options": {
-        "A": "3.1 yarım sinifinə",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "3.1 yarım sinifinə",
+        "C": "fırtınalı havada təxirə salınmaqla",
         "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -401,20 +401,20 @@
       "id": "q034",
       "question": "34. Alışma temperatur (+23˚C-dən + 61˚C) qədər olan yüklər hansı yarım sinifə aiddir?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "3.3 yarım sinifinə",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "lövbər dayanacağı sahəsində"
+        "A": "lövbər dayanacağı sahəsində",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "3.3 yarım sinifinə",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q035",
       "question": "35. Qida yükü neçə yarım sinifə bölünür?",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "gərginlik 220 V həddinə çatdıqda",
+        "A": "gərginlik 220 V həddinə çatdıqda",
+        "B": "cənub-qərb dreyfi zamanı",
         "C": "3 yarım sinifə",
         "D": "10 uzel sürətlə manevr etdikdə"
       },
@@ -425,10 +425,10 @@
       "id": "q036",
       "question": "36. Qida yükləri hansı sinifə aiddir?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "B": "3 sinifə",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "10 uzel sürətlə manevr etdikdə"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -449,24 +449,24 @@
       "id": "q038",
       "question": "38. L.V.T. abreviaturası hansı sinfinə aiddir?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
-        "B": "4 sinifinə",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+        "A": "4 sinifinə",
+        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q039",
       "question": "39. “SQ” abreviaturası hansı sinifə aiddir?",
       "options": {
-        "A": "2 sinifə",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "50 metr məsafədə dənizdə",
         "C": "bütün cavablar doğrudur",
-        "D": "50 metr məsafədə dənizdə"
+        "D": "2 sinifə"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -475,8 +475,8 @@
       "options": {
         "A": "1 sinifə",
         "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "bütün cavablar doğrudur"
+        "C": "bütün cavablar doğrudur",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -487,20 +487,20 @@
       "options": {
         "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "4 saatdan bir",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "C": "hər ayda bir dəfədən az olmayan müddətdə",
+        "D": "4 saatdan bir"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q042",
       "question": "42. Piy və bitki yağlarının boşaldılması zamanı temperatur göstəricisinin aşağı həddi neçə dərəcədir?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "C": "20˚C",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -509,9 +509,9 @@
       "id": "q043",
       "question": "43. Partlayıcı maddələrin xüsusi yığımın neçə növü mövcuddur?",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "avtomatik rejimdə işləyərkən",
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
         "D": "3 növü"
       },
       "correct_answer": "D",
@@ -522,35 +522,35 @@
       "question": "44. V sinif təhlükəli yüklərin I yarım sinifi nece adlanır?",
       "options": {
         "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "Turşu əmələ gətirən maddələr",
-        "C": "gəmi limana daxil olana qədər",
+        "B": "gəmi limana daxil olana qədər",
+        "C": "Turşu əmələ gətirən maddələr",
         "D": "10 uzel sürətlə manevr etdikdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q045",
       "question": "45. V sinif təhlükəli yüklərin II yarım sinifi nece adlanır?",
       "options": {
-        "A": "Üzvi maddələr",
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
         "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "şimal-şərq istiqamətində"
+        "C": "şimal-şərq istiqamətində",
+        "D": "Üzvi maddələr"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q046",
       "question": "46. VI sinif təhlükəli yüklərin I yarım sinifi necə adlanır?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "bütün cavablar doğrudur",
-        "C": "Zəhərli maddələr",
-        "D": "50 metr məsafədə dənizdə"
+        "A": "Zəhərli maddələr",
+        "B": "50 metr məsafədə dənizdə",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "bütün cavablar doğrudur"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -559,22 +559,22 @@
       "options": {
         "A": "bütün cavablar yanlışdır",
         "B": "bütün cavablar doğrudur",
-        "C": "Yoluxucu maddələr",
-        "D": "gəmi limana daxil olana qədər"
+        "C": "gəmi limana daxil olana qədər",
+        "D": "Yoluxucu maddələr"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q048",
       "question": "48. VII sinif təhlükəli yüklər nece adlanır?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "Radioaktiv maddələr",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "bütün cavablar doğrudur"
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "bütün cavablar doğrudur",
+        "C": "Radioaktiv maddələr",
+        "D": "fırtınalı havada təxirə salınmaqla"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     }
   ]

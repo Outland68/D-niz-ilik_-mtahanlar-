@@ -5,9 +5,9 @@
       "id": "q001",
       "question": "1. İnert qazlar hansı mənbələrdən alınır?",
       "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "D": "Azot generatorlarından və buxar qazanlarından xaric edilən qazların tərkibindən"
       },
       "correct_answer": "D",
@@ -17,12 +17,12 @@
       "id": "q002",
       "question": "2. İnert qazların tərkibi hansı qazlardan ibarətdir?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "N2, O2, NOx, CO2",
+        "A": "N2, O2, NOx, CO2",
+        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
         "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
         "D": "gərginlik 220 V həddinə çatdıqda"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -30,9 +30,9 @@
       "question": "3. İnert qaz sisteminin gəmilərdə qoyulma məqsədi nədir?",
       "options": {
         "A": "Gəmilərdə insan həyatını qorumaq , daşınan yükün təhlükəsiz mənzil başına çatdırmaq, insan həyatını qorumaq, gəmidə partlayış ,yanğın və korroziyanin qarşısını almaq üçün",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "bütün cavablar yanlışdır"
+        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "C": "bütün cavablar yanlışdır",
+        "D": "hər 6 aydan bir keçirilən təlimlərdə"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -42,11 +42,11 @@
       "question": "4. İnert qaz sistemində keçirilən texniki baxışlar hansılardır?",
       "options": {
         "A": "bütün cavablar yanlışdır",
-        "B": "şimal-şərq istiqamətində",
-        "C": "Gündəlik, həftəlik, 3 ayda, 6ayda, 1 il ərzində keçirilən texniki baxışlar",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "şimal-şərq istiqamətində",
+        "D": "Gündəlik, həftəlik, 3 ayda, 6ayda, 1 il ərzində keçirilən texniki baxışlar"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -54,47 +54,47 @@
       "question": "5. İnert qaz sistemi hansı elementlərdən ibarətdir?",
       "options": {
         "A": "lövbər dayanacağı sahəsində",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "Azot generatoru, buxar qazanı, skrubber, azot resiveri, hava balonu, kompressorlar, elektrik qızdırıcıları, hava üfürcüləri, nəzarət edici, yoxlayıcı və idarə edici cihazlar, boru kəmərləri",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "gərginlik 220 V həddinə çatdıqda",
+        "D": "Azot generatoru, buxar qazanı, skrubber, azot resiveri, hava balonu, kompressorlar, elektrik qızdırıcıları, hava üfürcüləri, nəzarət edici, yoxlayıcı və idarə edici cihazlar, boru kəmərləri"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q006",
       "question": "6. İnert qaz sistemində hansı borulardan istifadə olunur?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "Şovsuz, qalın divarlı borular",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
+        "A": "əllə idarəetmə rejiminə keçdikdə",
+        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "Şovsuz, qalın divarlı borular"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q007",
       "question": "7. İnert qaz sistemində qoyulan resiverin tutumu nə qədərdir?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "A": "5 m3",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
         "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "5 m3"
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q008",
       "question": "8. İnert qaz sisteminde neçə pilləli kompressorlardan istifadə edilir?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "2 pilləli sıxılmış hava kompressorları",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "D": "2 pilləli sıxılmış hava kompressorları"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -102,8 +102,8 @@
       "question": "9. İnert qaz sistemində “Saxlama“ rejimində yük anbarlarında inert qazın təzyiqi nə qədərdir?",
       "options": {
         "A": "0,1 bar",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "bütün cavablar yanlışdır",
+        "B": "bütün cavablar yanlışdır",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
         "D": "əllə idarəetmə rejiminə keçdikdə"
       },
       "correct_answer": "A",
@@ -113,9 +113,9 @@
       "id": "q010",
       "question": "10. İnert qazın tərkibində karbon dioksidin miqdarı nə qədərdir? ( karbon dioksid CO₂)",
       "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
         "B": "12:14 %",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
         "D": "cənub-qərb dreyfi zamanı"
       },
       "correct_answer": "B",
@@ -126,20 +126,20 @@
       "question": "11. İnert qazlar sistemində istifadə olunan boruların diametri nə qədərdir? ( qurğunun saxlama iş rejimi üçün)",
       "options": {
         "A": "hər 6 aydan bir keçirilən təlimlərdə",
-        "B": "159 x 5 mm",
-        "C": "bütün cavablar doğrudur",
-        "D": "lövbər dayanacağı sahəsində"
+        "B": "bütün cavablar doğrudur",
+        "C": "lövbər dayanacağı sahəsində",
+        "D": "159 x 5 mm"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q012",
       "question": "12. İnert qaz sistemi uzun müddət işləmədikdə hansı işlər görülməlidir?",
       "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "şimal-şərq istiqamətində",
+        "A": "şimal-şərq istiqamətində",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
         "D": "Sistemdə olan bütün klapanların açıq vəziyyətdə olması tələb edilir və resiver boş olmalıdır"
       },
       "correct_answer": "D",
@@ -149,116 +149,80 @@
       "id": "q013",
       "question": "13. İnert qaz sisteminin sıradan çıxması hansı qurğulardan asılıdır?",
       "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
+        "A": "Azot generatoru və hava kompressorları sıradan çıxdığı vaxt",
         "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "Azot generatoru və hava kompressorları sıradan çıxdığı vaxt",
-        "D": "gəmi limana daxil olana qədər"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q014",
-      "question": "14. İnert qaz sisteminin üfürmə rejimində təzyiqi nə qədər olmalıdır?",
-      "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "7:10 bar"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q015",
-      "question": "15. İnert qaz sisteminin iş rejimləri hansılardır?",
-      "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "bütün cavablar yanlışdır",
-        "C": "Saxlama, doldurma , üfürmə rejimləri",
-        "D": "şimal-şərq istiqamətində"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q016",
-      "question": "16. Tankın deqazasiyası üçün oksigenin miqdarı neçə faiz olmalıdır?",
-      "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "21 %",
-        "C": "50 metr məsafədə dənizdə",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q017",
-      "question": "17. İnert qaz sistemləri hansı növ yuyulma sistemi olan tankerlərdə quraşdırılır?",
-      "options": {
-        "A": "Xam neftlə yuma sistemi quraşdırılmış tankerlərdə",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "lövbər dayanacağı sahəsində",
+        "C": "gəmi limana daxil olana qədər",
         "D": "10 uzel sürətlə manevr etdikdə"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
+      "id": "q014",
+      "question": "14. İnert qaz sisteminin üfürmə rejimində təzyiqi nə qədər olmalıdır?",
+      "options": {
+        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "B": "fırtınalı havada təxirə salınmaqla",
+        "C": "7:10 bar",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q015",
+      "question": "15. İnert qaz sisteminin iş rejimləri hansılardır?",
+      "options": {
+        "A": "şimal-şərq istiqamətində",
+        "B": "Saxlama, doldurma , üfürmə rejimləri",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "bütün cavablar yanlışdır"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q016",
+      "question": "16. Tankın deqazasiyası üçün oksigenin miqdarı neçə faiz olmalıdır?",
+      "options": {
+        "A": "hər 6 aydan bir keçirilən təlimlərdə",
+        "B": "bütün cavablar doğrudur",
+        "C": "21 %",
+        "D": "50 metr məsafədə dənizdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q017",
+      "question": "17. İnert qaz sistemləri hansı növ yuyulma sistemi olan tankerlərdə quraşdırılır?",
+      "options": {
+        "A": "10 uzel sürətlə manevr etdikdə",
+        "B": "Xam neftlə yuma sistemi quraşdırılmış tankerlərdə",
+        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
+        "D": "lövbər dayanacağı sahəsində"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
       "id": "q018",
       "question": "18. Stasionar yuyucu maşınlar tankerlərin hansı hissəsində quraşdırılır?",
       "options": {
-        "A": "Tankın içərisində",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "avtomatik rejimdə işləyərkən",
+        "B": "əllə idarəetmə rejiminə keçdikdə",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "Tankın içərisində"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q019",
       "question": "19. Tanklarda inertizasiya dedikdə nə başa düşülür?",
       "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "Tanklarda təsirsiz atmosferin yaradılması məqsədi ilə tanka inert qazın ötürülməsi"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q020",
-      "question": "20. Resiverin üstündəki qoruyucu klapan hansı təzyiqdə avtomatik açılır?",
-      "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "50 metr məsafədə dənizdə",
-        "C": "13 bar",
-        "D": "gəmi limana daxil olana qədər"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q021",
-      "question": "21. Yay dizel yanacağının qatılıq dərəcəsi nə qədərdir?",
-      "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "20 C°, 3-6 s/st",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "bütün cavablar doğrudur"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q022",
-      "question": "22. Üfürmə rejimi hansı təzyiqdə işləyir?",
-      "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "7-10 bar",
+        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "B": "Tanklarda təsirsiz atmosferin yaradılması məqsədi ilə tanka inert qazın ötürülməsi",
         "C": "gəmi limana daxil olana qədər",
         "D": "cənub-qərb dreyfi zamanı"
       },
@@ -266,37 +230,73 @@
       "explanation": ""
     },
     {
+      "id": "q020",
+      "question": "20. Resiverin üstündəki qoruyucu klapan hansı təzyiqdə avtomatik açılır?",
+      "options": {
+        "A": "50 metr məsafədə dənizdə",
+        "B": "13 bar",
+        "C": "gəmi limana daxil olana qədər",
+        "D": "gərginlik 220 V həddinə çatdıqda"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q021",
+      "question": "21. Yay dizel yanacağının qatılıq dərəcəsi nə qədərdir?",
+      "options": {
+        "A": "20 C°, 3-6 s/st",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "bütün cavablar doğrudur",
+        "D": "əllə idarəetmə rejiminə keçdikdə"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q022",
+      "question": "22. Üfürmə rejimi hansı təzyiqdə işləyir?",
+      "options": {
+        "A": "gəmi limana daxil olana qədər",
+        "B": "cənub-qərb dreyfi zamanı",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "7-10 bar"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
       "id": "q023",
       "question": "23. İnert qaz sistemi boşaltma/xam neftlə yuma əməliyyatı zamanı sıradan çıxarsa hansı tədbirlər görülməlidir?",
       "options": {
-        "A": "Boşaltmanı, xam neftlə yumanı dayandırmaq",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "şimal-şərq istiqamətində",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "Boşaltmanı, xam neftlə yumanı dayandırmaq",
+        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "D": "şimal-şərq istiqamətində"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q024",
       "question": "24. İnert qaz sistemində hansı tip kompressorlardan istifadə olunur?",
       "options": {
-        "A": "hər 6 aydan bir keçirilən təlimlərdə",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "bütün cavablar yanlışdır",
-        "D": "Porşenli və vintli"
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "Porşenli və vintli",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q025",
       "question": "25. Tankerdə yük əməliyyatları prosesində inert qaz sistemində nasazlıq yaranarsa, hansı tədbirlər görülməlidir?",
       "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
+        "A": "lövbər dayanacağı sahəsində",
         "B": "Bütün yük əməliyyatları dayandırılmalıdır və tanka hava sızmasının qarşısı alınmalıdır",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "fırtınalı havada təxirə salınmaqla"
+        "C": "fırtınalı havada təxirə salınmaqla",
+        "D": "10 uzel sürətlə manevr etdikdə"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -305,48 +305,48 @@
       "id": "q026",
       "question": "26. Yük əməliyyatları zamanı inert qaz sisteminin işi hər hansı bir səbəbdən dayandırılıbsa və 30 dəqiqə ərzində tanka hava daxil olubsa hansı tədbirlər görülməlidir?",
       "options": {
-        "A": "hər 6 aydan bir keçirilən təlimlərdə",
-        "B": "30 dəqiqə ərzində tankda heç bir əməliyyat aparmaq olmaz",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "10 uzel sürətlə manevr etdikdə",
+        "C": "hər 6 aydan bir keçirilən təlimlərdə",
+        "D": "30 dəqiqə ərzində tankda heç bir əməliyyat aparmaq olmaz"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q027",
       "question": "27. Tankların yuyulması zamanı neçə üsuldan istifadə olunur?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "A": "3",
         "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "3",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
+        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q028",
       "question": "28. Tankerlərin ventilyasiya sistemində neft məhsullarının buxarlarının atmosferə çıxması zamanı nədən istifadə edilmir?",
       "options": {
-        "A": "Qazanalizator cihazından",
+        "A": "cənub-qərb dreyfi zamanı",
         "B": "bütün cavablar yanlışdır",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "Qazanalizator cihazından"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q029",
       "question": "29. Ayrıca qazayırıcı sistemin qurğuları yük göyərtəsindən hansı hündürlukdə quraşdırılır?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "2.5 metr",
+        "A": "2.5 metr",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "D": "10 uzel sürətlə manevr etdikdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -365,12 +365,12 @@
       "id": "q031",
       "question": "31. Tankerlərdə neçe növ tank mövcudur?",
       "options": {
-        "A": "4",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "A": "hər 6 aydan bir keçirilən təlimlərdə",
+        "B": "4",
+        "C": "10 uzel sürətlə manevr etdikdə",
+        "D": "cənub-qərb dreyfi zamanı"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -378,9 +378,9 @@
       "question": "32. SOLAS -74 Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq nə zaman tankın atmosferi təsirsiz hesab olunur?",
       "options": {
         "A": "Tankın atmosferində oksigenin həcmi 8 % təşkil edirsə",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
+        "C": "əllə idarəetmə rejiminə keçdikdə",
+        "D": "10 uzel sürətlə manevr etdikdə"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -389,12 +389,12 @@
       "id": "q033",
       "question": "33. Yük tankının içində zərərçəkənə təcili tibbi yardım göstərən zaman oksigen reanimatorundan istifadə etmək olarmı?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "Olmaz",
-        "C": "gərginlik 220 V həddinə çatdıqda",
+        "A": "Olmaz",
+        "B": "gərginlik 220 V həddinə çatdıqda",
+        "C": "fırtınalı havada təxirə salınmaqla",
         "D": "əllə idarəetmə rejiminə keçdikdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -402,9 +402,9 @@
       "question": "34. Ürəyin bağlı masajı vaxtı döş qəfəsi 1 dəqiqə ərzində neçə dəfə sıxılmalıdır?",
       "options": {
         "A": "80-100",
-        "B": "gəmi limana daxil olana qədər",
+        "B": "hər 6 aydan bir keçirilən təlimlərdə",
         "C": "lövbər dayanacağı sahəsində",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "D": "gəmi limana daxil olana qədər"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -414,8 +414,8 @@
       "question": "35. Orta yaşlı insanlarda nəbz 1 dəqiqə ərzində neçə dəfə vurmalıdır?",
       "options": {
         "A": "cənub-qərb dreyfi zamanı",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "C": "gərginlik 220 V həddinə çatdıqda",
         "D": "75-80"
       },
       "correct_answer": "D",
@@ -425,34 +425,34 @@
       "id": "q036",
       "question": "36. İnert qaz sistemində Demister hansı funksiyanı yerinə yetirir?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "A": "Qazın scrubberdən çıxışında qazla birlikdə su damlalarının keçməsinin qarşısını alır",
         "B": "50 metr məsafədə dənizdə",
-        "C": "Qazın scrubberdən çıxışında qazla birlikdə su damlalarının keçməsinin qarşısını alır",
-        "D": "bütün cavablar doğrudur"
+        "C": "bütün cavablar doğrudur",
+        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q037",
       "question": "37. Blowerdə (ventilyator) nasazlıq yaranarsa:",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
+        "A": "Qaz tənzimləyici klapan avtomatik qapanır",
         "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "Qaz tənzimləyici klapan avtomatik qapanır",
+        "C": "cənub-qərb dreyfi zamanı",
         "D": "bütün cavablar yanlışdır"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q038",
       "question": "38. Scrubberdə neçə soyuq su vuran nasos olmalıdır?",
       "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "bütün cavablar yanlışdır",
+        "A": "bütün cavablar doğrudur",
+        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
         "C": "2",
-        "D": "bütün cavablar doğrudur"
+        "D": "bütün cavablar yanlışdır"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -461,12 +461,12 @@
       "id": "q039",
       "question": "39. Scrubberdə hansı halda siqnalizasiya işə düşür?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "Suyun aşağı təzyiqdə olması zamanı",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "A": "hər ayda bir dəfədən az olmayan müddətdə",
+        "B": "Suyun aşağı təzyiqdə olması zamanı",
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
@@ -487,8 +487,8 @@
       "options": {
         "A": "Maşın şöbəsində, göyərtə klapanından öncə quraşdırılmalıdır",
         "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
+        "D": "lövbər dayanacağı sahəsində"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -497,36 +497,36 @@
       "id": "q042",
       "question": "42. Oksigen analizatorunun funksiyası hansıdır?",
       "options": {
-        "A": "Oksigenin miqdarını davamlı ölçür və qeyd edir",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "B": "Oksigenin miqdarını davamlı ölçür və qeyd edir",
+        "C": "gərginlik 220 V həddinə çatdıqda",
         "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q043",
       "question": "43. Oksigen analizatorunun siqnalizasiyası hansı halda işə düşür?",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "50 metr məsafədə dənizdə",
-        "C": "Oksigenin miqdarı 8 % dən yuxarı olarsa",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "A": "Oksigenin miqdarı 8 % dən yuxarı olarsa",
+        "B": "hər ayda bir dəfədən az olmayan müddətdə",
+        "C": "50 metr məsafədə dənizdə",
+        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q044",
       "question": "44. Oksigenin miqdarı 8 % dən yuxarı olarsa, oksigen analizatorunun siqnalizasiyası işə düşür və bu halda sistemdə hansı dəyişikliklər baş verir?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "Tankı qazla təmin edən klapan avtomatik qapanmalıdır",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "B": "avtomatik rejimdə işləyərkən",
+        "C": "Tankı qazla təmin edən klapan avtomatik qapanmalıdır",
+        "D": "hər ayda bir dəfədən az olmayan müddətdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -545,12 +545,12 @@
       "id": "q046",
       "question": "46. Təzyiq – vakkum boğucu (breaker) hansı funksiyanı yerinə yetirir?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "İzolyasya klapanları bağlı olduqda, yük tanklarını dəyişkən temperaturdan yaranan aşağı və ya yuxarı təzyiqdən qoruyur"
+        "A": "İzolyasya klapanları bağlı olduqda, yük tanklarını dəyişkən temperaturdan yaranan aşağı və ya yuxarı təzyiqdən qoruyur",
+        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
+        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
+        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     }
   ]
