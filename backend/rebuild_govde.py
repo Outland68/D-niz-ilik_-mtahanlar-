@@ -63,7 +63,7 @@ govde_questions_raw = [
     },
     {
         "id": "q006",
-        "question": "6. Özüyeriyən texnikanın gəmiyə sürülərək gətirilməsi, qoyulması və bərkidilməsi kimlər təfindən həyata keçirilir?",
+        "question": "6. Özüyeriyən texnikanın gəmiyə sürülərək gətirilməsi, qoyulması və bərkidilməsi kimlər təfəfindən həyata keçirilir?",
         "options": {
             "A": "liman dokerləri briqadası təfəfindən",
             "B": "yalnız gəmi kapitanı tərəfindən",
@@ -113,7 +113,7 @@ govde_questions_raw = [
         "id": "q010",
         "question": "10. Minik avtomobillərinin yerləşdirilməsi zamanı bortlar və bamperlər arasında məsafə nə qədər olmalıdır?",
         "options": {
-            "A": "bortlar 100-300 mm; bamperlər-100 mm",
+            "A": "bortlar 100-30 mm; bamperlər-10 mm",
             "B": "bortlar 1000 mm; bamperlər-500 mm",
             "C": "bortlar 10 mm; bamperlər-2 mm",
             "D": "Məsafə qoyulması tələb olunmur"
@@ -592,7 +592,7 @@ govde_questions_raw = [
 ]
 
 # Randomize options A, B, C, D evenly for each question
-random.seed(654321)
+random.seed(11111)
 shuffled_questions = []
 
 for q in govde_questions_raw:
@@ -624,4 +624,4 @@ os.makedirs(os.path.dirname(target_path), exist_ok=True)
 with open(target_path, 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
-print(f"🎉 SUCCESS! Rebuilt all {len(shuffled_questions)} questions for Sərnişinlərin, yükün və gəmi gövdəsinin təhlükəsizliyi üzrə hazırlıq with 100% accurate correct answers, relevant distractors, and randomized A/B/C/D option placement!")
+print(f"🎉 SUCCESS! Updated Question 10 correct answer to 'bortlar 100-30 mm; bamperlər-10 mm' for Sərnişinlərin, yükün və gəmi gövdəsinin təhlükəsizliyi üzrə hazırlıq!")
