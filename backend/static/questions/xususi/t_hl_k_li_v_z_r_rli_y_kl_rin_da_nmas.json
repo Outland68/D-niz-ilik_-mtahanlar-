@@ -5,17 +5,17 @@
       "id": "q001",
       "question": "1. Təhlükəli yüklərin dəniz nəqliyyatı vasitəsi ilə daşınması hansı Beynəlxalq Məcəllənin tələbləri əsasında tənzimlənir?",
       "options": {
-        "A": "Əmniyyətli İdarəetmə Haqqında Beynəlxalq Məcəllə (ISM Code)",
-        "B": "Gəmilərin və Liman Vasitələrinin Mühafizəsi Məcəlləsi (ISPS Code)",
-        "C": "Təhlükəli yüklərin dənizdə daşınmasının Beynəlxalq Məcəlləsi (IMDG Code)",
-        "D": "Qlobal Dəniz Fəlakət Məcəlləsi (GMDSS Code)"
+        "A": "Təhlükəli yüklərin dənizdə daşınmasının Beynəlxalq Məcəlləsi (IMDG Code)",
+        "B": "Qlobal Dəniz Fəlakət Məcəlləsi (GMDSS Code)",
+        "C": "Gəmilərin və Liman Vasitələrinin Mühafizəsi Məcəlləsi (ISPS Code)",
+        "D": "Əmniyyətli İdarəetmə Haqqında Beynəlxalq Məcəllə (ISM Code)"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q002",
-      "question": "2. “Dəniz çirkləndirici”nin tərifi hansı Beynəlxalq sənəddə gösterir?",
+      "question": "2. “Dəniz çirkləndirici”nin tərifi hansı Beynəlxalq sənəddə göstərir?",
       "options": {
         "A": "MARPOL-73/78 Konvensiyasının III əlavəsi",
         "B": "COLREG-72 Beynəlxalq Qaydaları",
@@ -29,24 +29,24 @@
       "id": "q003",
       "question": "3. Təhlükəli yüklərin daşınmasına qoyulan tələblər SOLAS-74 Konvesniyasının hansı fəslinin tərkibinə daxildir?",
       "options": {
-        "A": "VII Fəsil",
+        "A": "III Fəsil",
         "B": "IX Fəsil",
         "C": "XII Fəsil",
-        "D": "III Fəsil"
+        "D": "VII Fəsil"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q004",
       "question": "4. Zərərli maddələr dəniz çirkləndiriciləri MARPOL-73/78 Konvensiyasının hansı əlavəsində göstərilir?",
       "options": {
-        "A": "VI Əlavə",
-        "B": "I Əlavə",
-        "C": "V Əlavə",
-        "D": "III Əlavə"
+        "A": "III Əlavə",
+        "B": "V Əlavə",
+        "C": "I Əlavə",
+        "D": "VI Əlavə"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -55,44 +55,44 @@
       "options": {
         "A": "Yalnız təmiz dəniz qumu və çınqıl",
         "B": "Yalnız içməli qablaşdırılmış su",
-        "C": "İnsanların sağlamlığına və ətraf mühitə zərər vura biləcək maddələr",
-        "D": "Yalnız təzə meyvə və tərəvəz"
+        "C": "Yalnız təzə meyvə və tərəvəz",
+        "D": "İnsanların sağlamlığına və ətraf mühitə zərər vura biləcək maddələr"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q006",
       "question": "6. Gəmilərin təhlükəli yüklərin daşınması üçün yararlı olması haqqında sənədləri hansı təşkilat verir?",
       "options": {
-        "A": "Liman Polisi İdarəsi",
+        "A": "Dəniz Turizm Agentliyi",
         "B": "Şəhər İcra Hakimiyyəti",
-        "C": "Dəniz Turizm Agentliyi",
-        "D": "Bayraq Dövlətinin Administrasiyası"
+        "C": "Bayraq Dövlətinin Administrasiyası",
+        "D": "Liman Polisi İdarəsi"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q007",
       "question": "7. Təhlükəli yüklərin daşınması zamanı gəmi heyətinin icra edəcəyi tədbirlər hansı sənəddə göstərilir?",
       "options": {
-        "A": "Gəminin lövbər dayanacağı cədvəlində",
-        "B": "Gəmi teleqraf jurnalı qeydlərində",
-        "C": "Qəza tədbirləri üzrə göstərişlərdə (EmS)",
-        "D": "Gəmi aşpazının menyu cədvəlində"
+        "A": "Gəmi teleqraf jurnalı qeydlərində",
+        "B": "Qəza tədbirləri üzrə göstərişlərdə",
+        "C": "Gəmi aşpazının menyu cədvəlində",
+        "D": "Gəminin lövbər dayanacağı cədvəlində"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q008",
       "question": "8. TXDDBM (IMDG Code) neçə cilddən ibarətdir?",
       "options": {
-        "A": "2 cilddən",
-        "B": "10 cilddən",
-        "C": "5 cilddən",
-        "D": "1 cilddən"
+        "A": "2",
+        "B": "1",
+        "C": "10",
+        "D": "5"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -101,96 +101,96 @@
       "id": "q009",
       "question": "9. Təhlükəli yüklərin dəniz nəqliyyatı ilə daşınması hansı Beynəlxalq təşkilatın tələbləri əsasında tənzimlənir?",
       "options": {
-        "A": "Beynəlxalq Valyuta Fondu (IMF)",
-        "B": "Ümumdünya Səhiyyə Təşkilatı (WHO)",
-        "C": "Beynəlxalq Dəniz Təşkilatı (IMO)",
-        "D": "Beynəlxalq Mülki Aviasiya Təşkilatı (ICAO)"
+        "A": "Beynəlxalq Mülki Aviasiya Təşkilatı (ICAO)",
+        "B": "Beynəlxalq Dəniz Təşkilatı (IMO)",
+        "C": "Ümumdünya Səhiyyə Təşkilatı (WHO)",
+        "D": "Beynəlxalq Valyuta Fondu (IMF)"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q010",
-      "question": "10. Qısaldılmış EmS yazılışı nəyi ifadə edir?",
+      "question": "10. Qısaldılmış EMS yazılışı nəyi ifadə edir?",
       "options": {
         "A": "Elektrik mühərriklərinin sınaq cədvəli",
-        "B": "Ekologiya və meşə təsərrüfatı xidməti",
-        "C": "Qəza tədbirləri üzrə göstərişlər qəza kartoçkaları (Emergency Schedules)",
-        "D": "Elektron naviqasiya xəritələri sistemi"
+        "B": "Elektron naviqasiya xəritələri sistemi",
+        "C": "Ekologiya və meşə təsərrüfatı xidməti",
+        "D": "Qəza tədbirləri üzrə göstərişlər qəza kartoçkaları"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q011",
-      "question": "11. Qısaldılmiş MFAG yazılışı nəyi ifadə edir?",
+      "question": "11. Qısaldılmiş MFAQ yazılışı nəyi ifadə edir?",
       "options": {
-        "A": "İlkin tibbi yardım göstərilməsi üzrə rəhbərlik (Medical First Aid Guide)",
+        "A": "Gəmi yanacaq filtrlərinin təmizlənmə qaydası",
         "B": "Dənizdə meteoroloji proqnozlaşdırma mərkəzi",
-        "C": "Gəmi yanacaq filtrlərinin təmizlənmə qaydası",
-        "D": "Gəmi mühərriklərinin avtomatlaşdırma dərəcəsi"
+        "C": "Gəmi mühərriklərinin avtomatlaşdırma dərəcəsi",
+        "D": "İlkin tibbi yardım göstərilməsi üzrə rəhbərlik"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q012",
       "question": "12. HAZMAT termini nəyi ifadə edir?",
       "options": {
-        "A": "Təhlükəli materiallar (Hazardous Materials)",
-        "B": "Hidrostatik azadölçən cihazlar",
-        "C": "Gəmi havalandırma sistemləri",
-        "D": "Avtomatik sükan aparatları"
+        "A": "Hidrostatik azadölçən cihazlar",
+        "B": "Avtomatik sükan aparatları",
+        "C": "Təhlükəli materiallar",
+        "D": "Gəmi havalandırma sistemləri"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q013",
       "question": "13. Qısaldılmış CFR US yazılışı nəyi ifadə edir?",
       "options": {
-        "A": "Böyük Britaniya Dənizçi Şəhadətnaməsi",
-        "B": "Fransa Dəniz Təsnifat Cəmiyyəti",
-        "C": "Kanada Dəniz Mühafizəsi Qaydaları",
-        "D": "ABŞ-ın Federal Qaydalar Məcəlləsi (Code of Federal Regulations)"
+        "A": "Fransa Dəniz Təsnifat Cəmiyyəti",
+        "B": "Kanada Dəniz Mühafizəsi Qaydaları",
+        "C": "ABŞ-ın Federal Qaydalar Məcəlləsi",
+        "D": "Böyük Britaniya Dənizçi Şəhadətnaməsi"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q014",
-      "question": "14. “MARINE POLLUTANT” yazısı nəyi ifadə edir?",
+      "question": "14. “MARİNE POLLUTANTE” yazısı nəyi ifadə edir?",
       "options": {
-        "A": "Dəniz çirkləndiricisi",
-        "B": "Zərərsiz neytral yük",
+        "A": "Yanğın söndürən maddə",
+        "B": "Dəniz çirkləndiricisi",
         "C": "İçməli dəniz suyu",
-        "D": "Yanğın söndürən maddə"
+        "D": "Zərərsiz neytral yük"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q015",
       "question": "15. Hidrogen peroksid 3% nə üçün işlədilir?",
       "options": {
-        "A": "Buxar qazanının soyudulması üçün",
-        "B": "Gəmi mühərrikinə yanacaq əlavəsi kimi",
-        "C": "Gəmi korpusunu rəngləmək üçün",
-        "D": "Yaraları yumaq üçün dezinfeksiya edici maddə"
+        "A": "Yaraları yumaq üçün dezinfeksiya edici maddə",
+        "B": "Gəmi korpusunu rəngləmək üçün",
+        "C": "Buxar qazanının soyudulması üçün",
+        "D": "Gəmi mühərrikinə yanacaq əlavəsi kimi"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q016",
       "question": "16. Ammonyakla zəhərlənmə zamanı zərərçəkənə neçə %-li süd məhlulu verilməlidir?",
       "options": {
-        "A": "20%-li",
-        "B": "3%-li",
-        "C": "50%-li",
-        "D": "0.1%-li"
+        "A": "0.1%-li",
+        "B": "50%-li",
+        "C": "3%-li",
+        "D": "20%-li"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -198,19 +198,19 @@
       "question": "17. Yanıq toxumaların zədələnməsi neçə qrupa bölünür?",
       "options": {
         "A": "1",
-        "B": "3",
-        "C": "15",
-        "D": "10"
+        "B": "10",
+        "C": "3",
+        "D": "15"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q018",
       "question": "18. Ağırlığına görə yanıqlar neçə dərəcəyə bölünür?",
       "options": {
-        "A": "10-dək",
-        "B": "2-dək",
+        "A": "2-dək",
+        "B": "10-dək",
         "C": "7-dək",
         "D": "4-dək"
       },
@@ -219,36 +219,36 @@
     },
     {
       "id": "q019",
-      "question": "19. Təhlükəli yüklər neçə sinifə bölünülər?",
+      "question": "19. Təhükəli yüklər neçə sinifə bölünülər?",
       "options": {
-        "A": "20 sinifə",
-        "B": "3 sinifə",
-        "C": "9 sinifə",
-        "D": "15 sinifə"
+        "A": "3 sinifə",
+        "B": "15 sinifə",
+        "C": "20 sinifə",
+        "D": "9 sinifə"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q020",
       "question": "20. Oksidləşdirici və üzvi peroksidlər hansı sinifə aiddir?",
       "options": {
-        "A": "5-ci sinif",
-        "B": "1-ci sinif",
-        "C": "8-ci sinif",
-        "D": "2-ci sinif"
+        "A": "8 sinif",
+        "B": "5 sinif",
+        "C": "2 sinif",
+        "D": "1 sinif"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q021",
       "question": "21. Tez alışan mayelər hansı sinifə aiddir?",
       "options": {
-        "A": "7-ci sinif",
-        "B": "9-cu sinif",
-        "C": "1-ci sinif",
-        "D": "3-cü sinif"
+        "A": "1 sinif",
+        "B": "7 sinif",
+        "C": "9 sinif",
+        "D": "3 sinif"
       },
       "correct_answer": "D",
       "explanation": ""
@@ -257,34 +257,34 @@
       "id": "q022",
       "question": "22. Tez alışan bərk maddələr hansı sinifə aiddir?",
       "options": {
-        "A": "6-cı sinif",
-        "B": "2-ci sinif",
-        "C": "4-cü sinif",
-        "D": "8-ci sinif"
+        "A": "4 sinif",
+        "B": "8 sinif",
+        "C": "6 sinif",
+        "D": "2 sinif"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q023",
       "question": "23. Qazlar hansı sinifə aiddir?",
       "options": {
-        "A": "2-ci sinif",
-        "B": "5-ci sinif",
-        "C": "3-cü sinif",
-        "D": "9-cu sinif"
+        "A": "5 sinif",
+        "B": "2 sinif",
+        "C": "3 sinif",
+        "D": "9 sinif"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q024",
       "question": "24. Partlayıcı maddələr hansı sinifə aiddir?",
       "options": {
-        "A": "4-cü sinif",
-        "B": "1-ci sinif",
-        "C": "8-ci sinif",
-        "D": "6-cı sinif"
+        "A": "8 sinif",
+        "B": "1 sinif",
+        "C": "6 sinif",
+        "D": "4 sinif"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -293,10 +293,10 @@
       "id": "q025",
       "question": "25. Radioaktiv maddələr hansı sinifə aiddir?",
       "options": {
-        "A": "1-ci sinif",
-        "B": "3-cü sinif",
-        "C": "5-ci sinif",
-        "D": "7-ci sinif"
+        "A": "5 sinif",
+        "B": "3 sinif",
+        "C": "1 sinif",
+        "D": "7 sinif"
       },
       "correct_answer": "D",
       "explanation": ""
@@ -305,10 +305,10 @@
       "id": "q026",
       "question": "26. Aşılayıcı və korroziya doğuran maddələr hansı sinifə aiddir?",
       "options": {
-        "A": "8-ci sinif",
-        "B": "7-ci sinif",
-        "C": "2-ci sinif",
-        "D": "4-cü sinif"
+        "A": "8 sinif",
+        "B": "2 sinif",
+        "C": "7 sinif",
+        "D": "4 sinif"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -317,10 +317,10 @@
       "id": "q027",
       "question": "27. Digər təhlükəli yüklər hansı sinifə aiddir?",
       "options": {
-        "A": "9-cu sinif",
-        "B": "1-ci sinif",
-        "C": "3-cü sinif",
-        "D": "5-ci sinif"
+        "A": "9 sinif",
+        "B": "1 sinif",
+        "C": "5 sinif",
+        "D": "3 sinif"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -329,94 +329,94 @@
       "id": "q028",
       "question": "28. Zəhərli və yoluxucu maddələr hansı sinifə aiddir?",
       "options": {
-        "A": "6-cı sinif",
-        "B": "8-ci sinif",
-        "C": "4-cü sinif",
-        "D": "2-ci sinif"
+        "A": "2 sinif",
+        "B": "6 sinif",
+        "C": "4 sinif",
+        "D": "8 sinif"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q029",
       "question": "29. 2-ci sinifin neçə yarım sinifi var?",
       "options": {
-        "A": "3 yarım sinif",
-        "B": "Yarım sinfi yoxdur",
-        "C": "6 yarım sinif",
-        "D": "10 yarım sinif"
+        "A": "1 yarım sinif",
+        "B": "6 yarım sinif",
+        "C": "2 yarım sinif",
+        "D": "4 yarım sinif"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q030",
       "question": "30. 1-ci sinifin neçə yarım sinifi var?",
       "options": {
-        "A": "12 yarım sinif",
-        "B": "Yarım sinfi yoxdur",
-        "C": "6 yarım sinif",
+        "A": "1 yarım sinif",
+        "B": "4 yarım sinif",
+        "C": "8 yarım sinif",
         "D": "2 yarım sinif"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q031",
       "question": "31. 3-cü sinifin neçə yarım sinifi var?",
       "options": {
-        "A": "5 yarım sinif",
-        "B": "3 yarım sinif",
-        "C": "8 yarım sinif",
-        "D": "1 yarım sinif"
+        "A": "8 yarım sinif",
+        "B": "1 yarım sinif",
+        "C": "5 yarım sinif",
+        "D": "3 yarım sinif"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q032",
-      "question": "32. Alışma temperaturu aşağı (-18˚C-dən az) olan yüklər hansı yarım sinifə aiddir?",
+      "question": "32. Alışma temperaturu aşağı (-18˚S) olan yüklər hansı yarım sinifə aiddir?",
       "options": {
-        "A": "5.1 yarım sinifinə",
-        "B": "4.2 yarım sinifinə",
-        "C": "3.1 yarım sinifinə",
+        "A": "4.2 yarım sinifinə",
+        "B": "3.1 yarım sinifinə",
+        "C": "5.1 yarım sinifinə",
         "D": "3.3 yarım sinifinə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q033",
-      "question": "33. Alışma temperaturu (-18˚C-dən + 23˚C-dək) olan yüklər hansı yarım sinifə aiddir?",
+      "question": "33. Alışma temperatur (-18˚C-dən + 23˚C) qədər olan yüklər hansı yarım sinifə aiddir?",
       "options": {
-        "A": "3.2 yarım sinifinə",
-        "B": "4.1 yarım sinifinə",
-        "C": "3.1 yarım sinifinə",
-        "D": "6.2 yarım sinifinə"
+        "A": "4.1 yarım sinifinə",
+        "B": "3.1 yarım sinifinə",
+        "C": "6.2 yarım sinifinə",
+        "D": "3.2 yarım sinifinə"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q034",
-      "question": "34. Alışma temperaturu (+23˚C-dən + 61˚C-dək) olan yüklər hansı yarım sinifə aiddir?",
+      "question": "34. Alışma temperatur (+23˚C-dən + 61˚C) qədər olan yüklər hansı yarım sinifə aiddir?",
       "options": {
-        "A": "2.1 yarım sinifinə",
-        "B": "3.3 yarım sinifinə",
-        "C": "8.2 yarım sinifinə",
-        "D": "3.1 yarım sinifinə"
+        "A": "8.2 yarım sinifinə",
+        "B": "2.1 yarım sinifinə",
+        "C": "3.1 yarım sinifinə",
+        "D": "3.3 yarım sinifinə"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q035",
       "question": "35. Qida yükü neçə yarım sinifə bölünür?",
       "options": {
-        "A": "Bölünmür",
+        "A": "10 yarım sinifə",
         "B": "3 yarım sinifə",
-        "C": "1 yarım sinifə",
-        "D": "10 yarım sinifə"
+        "C": "Bölünmür",
+        "D": "1 yarım sinifə"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -425,93 +425,93 @@
       "id": "q036",
       "question": "36. Qida yükləri hansı sinifə aiddir?",
       "options": {
-        "A": "8-ci sinifə",
-        "B": "3-cü sinifə",
-        "C": "1-ci sinifə",
-        "D": "7-ci sinifə"
+        "A": "3 sinifə",
+        "B": "7 sinifə",
+        "C": "1 sinifə",
+        "D": "8 sinifə"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q037",
       "question": "37. L.V.J. abreviaturası hansı sinifə aiddir?",
       "options": {
-        "A": "3-cü sinifə",
-        "B": "9-cu sinifə",
-        "C": "1-ci sinifə",
-        "D": "5-ci sinifə"
+        "A": "9 sinifə",
+        "B": "3 sinifə",
+        "C": "5 sinifə",
+        "D": "1 sinifə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q038",
       "question": "38. L.V.T. abreviaturası hansı sinfinə aiddir?",
       "options": {
-        "A": "8-ci sinifə",
-        "B": "2-ci sinifə",
-        "C": "4-cü sinifə",
-        "D": "6-cı sinifə"
+        "A": "4 sinifinə",
+        "B": "2 sinifinə",
+        "C": "6 sinifinə",
+        "D": "8 sinifinə"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q039",
       "question": "39. “SQ” abreviaturası hansı sinifə aiddir?",
       "options": {
-        "A": "9-cu sinifə",
-        "B": "2-ci sinifə",
-        "C": "4-cü sinifə",
-        "D": "7-ci sinifə"
+        "A": "2 sinifə",
+        "B": "9 sinifə",
+        "C": "4 sinifə",
+        "D": "7 sinifə"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q040",
-      "question": "40. “V.M” abreviaturası hansı sinifə aiddir?",
+      "question": "40. “V.M” abreviaturası hansı yarım sinifə aiddir?",
       "options": {
-        "A": "3-cü sinifə",
-        "B": "1-ci sinifə",
-        "C": "8-ci sinifə",
-        "D": "5-ci sinifə"
+        "A": "5 sinifə",
+        "B": "3 sinifə",
+        "C": "8 sinifə",
+        "D": "1 sinifə"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q041",
       "question": "41. Qatı bitki yağlarının daşınması zamanı yükün temperaturuna nəzarət neçə saatdan bir keçirilir?",
       "options": {
-        "A": "Yalnız limandan çıxarkən",
-        "B": "Hər 10 dəqiqədən bir",
+        "A": "Hər 10 dəqiqədən bir",
+        "B": "24 saatdan bir",
         "C": "4 saatdan bir",
-        "D": "24 saatdan bir"
+        "D": "Yalnız limandan çıxarkən"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q042",
-      "question": "42. Piy və bitki yağlarının boşaldılması zamanı temperatur göstericisinin aşağı həddi neçə dərəcədir?",
+      "question": "42. Piy və bitki yağlarının boşaldılması zamanı temperatur göstəricisinin aşağı həddi neçə dərəcədir?",
       "options": {
-        "A": "80˚C",
-        "B": "-10˚C",
-        "C": "0˚C",
-        "D": "20˚C"
+        "A": "-10˚C",
+        "B": "0˚C",
+        "C": "20˚C",
+        "D": "80˚C"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q043",
       "question": "43. Partlayıcı maddələrin xüsusi yığımın neçə növü mövcuddur?",
       "options": {
-        "A": "1 növü",
-        "B": "10 növü",
-        "C": "20 növü",
+        "A": "10 növü",
+        "B": "20 növü",
+        "C": "1 növü",
         "D": "3 növü"
       },
       "correct_answer": "D",
@@ -519,62 +519,62 @@
     },
     {
       "id": "q044",
-      "question": "44. V sinif təhlükəli yüklərin I yarım sinifi necə adlanır?",
+      "question": "44. V sinif təhlükəli yüklərin I yarım sinifi nece adlanır?",
       "options": {
-        "A": "Partlayıcı maddələr",
-        "B": "Radioaktiv maddələr",
-        "C": "Zəhərli qazlar",
-        "D": "Oksidləşdirici maddələr"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q045",
-      "question": "45. V sinif təhlükəli yüklərin II yarım sinifi necə adlanır?",
-      "options": {
-        "A": "Aşılayıcı mayelər",
-        "B": "Quru tikinti qumu",
-        "C": "İnert qazlar",
-        "D": "Üzvi peroksidlər"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q046",
-      "question": "46. VI sinif təhlükəli yüklərin I yarım sinifi necə adlanır?",
-      "options": {
-        "A": "Tez alışan bərk maddələr",
-        "B": "Zəhərli maddələr",
-        "C": "Oksidləşdirici peroksidlər",
+        "A": "Zəhərli qazlar",
+        "B": "Turşu əmələ gətirən maddələr",
+        "C": "Partlayıcı maddələr",
         "D": "Radioaktiv maddələr"
       },
       "correct_answer": "B",
       "explanation": ""
     },
     {
-      "id": "q047",
-      "question": "47. VI sinif təhlükəli yüklərin II yarım sinifi necə adlanır?",
+      "id": "q045",
+      "question": "45. V sinif təhlükəli yüklərin II yarım sinifi nece adlanır?",
       "options": {
-        "A": "Yoluxucu maddələr",
-        "B": "Sıxılmış hava balonu",
-        "C": "Partlayıcı sursatlar",
-        "D": "Dəniz duzu"
+        "A": "Üzvi maddələr",
+        "B": "İnert qazlar",
+        "C": "Quru tikinti qumu",
+        "D": "Aşılayıcı mayelər"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
-      "id": "q048",
-      "question": "48. VII sinif təhlükəli yüklər necə adlanır?",
+      "id": "q046",
+      "question": "46. VI sinif təhlükəli yüklərin I yarım sinifi necə adlanır?",
       "options": {
-        "A": "Radioaktiv maddələr",
-        "B": "Zəhərli qazlar",
-        "C": "Tez alışan mayelər",
-        "D": "Korroziya doğuran maddələr"
+        "A": "Oksidləşdirici peroksidlər",
+        "B": "Radioaktiv maddələr",
+        "C": "Zəhərli maddələr",
+        "D": "Tez alışan bərk maddələr"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q047",
+      "question": "47. VI sinif təhlükəli yüklərin II yarım sinifi nece adlanır?",
+      "options": {
+        "A": "Sıxılmış hava balonu",
+        "B": "Dəniz duzu",
+        "C": "Partlayıcı sursatlar",
+        "D": "Yoluxucu maddələr"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q048",
+      "question": "48. VII sinif təhlükəli yüklər nece adlanır?",
+      "options": {
+        "A": "Zəhərli qazlar",
+        "B": "Tez alışan mayelər",
+        "C": "Korroziya doğuran maddələr",
+        "D": "Radioaktiv maddələr"
+      },
+      "correct_answer": "D",
       "explanation": ""
     }
   ]

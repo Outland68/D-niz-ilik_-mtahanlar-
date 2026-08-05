@@ -15,7 +15,7 @@ tehlukeli_questions_raw = [
     },
     {
         "id": "q002",
-        "question": "2. “Dəniz çirkləndirici”nin tərifi hansı Beynəlxalq sənəddə gösterir?",
+        "question": "2. “Dəniz çirkləndirici”nin tərifi hansı Beynəlxalq sənəddə göstərir?",
         "options": {
             "A": "MARPOL-73/78 Konvensiyasının III əlavəsi",
             "B": "SOLAS-74 Konvensiyasının I fəsli",
@@ -77,7 +77,7 @@ tehlukeli_questions_raw = [
         "id": "q007",
         "question": "7. Təhlükəli yüklərin daşınması zamanı gəmi heyətinin icra edəcəyi tədbirlər hansı sənəddə göstərilir?",
         "options": {
-            "A": "Qəza tədbirləri üzrə göstərişlərdə (EmS)",
+            "A": "Qəza tədbirləri üzrə göstərişlərdə",
             "B": "Gəmi aşpazının menyu cədvəlində",
             "C": "Gəmi teleqraf jurnalı qeydlərində",
             "D": "Gəminin lövbər dayanacağı cədvəlində"
@@ -89,10 +89,10 @@ tehlukeli_questions_raw = [
         "id": "q008",
         "question": "8. TXDDBM (IMDG Code) neçə cilddən ibarətdir?",
         "options": {
-            "A": "2 cilddən",
-            "B": "5 cilddən",
-            "C": "10 cilddən",
-            "D": "1 cilddən"
+            "A": "2",
+            "B": "5",
+            "C": "10",
+            "D": "1"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -111,9 +111,9 @@ tehlukeli_questions_raw = [
     },
     {
         "id": "q010",
-        "question": "10. Qısaldılmış EmS yazılışı nəyi ifadə edir?",
+        "question": "10. Qısaldılmış EMS yazılışı nəyi ifadə edir?",
         "options": {
-            "A": "Qəza tədbirləri üzrə göstərişlər qəza kartoçkaları (Emergency Schedules)",
+            "A": "Qəza tədbirləri üzrə göstərişlər qəza kartoçkaları",
             "B": "Elektrik mühərriklərinin sınaq cədvəli",
             "C": "Ekologiya və meşə təsərrüfatı xidməti",
             "D": "Elektron naviqasiya xəritələri sistemi"
@@ -123,9 +123,9 @@ tehlukeli_questions_raw = [
     },
     {
         "id": "q011",
-        "question": "11. Qısaldılmiş MFAG yazılışı nəyi ifadə edir?",
+        "question": "11. Qısaldılmiş MFAQ yazılışı nəyi ifadə edir?",
         "options": {
-            "A": "İlkin tibbi yardım göstərilməsi üzrə rəhbərlik (Medical First Aid Guide)",
+            "A": "İlkin tibbi yardım göstərilməsi üzrə rəhbərlik",
             "B": "Gəmi mühərriklərinin avtomatlaşdırma dərəcəsi",
             "C": "Dənizdə meteoroloji proqnozlaşdırma mərkəzi",
             "D": "Gəmi yanacaq filtrlərinin təmizlənmə qaydası"
@@ -137,7 +137,7 @@ tehlukeli_questions_raw = [
         "id": "q012",
         "question": "12. HAZMAT termini nəyi ifadə edir?",
         "options": {
-            "A": "Təhlükəli materiallar (Hazardous Materials)",
+            "A": "Təhlükəli materiallar",
             "B": "Gəmi havalandırma sistemləri",
             "C": "Hidrostatik azadölçən cihazlar",
             "D": "Avtomatik sükan aparatları"
@@ -149,7 +149,7 @@ tehlukeli_questions_raw = [
         "id": "q013",
         "question": "13. Qısaldılmış CFR US yazılışı nəyi ifadə edir?",
         "options": {
-            "A": "ABŞ-ın Federal Qaydalar Məcəlləsi (Code of Federal Regulations)",
+            "A": "ABŞ-ın Federal Qaydalar Məcəlləsi",
             "B": "Böyük Britaniya Dənizçi Şəhadətnaməsi",
             "C": "Kanada Dəniz Mühafizəsi Qaydaları",
             "D": "Fransa Dəniz Təsnifat Cəmiyyəti"
@@ -159,7 +159,7 @@ tehlukeli_questions_raw = [
     },
     {
         "id": "q014",
-        "question": "14. “MARINE POLLUTANT” yazısı nəyi ifadə edir?",
+        "question": "14. “MARİNE POLLUTANTE” yazısı nəyi ifadə edir?",
         "options": {
             "A": "Dəniz çirkləndiricisi",
             "B": "Yanğın söndürən maddə",
@@ -219,7 +219,7 @@ tehlukeli_questions_raw = [
     },
     {
         "id": "q019",
-        "question": "19. Təhlükəli yüklər neçə sinifə bölünülər?",
+        "question": "19. Təhükəli yüklər neçə sinifə bölünülər?",
         "options": {
             "A": "9 sinifə",
             "B": "3 sinifə",
@@ -233,10 +233,10 @@ tehlukeli_questions_raw = [
         "id": "q020",
         "question": "20. Oksidləşdirici və üzvi peroksidlər hansı sinifə aiddir?",
         "options": {
-            "A": "5-ci sinif",
-            "B": "1-ci sinif",
-            "C": "8-ci sinif",
-            "D": "2-ci sinif"
+            "A": "5 sinif",
+            "B": "1 sinif",
+            "C": "8 sinif",
+            "D": "2 sinif"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -245,10 +245,10 @@ tehlukeli_questions_raw = [
         "id": "q021",
         "question": "21. Tez alışan mayelər hansı sinifə aiddir?",
         "options": {
-            "A": "3-cü sinif",
-            "B": "7-ci sinif",
-            "C": "1-ci sinif",
-            "D": "9-cu sinif"
+            "A": "3 sinif",
+            "B": "7 sinif",
+            "C": "1 sinif",
+            "D": "9 sinif"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -257,10 +257,10 @@ tehlukeli_questions_raw = [
         "id": "q022",
         "question": "22. Tez alışan bərk maddələr hansı sinifə aiddir?",
         "options": {
-            "A": "4-cü sinif",
-            "B": "2-ci sinif",
-            "C": "8-ci sinif",
-            "D": "6-cı sinif"
+            "A": "4 sinif",
+            "B": "2 sinif",
+            "C": "8 sinif",
+            "D": "6 sinif"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -269,10 +269,10 @@ tehlukeli_questions_raw = [
         "id": "q023",
         "question": "23. Qazlar hansı sinifə aiddir?",
         "options": {
-            "A": "2-ci sinif",
-            "B": "5-ci sinif",
-            "C": "9-cu sinif",
-            "D": "3-cü sinif"
+            "A": "2 sinif",
+            "B": "5 sinif",
+            "C": "9 sinif",
+            "D": "3 sinif"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -281,10 +281,10 @@ tehlukeli_questions_raw = [
         "id": "q024",
         "question": "24. Partlayıcı maddələr hansı sinifə aiddir?",
         "options": {
-            "A": "1-ci sinif",
-            "B": "6-cı sinif",
-            "C": "4-cü sinif",
-            "D": "8-ci sinif"
+            "A": "1 sinif",
+            "B": "6 sinif",
+            "C": "4 sinif",
+            "D": "8 sinif"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -293,10 +293,10 @@ tehlukeli_questions_raw = [
         "id": "q025",
         "question": "25. Radioaktiv maddələr hansı sinifə aiddir?",
         "options": {
-            "A": "7-ci sinif",
-            "B": "3-cü sinif",
-            "C": "1-ci sinif",
-            "D": "5-ci sinif"
+            "A": "7 sinif",
+            "B": "3 sinif",
+            "C": "1 sinif",
+            "D": "5 sinif"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -305,10 +305,10 @@ tehlukeli_questions_raw = [
         "id": "q026",
         "question": "26. Aşılayıcı və korroziya doğuran maddələr hansı sinifə aiddir?",
         "options": {
-            "A": "8-ci sinif",
-            "B": "2-ci sinif",
-            "C": "4-cü sinif",
-            "D": "7-ci sinif"
+            "A": "8 sinif",
+            "B": "2 sinif",
+            "C": "4 sinif",
+            "D": "7 sinif"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -317,10 +317,10 @@ tehlukeli_questions_raw = [
         "id": "q027",
         "question": "27. Digər təhlükəli yüklər hansı sinifə aiddir?",
         "options": {
-            "A": "9-cu sinif",
-            "B": "1-ci sinif",
-            "C": "5-ci sinif",
-            "D": "3-cü sinif"
+            "A": "9 sinif",
+            "B": "1 sinif",
+            "C": "5 sinif",
+            "D": "3 sinif"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -329,10 +329,10 @@ tehlukeli_questions_raw = [
         "id": "q028",
         "question": "28. Zəhərli və yoluxucu maddələr hansı sinifə aiddir?",
         "options": {
-            "A": "6-cı sinif",
-            "B": "2-ci sinif",
-            "C": "8-ci sinif",
-            "D": "4-cü sinif"
+            "A": "6 sinif",
+            "B": "2 sinif",
+            "C": "8 sinif",
+            "D": "4 sinif"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -341,10 +341,10 @@ tehlukeli_questions_raw = [
         "id": "q029",
         "question": "29. 2-ci sinifin neçə yarım sinifi var?",
         "options": {
-            "A": "3 yarım sinif",
-            "B": "10 yarım sinif",
+            "A": "4 yarım sinif",
+            "B": "2 yarım sinif",
             "C": "6 yarım sinif",
-            "D": "Yarım sinfi yoxdur"
+            "D": "1 yarım sinif"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -353,10 +353,10 @@ tehlukeli_questions_raw = [
         "id": "q030",
         "question": "30. 1-ci sinifin neçə yarım sinifi var?",
         "options": {
-            "A": "6 yarım sinif",
+            "A": "4 yarım sinif",
             "B": "2 yarım sinif",
-            "C": "12 yarım sinif",
-            "D": "Yarım sinfi yoxdur"
+            "C": "8 yarım sinif",
+            "D": "1 yarım sinif"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -375,7 +375,7 @@ tehlukeli_questions_raw = [
     },
     {
         "id": "q032",
-        "question": "32. Alışma temperaturu aşağı (-18˚C-dən az) olan yüklər hansı yarım sinifə aiddir?",
+        "question": "32. Alışma temperaturu aşağı (-18˚S) olan yüklər hansı yarım sinifə aiddir?",
         "options": {
             "A": "3.1 yarım sinifinə",
             "B": "3.3 yarım sinifinə",
@@ -387,7 +387,7 @@ tehlukeli_questions_raw = [
     },
     {
         "id": "q033",
-        "question": "33. Alışma temperaturu (-18˚C-dən + 23˚C-dək) olan yüklər hansı yarım sinifə aiddir?",
+        "question": "33. Alışma temperatur (-18˚C-dən + 23˚C) qədər olan yüklər hansı yarım sinifə aiddir?",
         "options": {
             "A": "3.2 yarım sinifinə",
             "B": "3.1 yarım sinifinə",
@@ -399,7 +399,7 @@ tehlukeli_questions_raw = [
     },
     {
         "id": "q034",
-        "question": "34. Alışma temperaturu (+23˚C-dən + 61˚C-dək) olan yüklər hansı yarım sinifə aiddir?",
+        "question": "34. Alışma temperatur (+23˚C-dən + 61˚C) qədər olan yüklər hansı yarım sinifə aiddir?",
         "options": {
             "A": "3.3 yarım sinifinə",
             "B": "3.1 yarım sinifinə",
@@ -425,10 +425,10 @@ tehlukeli_questions_raw = [
         "id": "q036",
         "question": "36. Qida yükləri hansı sinifə aiddir?",
         "options": {
-            "A": "3-cü sinifə",
-            "B": "1-ci sinifə",
-            "C": "7-ci sinifə",
-            "D": "8-ci sinifə"
+            "A": "3 sinifə",
+            "B": "1 sinifə",
+            "C": "7 sinifə",
+            "D": "8 sinifə"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -437,10 +437,10 @@ tehlukeli_questions_raw = [
         "id": "q037",
         "question": "37. L.V.J. abreviaturası hansı sinifə aiddir?",
         "options": {
-            "A": "3-cü sinifə",
-            "B": "1-ci sinifə",
-            "C": "5-ci sinifə",
-            "D": "9-cu sinifə"
+            "A": "3 sinifə",
+            "B": "1 sinifə",
+            "C": "5 sinifə",
+            "D": "9 sinifə"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -449,10 +449,10 @@ tehlukeli_questions_raw = [
         "id": "q038",
         "question": "38. L.V.T. abreviaturası hansı sinfinə aiddir?",
         "options": {
-            "A": "4-cü sinifə",
-            "B": "2-ci sinifə",
-            "C": "6-cı sinifə",
-            "D": "8-ci sinifə"
+            "A": "4 sinifinə",
+            "B": "2 sinifinə",
+            "C": "6 sinifinə",
+            "D": "8 sinifinə"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -461,22 +461,22 @@ tehlukeli_questions_raw = [
         "id": "q039",
         "question": "39. “SQ” abreviaturası hansı sinifə aiddir?",
         "options": {
-            "A": "2-ci sinifə",
-            "B": "7-ci sinifə",
-            "C": "4-cü sinifə",
-            "D": "9-cu sinifə"
+            "A": "2 sinifə",
+            "B": "7 sinifə",
+            "C": "4 sinifə",
+            "D": "9 sinifə"
         },
         "correct_answer": "A",
         "explanation": ""
     },
     {
         "id": "q040",
-        "question": "40. “V.M” abreviaturası hansı sinifə aiddir?",
+        "question": "40. “V.M” abreviaturası hansı yarım sinifə aiddir?",
         "options": {
-            "A": "1-ci sinifə",
-            "B": "5-ci sinifə",
-            "C": "3-cü sinifə",
-            "D": "8-ci sinifə"
+            "A": "1 sinifə",
+            "B": "5 sinifə",
+            "C": "3 sinifə",
+            "D": "8 sinifə"
         },
         "correct_answer": "A",
         "explanation": ""
@@ -495,7 +495,7 @@ tehlukeli_questions_raw = [
     },
     {
         "id": "q042",
-        "question": "42. Piy və bitki yağlarının boşaldılması zamanı temperatur göstericisinin aşağı həddi neçə dərəcədir?",
+        "question": "42. Piy və bitki yağlarının boşaldılması zamanı temperatur göstəricisinin aşağı həddi neçə dərəcədir?",
         "options": {
             "A": "20˚C",
             "B": "80˚C",
@@ -519,9 +519,9 @@ tehlukeli_questions_raw = [
     },
     {
         "id": "q044",
-        "question": "44. V sinif təhlükəli yüklərin I yarım sinifi necə adlanır?",
+        "question": "44. V sinif təhlükəli yüklərin I yarım sinifi nece adlanır?",
         "options": {
-            "A": "Oksidləşdirici maddələr",
+            "A": "Turşu əmələ gətirən maddələr",
             "B": "Partlayıcı maddələr",
             "C": "Radioaktiv maddələr",
             "D": "Zəhərli qazlar"
@@ -531,9 +531,9 @@ tehlukeli_questions_raw = [
     },
     {
         "id": "q045",
-        "question": "45. V sinif təhlükəli yüklərin II yarım sinifi necə adlanır?",
+        "question": "45. V sinif təhlükəli yüklərin II yarım sinifi nece adlanır?",
         "options": {
-            "A": "Üzvi peroksidlər",
+            "A": "Üzvi maddələr",
             "B": "İnert qazlar",
             "C": "Aşılayıcı mayelər",
             "D": "Quru tikinti qumu"
@@ -555,7 +555,7 @@ tehlukeli_questions_raw = [
     },
     {
         "id": "q047",
-        "question": "47. VI sinif təhlükəli yüklərin II yarım sinifi necə adlanır?",
+        "question": "47. VI sinif təhlükəli yüklərin II yarım sinifi nece adlanır?",
         "options": {
             "A": "Yoluxucu maddələr",
             "B": "Partlayıcı sursatlar",
@@ -567,7 +567,7 @@ tehlukeli_questions_raw = [
     },
     {
         "id": "q048",
-        "question": "48. VII sinif təhlükəli yüklər necə adlanır?",
+        "question": "48. VII sinif təhlükəli yüklər nece adlanır?",
         "options": {
             "A": "Radioaktiv maddələr",
             "B": "Zəhərli qazlar",
@@ -580,7 +580,7 @@ tehlukeli_questions_raw = [
 ]
 
 # Randomize options A, B, C, D evenly for each question
-random.seed(54321)
+random.seed(88888)
 shuffled_questions = []
 
 for q in tehlukeli_questions_raw:
@@ -612,4 +612,4 @@ os.makedirs(os.path.dirname(target_path), exist_ok=True)
 with open(target_path, 'w', encoding='utf-8') as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
-print(f"🎉 SUCCESS! Rebuilt all {len(shuffled_questions)} questions for Təhlükəli və zərərli yüklərin daşınması with 100% accurate correct answers, relevant IMDG distractors, and randomized A/B/C/D option placement!")
+print(f"🎉 SUCCESS! Corrected questions 29, 30, 44, 45 to exact PDF specifications for Təhlükəli və zərərli yüklərin daşınması!")
