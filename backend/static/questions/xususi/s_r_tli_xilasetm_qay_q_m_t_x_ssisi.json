@@ -3,48 +3,48 @@
   "questions": [
     {
       "id": "q001",
-      "question": "1. Sürətli xilasedici qayığın əsəs təyinatı nədir?",
+      "question": "1. Sürətli xilasedici qayığın əsas təyinatı nədir?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "dənizdə insanlarin axtarışı və xilas edilməsi",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "A": "gəmi karterinin yağlanması",
+        "B": "yük anbarlarının havalandırılması",
+        "C": "dənizdə insanların axtarışı və xilas edilməsi",
+        "D": "liman kranlarının rənglənməsi"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q002",
       "question": "2. Sürətli xilasedici qayıqların növləri hansılardır?",
       "options": {
-        "A": "sərt gövdəli, hava ilə doldurulmuş və kombinə olunmuş",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "bütün cavablar doğrudur"
+        "A": "vakuumlu, buxarlı və elektrikli",
+        "B": "sualtı, suüstü və hava şarları",
+        "C": "sərt gövdəli, hava ilə doldurulmuş və kombine olunmuş",
+        "D": "taxta, dəmir və plastik"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q003",
       "question": "3. Sürətli xilasedici qayıqların heyəti kimlərdir?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "avtomatik rejimdə işləyərkən",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "qayiğın komandiri, sükançı və motorçu"
+        "A": "liman polisi və gömrük işçisi",
+        "B": "qayığın komandiri, sükançı və motorçu",
+        "C": "gəmi həkimi və 2 nəfər sərnişin",
+        "D": "kapitan, baş mexanik və aşpaz"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q004",
       "question": "4. Sürətli xilasedici qayıqda oturaq və uzanıqlı vəziyyətdə minimal neçə yer olmalıdır?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "oturaq vəziyyətdə olan ən azı 5 nəfər və xərək üzərində uzanmış 1 nəfər"
+        "A": "yalnız oturaq vəziyyətdə 1 nəfər",
+        "B": "uzanmış vəziyyətdə yer nəzərdə tutulmur",
+        "C": "oturaq vəziyyətdə 50 nəfər və uzanmış 20 nəfər",
+        "D": "oturaq vəziyyətdə olanən azı 5 nəfər və xərək üzərində uzanmış 1 nəfər"
       },
       "correct_answer": "D",
       "explanation": ""
@@ -53,36 +53,36 @@
       "id": "q005",
       "question": "5. Sürətli xilasedici qayığın uzunluğu nə qədərdir?",
       "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "6 m-dən 8,5m-ə qədər",
-        "D": "şimal-şərq istiqamətində"
+        "A": "15 m-dən 30 m-ə qədər",
+        "B": "6 m-dən 8,5 m-ə qədər",
+        "C": "1 m-dən 2 m-ə qədər",
+        "D": "50 m-dən 100 m-ə qədər"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q006",
       "question": "6. Sürətli xilasedici qayıq gəmidə harada yerləşməlidir?",
       "options": {
-        "A": "gəminin açıq göyərtəsində",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "şimal-şərq istiqamətində"
+        "A": "gəmi mətbəxində",
+        "B": "kapitanın kayutasının içində",
+        "C": "gəminin açıq göyərtəsində",
+        "D": "maşın şöbəsinin karterində"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q007",
       "question": "7. Sürətli xilasedici qayıq dənizdə suda neçə gün qala bilər?",
       "options": {
-        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "azı 30 gün",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "5 gün",
+        "B": "1 saat",
+        "C": "365 gün",
+        "D": "azı 30 gün"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -90,9 +90,9 @@
       "question": "8. Hava ilə doldurulmuş sürətli xilasedici qayığın bir üzmə borusunda neçə bölmə olmalıdır?",
       "options": {
         "A": "azı 5 bölmə",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "şimal-şərq istiqamətində"
+        "B": "20 bölmə",
+        "C": "Bölmə olmamalıdır",
+        "D": "1 bölmə"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -101,36 +101,36 @@
       "id": "q009",
       "question": "9. Hava ilə doldurulmuş sürətli xilasedici qayığın neçə ədəd üzmə borusu olmalıdır?",
       "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "1 və ya 2 ayrıca üzmə borusu",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "cənub-qərb dreyfi zamanı"
+        "A": "10 ayrıca üzmə borusu",
+        "B": "Üzmə borusu olmamalıdır",
+        "C": "1 və ya 2 ayrıca üzmə borusu",
+        "D": "50 ayrıca üzmə borusu"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q010",
       "question": "10. Tam yüklənmə ilə sürətli xilasedici qayıq hansı sürətlə və neçə saat manevr etməyə qadir olmalıdır?",
       "options": {
-        "A": "8 mil/s sürətlə azı 4 saat",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "A": "50 mil/saat sürətlə azı 10 saat",
+        "B": "20 mil/saat sürətlə azı 24 saat",
+        "C": "8 mil/saat sürətlə azı 4 saat",
+        "D": "2 mil/saat sürətlə azı 1 saat"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q011",
       "question": "11. 3 nəfərlik komanda ilə sakit suda sürətli xilasedici qayıq hansı sürətlə və neçə saat manevr etməyə qadir olmalıdır?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "20 mil/s sürətlə azı 4 saat"
+        "A": "20 mil/saat sürətlə azı 4 saat",
+        "B": "5 mil/saat sürətlə azı 1 saat",
+        "C": "1 mil/saat sürətlə azı 30 dəqiqə",
+        "D": "50 mil/saat sürətlə azı 12 saat"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -138,9 +138,9 @@
       "question": "12. Neçə nəfər sürətli xilasedici qayığı işçi vəziyyətinə aşıra bilər?",
       "options": {
         "A": "2",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "B": "50",
+        "C": "15",
+        "D": "10"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -149,34 +149,34 @@
       "id": "q013",
       "question": "13. Əgər sürətli xilasedici qayıq aşarsa, onun mühərriki ilə nə baş verməlidir?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "50 metr məsafədə dənizdə",
-        "D": "mühərrik avtomatik olaraq sönməli və SXQ iş vəziyyətinə qaytarılandan sonra 1 dəqiqə ərzində işə düşməlidir"
+        "A": "mühərrik sudan çıxana qədər 1 saat sönməməlidir",
+        "B": "mühərrik partlamalıdır",
+        "C": "mühərrik avtomatik olaraq sönməli və SXQ iş vəziyyətinə qaytarılandan sonra 1 dəqiqə ərzində işə düşməlidir",
+        "D": "mühərrik 2 dəfə yüksək sürətlə fırlanmağa davam etməlidir"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q014",
       "question": "14. Sürətli xilasedici qayıq hansı sürətlə salı (tam sayda insanlarla və təchizatla) yüklənmiş vəziyyətdə yedəkləməlidir?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "azı 2 mil/s",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "bütün cavablar doğrudur"
+        "A": "azı 20 mil/saat",
+        "B": "yedəkləmə sürəti 0.1 mil/saatdan çox ola bilməz",
+        "C": "azı 50 mil/saat",
+        "D": "azı 2 mil/saat"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q015",
-      "question": "15. Sürətli xilasedici qayığın falin uzunluğu nə qədər olmalıdır?",
+      "question": "15. Sürətli xilasedici qayığın falın uzunluğu nə qədər olmalıdır?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "azi 15 m",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "bütün cavablar doğrudur"
+        "A": "50 m",
+        "B": "azı 15 m",
+        "C": "azı 100 m",
+        "D": "1 m"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -185,10 +185,10 @@
       "id": "q016",
       "question": "16. Kiçik diametrli xilasedici dairənin ipinin uzunluğu nə qədər olmalıdır?",
       "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
+        "A": "100 m",
         "B": "30 m",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "cənub-qərb dreyfi zamanı"
+        "C": "2 m",
+        "D": "5 m"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -197,58 +197,58 @@
       "id": "q017",
       "question": "17. Sürətli xilasedici qayığın təchizatına neçə ədəd kiçik diametrli xilasedici dairə daxildir?",
       "options": {
-        "A": "2",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "cənub-qərb dreyfi zamanı"
+        "A": "15",
+        "B": "10",
+        "C": "1",
+        "D": "2"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q018",
       "question": "18. Sürətli xilasedici qayığın təchizatına hansı tipli odsöndürən daxildir?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "yanan nefti söndürmək üçün bəyənilmiş odsöndürən tipi",
-        "D": "şimal-şərq istiqamətində"
+        "A": "yanan nefti söndürmək üçün bəyənilmiş odsöndürən tipi",
+        "B": "odsöndürən nəzərdə tutulmur",
+        "C": "yalnız qum vedrəsi",
+        "D": "yalnız kimyəvi turşu odsöndürəni"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q019",
       "question": "19. Sürətli xilasedici qayığın yedək kəndirinin uzunluğu nə qədər olmalıdır?",
       "options": {
-        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "50 m",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "A": "10 m",
+        "B": "5 m",
+        "C": "200 m",
+        "D": "50 m"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q020",
       "question": "20. Sürətli xilasedici qayığın təchizatına neçə ədəd üzən lövbər daxildir?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "1",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "10",
+        "B": "5",
+        "C": "Lövbər olmamalıdır",
+        "D": "1"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q021",
-      "question": "21. Hansi sürətli xilasedici qayığın təchizatında təhlükəsiz üzən bıçaq olmalıdır?",
+      "question": "21. Hansı sürətli xilasedici qayığın təchizatında təhlükəsiz üzən bıçaq olmalıdır?",
       "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
+        "A": "ağac konstruksiyalı",
         "B": "hava ilə doldurulmuş",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "lövbər dayanacağı sahəsində"
+        "C": "bütün qayıqlarda qadağandır",
+        "D": "sərt polad gövdəli"
       },
       "correct_answer": "B",
       "explanation": ""
@@ -257,10 +257,10 @@
       "id": "q022",
       "question": "22. Sürətli xilasedici qayıqda nə cür dərman qutusu olmalıdır?",
       "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "bütün cavablar yanlışdır",
+        "A": "kağız qutuda",
+        "B": "dərman qutusu tələb olunmur",
         "C": "su keçirməyən",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "D": "açıq taxta qutuda"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -269,24 +269,24 @@
       "id": "q023",
       "question": "23. Sürətli xilasedici qayığın təchizatına neçə ədəd istilik qoruyucu vasitə daxildir?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "azi 2",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "A": "50",
+        "B": "azı 2",
+        "C": "İstilik qoruyucu nəzərdə tutulmur",
+        "D": "10"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q024",
       "question": "24. Sürətli xilasedici qayığın təchizatında hansı miqdarda içməli su olmalıdır?",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "nəzərdə tutulmayıb"
+        "A": "nəzərdə tutulmayıb",
+        "B": "100 litr",
+        "C": "hər nəfərə 10 litr",
+        "D": "hər nəfərə 3 litr"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
@@ -294,9 +294,9 @@
       "question": "25. Sürətli xilasedici qayığın təchizatına hansı miqdarda qida rasionu daxil olmalıdır?",
       "options": {
         "A": "nəzərdə tutulmayıb",
-        "B": "avtomatik rejimdə işləyərkən",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "cənub-qərb dreyfi zamanı"
+        "B": "hər nəfərə 5 kq çörək",
+        "C": "hər nəfərə 10,000 kJ",
+        "D": "1 aylıq konserva ehtiyatı"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -305,141 +305,141 @@
       "id": "q026",
       "question": "26. Sürətli xilasedici qayığın təchizatında pirotexnikanın hansı dəsti olmalıdır?",
       "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "6 falşfeyer, 4 paraşütlü raket 2 tüstü şaşkası",
-        "C": "bütün cavablar doğrudur",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "6 falşfeyer, 4 paraşütlü raket, 2 tüstü şaşkası",
+        "B": "2 falşfeyer, 1 tüstü şaşkası",
+        "C": "Pirotexnika nəzərdə tutulmur",
+        "D": "12 paraşütlü raket, 12 falşfeyer"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q027",
       "question": "27. Falşfeyerin yanma müddəti nə qədər olmalıdır?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "azı 1 dəqiqə"
+        "A": "azı 1 saat",
+        "B": "azı 1 dəqiqə",
+        "C": "azı 10 dəqiqə",
+        "D": "5 saniyə"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q028",
       "question": "28. Paraşütlü raketinin işığının yanma müddəti nə qədər olmalıdır?",
       "options": {
-        "A": "azı 40 san",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "cənub-qərb dreyfi zamanı"
+        "A": "2 saniyə",
+        "B": "azı 10 dəq",
+        "C": "azı 1 saat",
+        "D": "azı 40 san"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q029",
       "question": "29. Tüstü şaşkasının tüstü vermə qabiliyyəti nə qədər olmalıdır?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "azı 3 dəq",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "şimal-şərq istiqamətində"
+        "A": "azı 3 dəq",
+        "B": "azı 2 saat",
+        "C": "10 saniyə",
+        "D": "azı 30 dəq"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q030",
       "question": "30. Sürətli xilasedici qayıqda olarkən, pirotexniki vasitələrin istifadəsinin icazəsini kim verir?",
       "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "qayığın komandiri"
+        "A": "liman agenti",
+        "B": "qayığın komandiri",
+        "C": "gəmi aşpazı",
+        "D": "hər bir sərnişin sərbəst olaraq"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q031",
       "question": "31. Sürətli xilasedici qayığın təchizatında hansı siqnal və işarə verici vasitələr olmamalıdır?",
       "options": {
-        "A": "qəza radiobuyu",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "bütün cavablar doğrudur"
+        "A": "siqnal güzgüsü",
+        "B": "qəza radiobuyu (EPIRB)",
+        "C": "işıqsaçan fənər",
+        "D": "fit"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q032",
       "question": "32. Sürətli xilasedici qayıqlarda projektorun fasiləsiz yanma müddəti nə qədər olmalıdır?",
       "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "azı 3 saat",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "A": "azı 10 saniyə",
+        "B": "100 saat",
+        "C": "azı 3 saat",
+        "D": "azı 24 saat"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q033",
       "question": "33. Sürətli xilasedici qayıqlarda neçə ədəd projektor nəzərdə tutulub?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "1",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "5",
+        "B": "Projektor nəzərdə tutulmur",
+        "C": "1",
+        "D": "10"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q034",
-      "question": "34. Radiolokasiya cavabvericisinin gözləmə rejimi hansı müddət ərzində işlək vəziyyətdə olur?",
+      "question": "34. Radiolokasiya cavabvericisinin (SART) gözləmə rejimi hansı müddət ərzində işlək vəziyyətdə olur?",
       "options": {
-        "A": "4 gün",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "cənub-qərb dreyfi zamanı"
+        "A": "1 il",
+        "B": "30 gün",
+        "C": "4 gün (96 saat)",
+        "D": "1 saat"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q035",
-      "question": "35. Radiolokasiya cavabvericisinin ötürmə rejimi hansı müddət ərzində işlək vəziyyətdə olur?",
+      "question": "35. Radiolokasiya cavabvericisinin (SART) ötürmə rejimi hansı müddət ərzində işlək vəziyyətdə olur?",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "8 saat",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "A": "1 saat",
+        "B": "8 saat",
+        "C": "72 saat",
+        "D": "10 saniyə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q036",
       "question": "36. Radiolokasiya cavabverici işləməyə başlayarkən, o, ətrafda olan gəmilərin radarlarında hansı məsafədən görünməyə başlayır?",
       "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "5mil",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "A": "50 mil",
+        "B": "100 mil",
+        "C": "0,1 mil",
+        "D": "5 mil"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q037",
       "question": "37. Daşınan qəza UQD radiostansiyasının işləmə vaxtı neçə saat olmalıdır?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "bütün cavablar yanlışdır",
+        "A": "azı 1 saat",
+        "B": "10 saniyə",
+        "C": "azı 100 saat",
         "D": "azı 8 saat"
       },
       "correct_answer": "D",
@@ -449,21 +449,21 @@
       "id": "q038",
       "question": "38. Sürətli xilasedici qayığın təchizatında hansı vasitələr olmamalıdır?",
       "options": {
-        "A": "balıq tutmaq üçün ləvazimat dəsti",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "lövbər dayanacağı sahəsində"
+        "A": "əl nasosu",
+        "B": "üzən lövbər",
+        "C": "avar və çəngəl",
+        "D": "balıq tutmaq üçün ləvazimat dəsti"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q039",
       "question": "39. Soyutma sistemində su olmadan qısa müddətə asılma motorunu işə salmaq olarmı?",
       "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "bütün cavablar yanlışdır",
+        "A": "yalnız yağış yağarkən olar",
+        "B": "bütün hallarda olar",
+        "C": "yalnız gecə vaxtı olar",
         "D": "olmaz"
       },
       "correct_answer": "D",
@@ -473,84 +473,84 @@
       "id": "q040",
       "question": "40. Alatoranlıq düşərkən və günün qaranlıq vaxtlarında sürətli xilasedici qayıqda nə etmək lazımdır?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "A": "qırmızı raket atmaq",
+        "B": "mühərriki söndürmək",
         "C": "ağ dairəvi işığı yandırmaq",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "D": "bütün işıqları söndürüb gözləmək"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q041",
-      "question": "41. Əgər sürətli xilasedici qayıq benzin mühərriki ilə təchiz edilmişdirsə, o, aşağıda göstərilən tələblərdən hansına cavab verməlidir?",
+      "question": "41. Əgər sürətli xilasedici qayıq benzin mühərriki ilə təchiz edilmişdirsa, o, aşağıda göstərilən tələblərdən hansına cavab verməlidir?",
       "options": {
-        "A": "yanacaq bakları yanğın və partlayışdan mühəfizə olunmalıdır",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "A": "yanacaq bakı su ilə doldurulmalıdır",
+        "B": "heç bir xüsusi tələb yoxdur",
+        "C": "yanacaq bakları yanğın və partlayışdan mühafizə olunmalıdır",
+        "D": "yanacaq bakı açıq şəkildə göyərtədə asılmalıdır"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q042",
       "question": "42. Hansı dövrdən bir sürətli xilasedici qayıq suya endirilməlidir?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "ayda 1 dəfə",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "A": "suya endirilməsi tələb olunmur",
+        "B": "ayda 1 dəfə",
+        "C": "yazda 1 dəfə",
+        "D": "10 ildə 1 dəfə"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q043",
       "question": "43. Hansı dövrdən bir sürətli xilasedici qayığın avadanlıqları və təchizatı yoxlanılmalıdır?",
       "options": {
-        "A": "ayda 1 dəfə",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+        "A": "yoxlanılması tələb olunmur",
+        "B": "ayda 1 dəfə",
+        "C": "5 ildə 1 dəfə",
+        "D": "hər gün saat 12:00-da"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q044",
-      "question": "44. Sürətli xilasedici qayıq üçün konstruksiyaya əsasən tirlərin növləri hansılardır?",
+      "question": "44. Sürətli xilasedici qayıq üçün konstruksiyaya əsasən tirlərin (davit) növləri hansılardır?",
       "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "bütün cavablar doğrudur",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "dönən və özüenən"
+        "A": "dönən və özüenən",
+        "B": "stasionar və sualtı",
+        "C": "buxarlı və hidravlik",
+        "D": "əl zəncirli və mexaniki"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q045",
       "question": "45. Hansı maksimal krenin və diferentin göstəricilərində sürətli xilasedici qayığı gəmidən endirmək olar?",
       "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "kren 200 diferent 100",
-        "C": "bütün cavablar yanlışdır",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "A": "kren 20°, diferent 10°",
+        "B": "kren 45°, diferent 30°",
+        "C": "kren 90°, diferent 45°",
+        "D": "kren 2°, diferent 1°"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q046",
       "question": "46. Sürətli xilasedici qayığı hansı maksimal çəkidə endirmək və ya qaldırmaq mümkün olmalıdır?",
       "options": {
-        "A": "tam sayda insan və təchizatla",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "bütün cavablar doğrudur"
+        "A": "yalnız boş vəziyyətdə",
+        "B": "mühərriksiz və yanacaqsız",
+        "C": "tam sayda insan və təchizatla",
+        "D": "yalnız 1 nəfər insanla"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -558,9 +558,9 @@
       "question": "47. Sürətli xilasedici qayıq hansı sürətlə tir ilə suya enməlidir?",
       "options": {
         "A": "1 m/s",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "B": "50 m/s",
+        "C": "0,01 m/s",
+        "D": "10 m/s"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -569,144 +569,144 @@
       "id": "q048",
       "question": "48. Sürətli xilasedici qayıq hansı sürətlə tir ilə sudan qalxmalıdır?",
       "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "azı 0.8 m/s",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
+        "A": "azı 0,01 m/s",
+        "B": "50 m/s",
+        "C": "azı 10 m/s",
+        "D": "azı 0.8 m/s"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q049",
-      "question": "49. Sürətli xilasedici qayığın endirilməsində neçə ədəd tir istifadə olunur?",
+      "question": "49. Sürətli xilasedici qayığın endirilməsində neçə ədəd tir (davit) istifadə olunur?",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "1",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "A": "10",
+        "B": "4",
+        "C": "1",
+        "D": "Tir istifadə olunmur"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q050",
       "question": "50. Sürətli xilasedici qayıq heyəti ilə birlikdə neçə dəqiqəyə tir ilə suya salınmalıdır?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "5 dəqiqə"
+        "A": "120 dəqiqə",
+        "B": "60 dəqiqə",
+        "C": "5 dəqiqə",
+        "D": "1 dəqiqə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q051",
-      "question": "51. Sürətli xilasedici qayıqda heyətin və endirmə komandasının siyahısı harada göstərilib?",
+      "question": "51. Sürətli xilasedici qayıqda heyətin və endirmə komandasının siyahısı harada gösterilib?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "gəminin cədvəlində",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "kapitanın şəxsi qeyd dəftərində",
+        "B": "liman agentinin siyahısında",
+        "C": "gəminin cədvəlində (Muster list)",
+        "D": "gəmi aşpazının menyusunda"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q052",
-      "question": "52. Sürətli xilasedici qayığın suya endirilməsi zamanı gəminin tam sürəti neçə olmalır?",
+      "question": "52. Sürətli xilasedici qayığın suya endirilməsi zamanı gəminin tam sürəti neçə olmalıdır?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "5 mil/s",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "A": "5 mil/saat",
+        "B": "25 mil/saat",
+        "C": "50 mil/saat",
+        "D": "0 mil/saat (tam dayanmalıdır)"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q053",
       "question": "53. Sürətli xilasedici qayığın endirilməsi zamanı onun gəmi ilə vəziyyəti necə olmalıdır?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "gəmiyə paralel",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "fırtınalı havada təxirə salınmaqla"
+        "A": "gəminin pərinə tərəf",
+        "B": "gəmiyə 90 dərəcə bucaq altında",
+        "C": "gəmiyə paralel",
+        "D": "gəminin altına tərəf"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q054",
       "question": "54. Sürətli xilasedici qayığın endirilməsi zamanı birinci hansı hərəkət yerinə yetirilir?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "şimal-şərq istiqamətində",
-        "C": "mühərriki buraxılır",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "qayıq 10 metr uzaqlaşdırılır",
+        "B": "projektor söndürülür",
+        "C": "burun falini verilir",
+        "D": "mühərriki buraxılır (işə salınır)"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q055",
       "question": "55. Sürətli xilasedici qayığın endirilməsi zamanı ən axırda hansı hərəkət yerinə yetirilir?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "burun falini verilir",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "lövbər salınır",
+        "B": "burun falini verilir (boşaldılır)",
+        "C": "mühərriki işə salınır",
+        "D": "dəniz suyu vurulur"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q056",
       "question": "56. Sürətli xilasedici qayığın qaldırılması zamanı birinci hansı hərəkət yerinə yetirilir?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "burun falini verilir",
-        "D": "lövbər dayanacağı sahəsində"
+        "A": "mühərrik söndürülür",
+        "B": "qayıq iki yerə bölünür",
+        "C": "avadanlıqlar dənizə atılır",
+        "D": "burun falini verilir (bərkidilir)"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q057",
       "question": "57. Sürətli xilasedici qayığın qaldırılması zamanı ən axırda hansı hərəkət yerinə yetirilir?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "mühərrik söndürülür"
+        "A": "benzin bakı sökülür",
+        "B": "mühərrik söndürülür",
+        "C": "dairələr suya atılır",
+        "D": "burun falini verilir"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q058",
       "question": "58. Dalğanın hansı hissəsinə sürətli xilasedici qayığı endirmək lazımdır?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "Düzgün cavab: dalğaların arasına",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
+        "A": "dalğanın ən uca zirvəsinə",
+        "B": "gəminin burun hissəsinin altına",
+        "C": "gəminin pərinin tam üstünə",
+        "D": "dalğaların arasına"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q059",
       "question": "59. Sürətli xilasedici qayığı endirmədən əvvəl tirdə nəyi yoxlamaq lazımdır?",
       "options": {
-        "A": "hər 6 aydan bir keçirilən təlimlərdə",
-        "B": "şimal-şərq istiqamətində",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "bucurqadların sazlığını və əyləcini"
+        "A": "gəminin lövbər zəncirini",
+        "B": "tirin rənginin parlaqlığını",
+        "C": "bucurqadların sazlığını və əyləcini",
+        "D": "bucurqadın səsini"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
@@ -714,9 +714,9 @@
       "question": "60. Sürətli xilasedici qayığın heyətinin geyimi nə olmalıdır?",
       "options": {
         "A": "hidrotermokostyum",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "B": "dəri gödəkçə",
+        "C": "pambıq kostyum",
+        "D": "idman forması"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -725,12 +725,12 @@
       "id": "q061",
       "question": "61. Sürətli xilasedici qayıqda yerdəyişdirməyə kim icazə verir?",
       "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "komandir",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "cənub-qərb dreyfi zamanı"
+        "A": "liman işçisi",
+        "B": "gəmi həkiminin köməkçisi",
+        "C": "istənilən sərnişin",
+        "D": "komandir"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
@@ -738,9 +738,9 @@
       "question": "62. Sürətli xilasedici qayığın manevr etmə zamanı sürəti necə olmalıdır?",
       "options": {
         "A": "təhlükəsiz",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "gəmi limana daxil olana qədər"
+        "B": "nəzarətsiz",
+        "C": "maksimal alovlu",
+        "D": "tam dayanan"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -749,22 +749,22 @@
       "id": "q063",
       "question": "63. Sürətli xilasedici qayıqda hərəkət zamanı müşahidə necə aparılır?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "hər tərəfə",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
+        "A": "hər tərəfə",
+        "B": "yalnız göyə",
+        "C": "yalnız qayığın dibinə",
+        "D": "yalnız arxaya"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q064",
       "question": "64. Dalğanın hansı hərəkəti sürətli xilasedici qayıq üçün təhlükəlidir?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
+        "A": "külin olmaması",
+        "B": "qayığın önünə",
         "C": "qayığın arxasına",
-        "D": "fırtınalı havada təxirə salınmaqla"
+        "D": "sakit suda"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -773,57 +773,57 @@
       "id": "q065",
       "question": "65. Dalğada zərər çəkmişə sürətli xilasedici qayıqla necə yaxınlaşmaq lazımdır?",
       "options": {
-        "A": "dalğaya qarşı",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
+        "A": "dalğanın istiqamətində maximal sürətlə",
+        "B": "arxa gedişlə tam sürətlə",
+        "C": "mühərriki söndürərək",
+        "D": "dalğaya qarşı"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q066",
       "question": "66. Suda olan insana sürətli xilasedici qayıq vasitəsilə hansı qaydada yan almaq lazımdır?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "İnsanı külək vuran tərəfdə saxlamaqla kiçik sürətlə",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "A": "İnsanı külək vuran tərəfdə saxlamaqla kiçik sürətlə",
+        "B": "İnsana arxadan dəyərək",
+        "C": "Dənizə köpük tökərək",
+        "D": "İnsanı pərin altında saxlamaqla yüksək sürətlə"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q067",
       "question": "67. Zərər çəkmişin xilas edilməsi zamanı sürətli xilasedici qayığın heyəti nə etməlidir?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "kiçik diametrli xilasedici dairəni vermək",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "suya neft tökmək",
+        "B": "qayığı dayandırmadan keçib getmək",
+        "C": "lövbəri zərərçəkənə atmaq",
+        "D": "kiçik diametrli xilasedici dairəni vermək"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q068",
       "question": "68. Sürətli xilasedici qayıqda insanı sudan çıxartdıqdan sonra nə etmək lazımdır?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "paltarını sıxmaq, yenidən zərərçəkənə geyindirmək və istilik qoruyucu torbaya yerləşdirmək"
+        "A": "zərərçəkəni soyuq dəniz suyu ilə yumaq",
+        "B": "paltarını sıxmaq, yenidən zərərçəkənə geyindirmək və istilik qoruyucu torbaya yerləşdirmək",
+        "C": "zərərçəkəni dərhal suya qaytarmaq",
+        "D": "zərərçəkəni açıq havada hərəkətsiz saxlanmaq"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q069",
       "question": "69. Konstruksiyaya əsasən, sürətli xilasedici qayıqda mühərriklərin hansı növləri olur?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "10 uzel sürətlə manevr etdikdə",
+        "A": "reaktiv və atom",
+        "B": "əl çarxlı",
+        "C": "buxarlı və elektrikli",
         "D": "asılma və stasionar"
       },
       "correct_answer": "D",
@@ -833,22 +833,22 @@
       "id": "q070",
       "question": "70. Sürətli xilasedici qayıqda necə taktlı mühərriklər olur?",
       "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "iki taktlı və dörd taktlı"
+        "A": "iki taktlı və dörd taktlı",
+        "B": "on taktlı",
+        "C": "taksız",
+        "D": "altı taktlı"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q071",
       "question": "71. Sürətli xilasedici qayığın mühərriklərində hansı yanacaqdan istifadə olunur?",
       "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "50 metr məsafədə dənizdə",
+        "A": "təbii qaz və mazut",
+        "B": "spirt və kerosin",
         "C": "dizel və benzin",
-        "D": "şimal-şərq istiqamətində"
+        "D": "kömür və odun"
       },
       "correct_answer": "C",
       "explanation": ""
@@ -857,96 +857,96 @@
       "id": "q072",
       "question": "72. Sürətli xilasedici qayığın mühərrikinin duzlu və çirkli suda istismarından sonra nə etmək lazımdır?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "şirin su ilə yumaq",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "A": "yağlamaq lazımdır, yumaq olmaz",
+        "B": "mühərriki qumla silmək",
+        "C": "şirin su ilə yumaq",
+        "D": "tuzlu suda 1 ay saxlanmaq"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q073",
       "question": "73. Sürətli xilasedici qayığın mühərriki dərhal işə düşməzsə, nə etmək lazımdır?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "şimal-şərq istiqamətində",
-        "D": "30 saniyə gözləmək və yenidən işə salmağa cəhd etmək"
+        "A": "benzin bakını deşmək",
+        "B": "30 saniyə gözləmək və yenidən işə salmağa cəhd etmək",
+        "C": "mühərriki dənizə atmaq",
+        "D": "24 saat gözləmək"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q074",
       "question": "74. Sürətli xilasedici qayığın mühərrikini söndürərkən ötürücü hansı vəziyyətdə olmalıdır?",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "neytral vəziyyətdə",
-        "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
+        "A": "neytral vəziyyətdə",
+        "B": "vəziyyətin fərqi yoxdur",
+        "C": "maksimal arxa gedişdə",
+        "D": "maksimal ön gedişdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q075",
       "question": "75. Hidrotermokostyum hansı maksimal müddət ərzində geyinilməlidir?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "avtomatik rejimdə işləyərkən",
-        "C": "2 dəqiqə",
-        "D": "50 metr məsafədə dənizdə"
+        "A": "30 dəqiqə",
+        "B": "10 saniyə",
+        "C": "15 dəqiqə",
+        "D": "2 dəqiqə"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q076",
       "question": "76. SOS siqnalı necə verilir?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "3 qısa 3 uzun 3 qısa",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "A": "3 qısa 3 uzun 3 qısa",
+        "B": "7 qısa 1 uzun",
+        "C": "1 uzun",
+        "D": "Fasiləsiz 1 saat"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q077",
       "question": "77. Suda adam həyəcan siqnalı necə verilir?",
       "options": {
-        "A": "3 uzun",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "A": "7 qısa 1 uzun",
+        "B": "3 uzun",
+        "C": "1 qısa",
+        "D": "3 qısa 3 uzun 3 qısa"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q078",
       "question": "78. Sürətli xilasedici qayıqlar hansı xilasetmə vasitələrinə aiddirlər?",
       "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "kollektiv",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "lövbər dayanacağı sahəsində"
+        "A": "təlim",
+        "B": "stasionar yanğın",
+        "C": "kollektiv",
+        "D": "fərdi"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q079",
       "question": "79. Hava ilə doldurulmuş sürətli xilasedici qayıq gəmidə daim hansı vəziyətdə olmalıdır?",
       "options": {
-        "A": "tam doldurulmuş vəziyyətdə",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "cənub-qərb dreyfi zamanı"
+        "A": "tam boşaldılmış və bükülmüş vəziyyətdə",
+        "B": "tam doldurulmuş vəziyyətdə",
+        "C": "yarı su ilə doldurulmuş vəziyyətdə",
+        "D": "hissələrə sökülmüş vəziyyətdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     }
   ]
