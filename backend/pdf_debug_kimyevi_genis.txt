@@ -1,0 +1,256 @@
+Kimyәvi maddә daşıyan tankerlәrdә yük әmәliyyatlarına dair geniş 
+proqram üzrә hazırlıq 
+ 
+1. Kimyәvi yük daşıyan tankerlәrin tikilmәsini tәnzimlәyәn әsas rәhbәr sәnәd 
+hansıdır? 
+Düzgün cavab: Kimyәvi yük daşıyan tankerlәrin tikilmәsi vә tәchiz olunması 
+mәcәllәsi (İBC) 
+2. Hansı beynəlxalq konvensiyalar biləvasitə kimyəvi yük daşıyan gəmilərə 
+aiddir? 
+1. SOLAS-1974/1995; 
+2. MARPOL-1973/1978; 
+3. DHDNÇ-1978-1995; 
+4. Gәmi-vertolyot әmәliyyatları üçün rәhbәrlik; 
+5. Tәmiz dәniz üçün rәhbәrlik. 
+Düzgün cavab: 1,2,3 
+ 
+3. Yük zonasının konstruktiv müdafiәsinә görә kimyәvi yük daşıyan tankerlәr 
+neçә tipә bölünürlәr? 
+Düzgün cavab: 3 
+ 
+4. I tip kimyәvi yük daşıyan tankerlәrdә yük tanklarından borta qәdәr olan 
+mәsafә neçә metrdir? 
+Düzgün cavab: 11,5 metr 
+ 
+5. II tip kimyәvi yük daşıyan tankerlәrdә yük tanklarından borta qәdәr olan 
+mәsafә neçә metrdir? 
+Düzgün cavab: 0,760 metr 
+ 
+6. I tip kimyәvi yük daşıyan tankerlәrdә hәr bir ayrı tanklardakı yükün 
+maksimal hәcm göstәricisi nә qәdәr olmalıdır ? 
+Düzgün cavab: 1250 m3 
+ 
+7. II tip kimyәvi yük daşıyan tankerlәrdә hәr bir ayrı tanklardakı yükün 
+maksimal hәcm göstәricisi neçә m3-dir? 
+Düzgün cavab: 3000 m3 
+ 
+ 
+
+8. Kimyәvi yük daşıyan tankerlәrdә yük boru xәttlәri әn azı hansı tәzyiqә 
+davam gәtirmәlidir? 
+Düzgün cavab: 10 kq/ sm2 
+ 
+9. 1999-cu ildә vә ondan sonra tikilәn tankerlәrdә beynәlxalq tәlәblәrә görә 
+hәr bir tankda yükün maksimal qalığı nә qәdәr olmalıdır? 
+Düzgün cavab: 20 litr 
+ 
+10. Kimyәvi yük daşıyan tankerlәrdә qazayırıcı sistemin neçә tipi var? 
+Düzgün cavab: 2 
+ 
+11. Kimyәvi yük daşıyan tankerlәrdә qazxaricedici kalonkalar üst göyәrtәdәn 
+hansı hündürlükdә quraşdırılır? 
+Düzgün cavab: 7 metr 
+ 
+12. Kimyәvi yük daşıyan tankerlәrdә qazxaricedici kalonkalar giriş 
+dәliklәrindәn hansı tәhlükәsiz mәsafәdә quraşdırılır? 
+Düzgün cavab: 10 metr 
+ 
+13. Kimyəvi yük daşıyan tankerlər haqqında Beynəlxalq Konvensiyaya görə 
+nasosların üzərində hansı dəqiq markirovka olmalıdır? 
+1. Nasosların tәzyiqi; 
+2. Nasosların tәyinatı; 
+3. Sovurma hündürlüyü; 
+4. Mәsafәdәn söndürülmәsi; 
+5. Nasosların mәhsuldarlığı. 
+Düzgün cavab: 2,4 
+ 
+14. Kimyәvi yük daşıyan tankerlәrdә neçә tip tank mövcuddur? 
+Düzgün cavab: 4 
+ 
+15. Kimyәvi yük daşıyan tankerlәrdә yükün keyfiyyәti vә tәhlükәsizliyi üçün 
+kim mәsuliyyәt daşıyır? 
+Düzgün cavab: Kapitan 
+ 
+16. Yük әmәliyyatına başlamazdan әvvәl gәmidә әsas nәyi yoxlamaq 
+lazımdır? 
+Düzgün cavab: Yükün yuxarı hәddә olmasını bildirәn müstәqil 
+siqnalizasiyanı 
+
+17. Kimyәvi yük daşıyan tankerlәrdә tanklarda hava atmosferinin 
+tәnzimlәnmәsinin neçә üsulu var? 
+Düzgün cavab: 4 
+ 
+18. Kimyәvi yük daşıyan tankerlәrdә әn qorxulu tәhlükә nәdir? 
+Düzgün cavab: Yanğın 
+ 
+19. Yük zonası әrazisindә yanğın zamanı stasionar köpüklә yanğın söndürәn 
+qurğunun ehtiyatı nә qәdәr vaxta çatmalıdır? 
+Düzgün cavab: 30 dәq. 
+ 
+20. Yük nasos şöbәsinin yaxınlığında olan xüsusi xilasedici avadanlığın 
+komplektindә olan avtonom nәfәsalma aparatının hava ehtiyatı nә qәdәr 
+vaxta çatmalıdır? 
+Düzgün cavab: 20 dәq. 
+ 
+21. Qaynar işlәrin aparılması üçün deqazasiya olan әrazidә oksigenin hәcm 
+faizi nә qәdәr olmalıdır? 
+Düzgün cavab: 21 % 
+ 
+22. Әgәr kimyәvi yük daşıyan tankerdә daşınan yükün qızdırılması tәlәb 
+olunarsa, hansı әmәliyyat yerinә yetirilmәlidir? 
+Düzgün cavab: Qızdırcı sistemin boruları işçi tәzyiqә yoxlanılmalıdır 
+ 
+23. Әgәr kimyәvi yük daşıyan tankerdә ballast tanklarının, koferdamların 
+havalandırılması üçün daşınan ventilyatorlar işlәdilirsә, IBC kodeksinin 
+tәlәblәrinә әsasәn ventilyatorun mәhsuldarlığı nә qәdәr olmalıdır? 
+Düzgün cavab: Saatda 16 dәfә hava dәyişilmәlidir 
+ 
+24. “Gәmi-Sahil" yoxlama vәrәqinin tәlәbi ilә hansı sistemlәrin işlәk olmasına 
+әminlik olmalıdır? 
+Düzgün cavab: Qızdırıcı sistemin 
+ 
+25. Tankerlәrdә "yanğın tәhlükәsizliyi üzrә ümumi qaydalar" hansı 
+Beynәlxalq Konvensiya ilә nәzәrdә tutulmuşdur? 
+Düzgün cavab: SOLAS-1974 
+ 
+26. Kimyәvi yük daşıyan tankerdә neft mәhsulları ilә yük әmәliyyatlarının 
+qeydiyyatı harada aparılır? 
+Düzgün cavab: Yük әmәliyyatları jurnalında 
+
+27. Beynәlxalq tәlәblәrә әsasәn gәminin sәlahiyyәtli cәmiyyәtlәr tәrәfindәn 
+şәhadәtlәndirilmәsi vә şәhadәtlәndirmәnin yenilәnmәsinә kim mәsuliyyәt 
+daşıyır? 
+Düzgün cavab: Kapitan 
+ 
+28. Yük әmәliyyatlarına başlamazdan әvvәl radiolokasiya (RLS) stansiyasına 
+hansı tәlәb qoyulur? 
+Düzgün cavab: Stansiya söndürülmәlidir 
+ 
+29. Tankerlәrdә yük magistralları hansı tәzyiqә vә neçә müddәtdәn bir 
+sınaqdan keçirilir? 
+Düzgün cavab: Hәr il, işçi tәzyiqin 150% -i qәdәr 
+ 
+30. Heyvan vә bitki mәnşәli yağların dәnizlә daşımalar şәraitini hansı 
+standartlar tәyin edir? 
+ 
+1. NOLP; 
+2. FOSFA; 
+3. IGC Code; 
+4. SOLAS-74. 
+Düzgün cavab: 1,2 
+ 
+31. Yük әmәliyyatlarında iştirak edәn heyәt üzvlәrinә "Gәmi-Sahil" yoxlama 
+vәrәqinin qoyduğu tәlәb nәdir? 
+Düzgün cavab: Heyyәt üzvlәri yükün zәhәrlәnmә xüsusiyyәtini bilmәlidir 
+ 
+32. Yanğınsöndürmә lәvazimatında olan nәfәsalma aparatlarının ümumi 
+hava ehtiyatı nә qәdәr olmalıdır? 
+Düzgün cavab: 7200 litr 
+ 
+33. Qapalı әrazidә işlәmәk üçün icazә hansı müddәtә verilir? 
+Düzgün cavab: iş günü әrzindә 
+ 
+34. SOLAS-74 tәlәblәrinә uyğun olaraq tankerlәrdә minimum neçә komplekt 
+yanğına qarşı lәvazimat nәzәrdә tutulmuşdur? 
+Düzgün cavab: azı 4 komplekt 
+ 
+35. BDT-nin (IMO) tәlәbinә әsasәn kimyәvi yüklә işlәmәk üçün nәfәsalma 
+aparatının hava ehtiyatı minimum nә qәdәr olmalıdır? 
+Düzgün cavab: 20 dәq 
+ 
+
+36. Elektrostatik cәrәyanın әmәlә gәlmә sәbәblәri hansılardır? 
+ 
+1. Yükdә suyun olması; 
+2. Yük tanklarının su ilә yuyulması; 
+3. Yükün tanka sәrbәst düşmәsi; 
+4. Uçan yüklәri yüklәyәn zaman; 
+5. Yük tanklarının xam neftlә yuyulması. 
+Düzgün cavab: 1;2;3;4;5 
+ 
+37. Kimyәvi yük daşıyan tankerlәrdә tanklar necә markalanmalıdır? 
+Düzgün cavab: 1; 2; G; P 
+ 
+38. MARPOL-73/78 tәlәblәrinә әsasәn tanker ballastla hәrәkәtdә olarkәn 
+minimal orta suya oturumu nә qәdәr olmalıdır? 
+Düzgün cavab: 2 metr + 2% gәminin uzunluğundan 
+ 
+39. "Gәmi-Sahil" yoxlama vәrәqinin tәlәbi ilә gәminin torpaqlanması yerinә 
+yetirilib. Tәcridedici flansın nәticәsi: 
+Düzgün cavab: Lazımdır 
+ 
+40. Kimyәvi yük daşıyan tankerlәrdә yük әmәliyyatlarının qeydiyyatı hansı 
+jurnalda aparılır? 
+Düzgün cavab: Yük әmәliyyatları jurnalı 
+ 
+41. MARPOL-73/78, II Əlavәsinin tәlәblәrinә әsasәn, 1986-cı ildәn sonra 
+tikilәn tankerlәrdә "C" kateqoriyalı yüklәri boşaltdıqdan vә tanklar 
+tәmizlәndikdәn sonra maksimal qalıq nә qәdәr olmalıdır? 
+Düzgün cavab: 100 litr 
+ 
+42. MARPOL-73/78, II Əlavәsinin tәlәblәrinә әsasәn 1986-cı ildәn әvvәl 
+tikilәn tankerlәrdә "C" kateqoriyalı yüklәri boşaltdıqdan vә tanklar 
+tәmizlәndikdәn sonra maksimal qalıq nә qәdәr olmalıdır? 
+Düzgün cavab: 900 litr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+43. Yük şlanqlarının üzәrindә onların yüklә işә yararlı olması barәdә hansı 
+markirovka vurulur? 
+1. Hidrostatik sınaq tarixi; 
+2. Şlanqın çәkisi; 
+3. Sınaq tәzyiqi; 
+4. Şlanqın uzunluğu; 
+5. Şlanqın hansı yükә aid olması. 
+Düzgün cavab: 1,3,5 
+ 
+44. MARPOL-73/78 Beynәlxalq Konvensiyanın hansı әlavәsinin tәlәblәrinә 
+әsasәn gәmilәrdә zibillә çirklәnmәnin qarşısı alınır? 
+Düzgün cavab: Әlavә V 
+ 
+45. MARPOL-73/78 II əlavəsinin tələblərinə əsasən "xüsusi rayon" - lar 
+hansılardır? 
+1. Qara dәniz; 
+2. Qırmızı dәniz; 
+3. Baltik dәnizi; 
+4. Aralıq dәnizi; 
+5. Antarktika. 
+Düzgün cavab: 1,3,5 
+ 
+46. BK MARPOL-73/78 təyin etdiyi "xüsusi rayon" larda 12 mildən az 
+olmayan məsafədə nəyi gəmidən tullamaq olar? 
+1. Diri balıq; 
+2. Plasmasın bütün növlәri; 
+3. Sintetik troslar; 
+4. Xırdalanmış qida tullantıları; 
+5. Zibil üçün plasmas kisәlәr. 
+Düzgün cavab: 1,4 
+ 
+47. Kimyәvi yük daşıyan tankerdә yük tankında olan qoruyucu klapan hansı 
+maksimal tәzyiqdә açılmalıdır? 
+Düzgün cavab: 2100 s.s 
+ 
+ 
+ 
+
+48. BK MARPOL-73/78 tәyin etdiyi "zibil" anlayışına hansı tullantılar aiddir? 
+1. Mәişәt tullantıları; 
+2. Şüşә mәmulatları; 
+3. İstismar tullantıları; 
+4. Metallar; 
+5. Qida tullantıları. 
+Düzgün cavab: 1,3,5 
+ 
+49. Tankların maye yüklәrlә doldurulmasının maksimal hәddi nә qәdәrdir? 
+Düzgün cavab: 98% 
+ 
+50. Kimyәvi yük daşıyan tankerlәrdә istifadә olunan yük şlanqları hansı 
+minimal tәzyiqә davamlı olmalıdır? 
+Düzgün cavab: 10 bar 
+ 

@@ -1,701 +1,701 @@
 {
-  "certificate": "Gәmi әmniyyәtliyi üzrә Mәsul Şәxs",
-  "questions": [
-    {
-      "id": "q005",
-      "question": "5. Şirkətin ƏİS",
-      "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,3,5"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Gəmidə odlu və qaynaq işlərinin aparılması.",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "1,2,3,5",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "bütün cavablar yanlışdır"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Bunkerləmə əməliyyatı.",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "1,2,4,5"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Gəmilərin toqquşması.",
-      "options": {
-        "A": "2,3,5",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "bütün cavablar yanlışdır",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Partlayış.",
-      "options": {
-        "A": "1,2",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "fırtınalı havada təxirə salınmaqla"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. İnsanın yüksəklikdən yıxılması.",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "bütün cavablar yanlışdır",
-        "C": "3,4",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Yanğın.",
-      "options": {
-        "A": "1,5",
-        "B": "bütün cavablar yanlışdır",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "fırtınalı havada təxirə salınmaqla"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Dənizin çirklənməsi",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "3,4",
-        "C": "bütün cavablar yanlışdır",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. İnsanın bort kənarına yıxılması",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "3,5",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Gəmi gövdəsinin zədələnməsi.",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "1,2,4"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. İnsanın yüksəklikdən yıxılması.",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,2,4"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Yanğına qarşı mübarizə üzrə gəmi heyətinin məşqi.",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,2,4"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Nəticələri.",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "1,2,3,4,5",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "fırtınalı havada təxirə salınmaqla"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Təhlükəli işlərin aparılmasına nəzarət.",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "1,2,3,4,5",
-        "D": "fırtınalı havada təxirə salınmaqla"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Gəmi heyətinin gəmiçilik şirkətində təlimatlandırılması.",
-      "options": {
-        "A": "1,2,3",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "bütün cavablar yanlışdır",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q016",
-      "question": "16. Rəhbər sənədlərin və şirkətin ƏİS tələblərinə uyğun olaraq kapitan gəmidə əməyin əmniyyətliyinə dair hansı əmri verməlidir?",
-      "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "Gəmidə yanğın əmlakına cavabdeh şəxsin təyin olunması barədə əmr",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "cənub-qərb dreyfi zamanı"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Gəmi heyəti tərəfindən gəmidə fərdi mühafizə vasitələrindən istifadə nəzarəti",
-      "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "bütün cavablar yanlışdır",
-        "C": "1,2,3,4,5",
-        "D": "fırtınalı havada təxirə salınmaqla"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Xilasedici gödəkcə.",
-      "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "1,2,3,4",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "bütün cavablar yanlışdır"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Respirator.",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "bütün cavablar yanlışdır",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "1,2,3,5"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Gəminin mühafizəsi üzrə komitə.",
-      "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "bütün cavablar yanlışdır",
-        "D": "3"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q021",
-      "question": "21. Şirkətin ƏİS-nə əsasən gəmidə əmniyyətlilik üzrə komitənin işinə kim rəhbərlik edir?",
-      "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "bütün cavablar yanlışdır",
-        "D": "Kapitanın növbə köməkçisi"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Aşpaz.",
-      "options": {
-        "A": "1,2,3,4",
-        "B": "bütün cavablar yanlışdır",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "fırtınalı havada təxirə salınmaqla"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Gəmi əməliyyatlarının və işlərinin aparılması zamanı əmniyyətliliyə əməl olunması.",
-      "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "bütün cavablar yanlışdır",
-        "C": "1,2,3,4,5",
-        "D": "fırtınalı havada təxirə salınmaqla"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. İkinci ucu gəmiyə etibarli bərkidilmiş əmniyyətlik kəndiri ilə qoruyucu kəmər olmadan leyer hasarından və ya falş bortdan kənara çıxmaq.",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "1,2,3,5",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "bütün cavablar yanlışdır"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Yanalma burazına durdurucunun qoyulması zamanı komanda üzvü həmişə taramlığın əksi tərəfdən durmalıdır.",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "1,2,3,4"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Gəminin baş mexaniki.",
-      "options": {
-        "A": "4",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "bütün cavablar yanlışdır"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Gəmi kapitanının sərnişinlər üzrə köməkçisi.",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1,5"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Baş köməkçi qabaqcadan sərnişinlərin qəbulu və boşaldılmasını əmniyyətliyi üçün tələb olunan sayda heyət ayırmalıdır.",
-      "options": {
-        "A": "1,3,5",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "bütün cavablar yanlışdır"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q029",
-      "question": "29. Hansı dövrdən bir sərnişinlərin çıxış pilləkəninin işə yaralılığı şəhadətləndirilməlidir?",
-      "options": {
-        "A": "Beş ildə bir dəfə",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "lövbər dayanacağı sahəsində"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Küləyin gücü 5 baldan yuxarı, dalğalanma 6 baldan yuxarı olduqda.",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "3",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "fırtınalı havada təxirə salınmaqla"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Gəmi heyətinin istəyi zamanı.",
-      "options": {
-        "A": "1,2,4",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "bütün cavablar yanlışdır",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Yük əməliyyatlarının aparılması zamanı əmniyyətliyə əməl olunmasını.",
-      "options": {
-        "A": "1,2,3,5",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "bütün cavablar yanlışdır",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Sahil kranı ilə yükləmə işləri aparılarkən tryumların qapaqlarının açılıb bağlanması.",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "1,2,4,5",
-        "D": "bütün cavablar yanlışdır"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Pirotexniki raketləri adamların toplandığı yerlərə, gəmilərə və sahil qurğularına tərəf buraxmaq.",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "1,2,3,5"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Heyətin istirahət otağında.",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "2",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Gəminin pirotexniki vasitələri metal seyfdə saxlanılmalıdır.",
-      "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "bütün cavablar yanlışdır",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "1,2,3,4,5"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Kapitanın baş köməkçisi.",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "3"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Şirkətin ƏİS –nin ISM kod yoxlama siyahısına uyğun yerinə yetirmək.",
-      "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "bütün cavablar yanlışdır",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "1,2,3,4"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Sızıntı olan yerlərdə yanacağın yığılması üçün altlıq yerləşdirilməlidir.",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "1,2,3,4,5",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. İş yerində əmniyyətlik üzrə təlimat keçirtməli və ISM kod yoxlama vərəqini doldurmalıdır.",
-      "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "1,2,3,4,5",
-        "C": "bütün cavablar yanlışdır",
-        "D": "fırtınalı havada təxirə salınmaqla"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Kabel şəbəkəsi 0,7 mom, qaynaq aparatı 0,9 mom.",
-      "options": {
-        "A": "3",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "bütün cavablar yanlışdır"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. 1 saatda 30 həcmdən az olmayan hava mübadiləsi.",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "4"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Gəmi təmiri müəssisinin ərazisində yerləşən yanğın əleyhinə vasitələr və sanitar-məişət otaqları ilə.",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1, 2, 3, 4, 5"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Asılmış yük və ya möhkəm döşəməsi olmayan körpü altında işləmək.",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1, 2, 3, 4, 5"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q045",
-      "question": "45. Əmniyyətli idarəetmə üzrə Beynəlxalq Məcəllə Beynəlxalq Dəniz Təşkilatının hansı Qətnaməsi ilə qəbul olunmuşdur?",
-      "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "Qətnamə A.883(21)",
-        "D": "gərginlik 220 V həddinə çatdıqda"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Gəmi heyətinin mülki məsuliyyətinin müəyyən edilməsi.",
-      "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "bütün cavablar yanlışdır",
-        "D": "1, 3, 4"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q047",
-      "question": "47. Beynəlxalq Konvensiya SOLAS-74/78-nin hansı fəsli ilə Əmniyyətli İdarəetmə Haqqında Beynəlxalq Məcəllə qüvvəyə mindilirmişdir?",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "V fəsli",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "cənub-qərb dreyfi zamanı"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Yük markası üzrə Beynəlxalq Konvensiya, 1966 il (LL-66/68).",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "1,3,4,5",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Fövqəladə hallar nazirliyi.",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "1,2,4",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q050",
-      "question": "50. Aşağıda göstərilənlərdən hansı şirkətin əmniyyətli idarəetmə sisteminin məqsədlərinə aiddir?",
-      "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "Gəmilərin təhlükəsiz istismar praktikasını və insan üçün təhlükəsiz ətraf mühiti təmin etmək",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "cənub-qərb dreyfi zamanı"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q051",
-      "question": "51. BK SOLAS-74/78-nin IX fəslinə müvafiq olaraq Əmniyyətli idarəetmə haqqında Beynəlxalq Məcəllə hansı gəmilərə şamil olunur?",
-      "options": {
-        "A": "Tutumu 150 r/t az olanlara",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "şimal-şərq istiqamətində"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q052",
-      "question": "52. Əmniyyətli idarəetmə sistemi nə deməkdir?",
-      "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "ƏİS - Şirkətin heyətinə təhlükəsizlik siyasətini və ətraf mühitin mühafizəsini effektiv həyata keçirməyə imkan yaradan strukturlaşdırılmış və sənədləşdirilmiş sistemdir",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q053",
-      "question": "53. Əmniyyətli idarəetmə üzrə məlumatları gəmi heyəti hansı dildə almalıdır?",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "İngilis dilində",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "bütün cavablar doğrudur"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Gəmi heyəti üzvlərinin 5%-i eyni zamanda əvəzlənərkən.",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "bütün cavablar yanlışdır",
-        "C": "1,4",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q055",
-      "question": "55. Əmniyyətli idarəetmə sisteminə aid olan sənədlər toplusu necə adlanır?",
-      "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "Əmniyyətli İdarəetmə üzrə Məcəllə"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q056",
-      "question": "56. Təhlükəli yüklər saxlanılan otağa daxil olmamışdan qabaq hansı ehtiyyat tədbirini görmək lazımdır?",
-      "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "Qaz-hava mühitinin nəzarətini həyata keçirmək"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q057",
-      "question": "57. Təhlükəli yüklər saxlanılan otağı yük əməliyyatı keçirməzdən əvvəl hansı minimal müddət ərzində havalandırmaq lazımdır?",
-      "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "30 dəq"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q058",
-      "question": "58. Əmniyyətli idarəetmə üzrə beynəlxalq məcəllə neçə hissədən ibarətdir?",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "2",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    }
-  ]
+    "certificate": "Gəmi əmniyyətliyi üzrə Məsul Şəxs",
+    "questions": [
+        {
+            "id": "q001",
+            "question": "1. Hansı sənədlərdə gəmi əməliyyatları zamanı əmniyyətliyin təməl prinsipləri\nşərh olunmuşdur?\n1. Beynәlxalq konvensiya SOLAS – 74/78;\n2. Beynәlxalq konvensiya COLREG – 72;\n3. DHDNÇ-78/95 (STCW- 78/95);\n4. Yük markasının Beynәlxalq konvensiyası;\n5. Şirkәtin ӘİS",
+            "options": {
+                "A": "Gəminin qadağan olunmuş zonalarına (restricted areas) buraxılış rejiminin təmin edilməsi",
+                "B": "Gəmiyə gətirilən poçt və bağlamaların xüsusi yoxlamadan keçirilməsi",
+                "C": "1,3,5",
+                "D": "Kontrabanda, silah və partlayıcı maddələrin axtarışının aparılması"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q002",
+            "question": "2. Aşağıda göstərilənlərin hansı gəmi əməliyyatlarına aiddir?\n1. Mәhdud görünüşdә vә dayaz sularda üzmә;\n2. Pis hava şәraitindә üzmә;\n3. Tәhlükәli yüklәrin yüklәnmәsi,daşınması vә boşaldılması;\n4. Şirkәt gәmilәrinin heyәtlә komplektlәşdirilmәsi;\n5. Gәmidә odlu vә qaynaq işlәrinin aparılması.",
+            "options": {
+                "A": "1,2,3,5",
+                "B": "Gəmi mühafizə həyəcanı sisteminin (SSAS) aktivləşdirilməsi və sınaqdan keçirilməsi",
+                "C": "Mühafizə təhdidləri barədə bayraq dövlətinə hesabat verilməsi",
+                "D": "Gəminin xarici işıqlandırmasının və nəzarət kameralarının yoxlanılması"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q003",
+            "question": "3. Əsas gəmi əməliyyatlarını göstərin:\n1. Yüksәklikdә vә bortdan kәnarda işlәr;\n2. Elektrik avadanlıqları ilә işlәr;\n3. Şirkәtin heyәtlә komplektlәşdirilmәsi zamanı tәlәb olunan sәnәdlәrin\nvә sertifikatların varlığının yoxlanılması;\n4. Yanalma әmәliyyatı;\n5. Bunkerlәmә әmәliyyatı.",
+            "options": {
+                "A": "Mühafizə səviyyəsi 3 elan edildikdə liman rəhbərliyi ilə əlaqənin yaradılması",
+                "B": "Gəminin ətrafında və göyərtəsində patrul xidmətinin təşkil olunması",
+                "C": "Liman ərazisindəki qeyri-qanuni fəaliyyətlərin monitorinqi",
+                "D": "1,2,4,5"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q004",
+            "question": "4. Məhdud görüntüdə və dayaz sularda üzmə zamanı gəmi üçün hansı\ntəhlükələr mümkündür?\n1. Dәniz sularının çirklәnmәsi;\n2. Saya oturma;\n3. Dәniz dibinә toxunma;\n4. Partlayış;\n5. Gәmilәrin toqquşması.",
+            "options": {
+                "A": "2,3,5",
+                "B": "Mühafizə xidməti əməkdaşları ilə əlaqəli təlimlərin təşkili",
+                "C": "Gəminin fiziki mühafizə sədlərinin möhkəmləndirilməsi",
+                "D": "Liman vasitələrinin mühafizə zabiti (PFSO) ilə koordinasiya"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q005",
+            "question": "5. Pis hava şəraitində üzmə zamanı gəmi üçün hansı təhlükələr mümkündür?\n1. Gәmi gövdәsinin zәdәlәnmәsi;\n2. Suya insan düşmәsi;\n3. Yanğın;\n4. Gәmi heyәtinin yanıq vә ya travması;\n5. Partlayış.",
+            "options": {
+                "A": "1,2",
+                "B": "Gəmi mühafizə təlimlərinin və məşqlərinin müntəzəm olaraq keçirilməsi",
+                "C": "Gəmiyə gətirilən poçt və bağlamaların xüsusi yoxlamadan keçirilməsi",
+                "D": "Liman vasitələrinin mühafizə zabiti (PFSO) ilə koordinasiya"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q006",
+            "question": "6. Təhlükəli yüklərin yüklənməsi, daşınması və boşaldılması zamanı hansı\ntəhlükələr mümkündür?\n1. Dәniz dibinә toxunma;\n2. Dayazlığa oturma;\n3. Dәnizin çirklәnmәsi;\n4. Gәmi heyәtinin yanığı, zәhәrlәnmәsi vә travması;\n5. İnsanın yüksәklikdәn yıxılması.",
+            "options": {
+                "A": "3,4",
+                "B": "Mühafizə təhdidləri barədə bayraq dövlətinə hesabat verilməsi",
+                "C": "Gəmiyə giriş-çıxış nəzarətinin gücləndirilməsi və mühafizə səviyyəsi 2-nin tətbiqi",
+                "D": "Mühafizə səviyyəsi 3 elan edildikdə liman rəhbərliyi ilə əlaqənin yaradılması"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q007",
+            "question": "7. Bunkerləmə əməliyyatlarının aparılması zamanı hansı təhlükələr\nmümkündür?\n1. Dәnizin çirklәnmәsi;\n2. Dәnizin dibinә toxunma;\n3. Saya oturma;\n4. Gәmilәrin toqquşması;\n5. Yanğın.",
+            "options": {
+                "A": "Xidməti itlərin köməyi ilə narkotik və partlayıcı maddə axtarışı",
+                "B": "Mühafizə xidməti əməkdaşları ilə əlaqəli təlimlərin təşkili",
+                "C": "Kibertəhlükəsizlik və gəmi şəbəkələrinin kənar müdaxilədən qorunması",
+                "D": "1,5"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q008",
+            "question": "8. Gəmidə qaynaq və odlu işlər aparılan zaman hansı təhlükələr\nmümkündür?\n1. Gәmilәrin toqquşması;\n2. Saya oturma;\n3. Yanğın;\n4. Partlayış;\n5. Dәnizin çirklәnmәsi",
+            "options": {
+                "A": "Mühafizə xidməti əməkdaşları ilə əlaqəli təlimlərin təşkili",
+                "B": "Gəmi təhlükəsizlik zabitinin (SSO) liman yoxlamalarında iştirakı",
+                "C": "Gəmi mühafizə həyəcanı sisteminin (SSAS) aktivləşdirilməsi və sınaqdan keçirilməsi",
+                "D": "3,4"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q009",
+            "question": "9. Yüksəklikdə və bort kənarında işlərin aparılması zamanı hansı təhlükələr\nmümkündür?\n1. Dәnizin çirklәnmәsi;\n2. Gәminin saya oturması;\n3. İnsanın yüksәklidәn yıxılması;\n4. Yanğın;\n5. İnsanın bort kәnarına yıxılması",
+            "options": {
+                "A": "Mühafizə avadanlıqlarının texniki xidməti və kalibrlənməsi",
+                "B": "3,5",
+                "C": "Gəminin yük manifestlərinin mühafizə baxımından təhlili",
+                "D": "Gəminin xarici işıqlandırmasının və nəzarət kameralarının yoxlanılması"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q010",
+            "question": "10. Gəmidə elektrik avadanlıqları ilə işlərin aparılması zamanı hansı\ntəhlükələr mümkündür?\n1. Gәmi heyәtinin travması vә ya ölümü;\n2. Gәmi elektrik avadanlıqlarının sıradan çıxması;\n3. Gәminin saya oturması;\n4. Yanğın;\n5. Gәmi gövdәsinin zәdәlәnmәsi.",
+            "options": {
+                "A": "Xidməti itlərin köməyi ilə narkotik və partlayıcı maddə axtarışı",
+                "B": "1,2,4",
+                "C": "ISPS Məcəlləsinin tələblərinə uyğun olaraq daxili auditi həyata keçirmək",
+                "D": "Gəmi təhlükəsizlik zabitinin (SSO) liman yoxlamalarında iştirakı"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q011",
+            "question": "11. Yanalma əməliyyatları zamanı hansı təhlükələr mümkündür?\n1. Gәmi heyәtinin travması vә ya ölümü;\n2. Gәmi gövdәsinin zәdәlәnmәsi;\n3. Partlayış;\n4. Sahilin vә sahil qurğularının zәdәlәnmәsi;\n5. İnsanın yüksәklikdәn yıxılması.",
+            "options": {
+                "A": "Gəmiyə gələn ziyarətçilərin şəxsiyyət vəsiqələrinin qeydiyyata alınması",
+                "B": "Gəmi təhlükəsizlik zabitinin (SSO) liman yoxlamalarında iştirakı",
+                "C": "Baqajların, yüklərin və gəmi ehtiyatlarının rentgen cihazı ilə yoxlanılması",
+                "D": "1,2,4"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q012",
+            "question": "12. Gəmidə təhlükəsiz əmək şəraitini təmin edən üsulları göstərin:\n1. Gәmi heyәtinin әmniyyәtlilik üzrә tәlimatlandırılması;\n2. Gәmi kapitanının tәhlükәli işlәrin aparılmasına icazәsi;\n3. Gәmiyә suyun daxil olması ilә mübarizә üzrә heyәtin mәşqi;\n4. Tәhlükәli işlәrin aparılmasına nәzarәt;\n5. Yanğına qarşı mübarizә üzrә gәmi heyәtinin mәşqi.",
+            "options": {
+                "A": "1,2,4",
+                "B": "Gəminin mühafizə bəyannaməsinin (DoS) doldurulması və imzalanması",
+                "C": "Yük əməliyyatları zamanı kənar şəxslərin gəmiyə daxil olmasının qarşısının alınması",
+                "D": "Gəmi mühafizə həyəcanı sisteminin (SSAS) aktivləşdirilməsi və sınaqdan keçirilməsi"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q013",
+            "question": "13. Təhlükəli işlərin aparılması zamanı gəminin idarəetmə heyəti nəyi\nbilməlidir?\n1. Tәhlükәli işlәr nә vaxt aparılır;\n2. Harada vә kim tәrәfindәn aparılır;\n3. İşlәr necә aparılmalıdır;\n4. İşlәrә kim rәhbәrlik edir;\n5. Nәticәlәri.",
+            "options": {
+                "A": "Gəminin mühafizə qeydlərinin (security records) aparılması",
+                "B": "1,2,3,4,5",
+                "C": "Gəminin qadağan olunmuş zonalarına (restricted areas) buraxılış rejiminin təmin edilməsi",
+                "D": "Gəminin mühafizə bəyannaməsinin (DoS) doldurulması və imzalanması"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q014",
+            "question": "14. Aşağıda göstərilənlərdən hansılar gəmidə əmniyyətli əmək şəraitini təmin\nedir?\n1. ISM code yoxlama vәrәqinin doldurulması;\n2. Tәyin olunmuş gәmi işlәrinin vә әmәliyyatlarının aparılması zamanı\ntәhlükәlәrin analizi vә risklәrin qiymәtlәndirilmәsi;\n3. Gәmi heyәtinin әmniyyәtlilik üzrә tәlimatlandırılması;\n4. Tәhlükәli işlәrin aparılmasına gәmi kapitanının icazәsi;\n5. Tәhlükәli işlәrin aparılmasına nәzarәt.",
+            "options": {
+                "A": "1,2,3,4,5",
+                "B": "Mühafizə avadanlıqlarının texniki xidməti və kalibrlənməsi",
+                "C": "Dəniz quldurluğuna və silahlı hücumlara qarşı müdafiə tədbirləri",
+                "D": "Gəmiyə giriş-çıxış nəzarətinin gücləndirilməsi və mühafizə səviyyəsi 2-nin tətbiqi"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q015",
+            "question": "15. Gəmilərdə aparılan əməliyyatlar və işlər zamanı hansı əmniyyətlilik\nnövləri rəhbər sənədlərlə müəyyən olunmuşdur?\n1. İlk 24 saatda aparılan giriş tәlimatı;\n2. Birbaşa iş yerlәrindә tәhlükәsiz işlәr vә tәlimatlandırma;\n3. Tәkrar vә cari tәlimatlandırma;\n4. Gәmi heyәtinin komplektlәşdirmә orqanında tәlimatlandırılması;\n5. Gәmi heyәtinin gәmiçilik şirkәtindә tәlimatlandırılması.",
+            "options": {
+                "A": "Gəmi mühafizə təlimlərinin və məşqlərinin müntəzəm olaraq keçirilməsi",
+                "B": "Mühafizə səviyyəsi 1-də minimum təhlükəsizlik tədbirlərinin icrası",
+                "C": "Gəminin fiziki mühafizə sədlərinin möhkəmləndirilməsi",
+                "D": "1,2,3"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q016",
+            "question": "16. Rәhbәr sәnәdlәrin vә şirkәtin ӘİS tәlәblәrinә uyğun olaraq kapitan\ngәmidә әmәyin әmniyyәtliyinә dair hansı әmri vermәlidir?",
+            "options": {
+                "A": "Gәmidә yanğın әmlakına cavabdeh şәxsin tәyin olunması barәdә әmr",
+                "B": "Gəmi heyətinin mühafizə ilə bağlı vəzifələrinin bölüşdürülməsi",
+                "C": "Gəminin ətrafında və göyərtəsində patrul xidmətinin təşkil olunması",
+                "D": "Gəmi mühafizə təlimlərinin və məşqlərinin müntəzəm olaraq keçirilməsi"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q017",
+            "question": "17. Gəmidə əməyin mühafizəsi üzrə cavabdeh təyin olunmuş komanda\nheyətinin üzvü nəyi yaxşı bilməlidir?\n1. Gәminin heyәt üzvlәrinin әmәyinin tәşkili vә istirahәtini;\n2. Yüksәk riskli gәmi әmәliyyatlarının vә gәmi işlәrinin aparılması zamanı\ntexniki tәhlükәsizlik qaydalarını yaxşı bilmәli vә yerinә yetirmәli;\n3. Bütün növ işlәrin әmniyyәtliliyini şәxsәn yoxlamağı,gәmi heyәti ilә\nәmniyyәtlilik üzrә şәxsәn tәlimat keçmәyi;\n4. ӘİS –nin tәlәblәrinә uyğun olaraq gәmidә әmniyyәtliliyin tәmin\nolunması üzrә hesabat sәnәdlәri olmaqla gәmi heyәtinә şirkәtin\nәmniyyәtlilik siyasәtini açıqlamağı;\n5. Gәmi heyәti tәrәfindәn gәmidә fәrdi mühafizә vasitәlәrindәn istifadә\nnәzarәti",
+            "options": {
+                "A": "1,2,3,4,5",
+                "B": "Gəmiyə giriş-çıxış nəzarətinin gücləndirilməsi və mühafizə səviyyəsi 2-nin tətbiqi",
+                "C": "Gəminin mühafizə qeydlərinin (security records) aparılması",
+                "D": "Gəmiyə gətirilən poçt və bağlamaların xüsusi yoxlamadan keçirilməsi"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q018",
+            "question": "18. Aşağıdakılardan hansı fərdi mühafizə vasitələrinin tərkibinə daxildir?\n1. İş geyimi dәsti;\n2. Xüsusi iş ayaqqabısı;\n3. Dәbilqә;\n4. Tәhlükәsizlik kәmәri;\n5. Xilasedici gödәkcә.",
+            "options": {
+                "A": "Mühafizə təhdidləri barədə bayraq dövlətinə hesabat verilməsi",
+                "B": "Baqajların, yüklərin və gəmi ehtiyatlarının rentgen cihazı ilə yoxlanılması",
+                "C": "Gəmi heyətinin mühafizə ilə bağlı vəzifələrinin bölüşdürülməsi",
+                "D": "1,2,3,4"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q019",
+            "question": "19. Aşağıdakılardan hansılar gəmidə əmək əmniyyətliliyini təmin edir və fərdi\nmühafizə vasitələrinin siyahısına daxildir?\n1. Әlcәklәr;\n2. Qoruyucu eynәk;\n3. Dielektrik әlcәklәr,qaloş vә ayaqqabı;\n4. Xilasedici dairә;\n5. Respirator.",
+            "options": {
+                "A": "Gəmi mühafizə təlimlərinin və məşqlərinin müntəzəm olaraq keçirilməsi",
+                "B": "Kibertəhlükəsizlik və gəmi şəbəkələrinin kənar müdaxilədən qorunması",
+                "C": "Mühafizə təhdidləri barədə bayraq dövlətinə hesabat verilməsi",
+                "D": "1,2,3,5"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q020",
+            "question": "20. Şirkətin ƏİS–nə əsasən gəmidə hansı komitə işləməlidir?\n1. Su ilә mübarizә komitәsi;\n2. Yanğınla mübarizә komtәsi;\n3. Әmniyyәtlilik üzrә komitә;\n4. Әrzaqların alınması üzrә komitә;\n5. Gәminin mühafizәsi üzrә komitә.",
+            "options": {
+                "A": "Gəminin qadağan olunmuş zonalarına (restricted areas) buraxılış rejiminin təmin edilməsi",
+                "B": "Gəmi heyətinin mühafizə ilə bağlı vəzifələrinin bölüşdürülməsi",
+                "C": "ISPS Məcəlləsinin tələblərinə uyğun olaraq daxili auditi həyata keçirmək",
+                "D": "3"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q021",
+            "question": "21. Şirkәtin ӘİS-nә әsasәn gәmidә әmniyyәtlilik üzrә komitәnin işinә kim\nrәhbәrlik edir?",
+            "options": {
+                "A": "Gəminin yük manifestlərinin mühafizə baxımından təhlili",
+                "B": "Kapitanın növbә kömәkçisi",
+                "C": "Gəmi təhlükəsizlik zabitinin (SSO) liman yoxlamalarında iştirakı",
+                "D": "Liman vasitələrinin mühafizə zabiti (PFSO) ilə koordinasiya"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q022",
+            "question": "22. Şirkətin ƏİS- nə əsasən gəmi əmniyyətlilik komitəsinə kim daxil\nolmalıdır?\n1. Kapitanın baş kömәkçisi;\n2. Gәminin baş mexaniki;\n3. 2- ci mexanik;\n4. Gәmi bosmanı;\n5. Aşpaz.",
+            "options": {
+                "A": "Gəminin fiziki mühafizə sədlərinin möhkəmləndirilməsi",
+                "B": "ISPS Məcəlləsinə əsasən gəminin mühafizə planının yenilənməsi və yoxlanılması",
+                "C": "1,2,3,4",
+                "D": "Gəminin qadağan olunmuş zonalarına (restricted areas) buraxılış rejiminin təmin edilməsi"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q023",
+            "question": "23. Gəmi əmniyyətliyi üzrə komitə DHDNÇ-78/95 (STCW-78/95), SOLAS-\n74/78 və MARPOL-73/78- də bəhs olunan əmniyyətlilik üzrə hansı təməl\nprinsipləri rəhbər tutmalıdır?\n1. Gәmidә çalışan insanların hәyat әmniyyәtliliyini;\n2. Gәminin әmniyyәtli istismarını;\n3. Dәniz çirklәnmәsinin qarşısının alınmasını;\n4. Daşınan yükә zәrәr dәymәsinin qarşısının alınmasını;\n5. Gәmi әmәliyyatlarının vә işlәrinin aparılması zamanı әmniyyәtliliyә\nәmәl olunması.",
+            "options": {
+                "A": "Şübhəli şəxslərin müəyyən edilməsi və axtarış prosedurlarının tətbiqi",
+                "B": "Liman vasitələrinin mühafizə zabiti (PFSO) ilə koordinasiya",
+                "C": "1,2,3,4,5",
+                "D": "Gəminin mühafizə qeydlərinin (security records) aparılması"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q024",
+            "question": "24. Göyərtə işləri aparılarkən nə qadağandır?\n1. Fırtınalı hava şәraitindә göyәrtә işlәrinin aparılması;\n2. Göyәrtә işlәri aparılarkәn kәnar әşyalarla keçidi bağlamaq;\n3. İşlәyәn mexanizmlәri nәzarәtsiz qoymaq;\n4. Yaxşı hava şәraitindә bosmanın rәhbәrliyi altında boyalama işlәrini\naparmaq;\n5. İkinci ucu gәmiyә etibarli bәrkidilmiş әmniyyәtlik kәndiri ilә qoruyucu\nkәmәr olmadan leyer hasarından vә ya falş bortdan kәnara çıxmaq.",
+            "options": {
+                "A": "Gəminin qadağan olunmuş zonalarına (restricted areas) buraxılış rejiminin təmin edilməsi",
+                "B": "Gəmi təhlükəsizlik zabitinin (SSO) liman yoxlamalarında iştirakı",
+                "C": "Mühafizə təhdidləri barədə bayraq dövlətinə hesabat verilməsi",
+                "D": "1,2,3,5"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q025",
+            "question": "25.Yanalma əməliyyatı aparılarkən hansı işləri yerinə yetirmək qadağandır?\n1. Yanalma әmәliyyatı aparılan bölmədə kәnar şәxsin olması;\n2. Yanalma әmәliyyatı aparılarkәn kәnar işlәrә yayınmaq vә işlәyәn\nmexanizmlәrin idarәetmә orqanlarını nәzarәtsiz qoymaq;\n3. Әgәr sahilә bәrkitmә burazı keçid diyircәyindәn vә ya kiplәyici\nkәmәrdәn keçmәklә bucaq әmәlә gәtirirsә o zaman orada olmaq;\n4. Şpil vә ya braşpillә yanalma burazının yığılması zamanı hәrәkәtdә\nikәn әlavә dolağın vurulması;\n5. Yanalma burazına durdurucunun qoyulması zamanı komanda üzvü\nhәmişә taramlığın әksi tәrәfdәn durmalıdır.",
+            "options": {
+                "A": "Gəminin fiziki mühafizə sədlərinin möhkəmləndirilməsi",
+                "B": "Gəmi mühafizə təlimlərinin və məşqlərinin müntəzəm olaraq keçirilməsi",
+                "C": "1,2,3,4",
+                "D": "Gəmi mühafizə həyəcanı sisteminin (SSAS) aktivləşdirilməsi və sınaqdan keçirilməsi"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q026",
+            "question": "26. Gəmidə sərnişin əməliyyatlarının aparılmasına kim icazə verir?\n1. Liman rәhbәrliyi;\n2. Limanın mühafizәsinә cavabdeh şәxs;\n3. Şirkәt tәrәfindәn tәyin olunmuş şәxs;\n4. Gәmi kapitanı;\n5. Gәminin baş mexaniki.",
+            "options": {
+                "A": "Gəminin mühafizə bəyannaməsinin (DoS) doldurulması və imzalanması",
+                "B": "Mühafizə xidməti əməkdaşları ilə əlaqəli təlimlərin təşkili",
+                "C": "Gəminin fiziki mühafizə sədlərinin möhkəmləndirilməsi",
+                "D": "4"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q027",
+            "question": "27. Gəmidə sərnişin əməliyyatlarına kim rəhbərlik edir?\n1. Kapitanın baş kömәkçisi;\n2. Baş mexanik;\n3. Bosman;\n4. 2 - ci mexanik;\n5. Gәmi kapitanının sәrnişinlәr üzrә kömәkçisi.",
+            "options": {
+                "A": "Mühafizə səviyyəsi 1-də minimum təhlükəsizlik tədbirlərinin icrası",
+                "B": "Gəminin xarici işıqlandırmasının və nəzarət kameralarının yoxlanılması",
+                "C": "1,5",
+                "D": "Mühafizə təhdidləri barədə bayraq dövlətinə hesabat verilməsi"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q028",
+            "question": "28. Gəmidə sərnişin əməliyyatları başlamazdan əvvəl gəmi kapitanının baş\nköməkçisi gəmi heyətinə nəyi təyin edərək elan etməlidir?\n1. Gәmi kapitanının baş kömәkçisi sәrnişinlәrin gәmiyә minmәsi vә\nenmәsi vaxtını elan edir;\n2. Qәza partiyasının әmlaklarının yoxlanılmasının başlanmasını;\n3. Baş kömәkçi sәrnişinlәrin gәmiyә qәbulu vә boşaldılması zamanı\nminәnlәrin vә düşәnlәrin sayını vә növbәsini tәyin etmәlidir;\n4. Gәminin balanslanmasına başlamanı;\n5. Baş kömәkçi qabaqcadan sәrnişinlәrin qәbulu vә boşaldılmasını\nәmniyyәtliyi üçün tәlәb olunan sayda heyәt ayırmalıdır.",
+            "options": {
+                "A": "ISPS Məcəlləsinə əsasən gəminin mühafizə planının yenilənməsi və yoxlanılması",
+                "B": "Mühafizə səviyyəsi 1-də minimum təhlükəsizlik tədbirlərinin icrası",
+                "C": "1,3,5",
+                "D": "Dəniz quldurluğuna və silahlı hücumlara qarşı müdafiə tədbirləri"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q029",
+            "question": "29. Hansı dövrdәn bir sәrnişinlәrin çıxış pillәkәninin işә yaralılığı\nşәhadәtlәndirilmәlidir?",
+            "options": {
+                "A": "Beş ildә bir dәfә",
+                "B": "ISPS Məcəlləsinə əsasən gəminin mühafizə planının yenilənməsi və yoxlanılması",
+                "C": "Liman ərazisindəki qeyri-qanuni fəaliyyətlərin monitorinqi",
+                "D": "Gəminin ətrafında və göyərtəsində patrul xidmətinin təşkil olunması"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q030",
+            "question": "30. Dənizdə və reyddə olarkən hansı hidrometeoroloji şəraitdə sərnişin\nəməliyyatı aparmağa icazə verilir?\n1. Külәyin gücü 3 baldan yuxarı, dalğalanma 4 bal olduqda;\n2. Külәyin gücü 3 bal, dalğalanma 5 bal olduqda;\n3. Külәyin gücü 3 bala qәdәr, dalğalanma 2-3 bal olduqda;\n4. Külәyin gücü 4 bal, dalğalanma 5 – 6 bal olduqda;\n5. Külәyin gücü 5 baldan yuxarı, dalğalanma 6 baldan yuxarı olduqda.",
+            "options": {
+                "A": "Liman ərazisindəki qeyri-qanuni fəaliyyətlərin monitorinqi",
+                "B": "Xidməti itlərin köməyi ilə narkotik və partlayıcı maddə axtarışı",
+                "C": "3",
+                "D": "Şübhəli şəxslərin müəyyən edilməsi və axtarış prosedurlarının tətbiqi"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q031",
+            "question": "31. Açıq dənizdə hansı hallarda insanların bir gəmidən digərinə keçirilməsinə\nicazə verilir?\n1. Tibbi yardımın göstәrilmәsi zamanı;\n2. İstehsalat zәrurәtlәri zamanı;\n3. Sәrnişinlәrin istәyi zamanı;\n4. Xilasetmә әmәliyyatları zamanı;\n5. Gәmi heyәtinin istәyi zamanı.",
+            "options": {
+                "A": "1,2,4",
+                "B": "Şübhəli şəxslərin müəyyən edilməsi və axtarış prosedurlarının tətbiqi",
+                "C": "ISPS Məcəlləsinə əsasən gəminin mühafizə planının yenilənməsi və yoxlanılması",
+                "D": "Gəmi mühafizə təlimlərinin və məşqlərinin müntəzəm olaraq keçirilməsi"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q032",
+            "question": "32. Yük əməliyyatları başlamazdan əvvəl liman rəhbərliyi hansı məsələləri\ngəmi rəhbərliyi ilə razılaşdırmalıdır?\n1. Yük әmәliyyatlarının başlama vaxtını;\n2. Yük tryumlarının yüklәmә, boşaltma ardıcıllığını;\n3. Bir dәfәyә yüklәnәn vә boşaldılan yük tryumlarının maksimal vә\nminimal ölçülәrini;\n4. Gәmi qәza xilasetmә qrupunun təlim vaxtını;\n5. Yük әmәliyyatlarının aparılması zamanı әmniyyәtliyә әmәl olunmasını.",
+            "options": {
+                "A": "Gəmiyə gətirilən poçt və bağlamaların xüsusi yoxlamadan keçirilməsi",
+                "B": "1,2,3,5",
+                "C": "Gəminin mühafizə bəyannaməsinin (DoS) doldurulması və imzalanması",
+                "D": "Gəminin mühafizə qeydlərinin (security records) aparılması"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q033",
+            "question": "33. Aşağıda göstərilənlərdən hansıların yük işləri aparılarkən yerinə\nyetirilməsi qadağandır?\n1. Yük göyәrtәsinin yüklәmә- boşaltma işlәri aparılan bortu tәrәfdә\ngәzmәk;\n2. Sahil kranının yüklәmә- boşaltma oxunun hәrәkәt xәttindә vә ya yük\naltında durmaq;\n3. Yüklәmә işlәri olmayan yerlәrdә gәmi heyәtinin boyaq işlәri aparması;\n4. Yüklәmә işlәri aparılarkәn tryumlarda hәr hansı işlәrin gәmi heyәti\ntәrәfindәn icra olunması;\n5. Sahil kranı ilә yüklәmә işlәri aparılarkәn tryumların qapaqlarının açılıb\nbağlanması.",
+            "options": {
+                "A": "Gəmiyə gələn ziyarətçilərin şəxsiyyət vəsiqələrinin qeydiyyata alınması",
+                "B": "Mühafizə təhdidləri barədə bayraq dövlətinə hesabat verilməsi",
+                "C": "Şübhəli şəxslərin müəyyən edilməsi və axtarış prosedurlarının tətbiqi",
+                "D": "1,2,4,5"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q034",
+            "question": "34. Aşağıda göstərilənlərdən hansılar pirotexniki vasitələrdən istifadə zamanı\nqadağan olunur?\n1. Saxlama müddәti bitmiş pirotexniki vasitәlәrin istifadәsi;\n2. Pirotexniki vasitәldәn istifadә zamanı ona zәrbә vurmaq, tullamaq,\nyerә salmaq;\n3. Pirotexniki vasitәni açmaq vә sökmәk;\n4. İp atan raketi ancaq ona birlәşdirilmiş iplә buraxmaq;\n5. Pirotexniki raketlәri adamların toplandığı yerlәrә, gәmilәrә vә sahil\nqurğularına tәrәf buraxmaq.",
+            "options": {
+                "A": "Xidməti itlərin köməyi ilə narkotik və partlayıcı maddə axtarışı",
+                "B": "1,2,3,5",
+                "C": "Kibertəhlükəsizlik və gəmi şəbəkələrinin kənar müdaxilədən qorunması",
+                "D": "ISPS Məcəlləsinin tələblərinə uyğun olaraq daxili auditi həyata keçirmək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q035",
+            "question": "35. Gəminin pirotexniki vasitələri saxlanılan metal seyf harada olmalıdır?\n1. Kapitanın kayutunda;\n2. Kapitan körpüsü vә onun yaxınlığında;\n3. Baş mexanikin kayutunda;\n4. Gәminin bakında;\n5. Heyətin istirahət otağında.",
+            "options": {
+                "A": "2",
+                "B": "Gəminin fiziki mühafizə sədlərinin möhkəmləndirilməsi",
+                "C": "Gəmi heyətinin mühafizə ilə bağlı vəzifələrinin bölüşdürülməsi",
+                "D": "Mühafizə səviyyəsi 1-də minimum təhlükəsizlik tədbirlərinin icrası"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q036",
+            "question": "36. Şirkətin ƏİS-də bəhs olunan pirotexniki vasitələrin saxlanması və\nistifadəsi zamanı əmniyyətliyi tənzimləyən prosedurları göstərin:\n1. Pirotexniki vasitәlәrin vәziyyәtinә görә ciddi nәzarәt vә qeydiyyat\naparılmalıdır;\n2. Pirotexniki vasitәlәr daim istifadәyә hazır olmalıdır;\n3. Bütün pirotexniki vasitәlәrlә әmniyyәtli davranış qaydaları haqqında\ntәlimat olmalıdır;\n4. Gәminin bütün heyәti pirotexniki vasitәlәrlә davranış üzrә tәlimatı\nbilmәlidir;\n5. Gәminin pirotexniki vasitәlәri metal seyfdә saxlanılmalıdır.",
+            "options": {
+                "A": "1,2,3,4,5",
+                "B": "Gəminin xarici işıqlandırmasının və nəzarət kameralarının yoxlanılması",
+                "C": "Dəniz quldurluğuna və silahlı hücumlara qarşı müdafiə tədbirləri",
+                "D": "Kibertəhlükəsizlik və gəmi şəbəkələrinin kənar müdaxilədən qorunması"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q037",
+            "question": "37. Gəminin yanacaq qəbuluna kim cavabdehdir?\n1. Gәmi kapitanının 2-ci kömәkçisi;\n2. Gәminin bosmanı;\n3. Gәminin baş mexaniki;\n4. Gәminin elektrik mexaniki;\n5. Kapitanın baş kömәkçisi.",
+            "options": {
+                "A": "3",
+                "B": "Gəminin ətrafında və göyərtəsində patrul xidmətinin təşkil olunması",
+                "C": "Gəmi mühafizə təlimlərinin və məşqlərinin müntəzəm olaraq keçirilməsi",
+                "D": "Gəmi təhlükəsizlik zabitinin (SSO) liman yoxlamalarında iştirakı"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q038",
+            "question": "38. Bunker əməliyyatları aparılarkən aşağıdakılardan hansıların yerinə\nyetirlməsi qadağandır?\n1. Sertifikatda alışma temperaturu vә normadan artıq hidrogensulfidin\nmiqdarı göstәrilmәyәn yanacağı qәbul etmәk;\n2. Yanacaq sızması olan nasaz şlanq vә birlәşdiricilәrin istifadә olunması;\n3. Bunker әmәliyyatları aparılan rayonlarda siqaret çәkmәk vә hәr hansı\naçıq alovla iş aparmaq;\n4. İstifadәsi zamanı qığılcım verәn alәtlәrlә boru kәmәrlәrinin vә\nşlanqların birlәşdirilmәsi;\n5. Şirkәtin ӘİS –nin ISM kod yoxlama siyahısına uyğun yerinә yetirmәk.",
+            "options": {
+                "A": "Gəmi mühafizə həyəcanı sisteminin (SSAS) aktivləşdirilməsi və sınaqdan keçirilməsi",
+                "B": "ISPS Məcəlləsinin tələblərinə uyğun olaraq daxili auditi həyata keçirmək",
+                "C": "Gəmiyə gələn ziyarətçilərin şəxsiyyət vəsiqələrinin qeydiyyata alınması",
+                "D": "1,2,3,4"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q039",
+            "question": "39.Şirkәtin ӘİS –dә qeydә alınmış vә yanacaqla bunkerlәmә әmәliyyatları\nzamanı әmniyyәtliyi tәnzimlәyәn prosedurları göstәrin:\n1. Yanacaqla bunkerlәmә üzrә bütün işlәr şirkәtin ӘİS –nin ISM kod\nyoxlama siyahısına uyğun aparılmalıdır;\n2. Yanacaq tanklarının qazçıxartma qurğularının qapaqlarının açıq\nolmasını yoxlamaq;\n3. Yanacaq borularının vә şlanqların birlәşdirilmәsi qığılcım vermәyәn\nalәtlәrlә yerinә yetirilmәlidir;\n4. Yanacaq qәbulu yerindә daima maşın komandasından nümayәndә\nolmalıdır;\n5. Sızıntı olan yerlәrdә yanacağın yığılması üçün altlıq yerlәşdirilmәlidir.",
+            "options": {
+                "A": "Gəmi mühafizə həyəcanı sisteminin (SSAS) aktivləşdirilməsi və sınaqdan keçirilməsi",
+                "B": "Gəmi təhlükəsizlik zabitinin (SSO) liman yoxlamalarında iştirakı",
+                "C": "ISPS Məcəlləsinə əsasən gəminin mühafizə planının yenilənməsi və yoxlanılması",
+                "D": "1,2,3,4,5"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q040",
+            "question": "40. Şirkətin ƏİS və əmniyyətlik qaydalarına uyğun olaraq, gəmidə qaynaq\nişləri aparılan zamanı rəhbər iş başlamazdan əvvəl nə etməlidir?\n1. İşin hәcmini müәyyәn etmәli, iş aparılan yerә baxış keçirmәli vә\nqaynaq işlәrinin әmniyyәtli aparılmasına әmin olunmalıdır;\n2. Qapalı yerlәrdә işlәr zamanı etibarlı havalandırmanı tәmin etmәlidir;\n3. Qaynaq aparatının, elektrik zәncirinin, qaynaqçının xüsusi geyimini vә\nfәrdi dielektrik mühafizә vasitәlәrinin yararlılığını yoxlamalıdır;\n4. Qaynaq apparatının vә elektrik zәncirinin izolyasiyasının müqavimәtini\nyoxlamalıdır;\n5. İş yerindә әmniyyәtlik üzrә tәlimat keçirtməli vә ISM kod yoxlama\nvәrәqini doldurmalıdır.",
+            "options": {
+                "A": "Gəminin yük manifestlərinin mühafizə baxımından təhlili",
+                "B": "1,2,3,4,5",
+                "C": "Gəmi mühafizə həyəcanı sisteminin (SSAS) aktivləşdirilməsi və sınaqdan keçirilməsi",
+                "D": "Gəmi təhlükəsizlik zabitinin (SSO) liman yoxlamalarında iştirakı"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q041",
+            "question": "41. Әmniyyәtlik qaydalarına uyğun olaraq qaynaq işlәri aparılarkәn kabel\nşәbәkәsinin vә qaynaq aparatının izolyasiyasının nominal miqdarını göstәrin:\n1. Kabel şәbәkәsi 0,5 mom, qaynaq aparatı 0,6 mom;\n2. Kabel şәbәkәsi 0,4 mom, qaynaq aparatı 0,7 mom;\n3. Kabel şәbәkәsi 0,2 mom-dan az olmayaraq, qaynaq aparatı 0,5 mom;\n4. Kabel şәbәkәsi 0,6 mom, qaynaq aparatı 0,5 mom;\n5. Kabel şәbәkәsi 0,7 mom, qaynaq aparatı 0,9 mom.",
+            "options": {
+                "A": "Gəmi mühafizə həyəcanı sisteminin (SSAS) aktivləşdirilməsi və sınaqdan keçirilməsi",
+                "B": "3",
+                "C": "Gəmi təhlükəsizlik zabitinin (SSO) liman yoxlamalarında iştirakı",
+                "D": "Gəmi mühafizə təlimlərinin və məşqlərinin müntəzəm olaraq keçirilməsi"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q042",
+            "question": "42. Qapalı yerlәrdә qaynaq işlәrinin aparılmasını tәmin etmәk üçün\ntәhlükәsiz havalandırma normasını göstәrin:(1 saatda hava hәcminin\nmübadilә sayı)\n1. 1 saatda 10 hәcmdәn az olmayan hava mübadilәsi;\n2. 1 saatda 15 hәcmdәn az olmayan hava mübadilәsi;\n3. 1 saatda 20 hәcmdәn az olamayan hava mübadilәsi;\n4. 1 saatda 35 hәcmdәn az olmayan hava mübadilәsi;\n5. 1 saatda 30 hәcmdәn az olmayan hava mübadilәsi.",
+            "options": {
+                "A": "Baqajların, yüklərin və gəmi ehtiyatlarının rentgen cihazı ilə yoxlanılması",
+                "B": "Gəminin mühafizə bəyannaməsinin (DoS) doldurulması və imzalanması",
+                "C": "Kontrabanda, silah və partlayıcı maddələrin axtarışının aparılması",
+                "D": "4"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q043",
+            "question": "43. Gəmi tərsanəyə daxil olarkən heyət üzvləri aşağıda göstərilənlərdən\nhansılarla tanış olmalıdır?\n1. Gәmi tәrsanәdә olarkәn әmniyyәtlik qaydaları ilә;\n2. Gәminin tәrsanәyә qoyulması vә çıxarılması zamanı heyәtin iş yerlәri\nüzrә bölgüsü ilә;\n3. Gәminin tәrsanә xüsusiyyәtlәri ilә;\n4. Tәrsanәdә olan gәmi heyətinin daxili nizam qaydaları ilә;\n5. Gәmi tәmiri müәssisinin әrazisindә yerlәşәn yanğın әleyhinә vasitәlәr\nvә sanitar-mәişәt otaqları ilә.",
+            "options": {
+                "A": "Mühafizə təhdidləri barədə bayraq dövlətinə hesabat verilməsi",
+                "B": "Gəmiyə giriş-çıxış nəzarətinin gücləndirilməsi və mühafizə səviyyəsi 2-nin tətbiqi",
+                "C": "Gəmiyə gələn ziyarətçilərin şəxsiyyət vəsiqələrinin qeydiyyata alınması",
+                "D": "1, 2, 3, 4, 5"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q044",
+            "question": "44. Aşağıda göstәrilәnlәrdәn hansıları etmәk tәrsanәdә olarkәn heyət\nüzvlərinə qadağandır?\n1. Tәrsanә rәhbәrliyinin mәlumatı olmadan elektrik, su vә buxar xәttlәrinә\nqoşulmaq;\n2. Bәrkidici dayaq iplәrini açmaq;\n3. Gәmi tәmiri müәssisәsinin yanğından mühafizә xidmәtinin mәlumatı\nolmadan ocaq yandırmaq;\n4. Gәminin bortu arxasında asqıda işlәmәk;\n5. Asılmış yük vә ya möhkәm döşәmәsi olmayan körpü altında işlәmәk.",
+            "options": {
+                "A": "Baqajların, yüklərin və gəmi ehtiyatlarının rentgen cihazı ilə yoxlanılması",
+                "B": "1, 2, 3, 4, 5",
+                "C": "Gəmi mühafizə həyəcanı sisteminin (SSAS) aktivləşdirilməsi və sınaqdan keçirilməsi",
+                "D": "Gəmiyə gətirilən poçt və bağlamaların xüsusi yoxlamadan keçirilməsi"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q045",
+            "question": "45. Әmniyyәtli idarәetmә üzrә Beynәlxalq Mәcәllә Beynәlxalq Dәniz\nTәşkilatının hansı Qәtnamәsi ilә qәbul olunmuşdur?",
+            "options": {
+                "A": "Qәtnamә A.883(21)",
+                "B": "Mühafizə avadanlıqlarının texniki xidməti və kalibrlənməsi",
+                "C": "Gəminin ətrafında və göyərtəsində patrul xidmətinin təşkil olunması",
+                "D": "Mühafizə səviyyəsi 3 elan edildikdə liman rəhbərliyi ilə əlaqənin yaradılması"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q046",
+            "question": "46. Aşağıda göstərilənlərdən hansılar Əmniyyətli İdarəetmə haqqında\nBeynəlxalq Məcəllənin məqsədlərini təşkil edir?\n1. Dәnizdә tәhlükәsizliyin tәmin edilmәsi;\n2. Gәmi kapitanın mülki mәsuliyyәtinin tәmin edilmәsi;\n3. Bәdbәxt hadisәlәrin vә insan tәlәfatının qarşısının alınması;\n4. Әtraf mühitә, xüsusilә dә, dәniz mühitinә vә әmlaka zәrәr\nvurulmasından qaçmaq;\n5. Gәmi heyәtinin mülki mәsuliyyәtinin müәyyәn edilmәsi.",
+            "options": {
+                "A": "Xidməti itlərin köməyi ilə narkotik və partlayıcı maddə axtarışı",
+                "B": "ISPS Məcəlləsinin tələblərinə uyğun olaraq daxili auditi həyata keçirmək",
+                "C": "Gəminin xarici işıqlandırmasının və nəzarət kameralarının yoxlanılması",
+                "D": "1, 3, 4"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q047",
+            "question": "47. Beynәlxalq Konvensiya SOLAS-74/78-nin hansı fәsli ilә Әmniyyәtli\nİdarәetmә Haqqında Beynәlxalq Mәcәllә qüvvәyә mindilirmişdir?",
+            "options": {
+                "A": "Baqajların, yüklərin və gəmi ehtiyatlarının rentgen cihazı ilə yoxlanılması",
+                "B": "Gəmi heyətinin mühafizə ilə bağlı vəzifələrinin bölüşdürülməsi",
+                "C": "Mühafizə səviyyəsi 3 elan edildikdə liman rəhbərliyi ilə əlaqənin yaradılması",
+                "D": "V fәsli"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q048",
+            "question": "48. Aşağıda göstərilən sənədlərdən hansılar Əmniyyətli idarəetmə sisteminin\nnormativ-hüquq bazasını təşkil edir?\n1. BK SOLAS-74/78 (Dәnizdә insan hәyatının mühafizəsinə dair\nBeynәlxalq Konvensiya);\n2. Hәrbi Dәniz Qüvvәlәrinin Gәmi Nizamnamәsi;\n3. “Dənizçilərin hazırlanmasına, onlara diplom verilməsinə və növbə\nçəkməyə dair” Beynәlxalq Konvensiya,1978/1995-ci il(STCW-78/95);\n4. Dәnizin gәmilәrdәn çirklәndirilmәsinin qarşısının alınması üzrә\nBeynәlxalq Konvensiya 1973/1978 (MARPOL-73-78);\n5. Yük markası üzrә Beynәlxalq Konvensiya, 1966 il (LL-66/68).",
+            "options": {
+                "A": "Liman ərazisindəki qeyri-qanuni fəaliyyətlərin monitorinqi",
+                "B": "Kibertəhlükəsizlik və gəmi şəbəkələrinin kənar müdaxilədən qorunması",
+                "C": "Gəminin mühafizə bəyannaməsinin (DoS) doldurulması və imzalanması",
+                "D": "1,3,4,5"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q049",
+            "question": "49. Aşağıda göstәrilәnlәrdәn hansılar Әmniyyәtli idarәetmә sistemini\ntәnzimlәyәn tәşkilatlara aiddir?\n1. Beynәlxalq Dәniz Tәşkilatı (IMO);\n2. Tәsnifat cәmiyyәtlәrinin beynәlxalq assosiasiyası (MAKO);\n3. Sahil mühafizә xidmәtinin qәrargahı;\n4. Dövlәt Dәniz və Liman Agentliyi;\n5. Fövqәladә hallar nazirliyi.",
+            "options": {
+                "A": "Gəminin fiziki mühafizə sədlərinin möhkəmləndirilməsi",
+                "B": "1,2,4",
+                "C": "Mühafizə xidməti əməkdaşları ilə əlaqəli təlimlərin təşkili",
+                "D": "ISPS Məcəlləsinə əsasən gəminin mühafizə planının yenilənməsi və yoxlanılması"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q050",
+            "question": "50. Aşağıda göstәrilәnlәrdәn hansı şirkәtin әmniyyәtli idarәetmә sisteminin\nmәqsәdlәrinә aiddir?",
+            "options": {
+                "A": "Gəminin xarici işıqlandırmasının və nəzarət kameralarının yoxlanılması",
+                "B": "Gәmilәrin tәhlükәsiz istismar praktikasını vә insan üçün tәhlükәsiz әtraf mühiti tәmin etmәk",
+                "C": "Gəmiyə gətirilən poçt və bağlamaların xüsusi yoxlamadan keçirilməsi",
+                "D": "Mühafizə avadanlıqlarının texniki xidməti və kalibrlənməsi"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q051",
+            "question": "51. BK SOLAS-74/78-nin IX fәslinә müvafiq olaraq Әmniyyәtli idarәetmә\nhaqqında Beynәlxalq Mәcәllә hansı gәmilәrә şamil olunur?",
+            "options": {
+                "A": "Yük əməliyyatları zamanı kənar şəxslərin gəmiyə daxil olmasının qarşısının alınması",
+                "B": "Gəminin mühafizə bəyannaməsinin (DoS) doldurulması və imzalanması",
+                "C": "Tutumu 150 r/t az olanlara",
+                "D": "Mühafizə xidməti əməkdaşları ilə əlaqəli təlimlərin təşkili"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q052",
+            "question": "52. Әmniyyәtli idarәetmә sistemi nә demәkdir?",
+            "options": {
+                "A": "Liman ərazisindəki qeyri-qanuni fəaliyyətlərin monitorinqi",
+                "B": "Mühafizə xidməti əməkdaşları ilə əlaqəli təlimlərin təşkili",
+                "C": "ӘİS - Şirkәtin heyәtinә tәhlükәsizlik siyasәtini vә әtraf mühitin mühafizәsini effektiv hәyata keçirmәyә imkan yaradan strukturlaşdırılmış vә sәnәdlәşdirilmiş sistemdir",
+                "D": "Gəmiyə gələn ziyarətçilərin şəxsiyyət vəsiqələrinin qeydiyyata alınması"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q053",
+            "question": "53. Әmniyyәtli idarәetmә üzrә mәlumatları gәmi heyәti hansı dildә almalıdır?",
+            "options": {
+                "A": "Şübhəli şəxslərin müəyyən edilməsi və axtarış prosedurlarının tətbiqi",
+                "B": "Mühafizə səviyyəsi 1-də minimum təhlükəsizlik tədbirlərinin icrası",
+                "C": "Yük əməliyyatları zamanı kənar şəxslərin gəmiyə daxil olmasının qarşısının alınması",
+                "D": "İngilis dilindә"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q054",
+            "question": "54. Əmniyyətli idarəetmə sistemi üzrə gəmi təlimləri hansı dövrdən bir\nkeçirilməlidir?\n1. Hәr 3 aydan bir;\n2. Hәr 6 aydan bir;\n3. İldә bir dәfә;\n4. Gәmi heyәti üzvlәrinin 25%-dәn çoxu eyni zamanda әvәzlәnәrkәn,\nhansılar ki, son 3 ay әrzindә təlimlərdə iştirak etmәyiblәr;\n5. Gәmi heyәti üzvlәrinin 5%-i eyni zamanda әvәzlәnәrkәn.",
+            "options": {
+                "A": "1,4",
+                "B": "Mühafizə xidməti əməkdaşları ilə əlaqəli təlimlərin təşkili",
+                "C": "Mühafizə səviyyəsi 3 elan edildikdə liman rəhbərliyi ilə əlaqənin yaradılması",
+                "D": "Mühafizə təhdidləri barədə bayraq dövlətinə hesabat verilməsi"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q055",
+            "question": "55. Әmniyyәtli idarәetmә sisteminә aid olan sәnәdlәr toplusu necә adlanır?",
+            "options": {
+                "A": "Mühafizə avadanlıqlarının texniki xidməti və kalibrlənməsi",
+                "B": "Gəminin ətrafında və göyərtəsində patrul xidmətinin təşkil olunması",
+                "C": "Әmniyyәtli İdarәetmә üzrә Mәcәllә",
+                "D": "Dəniz quldurluğuna və silahlı hücumlara qarşı müdafiə tədbirləri"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q056",
+            "question": "56. Tәhlükәli yüklәr saxlanılan otağa daxil olmamışdan qabaq hansı ehtiyyat\ntәdbirini görmәk lazımdır?",
+            "options": {
+                "A": "Mühafizə avadanlıqlarının texniki xidməti və kalibrlənməsi",
+                "B": "Gəminin xarici işıqlandırmasının və nəzarət kameralarının yoxlanılması",
+                "C": "Qaz-hava mühitinin nәzarәtini hәyata keçirmәk",
+                "D": "ISPS Məcəlləsinin tələblərinə uyğun olaraq daxili auditi həyata keçirmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q057",
+            "question": "57. Tәhlükәli yüklәr saxlanılan otağı yük әmәliyyatı keçirmәzdәn әvvәl hansı\nminimal müddәt әrzindә havalandırmaq lazımdır?",
+            "options": {
+                "A": "30 dəq",
+                "B": "Mühafizə avadanlıqlarının texniki xidməti və kalibrlənməsi",
+                "C": "Mühafizə xidməti əməkdaşları ilə əlaqəli təlimlərin təşkili",
+                "D": "Mühafizə təhdidləri barədə bayraq dövlətinə hesabat verilməsi"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q058",
+            "question": "58. Әmniyyәtli idarәetmә üzrә beynәlxalq mәcәllә neçә hissәdәn ibarәtdir?",
+            "options": {
+                "A": "Gəminin fiziki mühafizə sədlərinin möhkəmləndirilməsi",
+                "B": "2",
+                "C": "Kibertəhlükəsizlik və gəmi şəbəkələrinin kənar müdaxilədən qorunması",
+                "D": "Gəmi heyətinin mühafizə ilə bağlı vəzifələrinin bölüşdürülməsi"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        }
+    ]
 }

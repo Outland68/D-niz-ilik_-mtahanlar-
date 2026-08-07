@@ -1,0 +1,180 @@
+
+--- PAGE 1 ---
+Gəmi qazanalizatorları və onların istismarı 
+ 
+ 
+1. Cihazın kalibrovkası zamanı qaz balonundan nә vaxt istifadә edilir? 
+Düzgün cavab: Sensorların dәyişilmәsi, nasos sıradan çıxan zaman, texniki 
+xidmәt zamanı 
+ 
+2. CO hansı qazdır, insan orqanizminә necә tәsir edir? 
+Düzgün cavab: Karbon oksidi, qırmızı qan hissәciklәrinә qarışaraq, hava 
+çatışmamazlığı әmәlә gәtirir, nәticәdә insan huşunu itirir 
+ 
+3. LEL – tüstü qazı hansı qazlara aiddir, onun gәmidә mәnbәyi: 
+Düzgün cavab: İnsan orqanizminә tәsir edәn zәrәrli qazdır, mәnbәyi baş 
+mühәrrik, dizel generatoru, buxarqazan 
+ 
+4. Cihaz sensorunun sınağı nә vaxt yerinә yetirilir? 
+Düzgün cavab: Sensoru dәyişdirәndә, tәzә sensor üçün 5 dәqiqә, işlәnmiş 
+sensoru 60 saniyә 
+ 
+5. Cihazı idarә edәn düymәnin әsas vәzifәlәri: 
+Düzgün cavab: Yandırıb-söndürmәk, rәqәmlәri azaldıb-çoxaltmaq, 
+kalibrovkanı yerinә yetirmәk, menyuya girmәk 
+ 
+6. Әl ilә kalibrovka nә zaman yerinә yetirilir? 
+Düzgün cavab: Hәr dәfә qaz olan obyekti yoxlamağa gedәndә 
+ 
+7. Gәmi yük anbarlarında, tanklarında әmәlә gәlәn qaz növlәri: 
+Düzgün cavab: Kükürd, karbon, metan qazları 
+ 
+8. Cihaza ehtiyat giriş nә üçündür? 
+Düzgün cavab: İstismar zamanı cihazın yaddaşında yığılan qәza 
+mәlumatlarını öyrәnmәk üçün 
+ 
+9. Cihazın hәyacan siqnalları nә vaxt vә necә özünü göstәrir? 
+Düzgün cavab: Nasos, datçiklәr sıradan çıxanda, rәqәmlәr göstәrilәn hәdd 
+normasından fәrqli olduqda hәm işıq vә hәm dә sәs siqnalı kimi özünü 
+göstәrir 
+ 
+10. Nasosun hәyacan siqnalı nә zaman baş verir? 
+Düzgün cavab: Nasos işlәyәn zaman, süzgәcin(filterin) şlanqın vә nasosun 
+çirklәnmәsi zamanı 
+
+--- PAGE 2 ---
+11. Partlayış tәhlükәsi olan atmosferdә oksigenin hansı miqdarında cihazın 
+kalibrovka edilmәsi mümkündür? 
+Düzgün cavab: Oksigenin konsentrasiyası 20, 9% olduqda mümkündür 
+ 
+12. Cihazın әsas işçi elementlәrin texniki xidmәti zamanı(çirklәnәn zaman) 
+onun tәmizlәnmәsi üçün hansı vasitәlәrdәn istifadә olunur? 
+Düzgün cavab: Elementlәrin silib tәmizlәnmәsi yalnız içmәli su vә pambıq 
+parça olmalıdır 
+ 
+13. Cihazın “Ok” düymәsinin әsas funksiyaları hansılardır? 
+Düzgün cavab: “Ok” düymәsi cihazı aktiv deaktiv, kalibrovka zamanı, 
+hәyacan siqnalının söndürülmәsi zamanı, kodun verilmәsi zamanı istifadә 
+edilir 
+ 
+14. Cihazın sensoru çirklәnәndә hansı şәraitdә öz-özünә tәmizlәnir? 
+Düzgün cavab: Sensor 10-30 dәqiqә tәmiz havada saxlanıldıqda öz-özünә 
+tәmizlәnir 
+ 
+15. Gәmilәrdә qazölçәn cihazlardan әsas etibarı ilә haralarda istifadә edilir? 
+Düzgün cavab: Maşın-qazan şöbәsindә, maye yanacaq olan yerlәrdә, 
+kameron şöbәsindә, malyarkada istifadә edilir 
+ 
+16. Cihaz sәnaye sahәsindә hansı işçi temperaturda işlәyә bilәr? 
+Düzgün cavab: Cihazın işçi temperaturu -20 °S-dәn +55 °S-yә qәdәr olur 
+ 
+17. Nümunә götürmәk üçün istifadә olunan nasos nә zaman sınaq olunur? 
+Düzgün cavab: Cihaz aktiv olunduqdan sonra әgәr displeydә “ nasos 
+nasazdır” yazısı gәlәrsә 
+ 
+18. Oksigenin hansı miqdarında cihazlardan istifadә etmәk qadağandır? 
+Düzgün cavab: 27.6 % 
+ 
+19. Cihaz hansı halda yenidәn kalibrovka olunmalıdır? 
+Düzgün cavab: Yanar qazların konsentrasiyası normadan fәrqli olduqda  
+ 
+20. Karbon dioksid qazı ilә zәhәrlәnmәnin әlamәtlәri vә ilk tibbi yardım: 
+Düzgün cavab: A vә B bәndindә olduğu kimi, әlavә olaraq yuxuluq, 
+hәyacanlıq.Zәrәrçәkәn 24 saat vә ya tam sağalana qәdәr yataq rejiminә 
+riayәt etmәlidir 
+ 
+ 
+
+--- PAGE 3 ---
+21. Qaz hәyacan siqnalı nә zaman sönür? 
+Düzgün cavab: Qaz mühiti qәbul olunan hәddә qayıtdıqda 
+ 
+22. Hansı halda nümunә nasosunun “nasazlıq” hәyacan siqnalı çağırmağa 
+başlayır? 
+Düzgün cavab: Nasosun kalibrovkası tamamlananda, nasos nasaz olduqda 
+vә ya kalibr şlanqı bәrkidildikdә,filteri yenisi ilә әvәz etdikdә vә kalibr qazı 
+tәtbiq edildikdә 
+ 
+23. Displeydә nasosun nasazlığını bildirәn xәbәrdarlıqdan sonra, nasosun 
+yeniden kalibr olunması nasazlığı aradan qaldırmazsa nә etmәk lazımdır? 
+Düzgün cavab: Nasosu yenisi ilә әvәz etmәk lazımdır 
+ 
+24. Cihazın nasosunun filteri tıxanan zaman , filteri hansı üsulla tәmizlәmәk 
+lazımdır? 
+Düzgün cavab: Yumşaq tәmiz fırçadan istifadә edәrәk, filter tәmizlәnmәli vә 
+tam qurudulduqdan sonra yerinә bәrkidilmәlidir 
+ 
+25. Nasosun filterini yenisi ilә әvәz edәrkәn hansı ardıcıllığa әmәl etmәk 
+lazımdır? 
+Düzgün cavab: Detektoru söndürdükdәn sonra “Filips” vintaçanla vintlәri 
+boşaldıb, filteri yenisi ilә әvәz etdikdәn sonra vintlәri yenidәn bәrkitmәk 
+lazımdır 
+ 
+26. Dәm qazının hansı konsentrasiyası insan üçün ölüm tәhlükәsi yaradır? 
+Düzgün cavab: 1.1 % 
+ 
+27. Açıq göyәrtәdә baş verәn yanğınlar hansı yanğınsöndürәn vasitәlәrlә 
+söndürülür? 
+Düzgün cavab: Köpük vә ya su ilә (eyni vaxtda olmamaq şәrti ilә) 
+ 
+28. Yanan mayelәri hansı odsöndürәn vasitәlәrlә söndürmәk olar? 
+1. Köpüklә 
+2. Kompakt su ilә 
+3. Ümumi tәyinatlı tozla 
+4. Karbon qazı ilә 
+Düzgün cavab: 1,3,4 
+ 
+ 
+
+--- PAGE 4 ---
+29. Cihazı söndürmәk üçün hansı әmәliyyatı yerinә yetirmәk lazımdır? 
+Düzgün cavab: Ok” düymәsini ekranda “OFF” yazısı gәlәnәdәk sıxıb 
+saxlamaq lazımdır 
+ 
+30. “Ok” düymәsini 2 dәfә sürәtlә basmaq hansı әmәliyyatlar zamanı yerinә 
+yetirilir? 
+Düzgün cavab: Hamısı 
+ 
+31. Bәzi üzvi maddәlәrin buxarı ( silikonlar, hallogenli karbohidratlar) cihazin 
+işinә necә tәsir göstәrir? 
+Düzgün cavab: Cihazın işini müvәqqәti lәngidir ki, bu da cihazın işinә mәnfi 
+tәsir göstәrir 
+ 
+32. Bәzi üzvi maddәlәrin buxarı ( silikonlar , hallogenli karbohidratlar) cihazın 
+işini müvәqqәti lәngidir ki, hansı әmәliyyatdan sonra cihazın normal fәaliyyәti 
+bәrpa olunur? 
+Düzgün cavab: Yenidәn kalibrovka edildikdәn sonra cihaz öz normal 
+fәaliyyәtini bәrpa edir 
+ 
+33. Yanar qaz sensoru hәr dәfә çirklәndiricinin, zәhәrli qazların vә ya 
+buxarların tәsirinә mәruz qaldıqdan sonra hansı әmәliyyat aparılmalıdır? 
+Düzgün cavab: Yanar qaz sensoru mütlәq kalibrovka qazı ilә sınaq 
+edilmәlidir 
+ 
+34. Hansı halda tәkrar kalibrovka etmәyә ehtiyac vardır? 
+Düzgün cavab: Qaz dәyәrlәri normadan fәrqlidirsә 
+ 
+35. Şkalanın istәnilәn qәfil yüksәlmәsi vә ya düşmәsi (xaotik göstәricisi) 
+zamanı nә başa düşülür? 
+Düzgün cavab: Qaz konsentrasiyasının olduğunu bildirir ki, bu hal tәhlükәli 
+mühitdәn xәbәr veri 
+ 
+36. Detektorun uzun müddәt yanar qaz konsentrasiyası vә havanın tәsirinә 
+mәruz qalması zamanı detektorda hansı dәyişikliklәr baş verir? 
+Düzgün cavab: Detektorun elementlәri yüklәnir ki, bu hal detektorun iş 
+xarakteristikasına mәnfi tәsir göstәrir 
+ 
+37. Kalibrovka әmәliyyatı tamamlanmamış dayandırılanda ekranda 
+(displeydә) hansı işarә(yazı) yazılır? 
+Düzgün cavab: CAL ABORTED 
+ 
+
+--- PAGE 5 ---
+38. Cihazın ekranında (displeydә) “CAL DUE” yazısı hansı әmәliyyatın 
+aparılmasını tәlәb edir? 
+Düzgün cavab: Cihazın Kalibrovka edilmәsini 
+ 
+39. Aşağı sәviyyәli hәyacan siqnallarının әlamәtlәri hansılardır? 
+Düzgün cavab: Sürәtsiz sәs vә vizual siqnal, ALARM vә müvafiq qaz 
+xәtlәri(işarәsi) yanıb sönür , vibro siqnal işә düşür 
+ 

@@ -1,0 +1,930 @@
+[
+  {
+    "num": "1",
+    "q": "1. Hansı heyәt üzvü üçün hidrotermokostyum mütlәq nәzәrdә tutulur?",
+    "a": "növbәtci qayığın ekipajında",
+    "d1": "baş gəmi ekipajında",
+    "d2": "xilasedici salın ekipajında",
+    "d3": "sərbəst düşən qayığın ekipajında"
+  },
+  {
+    "num": "2",
+    "q": "2. Hansı temperaturda istilik qoruyucu vasitә öz funksiyalarını yerinә  yetirmәlidir?",
+    "a": "-30ºC - +20ºC",
+    "d1": "-35ºc - +25ºc",
+    "d2": "-40ºc - +30ºc",
+    "d3": "-45ºc - +35ºc"
+  },
+  {
+    "num": "3",
+    "q": "3. 8 nәfәrlik xilasedici salda neçә әdәd istilik qoruyucu vasitә olmalıdır?",
+    "a": "azı 2 әdәd",
+    "d1": "Azı 3 әdәd",
+    "d2": "Azı 4 әdәd",
+    "d3": "Azı 5 әdәd"
+  },
+  {
+    "num": "4",
+    "q": "4. 20 nәfәrdәn çox xilasedici qayığda necә әdәd istilik qoruyucu vasitә  olmalıdır?",
+    "a": "heyәtin 10% az olmayaraq",
+    "d1": "Heyәtin 12% az olmayaraq",
+    "d2": "Heyәtin 14% az olmayaraq",
+    "d3": "Heyәtin 16% az olmayaraq"
+  },
+  {
+    "num": "5",
+    "q": "5. Xilasedici salların növlәri hansılardır?",
+    "a": "endirilәn vә atılan xilasedici sal",
+    "d1": "yalnız endirilən",
+    "d2": "yalnız atılan",
+    "d3": "mühərriksiz tipli"
+  },
+  {
+    "num": "6",
+    "q": "6. Xilasedici salın falının minimal uzunluğu nә qәdәr olmalıdır?",
+    "a": "15 m",
+    "d1": "20 m",
+    "d2": "25 m",
+    "d3": "30 m"
+  },
+  {
+    "num": "7",
+    "q": "7. Xilasedici salın konteynerini açan hidrostatik qurğu hansı dәrinlikdә işә  düşür?",
+    "a": "4 metr",
+    "d1": "6 metr",
+    "d2": "8 metr",
+    "d3": "10 metr"
+  },
+  {
+    "num": "8",
+    "q": "8. Xilasedici salların konteynerinin üzәrindә nә qeyd olunmur?",
+    "a": "liman qeydiyatı",
+    "d1": "salın tutumu",
+    "d2": "istehsal tarixi",
+    "d3": "xidmət müddəti"
+  },
+  {
+    "num": "9",
+    "q": "9. Xilasedici salın suda istifadәsi azı neçә sutka nәzәrdә tutulub?",
+    "a": "30 sutka",
+    "d1": "35 sutka",
+    "d2": "40 sutka",
+    "d3": "45 sutka"
+  },
+  {
+    "num": "10",
+    "q": "10. Xilasedici salı maksimal hansı sürәtlә yedәklәmәk olar?",
+    "a": "3 uzel",
+    "d1": "5 uzel",
+    "d2": "7 uzel",
+    "d3": "9 uzel"
+  },
+  {
+    "num": "11",
+    "q": "11. Atılan tipli xilasedici salın konteyneri hansı hündürlükdәn suya atılmağa  davamlı olmalıdır?",
+    "a": "18 metr",
+    "d1": "23 metr",
+    "d2": "28 metr",
+    "d3": "33 metr"
+  },
+  {
+    "num": "12",
+    "q": "12. Xilasedici sal minimum nәçә nәfәrlik olmalıdır?",
+    "a": "6 nәfәrlik",
+    "d1": "8 nәfәrlik",
+    "d2": "10 nәfәrlik",
+    "d3": "12 nәfәrlik"
+  },
+  {
+    "num": "13",
+    "q": "13. Atılan tipli xilasedici salın konteynerinin maksimal çәkisi nә qәdәr  olmalıdır?",
+    "a": "185 kq",
+    "d1": "235 kq",
+    "d2": "285 kq",
+    "d3": "335 kq"
+  },
+  {
+    "num": "14",
+    "q": "14. 18 metr hündürlükdә yerlәşdirilmiş xilasedici salın falının uzunluğu nә  qәdәr olmalıdır?",
+    "a": "28 m",
+    "d1": "33 m",
+    "d2": "38 m",
+    "d3": "43 m"
+  },
+  {
+    "num": "15",
+    "q": "15. Xilasedici salların açılmasının vaxtı nә qәdәr olmalıdır?",
+    "a": "1-3 dәqiqә",
+    "d1": "2-5 dәqiqә",
+    "d2": "3-7 dәqiqә",
+    "d3": "4-9 dәqiqә"
+  },
+  {
+    "num": "16",
+    "q": "16. Endirilәn xilasedici sallara yük gәmisindә insanların yerlәşdirilmә vaxtı nә  qәdәr olmalıdır?",
+    "a": "3 dәqiqә",
+    "d1": "5 dәqiqә",
+    "d2": "7 dәqiqә",
+    "d3": "9 dәqiqә"
+  },
+  {
+    "num": "17",
+    "q": "17. Endirilәn xilasedici sallara insanların yerlәşdirmә vә endirmә vaxtı nә  qәdәr olmalıdır?",
+    "a": "12 dәqiqә",
+    "d1": "17 dәqiqә",
+    "d2": "22 dәqiqә",
+    "d3": "27 dәqiqә"
+  },
+  {
+    "num": "18",
+    "q": "18. Atılan xilasedici sallara insanların yerlәşdirmә vaxtı nә qәdәr olmalıdır?",
+    "a": "6 dәqiqә",
+    "d1": "8 dәqiqә",
+    "d2": "10 dәqiqә",
+    "d3": "12 dәqiqә"
+  },
+  {
+    "num": "19",
+    "q": "19. Xilasedici salı minimum necә nәfәr çevirә bilәr?",
+    "a": "1 nәfәr",
+    "d1": "2 nәfәr",
+    "d2": "3 nәfәr",
+    "d3": "4 nәfәr"
+  },
+  {
+    "num": "20",
+    "q": "20. Xilasedici salın örtüyünün üzәrindә nә olmur?",
+    "a": "projektor",
+    "d1": "xilasedici halqa",
+    "d2": "ilkin tibbi yardım çantası",
+    "d3": "istilik qoruyucu vasitə"
+  },
+  {
+    "num": "21",
+    "q": "21. 8 nәfәrdәn çox xilasedici salın minimum neçә girişi olmalıdır?",
+    "a": "2",
+    "d1": "3",
+    "d2": "4",
+    "d3": "5"
+  },
+  {
+    "num": "22",
+    "q": "22. Xilasedici salın daxili vә siqnalverici işığının fasilәsiz yanma müddәti  neçә saat olmalıdır?",
+    "a": "azı 12 saat",
+    "d1": "Azı 17 saat",
+    "d2": "Azı 22 saat",
+    "d3": "Azı 27 saat"
+  },
+  {
+    "num": "23",
+    "q": "23. Xilasedici salda üzmә qabiliyyәtinә malik kameraların minimal sayı neçә  olmalıdır?",
+    "a": "2",
+    "d1": "3",
+    "d2": "4",
+    "d3": "5"
+  },
+  {
+    "num": "24",
+    "q": "24. Xilasedici salın bütün perimetri üzrә nә olmalıdır?",
+    "a": "leyer ipi",
+    "d1": "lövbər zənciri",
+    "d2": "yedək kəndiri",
+    "d3": "xilasedici jilet"
+  },
+  {
+    "num": "25",
+    "q": "25. Xilasedici salın dreyfini nә azaldır?",
+    "a": "üzәn lövbәr vә ballast ciblәri",
+    "d1": "mühərrik və avar",
+    "d2": "yelkən qurğusu",
+    "d3": "su nasosu"
+  },
+  {
+    "num": "26",
+    "q": "26. Xilasedici salda neçә әdәd kiçik diametrli xilasedici dairә olmalıdır?",
+    "a": "1 әdәd",
+    "d1": "2 әdәd",
+    "d2": "3 әdәd",
+    "d3": "4 әdәd"
+  },
+  {
+    "num": "27",
+    "q": "27. Xilasedici salda neçə ədəd üzәn lövbәr olmalıdır?",
+    "a": "2 әdәd",
+    "d1": "3 әdәd",
+    "d2": "4 әdәd",
+    "d3": "5 әdәd"
+  },
+  {
+    "num": "28",
+    "q": "28. 12 nәfәrdәn çox xilasedici salda nә qәdәr üzәn çanaq vә bıçaq   olmalıdır?",
+    "a": "2 әdәd",
+    "d1": "3 әdәd",
+    "d2": "4 әdәd",
+    "d3": "5 әdәd"
+  },
+  {
+    "num": "29",
+    "q": "29. Xilasedici salın tәchizatına nә daxil olmur?",
+    "a": "baqor",
+    "d1": "çadır",
+    "d2": "bıçaq",
+    "d3": "su qabı"
+  },
+  {
+    "num": "30",
+    "q": "30. Xilasedici salda hәr bir insan ücün hansı miqdarda su olmalıdır?",
+    "a": "1.5 litr hәr nәfәrә",
+    "d1": "2.5 litr hәr nәfәrә",
+    "d2": "3.5 litr hәr nәfәrә",
+    "d3": "4.5 litr hәr nәfәrә"
+  },
+  {
+    "num": "31",
+    "q": "31. Kollektiv xilasedici vasitәlәrdә dәrman qutusu nә cür olmalıdır?",
+    "a": "su keçirmәyәn",
+    "d1": "paslanmayan dəmirdən",
+    "d2": "taxta qutuda",
+    "d3": "plastik paketdə"
+  },
+  {
+    "num": "32",
+    "q": "32. Xilasedici salda dәniz xәstәliyinә qarşı dәrmanlar azı hansı vaxta bәs  etmәlidir?",
+    "a": "48 saata",
+    "d1": "53 saata",
+    "d2": "58 saata",
+    "d3": "63 saata"
+  },
+  {
+    "num": "33",
+    "q": "33. Xilasedici salda pirotexnikanın hansı dәsti olmalıdır?",
+    "a": "6 falşfeyer, 4 paraşütlü raket, 2 tüstü şaşkası",
+    "d1": "8 falşfeyer, 8 paraşütlü raket, 3 tüstü şaşkası",
+    "d2": "10 falşfeyer, 8 paraşütlü raket, 4 tüstü şaşkası",
+    "d3": "15 falşfeyer, 10 paraşütlü raket, 5 tüstü şaşkası"
+  },
+  {
+    "num": "34",
+    "q": "34. Falşfeyerin yanma müddәti nә qәdәr olmalıdır?",
+    "a": "azı 1 dәq",
+    "d1": "Azı 2 dәq",
+    "d2": "Azı 3 dәq",
+    "d3": "Azı 4 dәq"
+  },
+  {
+    "num": "35",
+    "q": "35. Paraşütlü raketin işığıının yanma müddәti nә qәdәr olmalıdır?",
+    "a": "azı 40 san.",
+    "d1": "Azı 45 san.",
+    "d2": "Azı 50 san.",
+    "d3": "Azı 55 san."
+  },
+  {
+    "num": "36",
+    "q": "36. Tüstü şaşkasının tüstü vermә qabiliyyәti nə qədər olmalıdır?",
+    "a": "azı 3 dәq",
+    "d1": "Azı 5 dәq",
+    "d2": "Azı 7 dәq",
+    "d3": "Azı 9 dәq"
+  },
+  {
+    "num": "37",
+    "q": "37. Xilasedici salda hansı siqnal vә işarә verici vasitәlәr olmamalıdır?",
+    "a": "radiostansiya",
+    "d1": "qida rasiyonu",
+    "d2": "içməli su",
+    "d3": "pirotexnika"
+  },
+  {
+    "num": "38",
+    "q": "38. Xilasedici salın örtüyünün üzәrindә nә qeyd olunmur?",
+    "a": "falın uzunluğu",
+    "d1": "Gəmi kapitanının xüsusi icazəsi ilə",
+    "d2": "Yalnız qapalı dəniz hövzələrində və sakit havada",
+    "d3": "Xilasedici jiletlər və dairələrdən istifadə edərək"
+  },
+  {
+    "num": "39",
+    "q": "39. Xilasedici salın tәchizatı harada vә hansı vaxtdan bir yoxlanılmalıdır?",
+    "a": "ildә 1 dәfә laboratoriyada",
+    "d1": "Ildә 2 dәfә laboratoriyada",
+    "d2": "Ildә 3 dәfә laboratoriyada",
+    "d3": "Ildә 4 dәfә laboratoriyada"
+  },
+  {
+    "num": "40",
+    "q": "40. Xilasedici qayıqların konstruksiyaya әsasәn növlәri hansılardir?",
+    "a": "tam açıq, qismәn bağlı vә tam bağlı qayıqlar",
+    "d1": "yalnız tam bağlı",
+    "d2": "yalnız açıq",
+    "d3": "mühərrikli və mühərriksiz"
+  },
+  {
+    "num": "41",
+    "q": "41. Qismәn bağlı xilasedici qayığın neçә faizi örtülü olmalıdır?",
+    "a": "20% qabaq vә arxa tәrәfdәn",
+    "d1": "25% qabaq vә arxa tәrәfdәn",
+    "d2": "30% qabaq vә arxa tәrәfdәn",
+    "d3": "35% qabaq vә arxa tәrәfdәn"
+  },
+  {
+    "num": "42",
+    "q": "42. Sәrbәst hava tәchizatı sistemi ilә olan tam örtülü qayıqda әn azı nә  qәdәr nәfәs almaq olar?",
+    "a": "10 dәq",
+    "d1": "12 dәq",
+    "d2": "14 dәq",
+    "d3": "16 dәq"
+  },
+  {
+    "num": "43",
+    "q": "43. Oda davamlı xilasedici qayıqların minimal mühafizә müddәti nә  qәdәrdir?",
+    "a": "8 dәq",
+    "d1": "10 dәq",
+    "d2": "12 dәq",
+    "d3": "14 dәq"
+  },
+  {
+    "num": "44",
+    "q": "44. Xilasedici qayıq hansı hündürlükdәn suya düşәrkәn davam gәtirmәlidir?",
+    "a": "azı 3 m",
+    "d1": "Azı 5 m",
+    "d2": "Azı 7 m",
+    "d3": "Azı 9 m"
+  },
+  {
+    "num": "45",
+    "q": "45. Xilasedici qayığın tam yanacaq ehtiyatı neçә saat vә hansı sürәtlә  manevr etmәlidir?",
+    "a": "6 uz - 24 saat",
+    "d1": "8 uz - 29 saat",
+    "d2": "10 uz - 34 saat",
+    "d3": "12 uz - 39 saat"
+  },
+  {
+    "num": "46",
+    "q": "46. Gәminin hansı sürәti ilә xilasedici qayığı suya endirmәk vә yedәklәmәk  mümkün olmalıdır?",
+    "a": "5 uz",
+    "d1": "7 uz",
+    "d2": "9 uz",
+    "d3": "11 uz"
+  },
+  {
+    "num": "47",
+    "q": "47. Әn böyük xilasedici qayığın insan tutumu neçә nәfәrlik olur?",
+    "a": "150 nәfәrlik",
+    "d1": "200 nәfәrlik",
+    "d2": "250 nәfәrlik",
+    "d3": "300 nәfәrlik"
+  },
+  {
+    "num": "48",
+    "q": "48. Xilasedici qayıqlarda hansı mühәrrikdәn istifadә etmәyә icazә verilir?",
+    "a": "dizelli revers-reduktorlu",
+    "d1": "Gəmi kapitanının xüsusi icazəsi ilə",
+    "d2": "Yalnız qapalı dəniz hövzələrində və sakit havada",
+    "d3": "Xilasedici jiletlər və dairələrdən istifadə edərək"
+  },
+  {
+    "num": "49",
+    "q": "49. Su xaricindә olan xilasedici qayığın mühәrrikini hansı vaxt әrzindә  işlәtmək olar?",
+    "a": "5 dәq",
+    "d1": "7 dәq",
+    "d2": "9 dәq",
+    "d3": "11 dәq"
+  },
+  {
+    "num": "50",
+    "q": "50. Xilasedici qayıqlarda hansi avadanlıq olmamalıdır?",
+    "a": "polad lövbәr",
+    "d1": "Gəmi kapitanının xüsusi icazəsi ilə",
+    "d2": "Yalnız qapalı dəniz hövzələrində və sakit havada",
+    "d3": "Xilasedici jiletlər və dairələrdən istifadə edərək"
+  },
+  {
+    "num": "51",
+    "q": "51. Hәr bir xilasedici qayıqda manevr etmәk üçün nә olmalıdır?",
+    "a": "sükan vә rumpel",
+    "d1": "Gəmi kapitanının xüsusi icazəsi ilə",
+    "d2": "Yalnız qapalı dəniz hövzələrində və sakit havada",
+    "d3": "Xilasedici jiletlər və dairələrdən istifadə edərək"
+  },
+  {
+    "num": "52",
+    "q": "52. Xilasedici qayıqda projektorun fasilәsiz yanma müddәti nә qәdәr  olmalıdır?",
+    "a": "azı 3 saat",
+    "d1": "Azı 5 saat",
+    "d2": "Azı 7 saat",
+    "d3": "Azı 9 saat"
+  },
+  {
+    "num": "53",
+    "q": "53. Xilasedici qayığın idarәetmә postundan müşahidәnin görünüşü necә  olmalıdır?",
+    "a": "bütün tәrәflәrә",
+    "d1": "yalnız irəli",
+    "d2": "yalnız arxaya",
+    "d3": "sağ və sol bortlara"
+  },
+  {
+    "num": "54",
+    "q": "54. Yük gәmisindә xilasedici qayığa heyәtin yerlәşdirilmәsi vaxtı nә qәdәr  olmalıdır?",
+    "a": "3 dәqiqə",
+    "d1": "5 dәqiqə",
+    "d2": "7 dәqiqə",
+    "d3": "9 dәqiqə"
+  },
+  {
+    "num": "55",
+    "q": "55. Yük gәmisindә xilasedici qayığa heyәtin yerlәşdirilmәsi vә suya  endirilmәsi vaxtı nə qədər olmalıdır?",
+    "a": "8 dәqiqə",
+    "d1": "10 dәqiqə",
+    "d2": "12 dәqiqə",
+    "d3": "14 dәqiqə"
+  },
+  {
+    "num": "56",
+    "q": "56. Xilasedici qayığa birinci kim daxil olmalıdır?",
+    "a": "endirmә komandası",
+    "d1": "sərnişinlər",
+    "d2": "sıravi heyət",
+    "d3": "zabit heyəti"
+  },
+  {
+    "num": "57",
+    "q": "57. Xilasedici qayığa sonda kim daxil olmalıdır?",
+    "a": "qayığın komandiri",
+    "d1": "matros",
+    "d2": "mexanik",
+    "d3": "radist"
+  },
+  {
+    "num": "58",
+    "q": "58. Hansı maksimal krenin vә diferentin göstәricilәrindә xilasedici qayıqları  gәmidәn endirmәk olar?",
+    "a": "kren 200 diferent 100",
+    "d1": "Kren 250 diferent 110",
+    "d2": "Kren 300 diferent 120",
+    "d3": "Kren 350 diferent 130"
+  },
+  {
+    "num": "59",
+    "q": "59. Trosla enәn xilasedici qayığın mühәrriki dәnizә enәrkәn hansı vәziyyәtdә  olmalıdır?",
+    "a": "işlәk",
+    "d1": "Gəmi kapitanının xüsusi icazəsi ilə",
+    "d2": "Yalnız qapalı dəniz hövzələrində və sakit havada",
+    "d3": "Xilasedici jiletlər və dairələrdən istifadə edərək"
+  },
+  {
+    "num": "60",
+    "q": "60. Hansı әşyalar xilasedici qayığın tәchizatında cüt (iki әdәd) olmamalıdır?",
+    "a": "üzәn lövbәr",
+    "d1": "mühərrik və avar",
+    "d2": "yelkən qurğusu",
+    "d3": "su nasosu"
+  },
+  {
+    "num": "61",
+    "q": "61. Xilasedici qayığın tәchizatında nә olmamalıdır?",
+    "a": "üzәn lövbәr",
+    "d1": "mühərrik və avar",
+    "d2": "yelkən qurğusu",
+    "d3": "su nasosu"
+  },
+  {
+    "num": "62",
+    "q": "62. Xilasedici qayıqda hәr bir insana nә qәdәr su olmalıdır?",
+    "a": "3 litr",
+    "d1": "5 litr",
+    "d2": "7 litr",
+    "d3": "9 litr"
+  },
+  {
+    "num": "63",
+    "q": "63. Xilasedici qayığın burun hissәsindә, hәr iki bortda vә yuxarı hissәsindә  hansı mәlumat qeyd olunmur?",
+    "a": "qayığın növlәri",
+    "d1": "qayığın nömrəsi",
+    "d2": "gəminin adı",
+    "d3": "qeydiyyat limanı"
+  },
+  {
+    "num": "64",
+    "q": "64. Xilasedici qayığın tәchizatı, avadanliğı vә endirilәn qurğuları hansı  müddәtdәn bir yoxlanılmalıdır?",
+    "a": "ayda 1 dәfә",
+    "d1": "Ayda 2 dәfә",
+    "d2": "Ayda 3 dәfә",
+    "d3": "Ayda 4 dәfә"
+  },
+  {
+    "num": "65",
+    "q": "65. Növbәtçi xilasedici qayığın әsas tәyinatı nədir?",
+    "a": "dәnizdә insanların axtarışı vә xilas edilmәsi",
+    "d1": "yedəkləmə və yan alma",
+    "d2": "yük daşınması",
+    "d3": "gəminin təmir işləri"
+  },
+  {
+    "num": "66",
+    "q": "66. Növbәtçi xilasedici qayıqların növlәri hansılardır?",
+    "a": "sәrt gövdәli, hava ilә doldurulmuş vә kombinә olunmuş",
+    "d1": "yalnız sәrt gövdәli",
+    "d2": "yalnız hava ilә doldurulmuş",
+    "d3": "taxta və alüminium"
+  },
+  {
+    "num": "67",
+    "q": "67. Növbәtçi xilasedici qayıqların heyәti neçә nәfәrdәn ibarәtdir?",
+    "a": "3 nәfәr",
+    "d1": "5 nәfәr",
+    "d2": "7 nәfәr",
+    "d3": "9 nәfәr"
+  },
+  {
+    "num": "68",
+    "q": "68. Növbәtçi xilasedici qayıqda oturaq vә uzanıqlı vәziyyәtdә minimal neçә  yer olmalıdır?",
+    "a": "oturaq vәziyyәtdә olan әn azı 5 nәfәr vә xәrәk üzәrindә  uzanmış 1 nәfәr",
+    "d1": "Oturaq vәziyyәtdә olan әn azı 7 nәfәr vә xәrәk üzәrindә  uzanmış 2 nәfәr",
+    "d2": "Oturaq vәziyyәtdә olan әn azı 9 nәfәr vә xәrәk üzәrindә  uzanmış 3 nәfәr",
+    "d3": "Oturaq vәziyyәtdә olan әn azı 44 nәfәr vә xәrәk üzәrindә  uzanmış 4 nәfәr"
+  },
+  {
+    "num": "69",
+    "q": "69. Növbәtçi xilasedici qayığın uzunluğu nә qәdәrdir?",
+    "a": "3,8m-dәn 8,5m-ә qәdәr",
+    "d1": "5.8m-dәn 10.5m-ә qәdәr",
+    "d2": "7.8m-dәn 12.5m-ә qәdәr",
+    "d3": "9.8m-dәn 14.5m-ә qәdәr"
+  },
+  {
+    "num": "70",
+    "q": "70. Növbәtçi xilasedici qayıq gәmidә harada yerlәşmәlidir?",
+    "a": "gәminin açıq göyәrtәsindә",
+    "d1": "yalnız tam bağlı",
+    "d2": "yalnız açıq",
+    "d3": "mühərrikli və mühərriksiz"
+  },
+  {
+    "num": "71",
+    "q": "71. Hava ilә doldurulmuş növbәtçi xilasedici qayığın bir üzmә borusunda  neçә bölmә olmalıdır?",
+    "a": "azı 5 әdәd",
+    "d1": "Azı 7 әdәd",
+    "d2": "Azı 9 әdәd",
+    "d3": "Azı 11 әdәd"
+  },
+  {
+    "num": "72",
+    "q": "72. Növbәtçi xilasedici qayıqlar hansı sürәtlә vә neçә saat manevr etmәyә  qadir olmalıdırlar?",
+    "a": "6 mil/s sürәtlә azı 4 saat",
+    "d1": "8 mil/s sürәtlә azı 8 saat",
+    "d2": "10 mil/s sürәtlә azı 8 saat",
+    "d3": "12 mil/s sürәtlә azı 10 saat"
+  },
+  {
+    "num": "73",
+    "q": "73. Növbәtci xilasedici qayıqda hәr bir insana necә günlük qida rasyonu vә  su olmalıdır?",
+    "a": "nәzәrdә tutulmayıb",
+    "d1": "3 günlük",
+    "d2": "5 günlük",
+    "d3": "1 günlük"
+  },
+  {
+    "num": "74",
+    "q": "74. Növbәtçi xilasedici qayığın yedәk kәndirinin uzunluğu nә qәdәr  olmalıdır?",
+    "a": "50 m",
+    "d1": "55 m",
+    "d2": "60 m",
+    "d3": "65 m"
+  },
+  {
+    "num": "75",
+    "q": "75. Hava ilә doldurulmuş növbәtçi xilasedici qayıq gәmidә daima hansı  vәziyәtdә olmalıdır?",
+    "a": "tam doldurulmuş vәziyyәtdә",
+    "d1": "yarı boşaldılmış",
+    "d2": "qismən doldurulmuş",
+    "d3": "tam qatlanmış"
+  },
+  {
+    "num": "76",
+    "q": "76. Qәza radiobuyu әn azı neçә saat işlәmәlidir?",
+    "a": "48 saat",
+    "d1": "53 saat",
+    "d2": "58 saat",
+    "d3": "63 saat"
+  },
+  {
+    "num": "77",
+    "q": "77. Növbәtçi xilasedici qayığı suya endirmә zamanı gәminin maksimal sürәti  neçә olmalıdır?",
+    "a": "5 mil/s",
+    "d1": "7 mil/s",
+    "d2": "9 mil/s",
+    "d3": "11 mil/s"
+  },
+  {
+    "num": "78",
+    "q": "78. Növbәtçi xilasedici qayığı hansı maksimal çәkidә endirmәk vә ya  qaldırmaq mümkün olmalıdır?",
+    "a": "tam sayda insan vә tәchizatla",
+    "d1": "yalnız təchizatla",
+    "d2": "boş vəziyyətdə",
+    "d3": "yarım yüklənmiş"
+  },
+  {
+    "num": "79",
+    "q": "79. Növbәtçi xilasedici qayıq hansı sürәtlә salı tam sayda insanlarla vә  tәchizatla yüklәnmiş vәziyyәtdә yedәklәməlidir?",
+    "a": "azı 2mil/s",
+    "d1": "Azı 3mil/s",
+    "d2": "Azı 4mil/s",
+    "d3": "Azı 5mil/s"
+  },
+  {
+    "num": "80",
+    "q": "80. Üç davamlı uzun sәs siqnalı nәyi bildirir?",
+    "a": "suda adam hәyәcanı",
+    "d1": "ümumgəmi həyəcanı",
+    "d2": "yanğın həyəcanı",
+    "d3": "gəmini tərk et"
+  },
+  {
+    "num": "81",
+    "q": "81. UQD radiostansiya “MAYDAY” fәlakәt siqnalını ötürmәk üçün hansı  kanala köklәnmәlidir?",
+    "a": "UQD kanal 16",
+    "d1": "Uqd kanal 21",
+    "d2": "Uqd kanal 26",
+    "d3": "Uqd kanal 31"
+  },
+  {
+    "num": "82",
+    "q": "82. Ümumgәmi hәyәcan siqnalı necә verilir?",
+    "a": "7 qısa 1 uzun",
+    "d1": "9 qısa 2 uzun",
+    "d2": "33 qısa 3 uzun",
+    "d3": "43 qısa 4 uzun"
+  },
+  {
+    "num": "83",
+    "q": "83. SOS siqnalı necә verilir?",
+    "a": "3 qısa 3 uzun 3 qısa",
+    "d1": "5 qısa 5 uzun 5 qısa",
+    "d2": "7 qısa 7 uzun 7 qısa",
+    "d3": "9 qısa 9 uzun 9 qısa"
+  },
+  {
+    "num": "84",
+    "q": "84. Radiolokasiya cavabvericisinin gözlәmә rejimi hansı müddәt әrzindә  işlәk vәziyyәtdә olur?",
+    "a": "4 gün",
+    "d1": "6 gün",
+    "d2": "8 gün",
+    "d3": "10 gün"
+  },
+  {
+    "num": "85",
+    "q": "85. Radiolokasiya cavabvericisinin ötürmә rejimi hansı müddәt әrzindә işlәk  vәziyyәtdә olur?",
+    "a": "4 gün",
+    "d1": "6 gün",
+    "d2": "8 gün",
+    "d3": "10 gün"
+  },
+  {
+    "num": "86",
+    "q": "86. Radiolokasiya cavabverici işlәmәyә başlayarkәn, o, әtrafda olan  gәmilәrin radarlarında hansı mәsafәdәn görünmәyә başlayır?",
+    "a": "5 mil",
+    "d1": "7 mil",
+    "d2": "9 mil",
+    "d3": "11 mil"
+  },
+  {
+    "num": "87",
+    "q": "87. Daşınan qәza UQD radiostansiyasının işlәmә vaxtı neçә saat olmalıdır?",
+    "a": "azı 8 saat",
+    "d1": "Azı 10 saat",
+    "d2": "Azı 12 saat",
+    "d3": "Azı 14 saat"
+  },
+  {
+    "num": "88",
+    "q": "88. Gәmini tәrk etmәk komandasını kim verir?",
+    "a": "kapitan",
+    "d1": "baş mexanik",
+    "d2": "növbətçi şturman",
+    "d3": "bosman"
+  },
+  {
+    "num": "89",
+    "q": "89. Salda içmәli su bitәn zaman onu nә ilә әvәz etmәk olar?",
+    "a": "yağış suyu ilә, kondensat sulardan vә tutulmuş balığın şirәsi  ilә",
+    "d1": "dəniz suyu ilə",
+    "d2": "şirin sularla",
+    "d3": "spirtli içkilərlə"
+  },
+  {
+    "num": "90",
+    "q": "90. Suda olan insana növbәtçi xilasedici qayıq vasitәsilә hansı qaydada yan  almaq lazımdır?",
+    "a": "insanı külәk vuran tәrәfdә saxlamaqla kiçik sürәtlә",
+    "d1": "küləkaltı tərəfdə",
+    "d2": "yüksək sürətlə",
+    "d3": "mühərriki söndürərək"
+  },
+  {
+    "num": "91",
+    "q": "91. Sıxıcı sarğılar әsasәn nә vaxt işlәdilir?",
+    "a": "qanaxmaları dayandırmaq üçün",
+    "d1": "sınıqları",
+    "d2": "yanıqları",
+    "d3": "boğulmaları"
+  },
+  {
+    "num": "92",
+    "q": "92. Xarici qanaxmanın hansı qorxuludur?",
+    "a": "arterial",
+    "d1": "venoz",
+    "d2": "kapilyar",
+    "d3": "daxili"
+  },
+  {
+    "num": "93",
+    "q": "93. Karbon qazı ilә zәhәrlәnmәdә ilk tibbi yardım necә göstәrilir?",
+    "a": "tәmiz havaya çıxarmaq",
+    "d1": "isti çay vermək",
+    "d2": "süni nəfəs",
+    "d3": "ürək masajı"
+  },
+  {
+    "num": "94",
+    "q": "94. Bayılma zamanı ilk tibbi yardım necә göstәrilir?",
+    "a": "naşatır spirti iylәtmәk",
+    "d1": "soyuq su",
+    "d2": "isti kompres",
+    "d3": "başı qaldırmaq"
+  },
+  {
+    "num": "95",
+    "q": "95. Sınıqlar zamanı ilk tibbi yardım necә göstәrilir?",
+    "a": "zәdәlәnәn nahiyәyә şina qoymaq",
+    "d1": "masaj etmək",
+    "d2": "qan çıxarmaq",
+    "d3": "isti su ilə yumaq"
+  },
+  {
+    "num": "96",
+    "q": "96. Xilasetmә vasitәsindә insanı sudan çıxartdıqdan sonra nә etmәk  lazımdır?",
+    "a": "paltarını sıxmaq, yenidәn zәrәrçәkәnә geyindirmәk vә istilik  qoruyucu torbaya yerlәşdirmәk",
+    "d1": "Gəmi kapitanının xüsusi icazəsi ilə",
+    "d2": "Yalnız qapalı dəniz hövzələrində və sakit havada",
+    "d3": "Xilasedici jiletlər və dairələrdən istifadə edərək"
+  },
+  {
+    "num": "97",
+    "q": "97. Suda olarkәn istilik itirmәni azaltmaq üçün nә etmәk lazımdır?",
+    "a": "yumaq kimi yığılmaq vә ayaqları sinәyә sıxmaq",
+    "d1": "intensiv üzmək",
+    "d2": "qışqırmaq",
+    "d3": "arxası üstə uzanmaq"
+  },
+  {
+    "num": "98",
+    "q": "98. Süni nәfәsvermә zamanı zәrәrçәkәnin ciyәrlәrinә hava üfürmә tezliyi 1  dәqiqə әrzindә neçә dәfә olmalıdır?",
+    "a": "12-16 dәfә",
+    "d1": "17-21 dәfә",
+    "d2": "22-26 dәfә",
+    "d3": "27-31 dәfә"
+  },
+  {
+    "num": "99",
+    "q": "99. Әtraf mühitin -150 C temperaturda xilasedici qayığın mühәrriki hansı  müddәt әrzindә işә salınmalıdır?",
+    "a": "2 dәqiqәdәn çox olmayaraq",
+    "d1": "3 dәqiqәdәn çox olmayaraq",
+    "d2": "4 dәqiqәdәn çox olmayaraq",
+    "d3": "5 dәqiqәdәn çox olmayaraq"
+  },
+  {
+    "num": "100",
+    "q": "100. Hansı xilasedici qayıqları növbәtçi xilasedici qayıqlar kimi istifadә etmәk  olar?",
+    "a": "növbәtçi xilasedici qayıqların tәlәblәrini yerinә yetirә bilәn  xilasedici qayıqlar",
+    "d1": "Gəmi kapitanının xüsusi icazəsi ilə",
+    "d2": "Yalnız qapalı dəniz hövzələrində və sakit havada",
+    "d3": "Xilasedici jiletlər və dairələrdən istifadə edərək"
+  },
+  {
+    "num": "101",
+    "q": "101. Hansı xilasedici vasitә kollektiv sayılmır?",
+    "a": "istilik qoruyucu vasitә",
+    "d1": "xilasedici sal",
+    "d2": "xilasedici qayıq",
+    "d3": "növbətçi qayıq"
+  },
+  {
+    "num": "102",
+    "q": "102. Hansı tipli xilasedici qayıqlar konstruktiv xüsusiyyәtlәrinә görә istismarı  qadağan olunub?",
+    "a": "tam açıq",
+    "d1": "yalnız tam bağlı",
+    "d2": "yalnız açıq",
+    "d3": "mühərrikli və mühərriksiz"
+  },
+  {
+    "num": "103",
+    "q": "103. Tәlim mәqsәdi ilә hansı müddәtdәn bir xilasedici qayıq tir (şlyupbalka)  ilə suya endirilir, heyәt otuzdurulur vә manevr edilmәlidir?",
+    "a": "3 ayda azı bir dəfə",
+    "d1": "5 ayda azı bir dəfə",
+    "d2": "7 ayda azı bir dəfə",
+    "d3": "9 ayda azı bir dəfə"
+  },
+  {
+    "num": "104",
+    "q": "104. Növbәtçi qayıq heyәti ilә birlikdә neçә dәqiqәyә tir (şlyupbalka) ilә suya  salınmalıdır?",
+    "a": "5 dәqiqә",
+    "d1": "7 dәqiqә",
+    "d2": "9 dәqiqә",
+    "d3": "11 dәqiqә"
+  },
+  {
+    "num": "105",
+    "q": "105. Xilasedici qayığın mühәrriki әn azı hansı müddәtdә yoxlanılmalıdır?",
+    "a": "hәftәdә 1 dәfә, 3 dәqiqə әrzindә",
+    "d1": "Hәftәdә 2 dәfә, 5 dәqiqə әrzindә",
+    "d2": "Hәftәdә 3 dәfә, 7 dәqiqə әrzindә",
+    "d3": "Hәftәdә 4 dәfә, 9 dәqiqə әrzindә"
+  },
+  {
+    "num": "106",
+    "q": "106. Daxilindә heç kәs olmayan xilasedici sala tullanma hündürlüyü neçә  metr tәşkil edir?",
+    "a": "4.5m",
+    "d1": "6.5m",
+    "d2": "8.5m",
+    "d3": "10.5m"
+  },
+  {
+    "num": "107",
+    "q": "107. Hansı konstruksiyalı qayıqlardan sәrbәst düşәn qayıq kimi istifadә  olunur?",
+    "a": "Tam bağlı qayıqlar",
+    "d1": "yalnız tam bağlı",
+    "d2": "yalnız açıq",
+    "d3": "mühərrikli və mühərriksiz"
+  },
+  {
+    "num": "108",
+    "q": "108. Hansi gәmilәrdә әsasәn sәrbәst düşәn qayıqlardan istifadә olunur?",
+    "a": "Neft, kimyәvi maddәlәr vә qaz daşıyan tankerlәrdә;",
+    "d1": "sərnişin gəmilərində",
+    "d2": "quru yük gəmilərində",
+    "d3": "balıqçı gəmilərində"
+  },
+  {
+    "num": "109",
+    "q": "109. Sәrbәst düşәn qayıqlar hansı hündürlükdәn suya düşmәyә davam  gәtirmәlidirlәr?",
+    "a": "Şәhadәtnamәdә göstәrilәndәn 1,3 dәfә çox hündürlükdәn",
+    "d1": "Şәhadәtnamәdә göstәrilәndәn 2.3 dәfә çox hündürlükdәn",
+    "d2": "Şәhadәtnamәdә göstәrilәndәn 3.3 dәfә çox hündürlükdәn",
+    "d3": "Şәhadәtnamәdә göstәrilәndәn 4.3 dәfә çox hündürlükdәn"
+  },
+  {
+    "num": "110",
+    "q": "110. Kren vә diferentin hansı göstәricilәrindә sәrbәst düşәn qayıqları suya  endirmәk olar?",
+    "a": "Kren 20˚, diferent 10˚",
+    "d1": "Kren 25˚, diferent 12˚",
+    "d2": "Kren 30˚, diferent 14˚",
+    "d3": "Kren 35˚, diferent 16˚"
+  },
+  {
+    "num": "111",
+    "q": "111. Sәrbәst düşәn qayığı mailli müstәvidәn ayıran qurğu neçә müstәqil  sistemdәn ibarәt olmalıdır?",
+    "a": "Azı 2",
+    "d1": "Azı 3",
+    "d2": "Azı 4",
+    "d3": "Azı 5"
+  },
+  {
+    "num": "112",
+    "q": "112. Sәrbәst düşәn qayığı mailli müstәvidәn ayıran qurğu haradan idarә  olunmalıdır?",
+    "a": "Yalnız qayığın daxilindәn",
+    "d1": "göyərtədən",
+    "d2": "maşın şöbəsindən",
+    "d3": "körpüdən"
+  },
+  {
+    "num": "113",
+    "q": "113. Sәrbәst düşәn qayığa insanlar necә yerlәşdirilir?",
+    "a": "Tәhlükәsizlik kәmәrlәri ilә birlikdә xüsusi oturacaqlara",
+    "d1": "döşəməyə oturaraq",
+    "d2": "ayaq üstə",
+    "d3": "adi stullarda"
+  },
+  {
+    "num": "114",
+    "q": "114. Sәrbәst düşәn qayığa hәrәkәt sürәti nә vaxt verilir?",
+    "a": "Su üzәrinә çıxdıqdan sonra",
+    "d1": "suya dəyməmişdən əvvəl",
+    "d2": "havada olarkən",
+    "d3": "gəmidə olarkən"
+  },
+  {
+    "num": "115",
+    "q": "115. Sәrbәst düşәn qayıqlarda sәrbәst düşmәnin enmә hündürlüyü vә  endirmә qurğusunun әyilmә bucağı harada göstәrilir?",
+    "a": "Qayığın şәhadәtnamәsindә",
+    "d1": "gəminin jurnalında",
+    "d2": "kapitanın qeydlərində",
+    "d3": "lövhədə"
+  },
+  {
+    "num": "116",
+    "q": "116. Sәrbәst düşәn qayıqlarda mәşğәlәlәrin vә işlәrin görülmәsi üçün  kimlәrә icazә verilir?",
+    "a": "Sertifikatı vә buraxılışı olan heyәt üzvlәrinә",
+    "d1": "bütün sərnişinlərə",
+    "d2": "təcrübəçilərə",
+    "d3": "yalnız kapitan"
+  }
+]

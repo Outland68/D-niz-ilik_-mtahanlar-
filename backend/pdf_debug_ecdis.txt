@@ -1,0 +1,186 @@
+Elektron Xəritə Displeyinin və İnformasiya Sistemlərinin İstismar 
+Qaydaları 
+ 
+ 
+1. Bir dəqiqə ərzində 50-60 işıltı hansı işığa aiddir? 
+Düzgün cavab: Tez-tez işıltılı işıq 
+ 
+2. Beynəlxalq şərti işarə (FI (2)) hansı işığa aiddir? 
+Düzgün cavab: Qrup işıltılı işığına 
+ 
+3. Beynəlxalq şərti işarə “Q” hansı işığa aiddir? 
+Düzgün cavab: Tez-tez işıltılı işığına 
+ 
+4. Beynəlxalq şərti işarə “Q (9) L FI” hansı işığa aiddir? 
+Düzgün cavab: Qrup tez-tez davamlı işıltı işığına 
+ 
+5. “İşığın rəngi - Qırmızı, xüsusiyyəti - FI 3s” hansı işarəyə aiddir? 
+Düzgün cavab: Lateral işarə, farvaterin (kanalın) sağ tərəfi buyu 
+ 
+6. “İşığın rəngi – Ağ, xüsusiyyəti – Q” hansı işarəyə aiddir? 
+Düzgün cavab: Kardinal işarə, məni şimal tərəfdən keç buyu 
+ 
+7. “İşığın rəngi – Ağ, xüsusiyyəti – Q (6) L FI 15s” hansı işarəyə aiddir? 
+Düzgün cavab: Kardinal işarə, məni cənub tərəfdən keç buyu 
+ 
+8. “İşığın rəngi – Ağ, xüsusiyyəti – FI (2) 5s” hansı işarəyə aiddir? 
+Düzgün cavab: Kiçik ölçülü tək-tək yerləşən təhlükəni göstərən işarə 
+ 
+9. “İşığın rəngi – Sarı, xüsusiyyəti – FI 5s” hansı işarəyə aiddir? 
+Düzgün cavab: Xüsusi təyinatlı təhlükə işarəsi 
+ 
+10. Buya aid olan top fiquru: Buyun boyalanmasını göstərin. 
+ 
+Düzgün cavab: Yaşıl Qırmızı Yaşıl 
+ 
+ 
+ 
+11. Buya aid olan top fiquru: buyun boyalanmasını göstərin. 
+ 
+Düzgün cavab: Sarı Qara Sarı 
+12. Beynəlxalq tələblərə görə «ECDIS» -in əsas komplektlərinə hansı 
+naviqasiya sistemləri mütləq qoşulmalıdırlar? 
+Düzgün cavab: Gəminin yerini təyin etmək üçün sistem, girokompas, laq 
+ 
+13. Kartoqrafik sistemindən istifadə edərkən, Beynəlxalq tələblərə görə, 
+gəmidə hansı sənədlər olmalıdır? 
+Düzgün cavab: Nümunənin bəyənmə şəhadətnaməsi, naviqasiya düzəlişləri 
+üçün müqavilə, müvafiq sənədi, texniki rəhbər sənədi 
+ 
+14. Beynəlxalq şərti işarə “FI” hansı işığa aiddir? 
+Düzgün cavab: İşıltılı işığa 
+ 
+15. Beynəlxalq şərti işarə “L FI” hansı işığa aiddir? 
+Düzgün cavab: Davamlı işıltılı işığa 
+ 
+16. Beynəlxalq şərti işarə “Q (9)” hansı işığa aiddir? 
+Düzgün cavab: Qrup tez-tez işıltılı işığa 
+ 
+17. Beynəlxalq şərti işarə “FI (2+1)” hansı işığa aiddir? 
+Düzgün cavab: Mürəkkəb qrup işıltılı işığa 
+ 
+18. “İşığın rəngi - Qırmızı, xüsusiyyəti - FI (2+1) 9s” hansı işarəyə aiddir? 
+Düzgün cavab: Lateral işarə, əsas farvater sağdadır buyu 
+ 
+19. “İşığın rəngi – Ağ, xüsusiyyəti – Q (3) 10s” hansı işarəyə aiddir? 
+Düzgün cavab: Kardinal işarə, məni qərbdə saxla 
+ 
+20. “İşığın rəngi – Ağ, xüsusiyyəti – Q (9) 15s” hansı işarəyə aiddir? 
+Düzgün cavab: Kardinal işarə, məni şərqdə saxla 
+ 
+21. Gəmilərdə hansı elektron kartoqrafik sistemləri istifadə olunur? 
+Düzgün cavab: RCDS, ECS, ECDİS 
+ 
+ 
+ 
+22. Elektron xəritələrin üçüncü miqyaslar diapazonunun təyinatı nədir? 
+Düzgün cavab: Sahilboyu (sahili görmə zonasında və ya məhdudlaşmış 
+naviqasiya şəraitlərində keçidin təmin edilməsi) 
+ 
+23. Elektron xəritələrin ikinci miqyas diapazonunun təyinatı nədir? 
+Düzgün cavab: General (əsas elektron xəritələrdə keçidinin təmin edilməsi) 
+ 
+24. Elektron xəritələrin dördüncü miqyaslar diapazonunun təyinatı nədir? 
+Düzgün cavab: Sahilə yaxınlaşmalar (sahilə yaxınlaşmanın təmin edilməsi) 
+ 
+25. Elektron xəritələrin beşinci miqyas diapazonunun təyinatı nədir? 
+Düzgün cavab: Hövzələr (limanların akvatoriyasında, buxtalarda, hövzələrdə 
+v.s. hərəkətin təmin edilməsi) 
+ 
+26. Elektron xəritələrin altıncı miqyas diapazonunun təyinatı nədir? 
+Düzgün cavab: Planlar (yanalma zamanı və limandan çıxan zaman 
+üzgüçülüyün eləcə də təhlükəsizliyin təmin edilməsi) 
+ 
+27. Elektron naviqasiya xəritələri Beynəlxalq Hidroqrafiya Təşkilatının (İHO) 
+hansı standartında olmalıdırlar? 
+Düzgün cavab: S-57 
+ 
+28. Elektron naviqasiya xəritələri haqqında olan məlumat qutusunun adı 
+neçə simvoldan ibarətdir? 
+Düzgün cavab: 8 
+ 
+29. Elektron naviqasiya xəritələri haqqında olan məlumat qutusunun 
+adındakı “PP” simvolların açıqlaması nədir? 
+Düzgün cavab: İstehsal edən ölkənin kodu 
+ 
+30. Elektron naviqasiya xəritələri haqqında olan məlumat qutusunun 
+adındakı “S” simvolunun açıqlaması nədir? 
+Düzgün cavab: Miqyaslar sırasının kodu 
+ 
+31. Miqyaslar sırasının kodu neçə diapazondan ibarətdir? 
+Düzgün cavab: 6 
+ 
+32. Elektron naviqasiya xəritələri haqqında olan məlumat qutusunun simvolu 
+göstərilənlərdən hansıdır? 
+Düzgün cavab: PPSCCCCC 
+ 
+33. Elektron naviqasiya xəritələrinin korrekturası rəhbər sənədi hansı servis 
+dərəcələrini təyin edir? 
+Düzgün cavab: Vaxt cədvəlinə əsasən servis, tələblə servis, fövqəladə servis 
+ 
+34. Elektron naviqasiya xəritələrinin korrektura etmə üsullarının kateqoriyası 
+hansıdır? 
+Düzgün cavab: Əl ilə korrektura və avtomatik korrektura 
+ 
+35. Buyun göstərilən top fiquru işarəsini izah edin. 
+ 
+Düzgün cavab: Məni cənubda saxla, işıq - Ağ, boyalanma - qara sarı, 
+xüsusiyyət - Q 
+ 
+36. Buyun göstərilən top fiquru işarəsini izah edin. 
+ 
+Düzgün cavab: Məni şərq tərəfdən keç, işıq - Ağ, boyalanma - qara sarı 
+qara, xüsusiyyət - Q (3) 10s 
+ 
+37. Şəkildəki top fiquru olan buyun tam xarakteristikasını göstərin. 
+ 
+Düzgün cavab: Boyalanma - qara qır qara, işıq - Ağ, xüsusiyyət - FI (2) 5s. 
+Kiçik ölçülü təhlükələrin çəpərlənməsi buyu, hər tərəfdən keçmək olar. 
+Təhlükənin üstündə qoyulur 
+ 
+38. Buyun göstərilən top fiquru işarəsini izah edin. 
+ 
+Düzgün cavab: Məni şərqdə saxla. İşıq - Ağ, boyalanma - sarı qara sarı, 
+xüsusiyyət - Q (9) 15s 
+ 
+39. Lateral işarələr hansı buylardan ibarətdir? 
+Düzgün cavab: kanal buyları, farvaterin tərəfini göstərən buylar 
+ 
+40. Lateral işarələr neçə buydan ibarətdir? 
+Düzgün cavab: 4 
+ 
+41. BMXA (MAMC) sisteminə görə A və B reqionları nə ilə fərqlənir? 
+Düzgün cavab: Buyların rənginə görə 
+ 
+42. Kardinal işarələr neçə buydan ibarətdir? 
+Düzgün cavab: 4 
+ 
+43. Elektron xəritələr hansı formatda olur? 
+Düzgün cavab: Rastr və vektor 
+ 
+44. Beynəlxalq tələblərinə görə ECDİS -in komplektinə əlavə olaraq hansı 
+naviqasiya avadanlıqları qoşulmalıdır? 
+Düzgün cavab: Radar (ARPA), Exolot, AIS, NAVTEX 
+ 
+45. Elektron naviqasiya xəritələrinin korrekturası Beynəlxalq Hidroqrafiya 
+Təşkilatının (IHO) tələblərinə görə hansı standarlarda aparılır? 
+Düzgün cavab: S-52 
+ 
+46. Elektron xəritələrin nömrələnməsində Azərbaycanın kodu necə göstərilir? 
+Düzgün cavab: 7A 
+ 
+47. Elektron naviqasiya xəritələrində ümumi (General) xəritələrin miqyas 
+diapozonu neçədir? 
+Düzgün cavab: 1:2 250 000 – 1:300 001 
+ 
+48. Elektron naviqasiya xəritələrində sahilboyu xəritələrin miqyas diapozonu 
+neçədir?  
+Düzgün cavab: 1:300 000 – 1:80 001 
+ 
+49. Beynəlxalq səviyyədə Elektron Naviqasiya xəritələrinin standartlarа 
+uyğun hazırlanmasına və istifadəsinə hansı təşkilatlar nəzarət edir? 
+Düzgün cavab: IMO və IHO 
+ 
+50. Elektron naviqasiya xəritələrində xülasə xəritələrin miqyas diapozonu 
+neçədir? 
+Düzgün cavab: 1 : 2 250 000-dən kiçik 

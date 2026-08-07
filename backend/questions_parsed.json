@@ -1,0 +1,437 @@
+[
+  {
+    "id": "1",
+    "q": "Dəniz suyunu içmək olarmı?",
+    "a": "qəti olmaz"
+  },
+  {
+    "id": "2",
+    "q": "Əgər salın hər iki girişi bağlı olarsa, orada rahat nəfəs almaq olarmı?",
+    "a": "bəli"
+  },
+  {
+    "id": "3",
+    "q": "Üç davamlı uzun səs siqnalı nəyi bildirir?",
+    "a": "suda adam həyəcan siqnalını"
+  },
+  {
+    "id": "4",
+    "q": "Yük gəmilərində təlim siqnalları üzrə məşqlər hansı tezlıiklə keçirilir?",
+    "a": "ayda 1 dəfə"
+  },
+  {
+    "id": "5",
+    "q": "Gəmini tərk etmək komandasını kim verir?",
+    "a": "kapitan"
+  },
+  {
+    "id": "6",
+    "q": "Gəmi hərəkətdə olarkən lyallardakı suyun səviyyəsi hansı müddətdən  bir ölçülür?",
+    "a": "hər növbədə bir dəfə"
+  },
+  {
+    "id": "7",
+    "q": "Həyəcan cədvəli harada yerləşməlidir?",
+    "a": "kapitan körpüsündə və heyətin yerləşdiyi yerlərdə"
+  },
+  {
+    "id": "8",
+    "q": "Yanğının karbon qazı ilə söndürülməsinin effektivliyi nə ilə bağlıdır?",
+    "a": "bölmənin qapalı olması ilə"
+  },
+  {
+    "id": "9",
+    "q": "Hansı bölmələrdə köpüklə stasionar yanğınsöndürmə sistemi istifadə  olunur?",
+    "a": "qazanxanalarda və maye yanacaq qurğularında"
+  },
+  {
+    "id": "10",
+    "q": "Xilasedici vasitələrdə olarkən pirotexniki vasitələrin istifadəsinin  icazəsini kim verir?",
+    "a": "xilasetmə vasitəsinin komandiri"
+  },
+  {
+    "id": "11",
+    "q": "Salda insanın hərarətinin qəflətən kəskin düşməsinə nə səbəb olur?",
+    "a": "külək"
+  },
+  {
+    "id": "12",
+    "q": "Hansı tip xilasedici vasitə fərdi sayılmır?    1.   2.  3.  4.  5.",
+    "a": "5"
+  },
+  {
+    "id": "13",
+    "q": "Xilasedici dairələrin üzərində nə qeyd olunur?",
+    "a": "qeydiyyat limanı, gəminin adı"
+  },
+  {
+    "id": "14",
+    "q": "Xilasedici dairələr hansı maksimal hündürlükdən suya atılmağa  davamlı olmalıdır?",
+    "a": "30 m"
+  },
+  {
+    "id": "15",
+    "q": "Xilasedici canlıq hansı müddət ərzində huşunu itirmiş insanın ağzını su  üzərində olan vəziyyətə çevirməlidir?",
+    "a": "5 saniyə"
+  },
+  {
+    "id": "16",
+    "q": "Xilasedici canlıq hansı maksimal müddət ərzində kənardan kömək  olmadan geyinilməlidir?",
+    "a": "60 saniyə"
+  },
+  {
+    "id": "17",
+    "q": "Hidrotermokostyum ilə suya hansı maksimal hündürlükdən tullanmaq  olar?",
+    "a": "4,5 m"
+  },
+  {
+    "id": "18",
+    "q": "Hidrotermokostyumun odadavamlılıq müddəti nə qədərdir?",
+    "a": "2 saniyə"
+  },
+  {
+    "id": "19",
+    "q": "Hidrotermokostyum hansı müddət ərzində kömək olmadan  geyinilməlidir?",
+    "a": "2 dəqiqə"
+  },
+  {
+    "id": "20",
+    "q": "Hidrotermokostyum hansı müddət ərzində huşunu itirmiş insanın  ağzını su üzərində olan vəziyyətə çevirməlidir?",
+    "a": "çevirmir"
+  },
+  {
+    "id": "21",
+    "q": "Su xaricində olan xilasedici qayığın mühərrikini maksimum hansı vaxt  ərzində işlətmək olar?",
+    "a": "5 dəqiqə"
+  },
+  {
+    "id": "22",
+    "q": "Xilasedici qayığın tam yanacaq ehtiyatı neçə saat və hansı sürətlə  manevr etməyə imkan yaradır?",
+    "a": "6 uzel ilə azı 24 saat"
+  },
+  {
+    "id": "23",
+    "q": "Növbətçi qayığın tam yanacaq ehtiyatı neçə saat və hansı sürətlə  manevr etməyə imkan yaradır?",
+    "a": "6 uzel ilə azı 4 saat"
+  },
+  {
+    "id": "24",
+    "q": "Xilasedici salın daxilində və xaricində yerləşən işıq qoşulduqdan sonra  hansı müddət ərzində sizi işıqla təmin etməlidir?",
+    "a": "azı 12 saat"
+  },
+  {
+    "id": "25",
+    "q": "Hava təchizatı ilə təmin olunmuş tam örtülü qayıqlar azı hansı müddət  ərzində nəfəs almağa şərait yaradır?",
+    "a": "10 dəqiqə"
+  },
+  {
+    "id": "26",
+    "q": "Odadavamlı xilasedici qayıqların minimal mühafizə müddəti nə  qədərdir?",
+    "a": "8 dəqiqə"
+  },
+  {
+    "id": "27",
+    "q": "Xilasedici qayığın mühərriki ən azı hansı müddətdən bir  yoxlanılmalıdır?",
+    "a": "həftədə bir dəfə, 3 dəqiqə ərzində"
+  },
+  {
+    "id": "28",
+    "q": "Növbətçi qayıq heyəti ilə birlikdə neçə dəqiqəyə tir ilə suya  salınmalıdır?",
+    "a": "5 dəqiqə"
+  },
+  {
+    "id": "29",
+    "q": "İşə salınma kəndirini kəsmək üçün istifadə edilən suda batmayan  bıçaq xilasedici salda harada yerləşir?",
+    "a": "örtüyün üstündə"
+  },
+  {
+    "id": "30",
+    "q": "Kollektiv xilasedici vasitədə olarkən dəniz xəstəliyinə qarşı dərmanı  kim qəbul etməlidir?",
+    "a": "hamı"
+  },
+  {
+    "id": "31",
+    "q": "Bütün həyəcan siqnalları üzrə məşqlər hansı vaxtda keçirilir?",
+    "a": "sutkanın istənilən vaxtı"
+  },
+  {
+    "id": "32",
+    "q": "Açılan metal dayağı harada istifadə olunur?",
+    "a": "dəliklərin tutulmasında"
+  },
+  {
+    "id": "33",
+    "q": "D sinif yanğınlar nə ilə söndürülür?",
+    "a": "xüsusi tərkibli tozla"
+  },
+  {
+    "id": "34",
+    "q": "Örtük (koşma) nə üçün istifadə edilir?",
+    "a": "yanan səthi havadan izolyasiya etmək üçün"
+  },
+  {
+    "id": "35",
+    "q": "Gəmidə hansı yerlərdə siqaret çəkməyə icazə verilir?",
+    "a": "əmrlə təyin olunmuş yerlərdə"
+  },
+  {
+    "id": "36",
+    "q": "Kəşfiyyat qrupu üçün hava nəfəsalma aparatlarının hesabatını kim  aparır?",
+    "a": "qəza partiyasının rəhbəri"
+  },
+  {
+    "id": "37",
+    "q": "Nəfəsalma aparatları hansı qazla doldurulur?",
+    "a": "sıxılmış hava"
+  },
+  {
+    "id": "38",
+    "q": "C sinif yanğınların baş verməsi nə ilə əlaqədardır?",
+    "a": "yanan qazlar ilə"
+  },
+  {
+    "id": "39",
+    "q": "Gəminin hansı bölməsindəki yanğın daha təhlükəlidir?",
+    "a": "maşın bölməsindəki yanğın"
+  },
+  {
+    "id": "40",
+    "q": "Xilasedici salda (qayıqda) UQD radiostansiya \"MAYDAY\" fəlakət  siqnalını ötürmək üçün hansı kanala köklənməlidir?",
+    "a": "16"
+  },
+  {
+    "id": "41",
+    "q": "Ümumi gəmi həyəcan siqnalı necə verilir?",
+    "a": "7 qısa 1 uzun"
+  },
+  {
+    "id": "42",
+    "q": "Köpüklə hansı yanğınları söndürmək olmaz?  1. yanar metalları;  2. bərk maddələri;  3. maye maddələri;  4. gərginlik altında olan elektrik avadanlıqlarını",
+    "a": "1,4"
+  },
+  {
+    "id": "43",
+    "q": "Yanğın nədir?",
+    "a": "maddi ziyan vuran nəzarətsiz yanmadır"
+  },
+  {
+    "id": "44",
+    "q": "Yanğınla mübarizə üçün vasitələr harada olmalıdır?",
+    "a": "xüsusi olaraq ayrılmış yerdə"
+  },
+  {
+    "id": "45",
+    "q": "Yanmış bölmə və ərazini, yanğın təhlükəsinin aradan qaldırılmasından  sonra hansı müddət ərzində izləmək lazımdır?",
+    "a": "12 saat"
+  },
+  {
+    "id": "46",
+    "q": "Yanğın zamanı hansı faktorlar insan həyatına təhlükə yarada bilər?    1. köpük;  2. yanğından ayrılan qazlar;  3. yüksək temperatur;  4. zəif tüstü.",
+    "a": "2,3"
+  },
+  {
+    "id": "47",
+    "q": "Yanğını kəşfiyyat edərkən hansı təhlükəsizlik qaydalarına riayət etmək  lazımdır?",
+    "a": "qapıları və pəncərələri ehtiyatla açmaq"
+  },
+  {
+    "id": "48",
+    "q": "Nəfəsalma aparatlarında hansı yoxlamalar aparılır?",
+    "a": "gündəlik və döyüş yoxlaması"
+  },
+  {
+    "id": "49",
+    "q": "Yanğına qarşı mübarizə əməliyyatlarında nə ən mühüm əhəmiyyət  kəsb edir?",
+    "a": "insanların xilasedilməsi"
+  },
+  {
+    "id": "50",
+    "q": "Gəmidə təhlükəli yüklə doldurulmuş bölməyə girdikdə hansı  təhlükəsizlik qaydalarına riayət etmək lazımdır?",
+    "a": "hava-qaz mühitini yoxlayaraq daxil olmaq"
+  },
+  {
+    "id": "51",
+    "q": "Gəmidə SOLAS-74 Beynəlxalq Konvensiyasının tələblərinə uyğun  olaraq yanğınsöndürmə ləvazimatları dəstinin minimal sayı nə qədər  olmalıdır?",
+    "a": "2 dəst"
+  },
+  {
+    "id": "52",
+    "q": "Yanğına qarşı su sisteminə nə daxildir?",
+    "a": "boru xətti, yanğın nasosu, yanğın şlanqı və lüləsi"
+  },
+  {
+    "id": "53",
+    "q": "Yanğın zamanı yığılmış su nə vaxt xaric edilir?",
+    "a": "yanğının söndürülməsi ilə eyni vaxtda"
+  },
+  {
+    "id": "54",
+    "q": "Yanğının baş verməsi üçün havada oksigenin miqdarı minimum nə  qədər olmalıdır?",
+    "a": "16%"
+  },
+  {
+    "id": "55",
+    "q": "Açıq göyərtədə baş verən yanğınlar nə ilə söndürülür?",
+    "a": "köpük və su ilə eyni vaxtda"
+  },
+  {
+    "id": "56",
+    "q": "Dəm qazının hansı konsentrasiyası insan üçün ölüm təhlükəsi yaradır?",
+    "a": "1.1%"
+  },
+  {
+    "id": "57",
+    "q": "Yanğın həyəcan siqnalı verilərkən hansı fəaliyyətləri yerinə yetirmək  lazımdır?",
+    "a": "işi dayandırmaq, qapıları örtüb toplantı məntəqəsinə  getmək və növbəti əmri gözləmək"
+  },
+  {
+    "id": "58",
+    "q": "Bu faktorlardan hansı yanğının yaranmasına səbəb olmur?",
+    "a": "karbon qazı"
+  },
+  {
+    "id": "59",
+    "q": "Ətraf mühitin temperaturu 800 S olduqda, istiliyə davamlı kostyumun  mühafizə təsiri hansı müddəti təşkil etməlidir?",
+    "a": "3 dəqiqə"
+  },
+  {
+    "id": "60",
+    "q": "Yanğınsöndürmədə hansı qazdan istifadə edilir?",
+    "a": "karbon qazı"
+  },
+  {
+    "id": "61",
+    "q": "Zərərli mühitə daxil olarkən nəfəsalma aparatındakı balonda (200 bar)  minimum təzyiq nə qədər olmalıdır?",
+    "a": "80% (160 bar)"
+  },
+  {
+    "id": "62",
+    "q": "Qəza nəfəsalma aparatının (EEBD) hava ehtiyatı ən azı nə qədər  olmalıdır?",
+    "a": "10 dəqiqə"
+  },
+  {
+    "id": "63",
+    "q": "Qəza nəfəsalma aparatının (EEBD) minimal sayı nə qədər olmalıdır?",
+    "a": "hər göyərtədə 2 dəst"
+  },
+  {
+    "id": "64",
+    "q": "Şlanq xətti hansı şəkildə yığılır?",
+    "a": "1 qat və 2 qat"
+  },
+  {
+    "id": "65",
+    "q": "Xilasedici dairənin çəkisi azı nə qədər olur?",
+    "a": "2.5 kq"
+  },
+  {
+    "id": "66",
+    "q": "Xilasedici salın suda istifadəsi hər bir hava şəraitində azı neçə sutka  nəzərdə tutulub?",
+    "a": "30 sutka"
+  },
+  {
+    "id": "67",
+    "q": "Atılan tipli sala sudan birinci kim daxil olur?",
+    "a": "güclü insan"
+  },
+  {
+    "id": "68",
+    "q": "Xilasedici salda radiolokasiya cavabvericisi işə salındıqdan sonra RLS- nın gözləmə rejimi hansı müddət ərzində işlək vəziyyətdə olur?",
+    "a": "4 gün"
+  },
+  {
+    "id": "69",
+    "q": "Xilasedici salın konteyneri hansı hündürlükdən suya atılmağa davamlı  olmalıdır?",
+    "a": "azı 18 m"
+  },
+  {
+    "id": "70",
+    "q": "Xilasedici qayıqların və salların təchizatında dəniz xəstəliyinə qarşı hər  bir insan üçün hansı miqdarda dərman dozası ayrılır?",
+    "a": "6 ədəd"
+  },
+  {
+    "id": "71",
+    "q": "Neçə vaxtdan bir xilasedici salın təchizatı yoxlanılmalıdır?",
+    "a": "bir ildən bir"
+  },
+  {
+    "id": "72",
+    "q": "Partlayıcı maddələr nə ilə söndürülür?",
+    "a": "su ilə"
+  },
+  {
+    "id": "73",
+    "q": "Sıxıcı sarğılar əsasən nə vaxt işlədilir?",
+    "a": "qanaxmaları dayandırmaq üçün"
+  },
+  {
+    "id": "74",
+    "q": "Xarici qanaxmanın hansı qorxuludur?",
+    "a": "arterial"
+  },
+  {
+    "id": "75",
+    "q": "Daxili qanaxmanın əlamətləri hansılardır?",
+    "a": "arterial təzyiqin aşağı enməsi, halsızlıq, ürəyin tez-tez  döyünməsi, soyuq tər"
+  },
+  {
+    "id": "76",
+    "q": "Güclü burun qanaxmasında ilk tibbi yardım necə göstərilir?",
+    "a": "buruna tampon qoymaqla"
+  },
+  {
+    "id": "77",
+    "q": "İsti vurma nəticəsində ilk yardım necə göstərilir?",
+    "a": "soyuq su ilə vannaya salmaqla"
+  },
+  {
+    "id": "78",
+    "q": "3 %-li hidrogen peroksid nə üçün işlədilir?",
+    "a": "yaraları yumaq üçün dezinfeksiyaedici maddə"
+  },
+  {
+    "id": "79",
+    "q": "Karbon qazı ilə zəhərlənmədə ilk yardım necə göstərilir?",
+    "a": "təmiz havaya çıxartmaqla"
+  },
+  {
+    "id": "80",
+    "q": "Dəniz xəstəliyinin şikayətləri hansılardır?",
+    "a": "iştahsızlıq, zəiflik, baş gicəllənmə, ürək bulanma və qusma"
+  },
+  {
+    "id": "81",
+    "q": "Normal arterial təzyiq neçə olmalıdır?",
+    "a": "120/80"
+  },
+  {
+    "id": "82",
+    "q": "Xilasedici vasitələr hansı təsirlərə davam gətirmirlər?",
+    "a": "zərbəyə və normadan çox hündürlükdən suya atılmaya"
+  },
+  {
+    "id": "83",
+    "q": "Hansı kollektiv xilasedici vasitənin gəminin bir bortundan digər bortuna  daşınması mümkündür?",
+    "a": "xilasedici salın konteynerini"
+  },
+  {
+    "id": "84",
+    "q": "Fərdi xilasedici vasitələr hansı məqsədlər üçün istifadə olunur?",
+    "a": "insanın suyun üzərində saxlanması, sudan və soyuqdan  təcrid olunması üçün"
+  },
+  {
+    "id": "85",
+    "q": "SOLAS-74 nədir?",
+    "a": "Dənizdə İnsan Həyatının Mühafizəsinə dair Beynəlxalq  Konvensiyadır"
+  },
+  {
+    "id": "86",
+    "q": "\"Bütün dənizçilər üçün təhlükəsizlik üzrə tanışlıq, ilkin hazırlıq və  təlimat\" kursu \"Dənizçilərin hazırlanmasına onlara diplom verilməsinə və  növbə çəkməyə dair\" (DHDNÇ-78) Beynəlxalq Konvensiyanın hansı  bölmələrinə əsasən keçirilir?",
+    "a": "A-VI/1-1, 2, 3, 4"
+  },
+  {
+    "id": "87",
+    "q": "Xilasedici salda neçə ədəd və hansı növdə pirotexnika vasitələr  olmalıdır?",
+    "a": "6 falşfeyer, 4 paraşütlü raket, 2 tüstü şaşkası"
+  }
+]

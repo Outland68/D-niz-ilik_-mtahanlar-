@@ -1,0 +1,359 @@
+
+--- PAGE 1 ---
+1000 volt vә artıq olan gәrginlik sistemlәrinin tәhlükәsiz istismarı  
+vә onlara texniki nәzarәt 
+ 
+1. Elektrik avdanlıqları üçün tәtbiq edilәn izolyasiya materialları qurğunun istismarı 
+zamanı 1 Volt nominal gәrginliyә görә: 
+Düzgün cavab: 1500 Om izolyasiya müqavimәtini tәmin etmәlidir 
+ 
+2. Baş paylayıcı şitin konstruksiyası nеçә seksiyadan ibarәt olmalıdır ki, seksiyalar arası 
+avtomatik açarla vә ya ayırıcı ilә tәmin edilә bilsin? 
+Düzgün cavab: Minimum iki bir-birindәn asılı olmayan 
+ 
+3. Baş paylayıcı şitin hәr seksiyasına minimum neçә generator qoşulmalıdır? 
+Düzgün cavab: Bir 
+ 
+4. Nominal cәrәyan nәyә deyilir? 
+       
+Düzgün cavab: Avadanlığın cәrәyan keçirici hissәlәrinin vә izolyasiyasının 
+      
+ buraxılabilәn qiymәtdә qızması ilә uzunmüddәtli işlәmәsini tәmin edәn 
+  
+cәrәyandır 
+ 
+5. Sıfır nöqtәlәrinin bütün torpaqlanmalı impedansları (tam müqavimәt) nә ilә 
+birlәşdirilmәlidir? 
+Düzgün cavab: Gövdә ilә 
+ 
+6. Elektrik maşınlarının örtüklәrinin müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı 
+olmamalıdır? 
+Düzgün cavab: IP23 
+ 
+7. Hazırlıqsız heyәt olan otaqlarda quraşdırılmış elektrik mühәrriklәri üçün örtüklәrin 
+müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır? 
+Düzgün cavab: IP4X 
+ 
+ 
+8. Transformatorların örtüklәrinin müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı 
+olmamalıdır? 
+Düzgün cavab: IP23 
+ 
+9. Hazırlıqsız heyәt olan otaqlarda quraşdırılmış transformatorların örtüklәrinin müdafiә 
+dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır? 
+ 
+ 
+  Düzgün cavab: IP4X 
+ 
+ 
+ 
+
+--- PAGE 2 ---
+10. Paylayıcı şitlәrin, idarәetmә şitlәrinin, statik dәyişdirici şitlәrin şkaflarının metal 
+örtüklәrinin müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır? 
+Düzgün cavab: IP32 
+ 
+11. Hazırlıqsız heyәt olan otaqlarda quraşdırılmış şitlәr üçün metal örtüklәrin müdafiә 
+dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır? 
+           Düzgün cavab: IP4X 
+ 
+12. Xәtti gәrginlik nәyә deyilir? 
+           Düzgün cavab: Üçfazalı elektrik şәbәkәsindә fazalar arasındakı gәrginlikdir 
+ 
+13. Faza gәrginliyi nәyә deyilir? 
+Düzgün cavab: Üçfazalı elektrik şәbәkәsindә bir faza ilә sıfır xәtti arasındakı gәrginlikdir 
+ 
+14. Güc transformatorları qısaqapanmadan vә hәddәn artıq yüklәnmәlәrdәn nә 
+vasitәsilә qorunmalıdırlar? 
+           Düzgün cavab: İndikatorla 
+ 
+15. Nоminal gәrginlik 3(3,3) kV olduqda hava ilә fazalararası minimal mәsafә neçә 
+millimeter olmalıdır? 
+ 
+Düzgün cavab: 90 mm 
+ 
+16. Nоminal gәrginlik 6(6,6) kV olduqda hava ilә fazalararası minimal mәsafә neçә 
+millimeter olmalıdır? 
+ 
+Düzgün cavab: 90 mm 
+ 
+17. Nоminal gәrginlik 10(11) kV olduqda hava ilә fazalararası minimal mәsafә neçә 
+millimeter olmalıdır? 
+           Düzgün cavab: 120 mm 
+ 
+18. Nоminal gәrginlik 15 kV olduqda hava ilә fazalararası minimal mәsafә neçә 
+millimeter olmalıdır? 
+ 
+Düzgün cavab: 160 mm 
+ 
+19. Gәmilәrdә әsasәn hansı gәrginlikli elektrik enerjisi istehsal edilәrәk gәminin gövdәsi 
+üzrә paylanır? 
+ 
+Düzgün cavab: 3 fazalı, 50 hers, 380 volt 
+ 
+20. Gәmilәrdә yüksәk gәrginlik dedikdә hansı gәrginliklәr başa düşülür? 
+Düzgün cavab: 1000 volt dәyişәn, 1500 volt sabit gәrginliklәrdәn yuxarı bütün gәrginliklәr 
+ 
+21. Tipik gәmi yüksәk gәrginlik sistemlәri adәtәn hansı gәrginliklәrlә işlәyirlәr? 
+Düzgün cavab: 3,3 kV vә ya 6,6 kV 
+ 
+22. İnsan bәdәni elektrik cәrәyanına nә üçün az müqavimәt göstәrir? 
+Düzgün cavab: Çünki insan bәdәninin әsasını duzlu maye tәşkil edir 
+
+--- PAGE 3 ---
+ 
+23. 1 mA, 50 Hz tezlikli cәrәyan insan bәdәnindәn axarsa nә baş verәr? 
+ 
+Düzgün cavab: Gizildәmә 
+ 
+24. 15 mA, 50 Hz tezlikli cәrәyan insan bәdәnindәn axarsa nә baş verәr? 
+ 
+Düzgün cavab: Ürәyin әzәlәlәrini yığar 
+ 
+25. 50 mA-dәn artıq cәrәyanlar insan bәdәnindәn axarsa nә baş verәr? 
+           Düzgün cavab: Әzәlәlәri idarәolunmaz hala gәtirә bilәr 
+ 
+26. Qövs yaranan zaman temperatur tәxminәn necә dәrәcәyә (S 0) çatır? 
+Düzgün cavab: 20000 S-yə 
+ 
+27. Elektrik qövslәri yaranan zaman zәrbә dalğaları nәticәsindә kontakt sistemlәrindә 
+vә şinlәrdә olan bәzi metallar, mәsәlәn, mis әriyәr. Bunun nәticәsindә mis genişlәnәr, 
+hәcmi adi halındakından neçә dәfә artar vә partlayışa sәbәb olar? 
+Düzgün cavab: 67000 dәfә 
+ 
+28. Cәrәyan aхınına nәzarәt edәn avtomatik açarlar hansı müddәtdә işә düşmәlidirlәr? 
+Düzgün cavab: 50 millisaniyә 
+ 
+29. İnsan bәdәnindәn elektrik cәrәyanı axdıqda әsas müqavimәti nә göstәrir? 
+Düzgün cavab: İnsanın dәrisi 
+ 
+30. İnsan bәdәninin müqavimәti hansı amillәrdәn asılıdır? 
+Düzgün cavab: İnsanın fiziki vә psixi vәziyyәtindәn, әtraf mühitin cari vәziyyәtindәn 
+ 
+31. İnsanın dәrisinin, sümüklәrinin, qığırdaqlarının, vәtәrlәrinin vә piy toxumalarının 
+elektrik cәrәyanına göstәrdiyi müqavimәt tәxminәn nә qәdәrdir? 
+Düzgün cavab: 3000-20000 Om/m 
+ 
+32. İnsanın әzәlәlәrinin, qanının, limfalarının, xüsusәn dә baş vә onurğa beyininin 
+elektrik cәrәyanına göstәrdiyi müqavimәt tәxminәn nә qәdәrdir? 
+Düzgün cavab: 0,5-1,0 Om/m 
+ 
+33. Tәmiz, quru vә zәdәlәnmәmiş insan dәrisinin maksimal müqavimәti hansı hәddlәrdә 
+dәyişir? 
+Düzgün cavab: 10000-100000 Om arasında 
+ 
+34. Hansı tezliklәrdә insan dәrisinin üst tәbәqәsi tamamilә müqavimәtini itirir? 
+Düzgün cavab: 10 kHs-dәn 20 kHs vә daha artıq tezliklәrdә 
+ 
+35. Qadınların müqavimәtinin az, kişilәrinkinin isә çox olması nә ilә izah edilir? 
+Düzgün cavab: Dәrinin qalınlığı ilә 
+ 
+
+--- PAGE 4 ---
+36. Qәflәtәn baş verәn qıcıqlanmalar; ağrılar, işıqlar, sәslәr insan bәdәninin 
+müqavimәtini bir neçә dәqiqәyә neçә faiz aşağı salır? 
+Düzgün cavab: 20-50% 
+ 
+37. Elektrik tәhlükәsizliyi hesabatlarında insan bәdәninin müqavimәtini stabil xәtti vә 
+aktiv olmaqla nә qәdәr götürürlәr? 
+Düzgün cavab: 1000 Om 
+ 
+38. Fiksasiya edilmiş elektrik avadanlıqları hansılardır? 
+Düzgün cavab: Nәyәsә xüsusi vәziyyәtdә bәrkidilmiş elektrik avadanlıqlardır 
+ 
+39. İş vaxtı yerini dәyişә bilәn vә ya cәrәyan mәnbәyinә qoşulmaq üçün bir vәziyyәtdәn 
+digәr vәziyyәtә keçirilә bilәn elektrik avadanlıqları necә adlanırlar? 
+Düzgün cavab: Portativ elektrik avadanlıqları 
+ 
+40. Әriyәn qoruyuculu avtomatik açarlar nә üçün nәzәrdә tutulub? 
+Düzgün cavab: Qısaqapanma cәrәyanını ayırmaq üçün 
+ 
+41. İki generatorun paralel işә buraxılması üçün onların gәrginliyi vә tezliyi necә 
+olmalıdır? 
+Düzgün cavab: Eyni olmalıdır 
+ 
+42. Sabit cәrәyan generatorlarında tezlik nәyә bәrabәrdir? 
+Düzgün cavab: Sıfıra bәrabәrdir 
+ 
+43. İki paralel işlәyәn generatorların gәrginliklәri necә olmalıdır? 
+Düzgün cavab: Bәrabәr olmalıdır 
+ 
+44. «Live» yazılmış lövhә nәyi bildirir? 
+Düzgün cavab: Elektrik sistemi gәrginlik altındadır 
+ 
+45. «Dead» yazılmış lövhә nәyi bildirir? 
+Düzgün cavab: Gәrginlik altında deyil, bütün elektrik enrji mәnbәlәrindәn ayrılıb 
+ 
+46. Yüksәk gәrginlikli aparatlar hansılardır? 
+Düzgün cavab: 1000 voltdan artıq gәrginliklәrdә işlәyәn bütün aparat, avadanlıq vә 
+keçiricilәr 
+ 
+47. Gәmidә elektrotexniki qaydaların izah edilmәsinә vә yerinә yetirilmәsinә kim 
+cavabdehdir? 
+Düzgün cavab: Şirkətin yazılı әmri ilә tәsdiq edilmiş baş mühәndis-elektrik 
+ 
+48. Mühәndis-elektrik tәrәfindәn qaydalarda göstәrilmiş xüsusi vәzifәlәrin yerinә 
+yetirilmәsi üçün tәyin edilәn şәxs kimdir? 
+Düzgün cavab: Böyük sәlahiyyәtli şәxs 
+ 
+
+--- PAGE 5 ---
+49. Səriştəli şәxs kimlәrdir? 
+Düzgün cavab: Öz funksional vәzifәsi üzrә lazımi dәrәcәdә texniki bilik vә 
+tәcrübәyә malik olan şәxslәr 
+ 
+50. İşә buraxılma nәdir? 
+Düzgün cavab: Sәlahiyyәtli şәxsin səriştəli şәxsә ya yüksәk gәrginlikli 
+avadanlıqlarla, ya da ona yaxın aparatlarla işlәmәk üçün verdiyi әrizә 
+forması 
+ 
+51. Әsas torpaqlama nәdir? 
+Düzgün cavab: Elektrik sistemlәrindә işlәyәn zaman tәhlükәsizliyin tәmin edilmәsi 
+mәqsәdilә sınağa sanksiya vә ya işә buraxmaq üçün sәnәdlә tәsdiqlәnәn yerlә 
+birlәşdirilmә 
+ 
+52. Әlavә torpaqlama nәdir? 
+Düzgün cavab: Bu torpaqlama aparatlara әsas torpaqlamadan sonra qoşulur 
+ 
+53. Açarlar üçün seyf nә üçün nәzәrdә tutulub? 
+Düzgün cavab: Torpaqlama vә başqa tәhlükәsizlik qurğularının bağlanaraq 
+açarlarının etibarlı saxlanılmasını tәmin edir 
+ 
+54. Yüksәk gәrginlikli aparatlar olan yerlәrә vә bölmәlәrә giriş kim tәrәfindәn 
+mәhdudlaşdırılır vә ancaq onun müşaiyәti ilә hәyata keçirilir? 
+Düzgün cavab: Sәlahiyyәtli şәxs tәrәfindәn 
+ 
+55. Torpaqlamanın әsas dövrәsinin qurulmasını vә sökülmәsini kimlәr yerinә yetirә 
+bilәrlәr? 
+Düzgün cavab: Yalnız sәlahiyyәtli şәxslәr 
+ 
+ 
+56. Әgәr yüksәk gәrginlikli aparatlar cәrәyan mәnbәyindәn ayrılıb cәrәyandan 
+boşaldılıbsa, onda naqillәri torpaqlanmadan әvvәl nә ilә yoxlamaq lazımdır? 
+Düzgün cavab: Yoxlanılmış potensiometr-indikatorla 
+ 
+57. Transformatorun istәnilәn birlәşmәlәrindә iş görüldükdә nә etmәk lazımdır? 
+Düzgün cavab: Gәrginliyin qiymәtindәn asılı olmayaraq bütün şәbәkә ayrılmalıdır 
+ 
+58. Elektrik tәhlükәsizliyi üzrә mütәxәssis kimdir? 
+Düzgün cavab: Bütün iş prosesi boyunca yüksәk gәrginlikli elektrik tәhlükәsizliyinә 
+cavabdeh vә işlәrin tәhlükәsiz yerinә yetirilmәsini tәlәb edәn şәxs 
+59. Yüksәk gәrginlikli avadanlıqlarda vә ya onların yaхınlığındakı işlәrә başlamazdan 
+әvvәl hansı qaydalara riayәt etmәk lazımdır? 
+Düzgün cavab: Tәhlükәsizlik qaydalarına 
+ 
+
+--- PAGE 6 ---
+60. Elektrik tәhlükәsizliyi üzrә mütәхәssis icazә vermәyincә işә başlamaq olarmı? 
+Düzgün cavab: Olmaz 
+ 
+61. Tәhlükәli ola bilәcәk gözlәnilmәz hallarda işçi qrup nә etmәlidir? 
+Düzgün cavab: Elektrik tәhlükәsizliyi üzrә mütәхәssisi хәbәrdar etmәli vә işlәrin 
+davam etdirilmәsi üçün icazә gözlәmәlidir 
+ 
+62. Cәrәyanın, gәrginliyin, zamanın, tezliyin vә s. qiymәtlәrini ölçmәk vә verilmiş 
+parametrdә işә düşmәk hansı qurğuların funksiyalarına daxildir? 
+Düzgün cavab: Müdafiә qurğularının 
+ 
+63. Qoruyucuların әsas vәzifәsi nәdir? 
+Düzgün cavab: Qısa qapanmış dövrәni ayırmaq 
+ 
+64. Qoruyucunun işindә neçә әsas period var? 
+Düzgün cavab: İki 
+ 
+65. Qövsdәn әvvәlki vaxt nәdәn asılıdır? 
+Düzgün cavab: Cәrәyanın qiymәtindәn 
+ 
+66. Qövsdәn sonrakı vaxt (qövsün yanma vaxtı) nәdәn asılıdır? 
+Düzgün cavab: Gәrginliyin qiymәtindәn 
+ 
+67. Aktiv qısaqapanmalar nәyә deyilir? 
+Düzgün cavab: Bir fazanın cәrәyanı ilә ikinci fazanın cәrәyanının qısaqapanması vә ya 
+bir fazanın yerlә qapanmasına 
+ 
+68. Passiv qısaqapanmalar nәyә deyilir? 
+Düzgün cavab: Cәrәyan axan naqillәrdә cәrәyan şiddәtinin artması nәticәsindә 
+izolyasiyanın tәdricәn sıradan çıxması vә onun xidmәt müddәtinin azalmasına 
+ 
+69. Güc qurğusunun әsas vәzifәsi nәdir? 
+Düzgün cavab: Fasilәsiz elektrik tәchizatını maksimum tәmin etmәk 
+ 
+70. Selektivlik, dayanıqlılıq, zez işә düşmә, hәssaslıq vә s. kimi keyfiyyәtlәrә malik olan 
+qurğular necә adlanırlar? 
+Düzgün cavab: Müdafiә sistemlәri 
+ 
+71. Nasaz hissәlәri müәyyәn edәrәk izolyasiya etmәk necә adlanır? 
+Düzgün cavab: Selektivlik 
+ 
+72. Fasilәsiz qidalanmanı tәmin etmәk üçün saz dövrәlәri zәdәlәnmәdәn qorumaq necә 
+adlanır? 
+Düzgün cavab: Dayanıqlılıq 
+ 
+ 
+
+--- PAGE 7 ---
+73. Elektrik yoxlamalarının mәqsәdi nәdir? 
+Düzgün cavab: Elektrik avadanlıqlarının şәbәkәyә qoşulmaq üçün tәhlükәsizliyini vә ya 
+baş verә bilәcәk qısaqapanmanı tәyin edәrәk lokallaşdırmaq 
+ 
+74. İstismarda olmuş, tәmirdәn sonra istismara buraxılmış vә ya texniki baxışdan 
+keçmiş kabellәr hansı testdәn keçirilmәlidirlәr? 
+Düzgün cavab: Bütövlük testindәn 
+ 
+75. Cәrәyan transformatorunun quruluşu necәdir? 
+Düzgün cavab: Birinci vә ikinci dolaqlardan ibarәt birfazalı transformatordur 
+ 
+76. Qütblәşmә indeksinin test yoxlaması necә aparılır? 
+Düzgün cavab: İzolyasiyanın müqavimәtinin yoxlanılması testi ilә birlikdә әsasәn 3,3 kV 
+elektrik mühәrriklәrindә aparılır 
+ 
+77. Elektrik avadanlığı dәyişәn cәrәyanla işlәyirsә test yoxlaması hansı cәrәyanla 
+yerinә yetirilmәlidir? 
+Düzgün cavab: Dәyişәn cәrәyanla 
+ 
+78. Elektrik avadanlığı sabit cәrәyanla işlәyirsә test yoxlaması hansı cәrәyanla yerinә 
+yetirilmәlidir? 
+Düzgün cavab: Sabit cәrәyanla 
+ 
+79. Transformatorun ikinci dolağı yüksüz rejimdә sınaq yoxlamalarından keçirilirsә bu 
+necә test yoxlaması adlanır? 
+Düzgün cavab: Gәrginlikdәn ayrılmış şәbәkәlәrin test yoxlaması 
+ 
+80. Cәrәyan nә ilә ölçülür? 
+Düzgün cavab: Ampermetrlә 
+ 
+81. Müqavimәt nә ilә ölçülür? 
+Düzgün cavab: Ommetrlә 
+ 
+82. Müqavimәt hansı düsturla hesablanır? 
+Düzgün cavab: R=U/I 
+ 
+83. «Ulduz» birlәşdirilmiş dolaqlar necә yoxlanılmalıdır? 
+Düzgün cavab: Faza ilә neytral arasında 
+ 
+84. «Üçbucaq» birlәşdirilmiş dolaqlar necә yoxlanılmalıdır? 
+Düzgün cavab: Faza ilә faza arasında 
+ 
+85. Voltmetr dövrәyә necә qoşulur? 
+Düzgün cavab: Paralel 
+ 
+ 
+
+--- PAGE 8 ---
+86. Ampermetr dövrәyә necә qoşulur? 
+Düzgün cavab: Ardıcıl 
+ 
+87. Transformasiya әmsalı nә demәkdir? 
+Düzgün cavab: Transformatorun birinci vә ikinci dolaqlarının sarğılarının nisbәtidir 
+ 
+88. Aktiv gücün ölçü vahidi nәdir? 
+Düzgün cavab: Vatt 
+ 
+89. Elektrik mühәrriklәrinin işәburaxma momentindә onların istehlak gücü nominal 
+gücdәn neçә dәfә çox ola bilәr? 
+Düzgün cavab: 3-7 dәfә 
+ 
+90. Tam gücün ölçü vahidi nədir? 
+Düzgün cavab: Volt-Amper 
+ 
+ 

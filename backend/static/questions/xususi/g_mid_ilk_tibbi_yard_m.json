@@ -1,1001 +1,1001 @@
 {
-  "certificate": "Gəmidə ilk tibbi yardım",
-  "questions": [
-    {
-      "id": "q001",
-      "question": "1. Venoz qanaxmanı necə dayandırmaq lazımdır?",
-      "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "Yaranın üstünə sıxıcı sarğı bağlamaqla",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q002",
-      "question": "2. Ürəyin bağlı masajı üçün əllər döş qəfəsinin hansı nahiyəsinə qoyulur?",
-      "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "avtomatik rejimdə işləyərkən",
-        "C": "Döş sümüyünün aşağı 1/3 hissəsinə",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q003",
-      "question": "3. Süni nəfəsvermə zamanı zərərçəkənin ciyərlərinə hava üfürülmə tezliyi 1 dəqiqədə neçə dəfə olmalıdır?",
-      "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "12-16 dəfə",
-        "C": "bütün cavablar doğrudur",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q004",
-      "question": "4. Mədə qanaxmasında həkimə qədər yardıma nə daxildir?",
-      "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "Aclıq və buz qovuğunun tətbiqi",
-        "D": "lövbər dayanacağı sahəsində"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Ürəyin bağlı masajı zamanı döş sümüyü onurğa tərəfə neçə santimetr sıxılmalıdır?",
-      "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "3-4 sm"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q006",
-      "question": "6. Hidrogen peroksid (3 % 100 ml) nə üçün işlədilir?",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "Yaraları yumaq üçün dezinfeksiyaedici maddə, burun Qanaxmalarında",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q007",
-      "question": "7. Qanaxmanın hansı forması ağır hesab olunmur?",
-      "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "Kapilyar qanaxma"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q008",
-      "question": "8. Yodun 5%-li məhlulu nə üçün istifadə olunur?",
-      "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "Yara kənarlarının silinməsi üçün, dezinfeksiyaedici məhlul olaraq",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q009",
-      "question": "9. Arterial qanaxmanın əlamətləri hansılardır?",
-      "options": {
-        "A": "Al qırmızı rəngdə olması, qan güclü təzyiqlə axır",
-        "B": "şimal-şərq istiqamətində",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q010",
-      "question": "10. Aşağı ətrafda qanaxma zamanı hansı arteriyanı sıxmaq lazımdır?",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "Bud arteriyanı",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "şimal-şərq istiqamətində"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q011",
-      "question": "11. I və II dərəcəli yanıqlar zamanı ilk tibbi yardımın əsasları hansıdır?",
-      "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "Təsiredici amilin qarşısını almaq, yanıq yerini soyutmaq, Pantenol vurmaq, steril nəm tamponla və steril cuna ilə örtmək",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q012",
-      "question": "12. Yuxarı ətrafda qanaxma zamanı hansı arteriyanı sıxmaq lazımdır?",
-      "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "Bazu arteriyanı"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q013",
-      "question": "13. Suda boğulan insana ilk tibbi yardım necə göstərilir?",
-      "options": {
-        "A": "Nəfəs yollarından su çıxarılır, ürəyin fəaliyyəti dayandıqda ürək xaricdən masaj edilir, suni nəfəs verilir",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "cənub-qərb dreyfi zamanı"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q014",
-      "question": "14. Ölümün ilk nişanələri hansılardır?",
-      "options": {
-        "A": "ürək döyüntüsünün dayanması, tənəffüsün dayanması",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q015",
-      "question": "15. Əllər və ayaqların iri arteriyaları zədələndikdə hansı qandayandırma üsulu daha etibarlıdır?",
-      "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "Turnanın qoyulması və ya barmaqla sıxılması",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q016",
-      "question": "16. Sümüklərin sınması əlamətləri hansılardır?",
-      "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "şişkinlik, qızartı, ağrı, qanaxma",
-        "D": "gərginlik 220 V həddinə çatdıqda"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q017",
-      "question": "17. Arterial qanaxmanı necə dayandırmaq lazımdır?",
-      "options": {
-        "A": "50 metr məsafədə dənizdə",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "Yaradan yuxarı hissədə jqut bağlamaqla"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q018",
-      "question": "18. Burun qanaxması zamanı nə etmək lazımdır?",
-      "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "Zərərçəkəni yarımoturaq vəziyyətə gətirərək başını qabağa əyib,onun burun nahiyəsinin soyudulmasını təmin etmək lazımdır"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q019",
-      "question": "19. Əzələdaxili inyeksiya hansı bucaq altında aparılır?(sarğı əzələsinə)",
-      "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "90",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q020",
-      "question": "20. Qan-damar sistemi hansı orqanlardan ibarətdir?",
-      "options": {
-        "A": "Ürək və onunla bağlı müxtəlif ölçülərdə damarlarla (aorta, arteriya, vena, kapillyar ),birdə 5-5.5 qan",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar doğrudur",
-        "D": "50 metr məsafədə dənizdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q021",
-      "question": "21. Xarici zədə əlamətləri görünməyən və huşsuz vəziyyətdə olan, ürək ağciyər reanimasiyası keçirmiş zərərçəkənə hansı “bərpa edici” vəziyyəti vermək lazımdır?",
-      "options": {
-        "A": "Böyrü üstə uzadıb ayaqlarını dizdən bükmək",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "bütün cavablar yanlışdır"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q022",
-      "question": "22. Xəstənin dərmana həssaslığını yoxlamaq üçün iynə hansı nahiyəyə vurulur?",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "Dəri altına"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q023",
-      "question": "23. Yüksək temperatur hansı sayılır?",
-      "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "50 metr məsafədə dənizdə",
-        "C": "39-40 °C",
-        "D": "şimal-şərq istiqamətində"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q024",
-      "question": "24. Daxili qanaxmalar zamanı xəstələri nəql edərkən onlara hansı vəziyyət verilməlidir?",
-      "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "Xəstəyə xərəkdə yarımoturaq vəziyyət verilməlidir",
-        "D": "gəmi limana daxil olana qədər"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q025",
-      "question": "25. Normal halda kişilərdə tənəffüsün tezliyi 1 dəqiqədə neçə olmalıdır?",
-      "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "16-18",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q026",
-      "question": "26. Sınıqlar zamanı şokun profilaktikası üçün həkimə qədər ilk tibbi yardım zamanı nə etmək olmaz?",
-      "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "Xəstəni hərəkət etdirmək"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q027",
-      "question": "27. Normal arterial təzyiq neçə olmalıdır?",
-      "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "avtomatik rejimdə işləyərkən",
-        "C": "120/80",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q028",
-      "question": "28. Burun qanaxmasında başa hansı vəziyyət verilir?",
-      "options": {
-        "A": "Yüngül önə əyilmiş",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "cənub-qərb dreyfi zamanı"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q029",
-      "question": "29. Həyati əlamətlərə bunlardan hansı aid deyil?",
-      "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "Gözün buynuz qışası bulanır və quruyur",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "lövbər dayanacağı sahəsində"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q030",
-      "question": "30. 1-ci dərəcəli yanıq əlamətləri aşağıdakılardan hansıdır?",
-      "options": {
-        "A": "Ağrı,qızartı,şişkinlik",
-        "B": "50 metr məsafədə dənizdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "şimal-şərq istiqamətində"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q031",
-      "question": "31. Yağlı məhlulun hansı üsulla yeridilməsi yağ emboliyasına səbəb olur?",
-      "options": {
-        "A": "hər 6 aydan bir keçirilən təlimlərdə",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "şimal-şərq istiqamətində",
-        "D": "Venadaxili"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q032",
-      "question": "32. Döş sümüyünün arxasında ağrılar zamanı həkimə qədər ilk yardım hansıdır?",
-      "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "şimal-şərq istiqamətində",
-        "D": "Dil altına nitroqliserin qoymaq"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q033",
-      "question": "33. 2-ci dərəcəli yanıq əlamətləri aşağıdakılardan hansılardır?",
-      "options": {
-        "A": "Ağrı, suluqlar",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q034",
-      "question": "34. Elektrotravma zamanı aşağıda göstərilən yardımlardan hansı qəti qadağandır?",
-      "options": {
-        "A": "hər 6 aydan bir keçirilən təlimlərdə",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "Elektrik vurmuş şəxsi torpağa basdırmaq"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q035",
-      "question": "35. Vətərlərin gərilməsi zamanı:",
-      "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "soyuq kompres qoymaq, sıx sarğı",
-        "C": "şimal-şərq istiqamətində",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q036",
-      "question": "36. Dərialtı inyeksiya hansı nahiyədə aparılır?",
-      "options": {
-        "A": "Saidin içəri səthində",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q037",
-      "question": "37. Vena daxilinə damcı üsulu ilə dərman yeridilərkən xəstənin vəziyyəti necə olmalıdır?",
-      "options": {
-        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "Arxası üstə uzanmış"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q038",
-      "question": "38. 3-cü dərəcəli yanıq əlamətləri hansılardır?",
-      "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "bütün cavablar doğrudur",
-        "C": "Epidermisin, dermanın yanması",
-        "D": "50 metr məsafədə dənizdə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q039",
-      "question": "39. 4-cü dərəcəli yanıq əlamətləri hansılardır?",
-      "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "Bütün toxuma qatlarının nekrozu",
-        "D": "bütün cavablar doğrudur"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q040",
-      "question": "40. Zərərçəkənin çoxlu qan itirməsinin əlamətləri:",
-      "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "Soyuq yapışqanlı tər, başgicəllənmə, halsızlıq, zəif nəbz,arterial təzyiqin aşağı düşməsi, təngnəfəslik",
-        "D": "şimal-şərq istiqamətində"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q041",
-      "question": "41. Yüngül əzilmə zamanı ilk yardım",
-      "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "soyuq kompres qoymaq",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q042",
-      "question": "42. Qarının deşilmiş yarası zamanı ilk tibbi yardım?",
-      "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "50 metr məsafədə dənizdə",
-        "D": "Yarımoturaq-ayaqları yığılmış vəziyyətdə, soyuq kompres qoymaq"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q043",
-      "question": "43. Venoz qanaxmanın əlamətləri hansılardır?",
-      "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "avtomatik rejimdə işləyərkən",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "Tünd qırmızı rəngdə olması, zəif, fasiləsiz axması"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q044",
-      "question": "44. Döş qəfəsi yaralanmaları zamanı hansı hermetik sarğıdan istifadə etmək olar?",
-      "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "Okluzion",
-        "D": "avtomatik rejimdə işləyərkən"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q045",
-      "question": "45. Arterial qanaxmanın müvəqqəti dayandırılmasında hansı üsuldan istifadə olunur?",
-      "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "Damarların sümüklərə sıxılması"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q046",
-      "question": "46. Arterial qanaxmanı venoz qanaxmadan fərqləndirən nədir?",
-      "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "Al qırmızı rəngdə olması, qanın güclü təzyiqlə axması",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q047",
-      "question": "47. II dərəcəli donma üçün xarakterik əlamət hansıdır?",
-      "options": {
-        "A": "Suluqların əmələ gəlməsi",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "fırtınalı havada təxirə salınmaqla"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q048",
-      "question": "48. Burun qanaxması zamanı ilk tibbi yardım hansıdır?",
-      "options": {
-        "A": "Burnun üstünə və alına buz qoymaq",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "D": "bütün cavablar doğrudur"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q049",
-      "question": "49. İnsanın qan daşıyıcı sistemində neçə litr qan var?",
-      "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "5 litr",
-        "D": "cənub-qərb dreyfi zamanı"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q050",
-      "question": "50. Bazu oynağının çıxığında ilk tibbi yardım məqsədilə nə yerinə yetirilir?",
-      "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "soyuq kompres qoymaq, hərəkətsizləşdirmək",
-        "D": "lövbər dayanacağı sahəsində"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q051",
-      "question": "51. Dərialtı inyeksiyadan sonra inyeksiya yeri bərkidikdə aşağıda sadalanan tədbirdən hansı əks-göstəriş sayılır?",
-      "options": {
-        "A": "Bərkiyən nahiyyəyə buz qovuğu qoymaq",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q052",
-      "question": "52. Vena daxili inyeksiyadan əvvəl turnanın düzgün qoyulmasının göstəricisi nədir",
-      "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "Turnadan aşağı hissədə dəri örtüyünün avazıması",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "10 uzel sürətlə manevr etdikdə"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q053",
-      "question": "53. Nəbzi hansı arteriyalarda saymaq mümkündür?",
-      "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "Sadalanan arteriyalarda",
-        "D": "gəmi limana daxil olana qədər"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q054",
-      "question": "54. Elektrotravmalarda ilk tibbi yardım hansıdır?",
-      "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "Ürəyin xarici masajı",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q055",
-      "question": "55. İnsanı həyata qaytarmaq üçün adi şəraitdə kilinik ölümün vaxt nə qədər olmalıdır?",
-      "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "4-5 dəq",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q056",
-      "question": "56. Reanimasion tədbirləri kliniki ölümün hansı dəqiqəsində yerinə yetirdikdə daha çox effektli olur?",
-      "options": {
-        "A": "1-2 dəq",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q057",
-      "question": "57. Orta yaşlı insanlarda nəbz 1dəqiqədə neçə olmalıdır?",
-      "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "75-80"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q058",
-      "question": "58. İnsanı huşsuz vəziyyətdə aşkar edərkən nə etmək lazımdır?",
-      "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "Əsasən nəbz,tənəffüs və bəbəklərinə xüsusi fikir vermək",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q059",
-      "question": "59. Sarğı qoymağın əsas prinsipləri?",
-      "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "bütün cavablar yanlışdır",
-        "C": "Əlləri yumaq, yaranın kənarlarını təmizləmək, aseptik sarğı Bağlamaq",
-        "D": "lövbər dayanacağı sahəsində"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q060",
-      "question": "60. Yod məhlulundan və ya brilyant yaşılından dezinfeksiya vasitəsi kimi düzgün olaraq necə istifadə olunur?",
-      "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "Yaranın ətrafına sürtülməlidir",
-        "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q061",
-      "question": "61. Açıq sınıqda ilk tibbi yardım necə göstərilir?",
-      "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "Qanaxmanın qarşısı alınır, sınmış hissə hərəkətsizləşdirilir, ağrı kəsici vurulur"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q062",
-      "question": "62. Ətrafların çıxığı zamanı zərərçəkənə ilk tibbi yardımın göstərilməsi nədən ibarətdir?",
-      "options": {
-        "A": "Ətrafı zədələnmədən sonrakı vəziyyətdə təsbit (fiksə) etməklə zədələnən oynağın üzərinə buz və ya soyuq kompres qoymaq",
-        "B": "şimal-şərq istiqamətində",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q063",
-      "question": "63. Bazu sümüyü sınan zərərçəkənə ilk tibbi yardımın göstərilməsi nədən ibarətdir?",
-      "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "Bazunun bayır və içəri tərəfindən iki ədəd şina qoymaq,qoltuq altına yumşaq valik (bükülü) qoymaq və qolu dirsəkdən büküb ləçəkdə boyundan asmaq lazımdır",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q064",
-      "question": "64. Açıq sınıqda ilk yardım necə göstərilir?",
-      "options": {
-        "A": "Qanaxmanın qarşısı alınır, sınmış hissə hərəkətsizləşdirilir, ağrıkəsici vurulur",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q065",
-      "question": "65. Qabırğaların sınığı zamanı xəstəni hansı vəziyyətdə daşımaq olar?",
-      "options": {
-        "A": "Yarımoturaq",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "şimal-şərq istiqamətində",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q066",
-      "question": "66. Gəmidə ilk tibbi yardım xüsusi hazırlıq kursu Beynəlxalq Konvensiyanın hansı bölməsinin tələbələrinə uyğun təşkil olunmalıdır?",
-      "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "A-VI/4",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "bütün cavablar yanlışdır"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q067",
-      "question": "67. Sınıqlar neçə qrupa bölünür?",
-      "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "2",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q068",
-      "question": "68. Elektrotravmalarda ilk görüləcək vacib tədbir hansıdır?",
-      "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "Cərəyanın təsirini kəsmək"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q069",
-      "question": "69. Yuxu arteriyası zədələnərsə qanaxmanı necə saxlamaq olar?",
-      "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "Yuxu arteriyasını boyun fəqərəsinə sıxmaqla",
-        "D": "lövbər dayanacağı sahəsində"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q070",
-      "question": "70. Qarınının ön divarı yaralanmış zərərçəkəni necə daşımaq məqsədə uyğundur?",
-      "options": {
-        "A": "Zərərçəkən yarımoturaq, ayaqlar qarnına yığılmış vəziyyətdə daşınır",
-        "B": "şimal-şərq istiqamətində",
-        "C": "bütün cavablar yanlışdır",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q071",
-      "question": "71. Arterial qanaxma üçün xarakterik əlamət hansıdır?",
-      "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "bütün cavablar yanlışdır",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "Qanın al qırmızı rəngdə olması"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q072",
-      "question": "72. Hansı qanaxmalarda bərk sarğı qoyulur?",
-      "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "Venoz",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q073",
-      "question": "73. Dəm qazı ilə zəhərlənmə zamanı ilkin əlamətlər hansılardır?",
-      "options": {
-        "A": "Ümumi zəiflik hissi,alın və gicgah nahiyyəsində ağrı,qulaqda ağırlıq hissiyatı",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "fırtınalı havada təxirə salınmaqla"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q074",
-      "question": "74. Qolu zədələnən xəstənin paltarını dəyişərkən aşağıda göstərilən qaydalardan hansını düz edirsiz?",
-      "options": {
-        "A": "Köynək əvvəl zədəli qola geyindirilir",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q075",
-      "question": "75. Bud sümüyünün açıq sınığı zamanı güclü qanaxma olarsa ilk yardım olaraq nəyi yerinə yetirmək lazımdır?",
-      "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "Qanaxmanı dayandırmaq lazım"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q076",
-      "question": "76. Orqanizmin birdən birə neçə litr qan itirməsi ölümlə nəticələnə bilər?(70 kq)",
-      "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "1, 5-2 L",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "gərginlik 220 V həddinə çatdıqda"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q077",
-      "question": "77. Periferik venanın kateterizasiyası üçün hansı venanın seçilməsi məqsədə uyğundur?",
-      "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "Orta dirsək venası",
-        "D": "hər 6 aydan bir keçirilən təlimlərdə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q078",
-      "question": "78. Hansı qanaxmalarda bərk sarğıdan istifadə olunur?",
-      "options": {
-        "A": "Venoz",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q079",
-      "question": "79. Onurğa sütununun zədələnməsi zamanı zərərçəkən huşsuz vəziyyətdə olarsa onu hansı vəziyyətdə təxliyyə etmək lazımdır?",
-      "options": {
-        "A": "Qarnı üstə uzadılmış vəziyyətdə",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "gərginlik 220 V həddinə çatdıqda"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q080",
-      "question": "80. Zərərçəkənin huşu aydındır, tənəffüs edir və nəbz təyin edilirsə zərərçəkənə hansı vəziyyət verilir?",
-      "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "Arxası üstə",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q081",
-      "question": "81. Zərərçəkənin huşu yoxdur,tənəffüs edir və nəbz təyin edilirsə zərərçəkənə hansı vəziyyət verilir?",
-      "options": {
-        "A": "Böyürü üstə",
-        "B": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "C": "bütün cavablar doğrudur",
-        "D": "fırtınalı havada təxirə salınmaqla"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q082",
-      "question": "82. Zərərçəkənin huşu yoxdur,tənəffüs etmir,nəbz təyin edilmirsə zərərçəkənə necə yardım edilməlidir?",
-      "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "Ürək-ağciyər reanimasiyası aparılır",
-        "C": "bütün cavablar doğrudur",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q083",
-      "question": "83. Arterial qanaxma zamanı turna qoyulduqda nə baş verir?",
-      "options": {
-        "A": "Qanaxma dayanır,prefirik nəbz itir",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    }
-  ]
+    "certificate": "Gəmidə ilk tibbi yardım",
+    "questions": [
+        {
+            "id": "q001",
+            "question": "Venoz qanaxmanı necә dayandırmaq lazımdır?",
+            "options": {
+                "A": "Zəhərlənmə zamanı süni qusdurma yaratmaq və qan almaq",
+                "B": "Zərərçəkənə isti su içirtmək və ayağa qaldırmaq",
+                "C": "Yaranın üstünә sıxıcı sarğı bağlamaqla",
+                "D": "Qanayan nahiyəni ürək səviyyəsindən aşağı salmaq"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q002",
+            "question": "Ürәyin bağlı masajı üçün әllәr döş qәfәsinin hansı nahiyәsinә qoyulur?",
+            "options": {
+                "A": "Kürək sümüyünün üzərinə",
+                "B": "Döş qəfəsinin yuxarı 1/3 hissəsinə",
+                "C": "Qarın boşluğunun mərkəzinə",
+                "D": "Döş sümüyünün aşağı 1/3 hissәsinә"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q003",
+            "question": "Süni nәfәsvermә zamanı zәrәrçәkәnin ciyәrlәrinә hava üfürülmә tezliyi 1 dәqiqәdә neçә dәfә olmalıdır?",
+            "options": {
+                "A": "20-25 dәfә",
+                "B": "5-8 dәfә",
+                "C": "30-40 dәfә",
+                "D": "12-16 dәfә"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q004",
+            "question": "Mәdә qanaxmasında hәkimә qәdәr yardıma nә daxildir?",
+            "options": {
+                "A": "Aclıq vә buz qovuğunun tәtbiqi",
+                "B": "Mədəni yumaq və qusdurmaq",
+                "C": "Bol maye və isti yemək verilməsi",
+                "D": "Qarına isti qrelka qoymaq"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q005",
+            "question": "Ürәyin bağlı masajı zamanı döş sümüyü onurğa tәrәfә neçә santimetr sıxılmalıdır?",
+            "options": {
+                "A": "7-8 sm",
+                "B": "1-2 sm",
+                "C": "3-4 sm",
+                "D": "10-12 sm"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q006",
+            "question": "Hidrogen peroksid (3 % 100 ml) nә üçün işlәdilir?",
+            "options": {
+                "A": "Zərərçəkənə isti su içirtmək və ayağa qaldırmaq",
+                "B": "Turniketi 3 saatdan çox fasiləsiz saxlamaq",
+                "C": "Boğulan şəxsə isti vanna qəbul etdirmək",
+                "D": "Yaraları yumaq üçün dezinfeksiyaedici maddә, burun Qanaxmalarında"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q007",
+            "question": "Qanaxmanın hansı forması ağır hesab olunmur?",
+            "options": {
+                "A": "Venoz qanaxma",
+                "B": "Arterial qanaxma",
+                "C": "Kapilyar qanaxma --- PAGE 2 ---",
+                "D": "Daxili qanaxma"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q008",
+            "question": "Yodun 5%-li mәhlulu nә üçün istifadә olunur?",
+            "options": {
+                "A": "Turniketi 3 saatdan çox fasiləsiz saxlamaq",
+                "B": "Yara kәnarlarının silinmәsi üçün, dezinfeksiyaedici mәhlul olaraq",
+                "C": "Zədələnmiş nahiyəni spirtlə silmək və açıq saxlamaq",
+                "D": "Zərərçəkənə isti su içirtmək və ayağa qaldırmaq"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q009",
+            "question": "Arterial qanaxmanın әlamәtlәri hansılardır?",
+            "options": {
+                "A": "Qanın qara rəngdə olması",
+                "B": "Açıq çəhrayı rəngdə olması",
+                "C": "Al qırmızı rәngdә olması, qan güclü tәzyiqlә axır",
+                "D": "Tünd albalı rəngdə olması"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q010",
+            "question": "Aşağı әtrafda qanaxma zamanı hansı arteriyanı sıxmaq lazımdır?",
+            "options": {
+                "A": "Bazu arteriyasını",
+                "B": "Dirsək venasını",
+                "C": "Bud arteriyanı",
+                "D": "Yuxu arteriyasını"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q011",
+            "question": "I vә II dәrәcәli yanıqlar zamanı ilk tibbi yardımın әsasları hansıdır?",
+            "options": {
+                "A": "Qanayan nahiyəni ürək səviyyəsindən aşağı salmaq",
+                "B": "Sınmış sümüyü yerinə salmağa çalışmaq",
+                "C": "Tәsiredici amilin qarşısını almaq, yanıq yerini soyutmaq, Pantenol vurmaq, steril nәm tamponla vә steril cuna ilә örtmәk",
+                "D": "Zərərçəkənə isti su içirtmək və ayağa qaldırmaq"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q012",
+            "question": "Yuxarı әtrafda qanaxma zamanı hansı arteriyanı sıxmaq lazımdır?",
+            "options": {
+                "A": "Yuxu arteriyasını",
+                "B": "Bilək venasını",
+                "C": "Bazu arteriyanı",
+                "D": "Bud arteriyasını"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q013",
+            "question": "Suda boğulan insana ilk tibbi yardım necә göstәrilir?",
+            "options": {
+                "A": "Zəhərlənmə zamanı süni qusdurma yaratmaq və qan almaq",
+                "B": "Nәfәs yollarından su çıxarılır, ürәyin fәaliyyәti dayandıqda ürәk xaricdәn masaj edilir, suni nәfәs verilir",
+                "C": "Döş qəfəsinə isti su şüşəsi qoymaq",
+                "D": "Huşsuz xəstənin ağzına su tökmək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q014",
+            "question": "Ölümün ilk nişanәlәri hansılardır?",
+            "options": {
+                "A": "Turniketi 3 saatdan çox fasiləsiz saxlamaq",
+                "B": "Döş qəfəsinə isti su şüşəsi qoymaq",
+                "C": "ürәk döyüntüsünün dayanması, tәnәffüsün dayanması --- PAGE 3 ---",
+                "D": "Yaraya isti kompres qoymaq və masaj etmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q015",
+            "question": "Әllәr vә ayaqların iri arteriyaları zәdәlәndikdә hansı qandayandırma üsulu daha etibarlıdır?",
+            "options": {
+                "A": "Turniketi 3 saatdan çox fasiləsiz saxlamaq",
+                "B": "Turnanın qoyulması vә ya barmaqla sıxılması",
+                "C": "Sınmış sümüyü yerinə salmağa çalışmaq",
+                "D": "Zərərçəkənə isti su içirtmək və ayağa qaldırmaq"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q016",
+            "question": "Sümüklәrin sınması әlamәtlәri hansılardır?",
+            "options": {
+                "A": "şişkinlik, qızartı, ağrı, qanaxma",
+                "B": "Sınmış sümüyü yerinə salmağa çalışmaq",
+                "C": "Huşsuz xəstənin ağzına su tökmək",
+                "D": "Boğulan şəxsə isti vanna qəbul etdirmək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q017",
+            "question": "Arterial qanaxmanı necә dayandırmaq lazımdır?",
+            "options": {
+                "A": "Jqutsuz sadəcə pambıq qoymaqla",
+                "B": "Yaradan yuxarı hissәdә jqut bağlamaqla",
+                "C": "Yaradan aşağı hissədə jqut bağlamaqla",
+                "D": "Yaranın tam üzərinə jqut bağlamaqla"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q018",
+            "question": "Burun qanaxması zamanı nә etmәk lazımdır?",
+            "options": {
+                "A": "Zәrәrçәkәni yarımoturaq vәziyyәtә gәtirәrәk başını qabağa әyib,onun burun nahiyәsinin soyudulmasını tәmin etmәk lazımdır",
+                "B": "Böyrü üstə uzadılmış vəziyyətdə",
+                "C": "Qarnı üstə uzadılmış vəziyyətdə",
+                "D": "Tam arxası üstə uzadılmış vəziyyətdə"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q019",
+            "question": "Әzәlәdaxili inyeksiya hansı bucaq altında aparılır?(sarğı әzәlәsinә)",
+            "options": {
+                "A": "15 dərəcə",
+                "B": "180 dərəcə",
+                "C": "45 dərəcə",
+                "D": "90"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q020",
+            "question": "Qan-damar sistemi hansı orqanlardan ibarәtdir?",
+            "options": {
+                "A": "Yaraya isti kompres qoymaq və masaj etmək",
+                "B": "Ürәk vә onunla bağlı müxtәlif ölçülәrdә damarlarla (aorta, arteriya, vena, kapillyar ),birdә 5-5.5 qan",
+                "C": "Yaranın içərisini yodla yumaq və pambıq qoymaq",
+                "D": "Qanayan nahiyəni ürək səviyyəsindən aşağı salmaq"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q021",
+            "question": "Xarici zәdә әlamәtlәri görünmәyәn vә huşsuz vәziyyәtdә olan, ürәk ağciyәr reanimasiyası keçirmiş zәrәrçәkәnә hansı “bәrpa edici” vәziyyәti vermәk lazımdır?",
+            "options": {
+                "A": "Yarımoturaq",
+                "B": "Böyrü üstә uzadıb ayaqlarını dizdәn bükmәk --- PAGE 4 ---",
+                "C": "Qarnı üstə",
+                "D": "Arxası üstə"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q022",
+            "question": "Xәstәnin dәrmana hәssaslığını yoxlamaq üçün iynә hansı nahiyәyә vurulur?",
+            "options": {
+                "A": "Sümükdaxili",
+                "B": "Venadaxili",
+                "C": "Əzələdaxili",
+                "D": "Dәri altına"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q023",
+            "question": "Yüksәk temperatur hansı sayılır?",
+            "options": {
+                "A": "36-37 °C",
+                "B": "41-42 °C",
+                "C": "39-40 °C",
+                "D": "35-36 °C"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q024",
+            "question": "Daxili qanaxmalar zamanı xәstәlәri nәql edәrkәn onlara hansı vәziyyәt verilmәlidir?",
+            "options": {
+                "A": "Xәstәyә xәrәkdә yarımoturaq vәziyyәt verilmәlidir",
+                "B": "Tam arxası üstə uzadılmış vəziyyətdə",
+                "C": "Böyrü üstə uzadılmış vəziyyətdə",
+                "D": "Qarnı üstə uzadılmış vəziyyətdə"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q025",
+            "question": "Normal halda kişilәrdә tәnәffüsün tezliyi 1 dәqiqәdә neçә olmalıdır?",
+            "options": {
+                "A": "10-12",
+                "B": "35-40",
+                "C": "16-18",
+                "D": "25-30"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q026",
+            "question": "Sınıqlar zamanı şokun profilaktikası üçün hәkimә qәdәr ilk tibbi yardım zamanı nә etmәk olmaz?",
+            "options": {
+                "A": "Yaranın içərisini yodla yumaq və pambıq qoymaq",
+                "B": "Zədələnmiş nahiyəni spirtlə silmək və açıq saxlamaq",
+                "C": "Xәstәni hәrәkәt etdirmәk",
+                "D": "Sınmış sümüyü yerinə salmağa çalışmaq"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q027",
+            "question": "Normal arterial tәzyiq neçә olmalıdır?",
+            "options": {
+                "A": "160/100",
+                "B": "120/80",
+                "C": "90/60",
+                "D": "200/120"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q028",
+            "question": "Burun qanaxmasında başa hansı vәziyyәt verilir?",
+            "options": {
+                "A": "Yüngül önә әyilmiş",
+                "B": "Yaraya isti kompres qoymaq və masaj etmək",
+                "C": "Yanıq nahiyəsinə yağ, maz və ya spirt çəkmək",
+                "D": "Zədələnmiş nahiyəni spirtlə silmək və açıq saxlamaq"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q029",
+            "question": "Hәyati әlamәtlәrә bunlardan hansı aid deyil?",
+            "options": {
+                "A": "Huşsuz xəstənin ağzına su tökmək",
+                "B": "Döş qəfəsinə isti su şüşəsi qoymaq",
+                "C": "Gözün buynuz qışası bulanır vә quruyur --- PAGE 5 ---",
+                "D": "Zəhərlənmə zamanı süni qusdurma yaratmaq və qan almaq"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q030",
+            "question": "1-ci dәrәcәli yanıq әlamәtlәri aşağıdakılardan hansıdır?",
+            "options": {
+                "A": "Döş qəfəsinə isti su şüşəsi qoymaq",
+                "B": "Ağrı,qızartı,şişkinlik",
+                "C": "Turniketi 3 saatdan çox fasiləsiz saxlamaq",
+                "D": "Zəhərlənmə zamanı süni qusdurma yaratmaq və qan almaq"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q031",
+            "question": "Yağlı mәhlulun hansı üsulla yeridilmәsi yağ emboliyasına sәbәb olur?",
+            "options": {
+                "A": "Əzələdaxili",
+                "B": "Venadaxili",
+                "C": "Sümükdaxili",
+                "D": "Dərialtı"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q032",
+            "question": "Döş sümüyünün arxasında ağrılar zamanı hәkimә qәdәr ilk yardım hansıdır?",
+            "options": {
+                "A": "Süni nəfəs vermək",
+                "B": "Dil altına nitroqliserin qoymaq",
+                "C": "Aspirin udmaq",
+                "D": "Ağrıkəsici iynə vurmaq"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q033",
+            "question": "2-ci dәrәcәli yanıq әlamәtlәri aşağıdakılardan hansılardır?",
+            "options": {
+                "A": "Turniketi 3 saatdan çox fasiləsiz saxlamaq",
+                "B": "Boğulan şəxsə isti vanna qəbul etdirmək",
+                "C": "Qanayan nahiyəni ürək səviyyəsindən aşağı salmaq",
+                "D": "Ağrı, suluqlar"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q034",
+            "question": "Elektrotravma zamanı aşağıda göstәrilәn yardımlardan hansı qәti qadağandır?",
+            "options": {
+                "A": "Ürək masajı etmək",
+                "B": "Elektrik vurmuş şәxsi torpağa basdırmaq",
+                "C": "Cərəyan mənbəyindən ayırmaq",
+                "D": "Süni nəfəs vermək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q035",
+            "question": "Vәtәrlәrin gәrilmәsi zamanı:",
+            "options": {
+                "A": "soyuq kompres qoymaq, sıx sarğı",
+                "B": "Sıxıcı turniket qoymaq",
+                "C": "İsti kompres qoymaq və masaj etmək",
+                "D": "Spirtlə silmək və yod çəkmək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q036",
+            "question": "Dәrialtı inyeksiya hansı nahiyәdә aparılır?",
+            "options": {
+                "A": "Saidin içәri sәthində",
+                "B": "Sümükdaxili",
+                "C": "Venadaxili",
+                "D": "Əzələdaxili"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q037",
+            "question": "Vena daxilinә damcı üsulu ilә dәrman yeridilәrkәn xәstәnin vәziyyәti necә olmalıdır?",
+            "options": {
+                "A": "Yarımoturaq",
+                "B": "Qarnı üstə",
+                "C": "Arxası üstә uzanmış --- PAGE 6 ---",
+                "D": "Böyrü üstə"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q038",
+            "question": "3-cü dәrәcәli yanıq әlamәtlәri hansılardır?",
+            "options": {
+                "A": "Zərərçəkəni ayağa qaldırmaq və gəzdirmək",
+                "B": "Epidermisin, dermanın yanması",
+                "C": "Dərhal antibiotik və güclü ağrıkəsici həblər vermək",
+                "D": "Yaraya isti kompres qoymaq və masaj etmək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q039",
+            "question": "4-cü dәrәcәli yanıq әlamәtlәri hansılardır?",
+            "options": {
+                "A": "Boğulan şəxsə isti vanna qəbul etdirmək",
+                "B": "Bütün toxuma qatlarının nekrozu",
+                "C": "Döş qəfəsinə isti su şüşəsi qoymaq",
+                "D": "Zərərçəkənə isti su içirtmək və ayağa qaldırmaq"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q040",
+            "question": "Zәrәrçәkәnin çoxlu qan itirmәsinin әlamәtlәri:",
+            "options": {
+                "A": "Kapilyar",
+                "B": "Daxili",
+                "C": "Soyuq yapışqanlı tәr, başgicәllәnmә, halsızlıq, zәif nәbz,arterial tәzyiqin aşağı düşmәsi, tәngnәfәslik",
+                "D": "Venoz"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q041",
+            "question": "Yüngül әzilmә zamanı ilk yardım",
+            "options": {
+                "A": "soyuq kompres qoymaq",
+                "B": "İsti kompres qoymaq və masaj etmək",
+                "C": "Spirtlə silmək və yod çəkmək",
+                "D": "Sıxıcı turniket qoymaq"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q042",
+            "question": "Qarının deşilmiş yarası zamanı ilk tibbi yardım?",
+            "options": {
+                "A": "İsti kompres qoymaq və masaj etmək",
+                "B": "Yarımoturaq-ayaqları yığılmış vәziyyәtdә, soyuq kompres qoymaq",
+                "C": "Sıxıcı turniket qoymaq",
+                "D": "Spirtlə silmək və yod çəkmək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q043",
+            "question": "Venoz qanaxmanın әlamәtlәri hansılardır?",
+            "options": {
+                "A": "Al qırmızı rəngdə olması",
+                "B": "Açıq çəhrayı rəngdə olması",
+                "C": "Qanın qara rəngdə olması",
+                "D": "Tünd qırmızı rәngdә olması, zәif, fasilәsiz axması"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q044",
+            "question": "Döş qәfәsi yaralanmaları zamanı hansı hermetik sarğıdan istifadә etmәk olar?",
+            "options": {
+                "A": "Okluzion --- PAGE 7 ---",
+                "B": "Spika sarğısı",
+                "C": "Dezmo sarğısı",
+                "D": "Sıxıcı sarğı"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q045",
+            "question": "Arterial qanaxmanın müvәqqәti dayandırılmasında hansı üsuldan istifadә olunur?",
+            "options": {
+                "A": "Yanıq nahiyəsinə yağ, maz və ya spirt çəkmək",
+                "B": "Zəhərlənmə zamanı süni qusdurma yaratmaq və qan almaq",
+                "C": "Boğulan şəxsə isti vanna qəbul etdirmək",
+                "D": "Damarların sümüklәrә sıxılması"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q046",
+            "question": "Arterial qanaxmanı venoz qanaxmadan fәrqlәndirәn nәdir?",
+            "options": {
+                "A": "Al qırmızı rәngdә olması, qanın güclü tәzyiqlә axması",
+                "B": "Tünd albalı rəngdə olması",
+                "C": "Açıq çəhrayı rəngdə olması",
+                "D": "Qanın qara rəngdə olması"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q047",
+            "question": "II dәrәcәli donma üçün xarakterik әlamәt hansıdır?",
+            "options": {
+                "A": "Zəhərlənmə zamanı süni qusdurma yaratmaq və qan almaq",
+                "B": "Huşsuz xəstənin ağzına su tökmək",
+                "C": "Yaranın içərisini yodla yumaq və pambıq qoymaq",
+                "D": "Suluqların әmәlә gәlmәsi"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q048",
+            "question": "Burun qanaxması zamanı ilk tibbi yardım hansıdır?",
+            "options": {
+                "A": "Burnun üstünə və alına buz qoymaq",
+                "B": "İsti kompres qoymaq və masaj etmək",
+                "C": "Sıxıcı turniket qoymaq",
+                "D": "Spirtlə silmək və yod çəkmək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q049",
+            "question": "İnsanın qan daşıyıcı sistemindә neçә litr qan var?",
+            "options": {
+                "A": "10 litr",
+                "B": "2-3 litr",
+                "C": "5 litr",
+                "D": "7-8 litr"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q050",
+            "question": "Bazu oynağının çıxığında ilk tibbi yardım mәqsәdilә nә yerinә yetirilir?",
+            "options": {
+                "A": "Sıxıcı turniket qoymaq",
+                "B": "Spirtlə silmək və yod çəkmək",
+                "C": "İsti kompres qoymaq və masaj etmək",
+                "D": "soyuq kompres qoymaq, hәrәkәtsizlәşdirmәk"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q051",
+            "question": "Dәrialtı inyeksiyadan sonra inyeksiya yeri bәrkidikdә aşağıda sadalanan tәdbirdәn hansı әks-göstәriş sayılır?",
+            "options": {
+                "A": "Sümükdaxili",
+                "B": "Əzələdaxili",
+                "C": "Bәrkiyәn nahiyyәyә buz qovuğu qoymaq",
+                "D": "Venadaxili"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q052",
+            "question": "Vena daxili inyeksiyadan әvvәl turnanın düzgün qoyulmasının göstәricisi nәdir",
+            "options": {
+                "A": "Turnadan aşağı hissәdә dәri örtüyünün avazıması --- PAGE 8 ---",
+                "B": "Zərərçəkənə isti su içirtmək və ayağa qaldırmaq",
+                "C": "Qanayan nahiyəni ürək səviyyəsindən aşağı salmaq",
+                "D": "Yaraya isti kompres qoymaq və masaj etmək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q053",
+            "question": "Nәbzi hansı arteriyalarda saymaq mümkündür?",
+            "options": {
+                "A": "Zərərçəkəni ayağa qaldırmaq və gəzdirmək",
+                "B": "Dərhal antibiotik və güclü ağrıkəsici həblər vermək",
+                "C": "Qanayan nahiyəni ürək səviyyəsindən aşağı salmaq",
+                "D": "Sadalanan arteriyalarda"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q054",
+            "question": "Elektrotravmalarda ilk tibbi yardım hansıdır?",
+            "options": {
+                "A": "Yanıq nahiyəsinə yağ, maz və ya spirt çəkmək",
+                "B": "Zəhərlənmə zamanı süni qusdurma yaratmaq və qan almaq",
+                "C": "Ürәyin xarici masajı",
+                "D": "Boğulan şəxsə isti vanna qəbul etdirmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q055",
+            "question": "İnsanı hәyata qaytarmaq üçün adi şәraitdә kilinik ölümün vaxt nә qәdәr olmalıdır?",
+            "options": {
+                "A": "20-30 dәq",
+                "B": "4-5 dәq",
+                "C": "10-15 dәq",
+                "D": "1-2 saat"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q056",
+            "question": "Reanimasion tәdbirlәri kliniki ölümün hansı dәqiqәsindә yerinә yetirdikdә daha çox effektli olur?",
+            "options": {
+                "A": "1-2 dәq",
+                "B": "15-20 dәq",
+                "C": "30 dәqiqədən sonra",
+                "D": "5-10 dәq"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q057",
+            "question": "Orta yaşlı insanlarda nәbz 1dәqiqәdә neçә olmalıdır?",
+            "options": {
+                "A": "130-150",
+                "B": "100-120",
+                "C": "75-80",
+                "D": "50-60"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q058",
+            "question": "İnsanı huşsuz vәziyyәtdә aşkar edәrkәn nә etmәk lazımdır?",
+            "options": {
+                "A": "Zəhərlənmə zamanı süni qusdurma yaratmaq və qan almaq",
+                "B": "Zərərçəkəni ayağa qaldırmaq və gəzdirmək",
+                "C": "Әsasәn nәbz,tәnәffüs vә bәbәklәrinә xüsusi fikir vermәk",
+                "D": "Huşsuz xəstənin ağzına su tökmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q059",
+            "question": "Sarğı qoymağın әsas prinsiplәri?",
+            "options": {
+                "A": "Sınmış sümüyü yerinə salmağa çalışmaq",
+                "B": "Zərərçəkəni ayağa qaldırmaq və gəzdirmək",
+                "C": "Əllәri yumaq, yaranın kәnarlarını tәmizlәmәk, aseptik sarğı Bağlamaq --- PAGE 9 ---",
+                "D": "Zəhərlənmə zamanı süni qusdurma yaratmaq və qan almaq"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q060",
+            "question": "Yod mәhlulundan vә ya brilyant yaşılından dezinfeksiya vasitәsi kimi düzgün olaraq necә istifadә olunur?",
+            "options": {
+                "A": "Boğulan şəxsə isti vanna qəbul etdirmək",
+                "B": "Döş qəfəsinə isti su şüşəsi qoymaq",
+                "C": "Yaranın içərisini yodla yumaq və pambıq qoymaq",
+                "D": "Yaranın әtrafına sürtülmәlidir"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q061",
+            "question": "Açıq sınıqda ilk tibbi yardım necә göstәrilir?",
+            "options": {
+                "A": "Zədələnmiş nahiyəni spirtlə silmək və açıq saxlamaq",
+                "B": "Qanaxmanın qarşısı alınır, sınmış hissә hәrәkәtsizlәşdirilir, ağrı kәsici vurulur",
+                "C": "Yanıq nahiyəsinə yağ, maz və ya spirt çəkmək",
+                "D": "Huşsuz xəstənin ağzına su tökmək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q062",
+            "question": "Әtrafların çıxığı zamanı zәrәrçәkәnә ilk tibbi yardımın göstәrilmәsi nәdәn ibarәtdir?",
+            "options": {
+                "A": "Әtrafı zәdәlәnmәdәn sonrakı vәziyyәtdә tәsbit (fiksә) etmәklә zәdәlәnәn oynağın üzәrinә buz vә ya soyuq kompres qoymaq",
+                "B": "İsti kompres qoymaq və masaj etmək",
+                "C": "Spirtlə silmək və yod çəkmək",
+                "D": "Sıxıcı turniket qoymaq"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q063",
+            "question": "Bazu sümüyü sınan zәrәrçәkәnә ilk tibbi yardımın göstәrilmәsi nәdәn ibarәtdir?",
+            "options": {
+                "A": "Zəhərlənmə zamanı süni qusdurma yaratmaq və qan almaq",
+                "B": "Zədələnmiş nahiyəni spirtlə silmək və açıq saxlamaq",
+                "C": "Yaranın içərisini yodla yumaq və pambıq qoymaq",
+                "D": "Bazunun bayır vә içәri tәrәfindәn iki әdәd şina qoymaq,qoltuq altına yumşaq valik (bükülü) qoymaq vә qolu dirsәkdәn büküb lәçәkdә boyundan asmaq lazımdır"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q064",
+            "question": "Açıq sınıqda ilk yardım necә göstәrilir?",
+            "options": {
+                "A": "Qanaxmanın qarşısı alınır, sınmış hissә hәrәkәtsizlәşdirilir, ağrıkәsici vurulur",
+                "B": "Yaraya isti kompres qoymaq və masaj etmək",
+                "C": "Huşsuz xəstənin ağzına su tökmək",
+                "D": "Yanıq nahiyəsinə yağ, maz və ya spirt çəkmək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q065",
+            "question": "Qabırğaların sınığı zamanı xәstәni hansı vәziyyәtdә daşımaq olar?",
+            "options": {
+                "A": "Tam arxası üstə uzadılmış vəziyyətdə",
+                "B": "Böyrü üstə uzadılmış vəziyyətdə",
+                "C": "Qarnı üstə uzadılmış vəziyyətdə",
+                "D": "Yarımoturaq --- PAGE 10 ---"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q066",
+            "question": "Gәmidә ilk tibbi yardım xüsusi hazırlıq kursu Beynәlxalq Konvensiyanın hansı bölmәsinin tәlәbәlәrinә uyğun tәşkil olunmalıdır?",
+            "options": {
+                "A": "A-V/3",
+                "B": "A-II/1",
+                "C": "A-III/2",
+                "D": "A-VI/4"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q067",
+            "question": "Sınıqlar neçә qrupa bölünür?",
+            "options": {
+                "A": "2",
+                "B": "5",
+                "C": "4",
+                "D": "3"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q068",
+            "question": "Elektrotravmalarda ilk görülәcәk vacib tәdbir hansıdır?",
+            "options": {
+                "A": "Cәrәyanın tәsirini kәsmәk",
+                "B": "Həkim gələnə qədər gözləmək",
+                "C": "Zərərçəkənin üzərinə su tökmək",
+                "D": "Dərhal ürək masajına başlamaq"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q069",
+            "question": "Yuxu arteriyası zәdәlәnәrsә qanaxmanı necә saxlamaq olar?",
+            "options": {
+                "A": "Bazu arteriyasını sıxmaqla",
+                "B": "Aortanı sıxmaqla",
+                "C": "Yuxu arteriyasını boyun fәqәrәsinә sıxmaqla",
+                "D": "Bud arteriyasını sıxmaqla"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q070",
+            "question": "Qarınının ön divarı yaralanmış zәrәrçәkәni necә daşımaq mәqsәdә uyğundur?",
+            "options": {
+                "A": "Qarnı üstə uzadılmış vəziyyətdə",
+                "B": "Tam arxası üstə uzadılmış vəziyyətdə",
+                "C": "Zәrәrçәkәn yarımoturaq, ayaqlar qarnına yığılmış vәziyyәtdә daşınır",
+                "D": "Böyrü üstə uzadılmış vəziyyətdə"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q071",
+            "question": "Arterial qanaxma üçün xarakterik әlamәt hansıdır?",
+            "options": {
+                "A": "Açıq çəhrayı rəngdə olması",
+                "B": "Qanın qara rəngdə olması",
+                "C": "Qanın al qırmızı rәngdә olması",
+                "D": "Tünd albalı rəngdə olması"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q072",
+            "question": "Hansı qanaxmalarda bәrk sarğı qoyulur?",
+            "options": {
+                "A": "Arterial",
+                "B": "Venoz",
+                "C": "Daxili",
+                "D": "Kapilyar"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q073",
+            "question": "Dәm qazı ilә zәhәrlәnmә zamanı ilkin әlamәtlәr hansılardır?",
+            "options": {
+                "A": "Zərərçəkənə isti su içirtmək və ayağa qaldırmaq",
+                "B": "Yaraya isti kompres qoymaq və masaj etmək",
+                "C": "Ümumi zәiflik hissi,alın vә gicgah nahiyyәsindә ağrı,qulaqda ağırlıq hissiyatı --- PAGE 11 ---",
+                "D": "Dərhal antibiotik və güclü ağrıkəsici həblər vermək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q074",
+            "question": "Qolu zәdәlәnәn xәstәnin paltarını dәyişәrkәn aşağıda göstәrilәn qaydalardan hansını düz edirsiz?",
+            "options": {
+                "A": "Paltar ümumiyyətlə geyindirilməməlidir",
+                "B": "Köynәk əvvәl zәdәli qola geyindirilir",
+                "C": "Hər iki qola eyni vaxtda geyindirilir",
+                "D": "Köynək əvvəl sağlam qola geyindirilir"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q075",
+            "question": "Bud sümüyünün açıq sınığı zamanı güclü qanaxma olarsa ilk yardım olaraq nәyi yerinә yetirmәk lazımdır?",
+            "options": {
+                "A": "Zərərçəkənə isti su içirtmək və ayağa qaldırmaq",
+                "B": "Boğulan şəxsə isti vanna qəbul etdirmək",
+                "C": "Qanaxmanı dayandırmaq lazım",
+                "D": "Qanayan nahiyəni ürək səviyyəsindən aşağı salmaq"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q076",
+            "question": "Orqanizmin birdәn birә neçә litr qan itirmәsi ölümlә nәticәlәnә bilәr?(70 kq)",
+            "options": {
+                "A": "Huşsuz xəstənin ağzına su tökmək",
+                "B": "Qanayan nahiyəni ürək səviyyəsindən aşağı salmaq",
+                "C": "Yaranın içərisini yodla yumaq və pambıq qoymaq",
+                "D": "1, 5-2 L"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q077",
+            "question": "Periferik venanın kateterizasiyası üçün hansı venanın seçilmәsi mәqsәdә uyğundur?",
+            "options": {
+                "A": "Orta dirsәk venası",
+                "B": "Bazu arteriyası",
+                "C": "Ayaq venası",
+                "D": "Boyun venası"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q078",
+            "question": "Hansı qanaxmalarda bәrk sarğıdan istifadә olunur?",
+            "options": {
+                "A": "Arterial",
+                "B": "Daxili",
+                "C": "Kapilyar",
+                "D": "Venoz"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q079",
+            "question": "Onurğa sütununun zәdәlәnmәsi zamanı zәrәrçәkәn huşsuz vәziyyәtdә olarsa onu hansı vәziyyәtdә tәxliyyә etmәk lazımdır?",
+            "options": {
+                "A": "Yarımoturaq",
+                "B": "Böyrü üstə",
+                "C": "Qarnı üstә uzadılmış vәziyyәtdә",
+                "D": "Arxası üstə"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q080",
+            "question": "Zәrәrçәkәnin huşu aydındır, tәnәffüs edir və nәbz tәyin edilirsә zәrәrçәkәnә hansı vәziyyәt verilir?",
+            "options": {
+                "A": "Yarımoturaq",
+                "B": "Arxası üstә --- PAGE 12 ---",
+                "C": "Qarnı üstə",
+                "D": "Böyrü üstə"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q081",
+            "question": "Zәrәrçәkәnin huşu yoxdur,tәnәffüs edir və nәbz tәyin edilirsә zәrәrçәkәnә hansı vәziyyәt verilir?",
+            "options": {
+                "A": "Yanıq nahiyəsinə yağ, maz və ya spirt çəkmək",
+                "B": "Böyürü üstә",
+                "C": "Huşsuz xəstənin ağzına su tökmək",
+                "D": "Zəhərlənmə zamanı süni qusdurma yaratmaq və qan almaq"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q082",
+            "question": "Zәrәrçәkәnin huşu yoxdur,tәnәffüs etmir,nәbz tәyin edilmirsә zәrәrçәkәnә necә yardım edilmәlidir?",
+            "options": {
+                "A": "Dərhal antibiotik və güclü ağrıkəsici həblər vermək",
+                "B": "Ürәk-ağciyәr reanimasiyası aparılır",
+                "C": "Zərərçəkəni ayağa qaldırmaq və gəzdirmək",
+                "D": "Zəhərlənmə zamanı süni qusdurma yaratmaq və qan almaq"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q083",
+            "question": "Arterial qanaxma zamanı turna qoyulduqda nә baş verir?",
+            "options": {
+                "A": "Yanıq nahiyəsinə yağ, maz və ya spirt çəkmək",
+                "B": "Yaraya isti kompres qoymaq və masaj etmək",
+                "C": "Qanaxma dayanır,prefirik nәbz itir",
+                "D": "Boğulan şəxsə isti vanna qəbul etdirmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        }
+    ]
 }

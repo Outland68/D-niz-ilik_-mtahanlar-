@@ -1,5 +1,3 @@
-
---- PAGE 1 ---
 4. Gəmi mexaniklərinin təkmilləşdirilməsi (istismar səviyyəsində) 
  
 1. Nominal gücün 45-50% aşmayan yüklə işləyən dizel generatorların  
@@ -44,7 +42,6 @@ mühərriklərinin gücü 750 kVt-dan 3000 kVt-dək olan 2-ci mexanik
 vəzifəsində işləmək üçün tələb edilən gəmidə minimal iş stajını qeyd edin. 
 Düzgün cavab: 12 ay 
 
---- PAGE 2 ---
  
 10. Dənizdə baş vermiş hadisələrin baxılması qaydalarını hansı 
 beynəlxalq sənəd nizamlayır (müəyyən edir)? 
@@ -90,7 +87,6 @@ klapanları, Yanğınsöndürmə qoltuqları və yanğınsöndürmə lülələri
  
  
 
---- PAGE 3 ---
 18. İdarəetmə postlarının otaqlarında saxlanması qadağandır: 
 Düzgün cavab: Qazların, yanacaq materiallarının, oddan təhlükəli, tez 
 yanan materialların 
@@ -134,7 +130,6 @@ Düzgün cavab: 1
  
  
 
---- PAGE 4 ---
 27. İsti ehtiyat rejimində olmayan köməkçi dizel generatorların 
 yüklənməsini qeyd edin? 
 Düzgün cavab: 3-5 dəqiqə qızdırılmaqla 
@@ -179,7 +174,6 @@ Düzgün cavab: 3,5
  
  
 
---- PAGE 5 ---
 35. Termotənzimləyici vintelin (TTV/ТРВ) borucuqlarının və daxiledici 
 ştuser daxil olmaqla TTV/ТРВ-dən sonrakı armaturlarının üst səthinin 
 donması nəyin əlaməti olduğunu qeyd edin. 
@@ -225,7 +219,6 @@ Düzgün cavab: Boş – boşuna iş
 Düzgün cavab: Tezlik 
  
 
---- PAGE 6 ---
 45. “Crankcase” sözünün düzgün tərcüməsini qeyd edin. 
 Düzgün cavab: Karter 
  

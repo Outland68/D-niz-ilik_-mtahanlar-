@@ -1,0 +1,252 @@
+[
+  {
+    "num": 1,
+    "q": "VHF-radiostansiyası ilә DSC rejimindә verilmiş yanlış fәlakәt siqnalı hansı  kanalda lәğv edilir?",
+    "a": "16 Ch"
+  },
+  {
+    "num": 2,
+    "q": "SART-ın açıqlamasını göstәrin:",
+    "a": "Radiolokasiya cavabvericisi"
+  },
+  {
+    "num": 3,
+    "q": "HF- nin açıqlamasını göstәrin:",
+    "a": "Qısa dalğalar"
+  },
+  {
+    "num": 4,
+    "q": "MF-nin açıqlamasını göstәrin:",
+    "a": "Ara dalğalar"
+  },
+  {
+    "num": 5,
+    "q": "Heç bir stansiya tәrәfindәn DSC fәlakət siqnalı tәsdiq olunmadıqda nә  edir?",
+    "a": "3,5-4,5 dәqiqәdәn bir avtomatik tәkrar olunur"
+  },
+  {
+    "num": 6,
+    "q": "DSC-nin açıqlamasını göstәrin:",
+    "a": "Rәqәmsal seçilmә çağırışı"
+  },
+  {
+    "num": 7,
+    "q": "EPİRB-nin açıqlamasını göstәrin:",
+    "a": "Qәza radiobuyu"
+  },
+  {
+    "num": 8,
+    "q": "VHF-nin açıqlamasını göstәrin:",
+    "a": "Ultra qısa dalğalar"
+  },
+  {
+    "num": 9,
+    "q": "“Listing” hansı fәlakәt növünә aid olunur?",
+    "a": "Gәminin tәhlükәli kreni (meyililik)"
+  },
+  {
+    "num": 10,
+    "q": "“Undesingnated” hansı fәlakәt növünә aid olunur?",
+    "a": "Tәyin olunmamış"
+  },
+  {
+    "num": 11,
+    "q": "“Abandoning ship” hansı fәlakәt növünә aid olunur?",
+    "a": "Gәminin tәrk edilmәsi"
+  },
+  {
+    "num": 12,
+    "q": "Sәfәrә çıxmazdan әvvәl GMDSS operatoru nәyi mütlәq yoxlamalıdır?",
+    "a": "Bütün radio avadanlığı vә ehtiyat enerji mәnbәlәri"
+  },
+  {
+    "num": 13,
+    "q": "MMSI abreviaturasını açıqlayın:",
+    "a": "Dәniz mobil servis identifikasiya nömrәsi"
+  },
+  {
+    "num": 14,
+    "q": "MMSI nömrәsini birinci üç rәqәmi nәyi göstәrir?",
+    "a": "Milli mәnsubiyyәtin kodu"
+  },
+  {
+    "num": 15,
+    "q": "Fәlakәt zamanı radioәlaqənin aparılması üçün mәslәhәt görülәn rejim  hansıdır?",
+    "a": "Radiotelefon rabitəsi"
+  },
+  {
+    "num": 16,
+    "q": "VHF radiostansiyalar radio dalğalarının hansı diapazonunda işlәyirlәr?",
+    "a": "Ultra qısa dalğalar"
+  },
+  {
+    "num": 17,
+    "q": "VHF-dә Fәlakәt,Tәcili vә Çağırış beynәlxalq kanalı hansıdır?",
+    "a": "16 Ch"
+  },
+  {
+    "num": 18,
+    "q": "16 kanalın tezliyi hansıdır?",
+    "a": "156.8 MHs"
+  },
+  {
+    "num": 19,
+    "q": "Aşağıda sadalananlardan hansı “Dupleks”kanalı hesab olunur?",
+    "a": "Qәbulun vә ötürülmәnin müxtәlif tezlikli kanal"
+  },
+  {
+    "num": 20,
+    "q": "Gәmilәr arası dәnizdә üzmәnin tәhlükәsizliyi haqqında mәlumatın  ötürülmәsi hansı kanalda aparılır?",
+    "a": "13 Ch"
+  },
+  {
+    "num": 21,
+    "q": "Aşağıda sadalananlardan hansı “Simpleks” kanalı hesab olunur?",
+    "a": "Qәbulun vә ötürülmənin eyni tezlikli kanal"
+  },
+  {
+    "num": 22,
+    "q": "VHF radiostansiyalar DSC radionövbәsini hansı kanalda aparılır?",
+    "a": "70 Ch"
+  },
+  {
+    "num": 23,
+    "q": "“Collision” hansı fәlakәt növünә aid olunur?",
+    "a": "Gәminin toqquşması"
+  },
+  {
+    "num": 24,
+    "q": "MF diapazonunda Fәlakәt, Tәcili vә Çağırış beynәlxalq kanalı hansıdır?",
+    "a": "2182 KHs"
+  },
+  {
+    "num": 25,
+    "q": "MF/HF radiostansiyanın hәftәlik testi kimin ünvanına göndәrilir?",
+    "a": "Yalnız sahil radiostansiyasının ünvanına"
+  },
+  {
+    "num": 26,
+    "q": "Sәrnişin gәmilәrdә VHF qәza radiostansiyalarının minimal sayı nә qәdәr  olmalıdır?",
+    "a": "3 әdәd"
+  },
+  {
+    "num": 27,
+    "q": "300 r/t olan gәmilәrdә qәza VHF radio stansiyalarının minimal sayı nә  qәdәr olmalıdır?",
+    "a": "2 әdәd"
+  },
+  {
+    "num": 28,
+    "q": "SART-ın tәyinatı nədir?",
+    "a": "Yerinin tәyin edilmәsi üçün"
+  },
+  {
+    "num": 29,
+    "q": "Şüalanma rejimindә SART-ın iş vaxtı nә qәdәrdir?",
+    "a": "8 saat"
+  },
+  {
+    "num": 30,
+    "q": "Gözlәmә rejimindә SART-ın iş vaxtı neçә saatdır?",
+    "a": "96 saat"
+  },
+  {
+    "num": 31,
+    "q": "SART haqqında sәhv müddәanı göstәrin:",
+    "a": "Korpusu göy rәngdә olmalıdır"
+  },
+  {
+    "num": 32,
+    "q": "Xilasetmә avadanlıqlarından hansı fәlakәtin yerinin koordinatlarını  ötürür?",
+    "a": "EPİRB"
+  },
+  {
+    "num": 33,
+    "q": "Hansı vasitә EPİRB–nin gәmidәn avtomatik ayrılmasını tәmin edir?",
+    "a": "Hidrostat"
+  },
+  {
+    "num": 34,
+    "q": "Gәminin radioavadanlığı hansı SART-ın siqnalını aşkar edir?",
+    "a": "Radiolokasiya stansiyası"
+  },
+  {
+    "num": 35,
+    "q": "Hansı anda SART ötürmәyә başlayır ?",
+    "a": "İş rejiminә salındıqdan vә radiolokasiya stansiya tәrafindәn  şüalanmasından sonra"
+  },
+  {
+    "num": 36,
+    "q": "VHF qәza radiostansiyasının batareyasının gözlәmә rejimindә iş vaxtı  neçә saatdır?",
+    "a": "72 Saat"
+  },
+  {
+    "num": 37,
+    "q": "Neçә metr dәrinlikdә hidrostat EPIRB-ni gәmidәn avtomatik ayrılır?",
+    "a": "10 m-ә qәdәr"
+  },
+  {
+    "num": 38,
+    "q": "Sadalanlardan hansı doğrudur?",
+    "a": "EPIRB gәmidәn avtomatik ayrıldıkdan sonra işә düşmәlidir"
+  },
+  {
+    "num": 39,
+    "q": "EPIRB-nin şüalanma rejimi neçә saatdır?",
+    "a": "48 saat"
+  },
+  {
+    "num": 40,
+    "q": "EPIRB-nin siqnalını hansı avadanlıq qәbul edir?",
+    "a": "KOSPAS-SARSAT sisteminin peyklәri"
+  },
+  {
+    "num": 41,
+    "q": "LEOSAR (Aşağı orbitalı peyklәr) tәrәfindәn EPİRB-nin koordinatlarının  dәqiq tәyin edilmәsi neçә kilometrdir?",
+    "a": "12-17 km"
+  },
+  {
+    "num": 42,
+    "q": "KOSPAS-SARSAT sistemindә GEOSAR (geostasionar peyklәr)  tәrәfindәn EPİRB-dәn fәlakәt signalının RCC (xilasetmә koordinasiya  mәrkәzinә) çatdırılması neçə dəqiqə ərzində təmin edilir?",
+    "a": "2-5 dәqiqә"
+  },
+  {
+    "num": 43,
+    "q": "NAVTEX sisteminin tәyinatı:",
+    "a": "Dәnizdә üzmәnin tәhlükәsizliyi üzrә informasiyanın gәmilәrә  ötürülmәsi üçün"
+  },
+  {
+    "num": 44,
+    "q": "Fәlakәt zamanı kömәyә aid olmayan danışıqların dayandırılması әmri  aşağıdakı hansı ifadә ilә işarәlәrinir?",
+    "a": "SEELONCE MAYDAY"
+  },
+  {
+    "num": 45,
+    "q": "INMARSAT sistemindә hansı peyk aid deyil",
+    "a": "LEOSAR"
+  },
+  {
+    "num": 46,
+    "q": "Radio avadanlığının ehtiyat enerji qida mәnbәlәrinә hansı aiddir?",
+    "a": "Akumulyator"
+  },
+  {
+    "num": 47,
+    "q": "AIS stansiyası ilә hansı mәlumat növlәri ötürülür?",
+    "a": "A, B, C bәndlәri"
+  },
+  {
+    "num": 48,
+    "q": "Gәminin AIS stansiyası nә vaxt qoşulmuş vәziyyәtdә olmalıdır?",
+    "a": "Daimi"
+  },
+  {
+    "num": 49,
+    "q": "Fәlakәtə aid olan mәlumatlar vә ya danışıqlar hansı sözlә işarәlәnir?",
+    "a": "MAYDAY"
+  },
+  {
+    "num": 50,
+    "q": "Fəlakətin qısa və tam formatları arasındakı fərq nədədir?",
+    "a": "Fəlakətin növünün göstərilməsində"
+  }
+]

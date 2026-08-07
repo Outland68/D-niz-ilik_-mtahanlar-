@@ -1,0 +1,161 @@
+“Qlobal Dәniz Fәlakәt vә Әmniyyәtli Rabitә Sisteminin Ümumi Rayon 
+Operatoru” 
+ 
+1. VHF-radiostansiyası ilә DSC rejimindә verilmiş yanlış fәlakәt siqnalı hansı 
+kanalda lәğv edilir? 
+Düzgün cavab: 16 Ch 
+ 
+2. SART-ın açıqlamasını göstәrin: 
+Düzgün cavab: Radiolokasiya cavabvericisi 
+ 
+3. HF- nin açıqlamasını göstәrin: 
+Düzgün cavab: Qısa dalğalar 
+ 
+4. MF-nin açıqlamasını göstәrin: 
+Düzgün cavab: Ara dalğalar 
+ 
+5. Heç bir stansiya tәrәfindәn DSC fәlakət siqnalı tәsdiq olunmadıqda nә 
+edir? 
+Düzgün cavab: 3,5-4,5 dәqiqәdәn bir avtomatik tәkrar olunur 
+ 
+6. DSC-nin açıqlamasını göstәrin: 
+Düzgün cavab: Rәqәmsal seçilmә çağırışı 
+ 
+7. EPİRB-nin açıqlamasını göstәrin: 
+Düzgün cavab: Qәza radiobuyu 
+ 
+8. VHF-nin açıqlamasını göstәrin: 
+Düzgün cavab: Ultra qısa dalğalar 
+ 
+9. “Listing” hansı fәlakәt növünә aid olunur? 
+Düzgün cavab: Gәminin tәhlükәli kreni (meyililik) 
+ 
+10. “Undesingnated” hansı fәlakәt növünә aid olunur? 
+Düzgün cavab: Tәyin olunmamış 
+ 
+11. “Abandoning ship” hansı fәlakәt növünә aid olunur? 
+Düzgün cavab: Gәminin tәrk edilmәsi 
+ 
+12. Sәfәrә çıxmazdan әvvәl GMDSS operatoru nәyi mütlәq yoxlamalıdır? 
+Düzgün cavab: Bütün radio avadanlığı vә ehtiyat enerji mәnbәlәri 
+ 
+13. MMSI abreviaturasını açıqlayın: 
+Düzgün cavab: Dәniz mobil servis identifikasiya nömrәsi 
+ 
+14. MMSI nömrәsini birinci üç rәqәmi nәyi göstәrir? 
+Düzgün cavab: Milli mәnsubiyyәtin kodu 
+ 
+15. Fәlakәt zamanı radioәlaqənin aparılması üçün mәslәhәt görülәn rejim 
+hansıdır? 
+Düzgün cavab: Radiotelefon rabitəsi 
+ 
+16. VHF radiostansiyalar radio dalğalarının hansı diapazonunda işlәyirlәr? 
+Düzgün cavab: Ultra qısa dalğalar 
+ 
+17. VHF-dә Fәlakәt,Tәcili vә Çağırış beynәlxalq kanalı hansıdır? 
+Düzgün cavab: 16 Ch 
+ 
+18. 16 kanalın tezliyi hansıdır? 
+Düzgün cavab: 156.8 MHs 
+ 
+19. Aşağıda sadalananlardan hansı “Dupleks”kanalı hesab olunur? 
+Düzgün cavab: Qәbulun vә ötürülmәnin müxtәlif tezlikli kanal 
+ 
+20. Gәmilәr arası dәnizdә üzmәnin tәhlükәsizliyi haqqında mәlumatın 
+ötürülmәsi hansı kanalda aparılır? 
+Düzgün cavab: 13 Ch 
+ 
+21. Aşağıda sadalananlardan hansı “Simpleks” kanalı hesab olunur? 
+Düzgün cavab: Qәbulun vә ötürülmənin eyni tezlikli kanal 
+ 
+22. VHF radiostansiyalar DSC radionövbәsini hansı kanalda aparılır? 
+Düzgün cavab: 70 Ch 
+ 
+23. “Collision” hansı fәlakәt növünә aid olunur? 
+Düzgün cavab: Gәminin toqquşması 
+ 
+24. MF diapazonunda Fәlakәt, Tәcili vә Çağırış beynәlxalq kanalı hansıdır? 
+Düzgün cavab: 2182 KHs 
+ 
+25. MF/HF radiostansiyanın hәftәlik testi kimin ünvanına göndәrilir? 
+Düzgün cavab: Yalnız sahil radiostansiyasının ünvanına 
+26. Sәrnişin gәmilәrdә VHF qәza radiostansiyalarının minimal sayı nә qәdәr 
+olmalıdır? 
+Düzgün cavab: 3 әdәd 
+ 
+27. 300 r/t olan gәmilәrdә qәza VHF radio stansiyalarının minimal sayı nә 
+qәdәr olmalıdır? 
+Düzgün cavab: 2 әdәd 
+ 
+28. SART-ın tәyinatı nədir? 
+Düzgün cavab: Yerinin tәyin edilmәsi üçün 
+ 
+29. Şüalanma rejimindә SART-ın iş vaxtı nә qәdәrdir? 
+Düzgün cavab: 8 saat 
+ 
+30. Gözlәmә rejimindә SART-ın iş vaxtı neçә saatdır? 
+Düzgün cavab: 96 saat 
+ 
+31. SART haqqında sәhv müddәanı göstәrin: 
+Düzgün cavab: Korpusu göy rәngdә olmalıdır 
+ 
+32. Xilasetmә avadanlıqlarından hansı fәlakәtin yerinin koordinatlarını 
+ötürür? 
+Düzgün cavab: EPİRB 
+ 
+33. Hansı vasitә EPİRB–nin gәmidәn avtomatik ayrılmasını tәmin edir? 
+Düzgün cavab: Hidrostat 
+ 
+34. Gәminin radioavadanlığı hansı SART-ın siqnalını aşkar edir? 
+Düzgün cavab: Radiolokasiya stansiyası 
+ 
+35. Hansı anda SART ötürmәyә başlayır ? 
+Düzgün cavab: İş rejiminә salındıqdan vә radiolokasiya stansiya tәrafindәn 
+şüalanmasından sonra 
+36. VHF qәza radiostansiyasının batareyasının gözlәmә rejimindә iş vaxtı 
+neçә saatdır? 
+Düzgün cavab:  72 Saat 
+37. Neçә metr dәrinlikdә hidrostat EPIRB-ni gәmidәn avtomatik ayrılır? 
+Düzgün cavab: 10 m-ә qәdәr 
+ 
+38. Sadalanlardan hansı doğrudur? 
+Düzgün cavab: EPIRB gәmidәn avtomatik ayrıldıkdan sonra işә düşmәlidir 
+ 
+39. EPIRB-nin şüalanma rejimi neçә saatdır? 
+Düzgün cavab: 48 saat 
+ 
+40. EPIRB-nin siqnalını hansı avadanlıq qәbul edir? 
+Düzgün cavab: KOSPAS-SARSAT sisteminin peyklәri 
+ 
+41. LEOSAR (Aşağı orbitalı peyklәr) tәrәfindәn EPİRB-nin koordinatlarının 
+dәqiq tәyin edilmәsi neçә kilometrdir? 
+Düzgün cavab: 12-17 km 
+ 
+42. KOSPAS-SARSAT sistemindә GEOSAR (geostasionar peyklәr) 
+tәrәfindәn EPİRB-dәn fәlakәt signalının RCC (xilasetmә koordinasiya 
+mәrkәzinә) çatdırılması neçə dəqiqə ərzində təmin edilir? 
+Düzgün cavab: 2-5 dәqiqә 
+ 
+43. NAVTEX sisteminin tәyinatı: 
+Düzgün cavab: Dәnizdә üzmәnin tәhlükәsizliyi üzrә informasiyanın gәmilәrә 
+ötürülmәsi üçün 
+44. Fәlakәt zamanı kömәyә aid olmayan danışıqların dayandırılması әmri 
+aşağıdakı hansı ifadә ilә işarәlәrinir? 
+Düzgün cavab: SEELONCE MAYDAY 
+ 
+45. INMARSAT sistemindә hansı peyk aid deyil 
+Düzgün cavab: LEOSAR 
+ 
+46. Radio avadanlığının ehtiyat enerji qida mәnbәlәrinә hansı aiddir? 
+Düzgün cavab: Akumulyator 
+ 
+47. AIS stansiyası ilә hansı mәlumat növlәri ötürülür? 
+Düzgün cavab: A, B, C bәndlәri 
+ 
+48. Gәminin AIS stansiyası nә vaxt qoşulmuş vәziyyәtdә olmalıdır? 
+Düzgün cavab: Daimi 
+49. Fәlakәtə aid olan mәlumatlar vә ya danışıqlar hansı sözlә işarәlәnir? 
+Düzgün cavab: MAYDAY 
+ 
+50. Fəlakətin qısa və tam formatları arasındakı fərq nədədir? 
+Düzgün cavab: Fəlakətin növünün göstərilməsində 

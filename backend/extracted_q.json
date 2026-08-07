@@ -1,0 +1,237 @@
+[
+    {
+        "id": "q001",
+        "q": "Gəminin elektrik sxemlərində və elektrik avadanlıqlarında həyata  keçirilmiş dəyişikliklər haqqında məlumatlar harada öz əksini tapmalıdır?",
+        "a": "Gəminin texniki sənədlərində"
+    },
+    {
+        "id": "q002",
+        "q": "Cərəyanla qurutma, izolyasiyasının müqavimətinin neçə Mom olan  elektrik maşınlarında həyata keçirilməsinə icazə verilir?",
+        "a": "0.1 Mom-dan az olmayan elektrik maşınlarında"
+    },
+    {
+        "id": "q003",
+        "q": "Akkumulyator batareyalarında keçirilən texniki baxışların mütəmadilik,  dövrilik müddətini qeyd edin?",
+        "a": "Hər ayda bir dəfədən az olmayan müddət ərzində"
+    },
+    {
+        "id": "q004",
+        "q": "Tullantılara nəzarət olunmayan rayonlarda tərkibində kükürdün faiz  miqdarı neçə faizdən az və ya çox olduqda həmin yanacaqdan istifadə  etməyə icazə verilir?",
+        "a": "3.50-dən çox olmadıqda"
+    },
+    {
+        "id": "q005",
+        "q": "Tullantılara nəzarət rayonlarından keçid zamanı tərkibində neçə faiz  kükürd olan yanacaqdan istifadə edilməsinə icazə verilir?",
+        "a": "1.00 %-dən çox olmayan"
+    },
+    {
+        "id": "q006",
+        "q": "Ən yaxın sahildən 12 mil məsafədə olduqda MARPOL-73/78 BK-nın V  əlavəsinə əsasən nələrin dənizə tullanmasına icazə verilir?",
+        "a": "Dondurulmuş halda balıq, ət, digər qida məhsulları və  xırdalanmış ərzaq tullantıları"
+    },
+    {
+        "id": "q007",
+        "q": "Əl yanğın xəbərdarlıq edicilər harada yerləşdirilməlidirlər?",
+        "a": "Hər bir yanğın zonasında"
+    },
+    {
+        "id": "q008",
+        "q": "Növbətçi qayıq hansı sürətlə manevr etmək imkanlarına malik  olmalıdır?",
+        "a": "6 uzel"
+    },
+    {
+        "id": "q009",
+        "q": "Gəmidə təmir işləri yerinə yetirildiyi zaman yanğın təhlükəsizliyinin  təmin olunmasına kim cavabdehdir?",
+        "a": "Gəmi təmiri müəssisəsi"
+    },
+    {
+        "id": "q010",
+        "q": "Gəminin heyət üzvlərindən hansı vəzifəli şəxs gəminin bütün mexaniki  qurğularının texniki vasitələrini və gövdə konstruksiyalarını rəhbər heyət  üzvləri arasında təhkimatlar üzrə bölüşdürür?",
+        "a": "Baş mexanik"
+    },
+    {
+        "id": "q011",
+        "q": "Gəminin qəzaya uğraması nəticəsində heyət üzvünün əmlakına zərər  dəydikdə və ya əmlak itirildikdə, məhv olduqda həmin ziyan heyət üzvünə  kim tərəfindən ödənilməlidir?",
+        "a": "Sığorta şirkəti tərəfindən"
+    },
+    {
+        "id": "q012",
+        "q": "“Transducer” sözünün düzgün tərcüməsini qeyd edin?",
+        "a": "Ötürücü cihaz"
+    },
+    {
+        "id": "q013",
+        "q": "“Sea-chest” sözünün düzgün tərcüməsini qeyd edin?",
+        "a": "Kinqston"
+    },
+    {
+        "id": "q014",
+        "q": "“Seal” sözünün düzgün tərcüməsini qeyd edin?",
+        "a": "Kipləndirici, salnik"
+    },
+    {
+        "id": "q015",
+        "q": "“Assembly” sözünün düzgün tərcüməsini qeyd edin?",
+        "a": "Yığmaq, montaj etmək"
+    },
+    {
+        "id": "q016",
+        "q": "Baş paylayıcı lövhədə quraşdırılmış voltmetrlər nəyi göstərir?",
+        "a": "Xəttdə olan cərəyan gərginliyini"
+    },
+    {
+        "id": "q017",
+        "q": "Orqanizmdən keçən 50 Hz tezliklə, dəyişən elektrik cərəyanı hansı  ölçüdə olduqda insan onu hiss etmiş olur?",
+        "a": "1.1 mA"
+    },
+    {
+        "id": "q018",
+        "q": "Cərəyan göstəricisinin əvəzinə nəzarət elektrik lampasından istifadə  etmək olarmı?",
+        "a": "Qətiyyən olmaz"
+    },
+    {
+        "id": "q019",
+        "q": "Dəyişən cərəyanlı elektromaqnitin lövbərinin ilişməsi nəyə səbəb ola  bilər?",
+        "a": "Elektromaqnitin sarğısının yanmasına"
+    },
+    {
+        "id": "q020",
+        "q": "Gəmi şəraitində möhürlərin çıxarılması, nəzarət ölçü cihazlarının  açılması və təmir edilməsi gəmi heyət üzvlərindən kimin nəzarəti altında  həyata keçirilməlidir?",
+        "a": "Kapitanın növbə köməkçisinin"
+    },
+    {
+        "id": "q021",
+        "q": "Cərəyanın güc transformatorunun paralel iş rejiminə ardıcıl olaraq  düzgün qoşulma qaydasını qeyd edin:",
+        "a": "Paralel qoşulma öncə birinci, sonra isə ikinci şəbəkədən  qoşulmaqla həyata keçirilir"
+    },
+    {
+        "id": "q022",
+        "q": "İstismarda olan yarımkeçirici dəyişdiricilərin izolyasiyasının normal  müqavimətini qeyd edin?",
+        "a": "1.0 Mom"
+    },
+    {
+        "id": "q023",
+        "q": "Uzun müddət istismar edilməyən elektrik cihazlarının dövri texniki  baxışlarının keçirilməsi və yoxlanması hansı müddətlərdə həyata keçirilir?",
+        "a": "Bir ayda bir dəfədən az olmayaraq"
+    },
+    {
+        "id": "q024",
+        "q": "Qoruyucu qurğunun işə düşməsi nəticəsində iş rejimindən çıxarılan və  ya çıxardılan mexanizmin (qurğunun) avtomatik və ya məsafədən işə  salınması üçün nə etmək lazım olduğunu qeyd edin:",
+        "a": "Əl vasitəsi ilə qoruyucu qurğunu əvvəlki vəziyyətə  gətirmək"
+    },
+    {
+        "id": "q025",
+        "q": "Nəzarət Məlumat Ölçü Sistemlərinin (MÖS) kanalının funksiyası  nədən ibarətdir?",
+        "a": "Nəzarət edilən parametrlərin normadan kənara çıxdığı  hallarda işıq siqnallarının formalaşdırılması"
+    },
+    {
+        "id": "q026",
+        "q": "Danışıq aparatlarının quraşdırılması zaman hansı tədbirləri həyata  keçirmək lazımdır?",
+        "a": "Mexanizmlərin işləməsi zaman yaxşı eşitmə imkanlarının  təmin edilməsi"
+    },
+    {
+        "id": "q027",
+        "q": "Aşağıda qeyd edilənlərdən hansı cihazdan istifadə edərək Avtomatik  İdarəetmə Sistemlərində gərginliyin ölçülməsi yerinə yetirilə bilər?",
+        "a": "Elektron voltmetrdən və ya yüksək çıxış müqaviməti olan  əqrəbli voltmetrdən istifadə edərək"
+    },
+    {
+        "id": "q028",
+        "q": "Dəyişən cərəyanlı gəmi elektroenergetik sistemlərinin paylama  şəbəkələrinin bütün şaxələrində hansı növ qoruma quraşdırılmalıdır?",
+        "a": "Həddindən artıq yüklənmədən və qısa qapanmadan"
+    },
+    {
+        "id": "q029",
+        "q": "Avral siqnalizasiyanın işinin hansı müddətlərdə yoxlanması gərəkdir?",
+        "a": "Gəmi səfərə çıxmazdan öncə və hər 10 gündən bir"
+    },
+    {
+        "id": "q030",
+        "q": "İşləmək bacarığının (qabiliyyətinin) itirilməsinə nəzarət siqnalizasiyası  hansı növ gəmilərdə quraşdırılır?",
+        "a": "Maşın bölməsində növbəçəkmə bir nəfər tərəfindən  aparılan və maşın bölməsində növbəçəkmə xidməti aparılmayan  gəmilərdə"
+    },
+    {
+        "id": "q031",
+        "q": "Yük əməliyyatları zaman tryumlarda işıqların yandırılıb  söndürülməsinə və tryum işıqlarının istifadəsinə nəzarət kim tərəfindən  həyata keçirilir?",
+        "a": "Gəmi kapitanının növbə köməkçisi tərəfindən"
+    },
+    {
+        "id": "q032",
+        "q": "Gəminin akkumulyator batareyalarının qidalandırılmasına dair başqa  bir özəl, xüsusi göstəriş olmadığı təqdirdə (akkumulyatorların nominal  həcmi miqdarına bərabər olan 0.25 A-saat cərəyanla) normal  qidalandırılması hansı müddətlərdə həyata keçirilməlidir?",
+        "a": "6 saat"
+    },
+    {
+        "id": "q033",
+        "q": "Akumulyator batareyalarının sürətləndirilmiş qidalandırılmasını  (normal qidalandırma cərəyan şiddətindən iki dəfə çox cərəyan şiddəti ilə)  neçə saat ərzində yerinə yetirmək lazımdır?",
+        "a": "3 ssat"
+    },
+    {
+        "id": "q034",
+        "q": "Gəmidə gəmi elektrik avadanlıqlarının, habelə ehtiyat hissələrinin sərf  edilməsinin və qalıqlarının qeydiyyatı aparılmalıdır. Bu qeydiyyat  kitablarının formasını və qaydalarını kim müəyyən edir?",
+        "a": "Gəmi sahibi"
+    },
+    {
+        "id": "q035",
+        "q": "Gəmidə istismara yararlı və saz vəziyyətdə olan elektrik  avadanlıqlarını və qurğularını istismara hazırlanmasına və istismar  edilməsinə icazə verilir. Nasaz olan elektrik avadanlıqlarının üzərində  asılan xəbərdarlıq lövhələri hansı məzmunlu olmalıdırlar?",
+        "a": "Nasazlıq var. İşə salmaq qəti qadağandır"
+    },
+    {
+        "id": "q036",
+        "q": "Nə üçün düzləndiricinin çıxışına paralel olaraq, fırçasız generatorun  rotorunun üzərində varistor birləşdirilir?",
+        "a": "Yarımkeçirici düzləndiricinin elektrik cərəyanından  qorunması üçün"
+    },
+    {
+        "id": "q037",
+        "q": "Generatorların texniki baxışlarının orta hesabla keçirilmə müddətlərini  qeyd edin:",
+        "a": "6-12 ay"
+    },
+    {
+        "id": "q038",
+        "q": "Paylayıcı lövhələr bağlanılmalıdır?",
+        "a": "Az gərginlikli elektrik paylayıcılarının qapılarını bağlamaq  üçün təyin edilmiş açarlardan fərqli olan, xüsusi açarla"
+    },
+    {
+        "id": "q039",
+        "q": "Lokal şəbəkə və kompüterlər arasında ikipanelli məlumat mübadiləsini  təmin etmək üçün istifadə edilir:",
+        "a": "Şəbəkə adapteri"
+    },
+    {
+        "id": "q040",
+        "q": "Kompüter sistem və şəbəkələrində istifadə edilən “Protokol” sözü nə  deməkdir?",
+        "a": "Kompüter sistem və şəbəkələrində eyni səviyyədə, lakin  müxtəlif şəbəkələrdə yerləşən məlumatların mübadiləsinin formatını və  prosedurlarını nizama (müəyyən qaydaya) salan qaydalar məcmusudur"
+    },
+    {
+        "id": "q041",
+        "q": "Kompüter sistem və şəbəkələrində istifadə edilən “Interfeys” sözü nə  deməkdir?",
+        "a": "Kompüter sistem və şəbəkələrində qonşu səviyyələrdə,  lakin eyni şəbəkədə yerləşən məlumatların mübadiləsinin formatını və  prosedurlarını nizama (müəyyən qaydaya) salan qaydalar məcmusudur"
+    },
+    {
+        "id": "q042",
+        "q": "Registrin qaydalarına əsasən gəmi sinxron maşınlarında hava  zazorlarında qeyri müntəzəmliyin aralıqlarının kəmiyyətinin qiyməti nə  qədər təşkil edir?",
+        "a": "Orta aralığa nisbətdə ± 10%"
+    },
+    {
+        "id": "q043",
+        "q": "Fırçalı və kontakt üzüklü sinxron generatorlarda kontakt üzüklərinin  qütblərinin dəyişdirilməsi hansı səbəblərdən yerinə yetirilir?",
+        "a": "Üzüklərin yeyilməsinin müntəzəm şəkildə, bərabər  səviyyədə həyata keçməsinin təmin edilməsi üçün"
+    },
+    {
+        "id": "q044",
+        "q": "Üç fazalı asinxron elektrik mühərrikinin nominal cərəyan şiddəti 200A  bərabərdir. Yüklənmədən birbaşa şəbəkəyə qoşulma zamanı cərəyan  sıçrayışı neçə amper təşkil edəcək?",
+        "a": "1000 A"
+    },
+    {
+        "id": "q045",
+        "q": "Üç fazalı asinxron elektrik mühərriki nominal cərəyanlı yüklə işləyir. Bu  zaman qəflətən bir faza qırılır. Elektrik mühərrikinin istehlak etdiyi cərəyan  necə dəyişəcək?",
+        "a": "Artacaq"
+    },
+    {
+        "id": "q046",
+        "q": "Sinxron elektrik mühərrikinin cərəyan gərginliyi 10 % azaldıqda  mühərrikin dövrlər sayı nə cür dəyişir?",
+        "a": "Dəyişməz olaraq sabit qalır"
+    },
+    {
+        "id": "q047",
+        "q": "Özü havalandırılan elektrik mühərrikini xaricdən, asılı olmayan üfürmə  ilə təchiz etsək onun daimi qızma saatı nə cür dəyişəcəkdir?",
+        "a": "Azalacaq"
+    }
+]

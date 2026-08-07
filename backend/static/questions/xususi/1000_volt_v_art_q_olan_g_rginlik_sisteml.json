@@ -1,181 +1,181 @@
 {
-  "certificate": "1000 volt vә artıq olan gәrginlik sistemlәrinin tәhlükәsiz istismarı vә onlara texniki nәzarәt",
+  "certificate": "1000 volt və artıq olan gərginlik sistemlərinin təhlükəsiz istismarı və onlara texniki nəzarət",
   "questions": [
     {
       "id": "q001",
-      "question": "1. Elektrik avdanlıqları üçün tətbiq edilən izolyasiya materialları qurğunun istismarı zamanı 1 Volt nominal gərginliyə görə:",
+      "question": "1. Elektrik avdanlıqları üçün tәtbiq edilәn izolyasiya materialları qurğunun istismarı zamanı 1 Volt nominal gәrginliyә görә:",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "bütün cavablar yanlışdır",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "1500 Om izolyasiya müqavimətini təmin etməlidir"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q002",
-      "question": "2. Baş paylayıcı şitin konstruksiyası nеçə seksiyadan ibarət olmalıdır ki, seksiyalar arası avtomatik açarla və ya ayırıcı ilə təmin edilə bilsin?",
-      "options": {
-        "A": "Minimum iki bir-birindən asılı olmayan",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "A": "1500 Om izolyasiya müqavimәtini tәmin etmәlidir",
+        "B": "Bütün fazalarda eyni zamanda qapanma baş verdikdə",
+        "C": "Termiki dayanıqlılıq həddini aşdıqda",
+        "D": "Kabelin xarici örtüyü mexaniki zədələndikdə"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
-      "id": "q003",
-      "question": "3. Baş paylayıcı şitin hər seksiyasına minimum neçə generator qoşulmalıdır?",
+      "id": "q002",
+      "question": "2. Baş paylayıcı şitin konstruksiyası nеçә seksiyadan ibarәt olmalıdır ki, seksiyalar arası avtomatik açarla vә ya ayırıcı ilә tәmin edilә bilsin?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "Bir",
-        "C": "şimal-şərq istiqamətində",
-        "D": "lövbər dayanacağı sahəsində"
+        "A": "Dəyişən cərəyan şəbəkələrində güc əmsalı aşağı olduqda",
+        "B": "Elektromaqnit induksiyası sıfıra düşərsə",
+        "C": "Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda",
+        "D": "Minimum iki bir-birindәn asılı olmayan"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q003",
+      "question": "3. Baş paylayıcı şitin hәr seksiyasına minimum neçә generator qoşulmalıdır?",
+      "options": {
+        "A": "Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda",
+        "B": "Avtomatik açar termal yüklənmədən çıxdıqda",
+        "C": "Bir",
+        "D": "Reaktiv güc itkiləri çox olduqda"
+      },
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q004",
-      "question": "4. Nominal cərəyan nəyə deyilir?",
+      "question": "4. Nominal cәrәyan nәyә deyilir?",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "bütün cavablar yanlışdır",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "Avadanlığın cərəyan keçirici hissələrinin və izolyasiyasının buraxılabilən qiymətdə qızması ilə uzunmüddətli işləməsini təmin edən cərəyandır"
+        "A": "Üçfazalı sistemdə asimmetriya 10%-i keçdikdə",
+        "B": "Tezlik çeviricilərindəki tranzistorlar sıradan çıxdıqda",
+        "C": "Kabelin xarici örtüyü mexaniki zədələndikdə",
+        "D": "Avadanlığın cәrәyan keçirici hissәlәrinin vә izolyasiyasının buraxılabilәn qiymәtdә qızması ilә uzunmüddәtli işlәmәsini tәmin edәn cәrәyandır"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q005",
-      "question": "5. Sıfır nöqtələrinin bütün torpaqlanmalı impedansları (tam müqavimət) nə ilə birləşdirilməlidir?",
+      "question": "5. Sıfır nöqtәlәrinin bütün torpaqlanmalı impedansları (tam müqavimәt) nә ilә birlәşdirilmәlidir?",
       "options": {
-        "A": "Gövdə ilə",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "lövbər dayanacağı sahəsində"
+        "A": "24 V qəza işıqlandırma sistemlərində",
+        "B": "Gövdә ilә",
+        "C": "Kabelin xarici örtüyü mexaniki zədələndikdə",
+        "D": "Üçfazalı sistemdə asimmetriya 10%-i keçdikdə"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q006",
-      "question": "6. Elektrik maşınlarının örtüklərinin müdafiə dərəcəsi hansı sənədin tələblərindən aşağı olmamalıdır?",
+      "question": "6. Elektrik maşınlarının örtüklәrinin müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır?",
       "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
+        "A": "Elektrik mühərrikinin sürəti nominaldan az olduqda",
+        "B": "İzolyasiya müqaviməti 500 kOm-dan az olduqda",
         "C": "IP23",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "D": "Şinlərarası məsafə 10 mm-dən az olduqda"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q007",
-      "question": "7. Hazırlıqsız heyət olan otaqlarda quraşdırılmış elektrik mühərrikləri üçün örtüklərin müdafiə dərəcəsi hansı sənədin tələblərindən aşağı olmamalıdır?",
+      "question": "7. Hazırlıqsız heyәt olan otaqlarda quraşdırılmış elektrik mühәrriklәri üçün örtüklәrin müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "IP4X"
+        "A": "Tezlik çeviricilərindəki tranzistorlar sıradan çıxdıqda",
+        "B": "Cərəyan transformatorunun ikinci dolağı açıq qaldıqda",
+        "C": "IP4X",
+        "D": "24 V qəza işıqlandırma sistemlərində"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q008",
-      "question": "8. Transformatorların örtüklərinin müdafiə dərəcəsi hansı sənədin tələblərindən aşağı olmamalıdır?",
+      "question": "8. Transformatorların örtüklәrinin müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır?",
       "options": {
-        "A": "gəmi limana daxil olana qədər",
+        "A": "Sıxıcı kontaktların boşalması nəticəsində qığılcım yarandıqda",
         "B": "IP23",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "avtomatik rejimdə işləyərkən"
+        "C": "Elektrik mühərrikinin sürəti nominaldan az olduqda",
+        "D": "Sinusoidal gərginlik rejimində"
       },
       "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q009",
-      "question": "9. Hazırlıqsız heyət olan otaqlarda quraşdırılmış transformatorların örtüklərinin müdafiə dərəcəsi hansı sənədin tələblərindən aşağı olmamalıdır?",
+      "question": "9. Hazırlıqsız heyәt olan otaqlarda quraşdırılmış transformatorların örtüklәrinin müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır?",
       "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "IP4X",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "fırtınalı havada təxirə salınmaqla"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q010",
-      "question": "10. Paylayıcı şitlərin, idarəetmə şitlərinin, statik dəyişdirici şitlərin şkaflarının metal örtüklərinin müdafiə dərəcəsi hansı sənədin tələblərindən aşağı olmamalıdır?",
-      "options": {
-        "A": "IP32",
-        "B": "şimal-şərq istiqamətində",
-        "C": "gərginlik 220 V həddinə çatdıqda",
-        "D": "cənub-qərb dreyfi zamanı"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q011",
-      "question": "11. Hazırlıqsız heyət olan otaqlarda quraşdırılmış şitlər üçün metal örtüklərin müdafiə dərəcəsi hansı sənədin tələblərindən aşağı olmamalıdır?",
-      "options": {
-        "A": "hər 6 aydan bir keçirilən təlimlərdə",
-        "B": "şimal-şərq istiqamətində",
+        "A": "Torpaqlama konturu tam kəsildikdə",
+        "B": "Gərginlik transformatorunun sarğılarında qırılma olduqda",
         "C": "IP4X",
-        "D": "50 metr məsafədə dənizdə"
+        "D": "Sabit cərəyan generatorunun maqnit sahəsi itdikdə"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
-      "id": "q012",
-      "question": "12. Xətti gərginlik nəyə deyilir?",
+      "id": "q010",
+      "question": "10. Paylayıcı şitlәrin, idarәetmә şitlәrinin, statik dәyişdirici şitlәrin şkaflarının metal örtüklәrinin müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır?",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "50 metr məsafədə dənizdə",
-        "D": "Üçfazalı elektrik şəbəkəsində fazalar arasındakı gərginlikdir"
+        "A": "Avtomatik açar termal yüklənmədən çıxdıqda",
+        "B": "İzolyasiya müqaviməti 500 kOm-dan az olduqda",
+        "C": "IP32",
+        "D": "Kabelin xarici örtüyü mexaniki zədələndikdə"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q011",
+      "question": "11. Hazırlıqsız heyәt olan otaqlarda quraşdırılmış şitlәr üçün metal örtüklәrin müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır?",
+      "options": {
+        "A": "Tranzistor tipli gücləndiricilərdə",
+        "B": "Reaktiv güc itkiləri çox olduqda",
+        "C": "Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda",
+        "D": "IP4X"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q012",
+      "question": "12. Xәtti gәrginlik nәyә deyilir?",
+      "options": {
+        "A": "Qoruyucu rölelərin həssaslığı artırıldıqda",
+        "B": "Kabelin xarici örtüyü mexaniki zədələndikdə",
+        "C": "Elektrik mühərrikinin sürəti nominaldan az olduqda",
+        "D": "Üçfazalı elektrik şәbәkәsindә fazalar arasındakı gәrginlikdir"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q013",
-      "question": "13. Faza gərginliyi nəyə deyilir?",
+      "question": "13. Faza gәrginliyi nәyә deyilir?",
       "options": {
-        "A": "Üçfazalı elektrik şəbəkəsində bir faza ilə sıfır xətti arasındakı gərginlikdir",
-        "B": "bütün cavablar yanlışdır",
-        "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "A": "Üçfazalı elektrik şәbәkәsindә bir faza ilә sıfır xәtti arasındakı gәrginlikdir",
+        "B": "İzolyasiya müqaviməti 500 kOm-dan az olduqda",
+        "C": "Gərginlik transformatorunun sarğılarında qırılma olduqda",
+        "D": "Tranzistor tipli gücləndiricilərdə"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q014",
-      "question": "14. Güc transformatorları qısaqapanmadan və həddən artıq yüklənmələrdən nə vasitəsilə qorunmalıdırlar?",
+      "question": "14. Güc transformatorları qısaqapanmadan vә hәddәn artıq yüklәnmәlәrdәn nә vasitәsilә qorunmalıdırlar?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "İndikatorla",
-        "D": "şimal-şərq istiqamətində"
+        "A": "Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda",
+        "B": "Üçfazalı sistemdə asimmetriya 10%-i keçdikdə",
+        "C": "Gərginlik 380 V olduqda",
+        "D": "İndikatorla"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q015",
-      "question": "15. Nоminal gərginlik 3(3,3) kV olduqda hava ilə fazalararası minimal məsafə neçə millimeter olmalıdır?",
+      "question": "15. Nоminal gәrginlik 3(3,3) kV olduqda hava ilә fazalararası minimal mәsafә neçә millimeter olmalıdır?",
       "options": {
-        "A": "hər 6 aydan bir keçirilən təlimlərdə",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "gərginlik 220 V həddinə çatdıqda",
+        "A": "Fazalararası gərginlik sıfıra bərabər olduqda",
+        "B": "Stator dolağında izolyasiya qatı nazildikdə",
+        "C": "Sabit cərəyan generatorunun maqnit sahəsi itdikdə",
         "D": "90 mm"
       },
       "correct_answer": "D",
@@ -183,902 +183,902 @@
     },
     {
       "id": "q016",
-      "question": "16. Nоminal gərginlik 6(6,6) kV olduqda hava ilə fazalararası minimal məsafə neçə millimeter olmalıdır?",
+      "question": "16. Nоminal gәrginlik 6(6,6) kV olduqda hava ilә fazalararası minimal mәsafә neçә millimeter olmalıdır?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "90 mm",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "cənub-qərb dreyfi zamanı"
+        "A": "Reaktiv güc itkiləri çox olduqda",
+        "B": "Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda",
+        "C": "90 mm",
+        "D": "Yalnız açıq havada quraşdırılmış transformatorlarda"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q017",
+      "question": "17. Nоminal gәrginlik 10(11) kV olduqda hava ilә fazalararası minimal mәsafә neçә millimeter olmalıdır?",
+      "options": {
+        "A": "Reaktiv güc itkiləri çox olduqda",
+        "B": "120 mm",
+        "C": "Torpaqlama konturu tam kəsildikdə",
+        "D": "Kabelin xarici örtüyü mexaniki zədələndikdə"
       },
       "correct_answer": "B",
       "explanation": ""
     },
     {
-      "id": "q017",
-      "question": "17. Nоminal gərginlik 10(11) kV olduqda hava ilə fazalararası minimal məsafə neçə millimeter olmalıdır?",
-      "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "D": "120 mm"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
       "id": "q018",
-      "question": "18. Nоminal gərginlik 15 kV olduqda hava ilə fazalararası minimal məsafə neçə millimeter olmalıdır?",
+      "question": "18. Nоminal gәrginlik 15 kV olduqda hava ilә fazalararası minimal mәsafә neçә millimeter olmalıdır?",
       "options": {
-        "A": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "160 mm"
+        "A": "Sabit cərəyan generatorunun maqnit sahəsi itdikdə",
+        "B": "Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda",
+        "C": "160 mm",
+        "D": "Torpaqlama konturu tam kəsildikdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q019",
-      "question": "19. Gəmilərdə əsasən hansı gərginlikli elektrik enerjisi istehsal edilərək gəminin gövdəsi üzrə paylanır?",
+      "question": "19. Gәmilәrdә әsasәn hansı gәrginlikli elektrik enerjisi istehsal edilәrәk gәminin gövdәsi üzrә paylanır?",
       "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "şimal-şərq istiqamətində",
-        "D": "3 fazalı, 50 hers, 380 volt"
+        "A": "Yalnız açıq havada quraşdırılmış transformatorlarda",
+        "B": "Stator dolağında izolyasiya qatı nazildikdə",
+        "C": "3 fazalı, 50 hers, 380 volt",
+        "D": "Kontaktorda istilik itkisi çox olduqda"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q020",
-      "question": "20. Gəmilərdə yüksək gərginlik dedikdə hansı gərginliklər başa düşülür?",
+      "question": "20. Gәmilәrdә yüksәk gәrginlik dedikdә hansı gәrginliklәr başa düşülür?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "1000 volt dəyişən, 1500 volt sabit gərginliklərdən yuxarı bütün gərginliklər",
-        "D": "şimal-şərq istiqamətində"
+        "A": "Gərginlik 380 V olduqda",
+        "B": "Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda",
+        "C": "1000 volt dәyişәn, 1500 volt sabit gәrginliklәrdәn yuxarı bütün gәrginliklәr",
+        "D": "Bütün fazalarda eyni zamanda qapanma baş verdikdə"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q021",
-      "question": "21. Tipik gəmi yüksək gərginlik sistemləri adətən hansı gərginliklərlə işləyirlər?",
+      "question": "21. Tipik gәmi yüksәk gәrginlik sistemlәri adәtәn hansı gәrginliklәrlә işlәyirlәr?",
       "options": {
-        "A": "3,3 kV və ya 6,6 kV",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "gəmi limana daxil olana qədər",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "A": "3,3 kV vә ya 6,6 kV",
+        "B": "Fazalararası müqavimət 0 olduqda",
+        "C": "Avtomatik idarəetmə dövrələrində nasazlıq yaranarsa",
+        "D": "Bütün fazalarda eyni zamanda qapanma baş verdikdə"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q022",
-      "question": "22. İnsan bədəni elektrik cərəyanına nə üçün az müqavimət göstərir?",
+      "question": "22. İnsan bәdәni elektrik cәrәyanına nә üçün az müqavimәt göstәrir?",
       "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "bütün cavablar doğrudur",
-        "C": "Çünki insan bədəninin əsasını duzlu maye təşkil edir",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
+        "A": "İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda",
+        "B": "24 V qəza işıqlandırma sistemlərində",
+        "C": "Cərəyan sızması 30 mA-dan çox olduqda",
+        "D": "Çünki insan bәdәninin әsasını duzlu maye tәşkil edir"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q023",
-      "question": "23. 1 mA, 50 Hz tezlikli cərəyan insan bədənindən axarsa nə baş verər?",
+      "question": "23. 1 mA, 50 Hz tezlikli cәrәyan insan bәdәnindәn axarsa nә baş verәr?",
       "options": {
-        "A": "Gizildəmə",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "A": "Elektrik mühərrikinin sürəti nominaldan az olduqda",
+        "B": "Qısaqapanma cərəyanı 10 kA-dan çox olduqda",
+        "C": "Kontaktorda istilik itkisi çox olduqda",
+        "D": "Gizildәmә"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q024",
-      "question": "24. 15 mA, 50 Hz tezlikli cərəyan insan bədənindən axarsa nə baş verər?",
+      "question": "24. 15 mA, 50 Hz tezlikli cәrәyan insan bәdәnindәn axarsa nә baş verәr?",
       "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "C": "Ürəyin əzələlərini yığar",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "A": "Neytral naqil tamamilə ayrıldıqda",
+        "B": "Gərginlik 220 V dərəcəsinə düşdükdə",
+        "C": "Dəyişən cərəyan şəbəkələrində güc əmsalı aşağı olduqda",
+        "D": "Ürәyin әzәlәlәrini yığar"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q025",
-      "question": "25. 50 mA-dən artıq cərəyanlar insan bədənindən axarsa nə baş verər?",
+      "question": "25. 50 mA-dәn artıq cәrәyanlar insan bәdәnindәn axarsa nә baş verәr?",
       "options": {
-        "A": "gərginlik 220 V həddinə çatdıqda",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "Əzələləri idarəolunmaz hala gətirə bilər",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "Qoruyucu rölelərin həssaslığı artırıldıqda",
+        "B": "Әzәlәlәri idarәolunmaz hala gәtirә bilәr",
+        "C": "Cərəyan sızması 30 mA-dan çox olduqda",
+        "D": "Lokal topraqlama xətti mövcud olmadıqda"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q026",
-      "question": "26. Qövs yaranan zaman temperatur təxminən necə dərəcəyə (S 0) çatır?",
+      "question": "26. Qövs yaranan zaman temperatur tәxminәn necә dәrәcәyә (S 0) çatır?",
       "options": {
-        "A": "20000 S-yə",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "A": "Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda",
+        "B": "Stator dolağında izolyasiya qatı nazildikdə",
+        "C": "20000 S-yə",
+        "D": "Sıxıcı kontaktların boşalması nəticəsində qığılcım yarandıqda"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q027",
-      "question": "27. Elektrik qövsləri yaranan zaman zərbə dalğaları nəticəsində kontakt sistemlərində və şinlərdə olan bəzi metallar, məsələn, mis əriyər. Bunun nəticəsində mis genişlənər, həcmi adi halındakından neçə dəfə artar və partlayışa səbəb olar?",
+      "question": "27. Elektrik qövslәri yaranan zaman zәrbә dalğaları nәticәsindә kontakt sistemlәrindә vә şinlәrdә olan bәzi metallar, mәsәlәn, mis әriyәr. Bunun nәticәsindә mis genişlәnәr, hәcmi adi halındakından neçә dәfә artar vә partlayışa sәbәb olar?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "67000 dəfə",
-        "D": "bütün cavablar doğrudur"
+        "A": "Qoruyucu rölelərin həssaslığı artırıldıqda",
+        "B": "Termiki dayanıqlılıq həddini aşdıqda",
+        "C": "Sabit cərəyan generatorunun maqnit sahəsi itdikdə",
+        "D": "67000 dәfә"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q028",
-      "question": "28. Cərəyan aхınına nəzarət edən avtomatik açarlar hansı müddətdə işə düşməlidirlər?",
+      "question": "28. Cәrәyan aхınına nәzarәt edәn avtomatik açarlar hansı müddәtdә işә düşmәlidirlәr?",
       "options": {
-        "A": "50 millisaniyə",
-        "B": "hər 6 aydan bir keçirilən təlimlərdə",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "50 metr məsafədə dənizdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q029",
-      "question": "29. İnsan bədənindən elektrik cərəyanı axdıqda əsas müqaviməti nə göstərir?",
-      "options": {
-        "A": "İnsanın dərisi",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "10 uzel sürətlə manevr etdikdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q030",
-      "question": "30. İnsan bədəninin müqaviməti hansı amillərdən asılıdır?",
-      "options": {
-        "A": "İnsanın fiziki və psixi vəziyyətindən, ətraf mühitin cari vəziyyətindən",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q031",
-      "question": "31. İnsanın dərisinin, sümüklərinin, qığırdaqlarının, vətərlərinin və piy toxumalarının elektrik cərəyanına göstərdiyi müqavimət təxminən nə qədərdir?",
-      "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "3000-20000 Om/m",
-        "D": "lövbər dayanacağı sahəsində"
+        "A": "Yalnız açıq havada quraşdırılmış transformatorlarda",
+        "B": "İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda",
+        "C": "50 millisaniyә",
+        "D": "Üçfazalı sistemdə asimmetriya 10%-i keçdikdə"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
-      "id": "q032",
-      "question": "32. İnsanın əzələlərinin, qanının, limfalarının, xüsusən də baş və onurğa beyininin elektrik cərəyanına göstərdiyi müqavimət təxminən nə qədərdir?",
+      "id": "q029",
+      "question": "29. İnsan bәdәnindәn elektrik cәrәyanı axdıqda әsas müqavimәti nә göstәrir?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
+        "A": "Termiki dayanıqlılıq həddini aşdıqda",
+        "B": "Avtomatik idarəetmə dövrələrində nasazlıq yaranarsa",
+        "C": "Üçfazalı sistemdə asimmetriya 10%-i keçdikdə",
+        "D": "İnsanın dәrisi"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q030",
+      "question": "30. İnsan bәdәninin müqavimәti hansı amillәrdәn asılıdır?",
+      "options": {
+        "A": "Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda",
+        "B": "Reaktiv güc itkiləri çox olduqda",
+        "C": "Sabit cərəyan generatorunun maqnit sahəsi itdikdə",
+        "D": "İnsanın fiziki vә psixi vәziyyәtindәn, әtraf mühitin cari vәziyyәtindәn"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q031",
+      "question": "31. İnsanın dәrisinin, sümüklәrinin, qığırdaqlarının, vәtәrlәrinin vә piy toxumalarının elektrik cәrәyanına göstәrdiyi müqavimәt tәxminәn nә qәdәrdir?",
+      "options": {
+        "A": "3000-20000 Om/m",
+        "B": "Transformator yağı həddindən artıq isindikdə",
+        "C": "Lokal topraqlama xətti mövcud olmadıqda",
+        "D": "İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "id": "q032",
+      "question": "32. İnsanın әzәlәlәrinin, qanının, limfalarının, xüsusәn dә baş vә onurğa beyininin elektrik cәrәyanına göstәrdiyi müqavimәt tәxminәn nә qәdәrdir?",
+      "options": {
+        "A": "Şinlərarası məsafə 10 mm-dən az olduqda",
         "B": "0,5-1,0 Om/m",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "C": "Yalnız açıq havada quraşdırılmış transformatorlarda",
+        "D": "Elektromaqnit induksiyası sıfıra düşərsə"
       },
       "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q033",
-      "question": "33. Təmiz, quru və zədələnməmiş insan dərisinin maksimal müqaviməti hansı həddlərdə dəyişir?",
+      "question": "33. Tәmiz, quru vә zәdәlәnmәmiş insan dәrisinin maksimal müqavimәti hansı hәddlәrdә dәyişir?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "10000-100000 Om arasında",
-        "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q034",
-      "question": "34. Hansı tezliklərdə insan dərisinin üst təbəqəsi tamamilə müqavimətini itirir?",
-      "options": {
-        "A": "10 kHs-dən 20 kHs və daha artıq tezliklərdə",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "fırtınalı havada təxirə salınmaqla"
+        "A": "10000-100000 Om arasında",
+        "B": "Sabit cərəyan generatorunun maqnit sahəsi itdikdə",
+        "C": "Cərəyan transformatorunun ikinci dolağı açıq qaldıqda",
+        "D": "Fazalararası müqavimət 0 olduqda"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
-      "id": "q035",
-      "question": "35. Qadınların müqavimətinin az, kişilərinkinin isə çox olması nə ilə izah edilir?",
+      "id": "q034",
+      "question": "34. Hansı tezliklәrdә insan dәrisinin üst tәbәqәsi tamamilә müqavimәtini itirir?",
       "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "bütün cavablar doğrudur",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "Dərinin qalınlığı ilə"
+        "A": "Şinlərarası məsafə 10 mm-dən az olduqda",
+        "B": "10 kHs-dәn 20 kHs vә daha artıq tezliklәrdә",
+        "C": "24 V qəza işıqlandırma sistemlərində",
+        "D": "Gərginlik 220 V dərəcəsinə düşdükdə"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q035",
+      "question": "35. Qadınların müqavimәtinin az, kişilәrinkinin isә çox olması nә ilә izah edilir?",
+      "options": {
+        "A": "Dәrinin qalınlığı ilә",
+        "B": "Şinlərarası məsafə 10 mm-dən az olduqda",
+        "C": "Kontaktorda istilik itkisi çox olduqda",
+        "D": "Transformator yağı həddindən artıq isindikdə"
+      },
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q036",
-      "question": "36. Qəflətən baş verən qıcıqlanmalar; ağrılar, işıqlar, səslər insan bədəninin müqavimətini bir neçə dəqiqəyə neçə faiz aşağı salır?",
+      "question": "36. Qәflәtәn baş verәn qıcıqlanmalar; ağrılar, işıqlar, sәslәr insan bәdәninin müqavimәtini bir neçә dәqiqәyә neçә faiz aşağı salır?",
       "options": {
-        "A": "50 metr məsafədə dənizdə",
-        "B": "şimal-şərq istiqamətində",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "20-50%"
+        "A": "20-50%",
+        "B": "Sinusoidal gərginlik rejimində",
+        "C": "Neytral naqil tamamilə ayrıldıqda",
+        "D": "Lokal topraqlama xətti mövcud olmadıqda"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q037",
-      "question": "37. Elektrik təhlükəsizliyi hesabatlarında insan bədəninin müqavimətini stabil xətti və aktiv olmaqla nə qədər götürürlər?",
+      "question": "37. Elektrik tәhlükәsizliyi hesabatlarında insan bәdәninin müqavimәtini stabil xәtti vә aktiv olmaqla nә qәdәr götürürlәr?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "1000 Om",
-        "C": "hər 6 aydan bir keçirilən təlimlərdə",
-        "D": "bütün cavablar yanlışdır"
+        "A": "Kontaktorda istilik itkisi çox olduqda",
+        "B": "Üçfazalı sistemdə asimmetriya 10%-i keçdikdə",
+        "C": "Fazalararası müqavimət 0 olduqda",
+        "D": "1000 Om"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q038",
       "question": "38. Fiksasiya edilmiş elektrik avadanlıqları hansılardır?",
       "options": {
-        "A": "Nəyəsə xüsusi vəziyyətdə bərkidilmiş elektrik avadanlıqlardır",
-        "B": "10 uzel sürətlə manevr etdikdə",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "fırtınalı havada təxirə salınmaqla"
+        "A": "Avtomatik idarəetmə dövrələrində nasazlıq yaranarsa",
+        "B": "Nәyәsә xüsusi vәziyyәtdә bәrkidilmiş elektrik avadanlıqlardır",
+        "C": "Torpaqlama konturu tam kəsildikdə",
+        "D": "Sıxıcı kontaktların boşalması nəticəsində qığılcım yarandıqda"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q039",
-      "question": "39. İş vaxtı yerini dəyişə bilən və ya cərəyan mənbəyinə qoşulmaq üçün bir vəziyyətdən digər vəziyyətə keçirilə bilən elektrik avadanlıqları necə adlanırlar?",
+      "question": "39. İş vaxtı yerini dәyişә bilәn vә ya cәrәyan mәnbәyinә qoşulmaq üçün bir vәziyyәtdәn digәr vәziyyәtә keçirilә bilәn elektrik avadanlıqları necә adlanırlar?",
       "options": {
-        "A": "Portativ elektrik avadanlıqları",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "bütün cavablar yanlışdır",
-        "D": "50 metr məsafədə dənizdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q040",
-      "question": "40. Əriyən qoruyuculu avtomatik açarlar nə üçün nəzərdə tutulub?",
-      "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "Qısaqapanma cərəyanını ayırmaq üçün"
+        "A": "Şinlərarası məsafə 10 mm-dən az olduqda",
+        "B": "Avtomatik idarəetmə dövrələrində nasazlıq yaranarsa",
+        "C": "İzolyasiya müqaviməti 500 kOm-dan az olduqda",
+        "D": "Portativ elektrik avadanlıqları"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
-      "id": "q041",
-      "question": "41. İki generatorun paralel işə buraxılması üçün onların gərginliyi və tezliyi necə olmalıdır?",
+      "id": "q040",
+      "question": "40. Әriyәn qoruyuculu avtomatik açarlar nә üçün nәzәrdә tutulub?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "bütün cavablar yanlışdır",
-        "C": "Eyni olmalıdır",
-        "D": "cənub-qərb dreyfi zamanı"
+        "A": "Lokal topraqlama xətti mövcud olmadıqda",
+        "B": "Tezlik çeviricilərindəki tranzistorlar sıradan çıxdıqda",
+        "C": "Qısaqapanma cәrәyanını ayırmaq üçün",
+        "D": "Kabelin xarici örtüyü mexaniki zədələndikdə"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
-      "id": "q042",
-      "question": "42. Sabit cərəyan generatorlarında tezlik nəyə bərabərdir?",
+      "id": "q041",
+      "question": "41. İki generatorun paralel işә buraxılması üçün onların gәrginliyi vә tezliyi necә olmalıdır?",
       "options": {
-        "A": "Sıfıra bərabərdir",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "əllə idarəetmə rejiminə keçdikdə"
+        "A": "Kabelin xarici örtüyü mexaniki zədələndikdə",
+        "B": "Tezlik çeviricilərindəki tranzistorlar sıradan çıxdıqda",
+        "C": "Gərginlik 220 V dərəcəsinə düşdükdə",
+        "D": "Eyni olmalıdır"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q042",
+      "question": "42. Sabit cәrәyan generatorlarında tezlik nәyә bәrabәrdir?",
+      "options": {
+        "A": "Fazalararası gərginlik sıfıra bərabər olduqda",
+        "B": "Sıfıra bәrabәrdir",
+        "C": "Kabelin xarici örtüyü mexaniki zədələndikdə",
+        "D": "Gərginlik 220 V dərəcəsinə düşdükdə"
+      },
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q043",
-      "question": "43. İki paralel işləyən generatorların gərginlikləri necə olmalıdır?",
+      "question": "43. İki paralel işlәyәn generatorların gәrginliklәri necә olmalıdır?",
       "options": {
-        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "Bərabər olmalıdır"
+        "A": "Avtomatik idarəetmə dövrələrində nasazlıq yaranarsa",
+        "B": "Elektromaqnit induksiyası sıfıra düşərsə",
+        "C": "Qısaqapanma cərəyanı 10 kA-dan çox olduqda",
+        "D": "Bәrabәr olmalıdır"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q044",
-      "question": "44. «Live» yazılmış lövhə nəyi bildirir?",
+      "question": "44. «Live» yazılmış lövhә nәyi bildirir?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "bütün cavablar yanlışdır",
-        "C": "Elektrik sistemi gərginlik altındadır",
-        "D": "50 metr məsafədə dənizdə"
+        "A": "Gərginlik 380 V olduqda",
+        "B": "Stator dolağında izolyasiya qatı nazildikdə",
+        "C": "Şinlərarası məsafə 10 mm-dən az olduqda",
+        "D": "Elektrik sistemi gәrginlik altındadır"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q045",
+      "question": "45. «Dead» yazılmış lövhә nәyi bildirir?",
+      "options": {
+        "A": "Tezlik 60 Hz-dən 50 Hz-ə dəyişdikdə",
+        "B": "Cərəyan sızması 30 mA-dan çox olduqda",
+        "C": "Gәrginlik altında deyil, bütün elektrik enrji mәnbәlәrindәn ayrılıb",
+        "D": "Avtomatik açar termal yüklənmədən çıxdıqda"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
-      "id": "q045",
-      "question": "45. «Dead» yazılmış lövhə nəyi bildirir?",
-      "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "Gərginlik altında deyil, bütün elektrik enrji mənbələrindən ayrılıb",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "fırtınalı havada təxirə salınmaqla"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
       "id": "q046",
-      "question": "46. Yüksək gərginlikli aparatlar hansılardır?",
+      "question": "46. Yüksәk gәrginlikli aparatlar hansılardır?",
       "options": {
-        "A": "şimal-şərq istiqamətində",
-        "B": "1000 voltdan artıq gərginliklərdə işləyən bütün aparat, avadanlıq və keçiricilər",
-        "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "bütün cavablar yanlışdır"
+        "A": "Avtomatik açar termal yüklənmədən çıxdıqda",
+        "B": "Avtomatik idarəetmə dövrələrində nasazlıq yaranarsa",
+        "C": "Elektromaqnit induksiyası sıfıra düşərsə",
+        "D": "1000 voltdan artıq gәrginliklәrdә işlәyәn bütün aparat, avadanlıq vә keçiricilәr"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q047",
-      "question": "47. Gəmidə elektrotexniki qaydaların izah edilməsinə və yerinə yetirilməsinə kim cavabdehdir?",
+      "question": "47. Gәmidә elektrotexniki qaydaların izah edilmәsinә vә yerinә yetirilmәsinә kim cavabdehdir?",
       "options": {
-        "A": "Şirkətin yazılı əmri ilə təsdiq edilmiş baş mühəndis-elektrik",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "lövbər dayanacağı sahəsində",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "A": "Şirkətin yazılı әmri ilә tәsdiq edilmiş baş mühәndis-elektrik",
+        "B": "Şinlərarası məsafə 10 mm-dən az olduqda",
+        "C": "Dəyişən cərəyan şəbəkələrində güc əmsalı aşağı olduqda",
+        "D": "Elektrik mühərrikinin sürəti nominaldan az olduqda"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q048",
-      "question": "48. Mühəndis-elektrik tərəfindən qaydalarda göstərilmiş xüsusi vəzifələrin yerinə yetirilməsi üçün təyin edilən şəxs kimdir?",
+      "question": "48. Mühәndis-elektrik tәrәfindәn qaydalarda göstәrilmiş xüsusi vәzifәlәrin yerinә yetirilmәsi üçün tәyin edilәn şәxs kimdir?",
       "options": {
-        "A": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "Böyük səlahiyyətli şəxs",
-        "D": "yalnız gəmi kapitanının yazılı icazəsi ilə"
+        "A": "Böyük sәlahiyyәtli şәxs",
+        "B": "Neytral naqil tamamilə ayrıldıqda",
+        "C": "İzolyasiya müqaviməti 500 kOm-dan az olduqda",
+        "D": "Elektrik mühərrikinin sürəti nominaldan az olduqda"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q049",
-      "question": "49. Səriştəli şəxs kimlərdir?",
+      "question": "49. Səriştəli şәxs kimlәrdir?",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "Öz funksional vəzifəsi üzrə lazımi dərəcədə texniki bilik və təcrübəyə malik olan şəxslər",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "lövbər dayanacağı sahəsində"
+        "A": "Öz funksional vәzifәsi üzrә lazımi dәrәcәdә texniki bilik vә tәcrübәyә malik olan şәxslәr",
+        "B": "Akkumulyator batareyaları tam boşaldıqda",
+        "C": "Yalnız aşağı gərginlik şəbəkələrində",
+        "D": "İzolyasiya müqaviməti 500 kOm-dan az olduqda"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q050",
-      "question": "50. İşə buraxılma nədir?",
+      "question": "50. İşә buraxılma nәdir?",
       "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "şimal-şərq istiqamətində",
-        "C": "Səlahiyyətli şəxsin səriştəli şəxsə ya yüksək gərginlikli avadanlıqlarla, ya da ona yaxın aparatlarla işləmək üçün verdiyi ərizə forması",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "A": "İzolyasiya müqaviməti 500 kOm-dan az olduqda",
+        "B": "Gərginlik transformatorunun sarğılarında qırılma olduqda",
+        "C": "Cərəyan sızması 30 mA-dan çox olduqda",
+        "D": "Sәlahiyyәtli şәxsin səriştəli şәxsә ya yüksәk gәrginlikli avadanlıqlarla, ya da ona yaxın aparatlarla işlәmәk üçün verdiyi әrizә forması"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q051",
-      "question": "51. Əsas torpaqlama nədir?",
+      "question": "51. Әsas torpaqlama nәdir?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "Elektrik sistemlərində işləyən zaman təhlükəsizliyin təmin edilməsi məqsədilə sınağa sanksiya və ya işə buraxmaq üçün sənədlə təsdiqlənən yerlə birləşdirilmə",
-        "C": "fırtınalı havada təxirə salınmaqla",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "A": "Sabit cərəyan generatorunun maqnit sahəsi itdikdə",
+        "B": "İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda",
+        "C": "Üçfazalı sistemdə asimmetriya 10%-i keçdikdə",
+        "D": "Elektrik sistemlәrindә işlәyәn zaman tәhlükәsizliyin tәmin edilmәsi mәqsәdilә sınağa sanksiya vә ya işә buraxmaq üçün sәnәdlә tәsdiqlәnәn yerlә birlәşdirilmә"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q052",
-      "question": "52. Əlavə torpaqlama nədir?",
+      "question": "52. Әlavә torpaqlama nәdir?",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "Bu torpaqlama aparatlara əsas torpaqlamadan sonra qoşulur",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "Gərginlik 220 V dərəcəsinə düşdükdə",
+        "B": "Termiki dayanıqlılıq həddini aşdıqda",
+        "C": "Bu torpaqlama aparatlara әsas torpaqlamadan sonra qoşulur",
+        "D": "Elektromaqnit induksiyası sıfıra düşərsə"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q053",
-      "question": "53. Açarlar üçün seyf nə üçün nəzərdə tutulub?",
+      "question": "53. Açarlar üçün seyf nә üçün nәzәrdә tutulub?",
       "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "Torpaqlama və başqa təhlükəsizlik qurğularının bağlanaraq açarlarının etibarlı saxlanılmasını təmin edir",
-        "D": "bütün cavablar doğrudur"
+        "A": "Akkumulyator batareyaları tam boşaldıqda",
+        "B": "Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda",
+        "C": "Lokal topraqlama xətti mövcud olmadıqda",
+        "D": "Torpaqlama vә başqa tәhlükәsizlik qurğularının bağlanaraq açarlarının etibarlı saxlanılmasını tәmin edir"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q054",
-      "question": "54. Yüksək gərginlikli aparatlar olan yerlərə və bölmələrə giriş kim tərəfindən məhdudlaşdırılır və ancaq onun müşaiyəti ilə həyata keçirilir?",
+      "question": "54. Yüksәk gәrginlikli aparatlar olan yerlәrә vә bölmәlәrә giriş kim tәrәfindәn mәhdudlaşdırılır vә ancaq onun müşaiyәti ilә hәyata keçirilir?",
       "options": {
-        "A": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "B": "Səlahiyyətli şəxs tərəfindən",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+        "A": "İzolyasiya müqaviməti 500 kOm-dan az olduqda",
+        "B": "İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda",
+        "C": "Kontaktorda istilik itkisi çox olduqda",
+        "D": "Sәlahiyyәtli şәxs tәrәfindәn"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q055",
-      "question": "55. Torpaqlamanın əsas dövrəsinin qurulmasını və sökülməsini kimlər yerinə yetirə bilərlər?",
+      "question": "55. Torpaqlamanın әsas dövrәsinin qurulmasını vә sökülmәsini kimlәr yerinә yetirә bilәrlәr?",
       "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "50 metr məsafədə dənizdə",
-        "C": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "D": "Yalnız səlahiyyətli şəxslər"
+        "A": "Torpaqlama konturu tam kəsildikdə",
+        "B": "Stator dolağında izolyasiya qatı nazildikdə",
+        "C": "Elektromaqnit induksiyası sıfıra düşərsə",
+        "D": "Yalnız sәlahiyyәtli şәxslәr"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q056",
-      "question": "56. Əgər yüksək gərginlikli aparatlar cərəyan mənbəyindən ayrılıb cərəyandan boşaldılıbsa, onda naqilləri torpaqlanmadan əvvəl nə ilə yoxlamaq lazımdır?",
+      "question": "56. Әgәr yüksәk gәrginlikli aparatlar cәrәyan mәnbәyindәn ayrılıb cәrәyandan boşaldılıbsa, onda naqillәri torpaqlanmadan әvvәl nә ilә yoxlamaq lazımdır?",
       "options": {
-        "A": "bütün cavablar yanlışdır",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
+        "A": "Reaktiv güc itkiləri çox olduqda",
+        "B": "Akkumulyator batareyaları tam boşaldıqda",
         "C": "Yoxlanılmış potensiometr-indikatorla",
-        "D": "avtomatik rejimdə işləyərkən"
+        "D": "Tezlik 60 Hz-dən 50 Hz-ə dəyişdikdə"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q057",
-      "question": "57. Transformatorun istənilən birləşmələrində iş görüldükdə nə etmək lazımdır?",
+      "question": "57. Transformatorun istәnilәn birlәşmәlәrindә iş görüldükdә nә etmәk lazımdır?",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "50 metr məsafədə dənizdə",
-        "C": "Gərginliyin qiymətindən asılı olmayaraq bütün şəbəkə ayrılmalıdır",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "A": "Yalnız açıq havada quraşdırılmış transformatorlarda",
+        "B": "Bütün fazalarda eyni zamanda qapanma baş verdikdə",
+        "C": "Fazalararası müqavimət 0 olduqda",
+        "D": "Gәrginliyin qiymәtindәn asılı olmayaraq bütün şәbәkә ayrılmalıdır"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": ""
     },
     {
       "id": "q058",
-      "question": "58. Elektrik təhlükəsizliyi üzrə mütəxəssis kimdir?",
+      "question": "58. Elektrik tәhlükәsizliyi üzrә mütәxәssis kimdir?",
       "options": {
-        "A": "Bütün iş prosesi boyunca yüksək gərginlikli elektrik təhlükəsizliyinə cavabdeh və işlərin təhlükəsiz yerinə yetirilməsini tələb edən şəxs",
-        "B": "hər ayda bir dəfədən az olmayan müddətdə",
-        "C": "bütün cavablar yanlışdır",
-        "D": "fırtınalı havada təxirə salınmaqla"
+        "A": "Bütün iş prosesi boyunca yüksәk gәrginlikli elektrik tәhlükәsizliyinә cavabdeh vә işlәrin tәhlükәsiz yerinә yetirilmәsini tәlәb edәn şәxs",
+        "B": "Gərginlik 380 V olduqda",
+        "C": "Kabelin xarici örtüyü mexaniki zədələndikdə",
+        "D": "Elektromaqnit induksiyası sıfıra düşərsə"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q059",
-      "question": "59. Yüksək gərginlikli avadanlıqlarda və ya onların yaхınlığındakı işlərə başlamazdan əvvəl hansı qaydalara riayət etmək lazımdır?",
+      "question": "59. Yüksәk gәrginlikli avadanlıqlarda vә ya onların yaхınlığındakı işlәrә başlamazdan әvvәl hansı qaydalara riayәt etmәk lazımdır?",
       "options": {
-        "A": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "avtomatik rejimdə işləyərkən",
-        "D": "Təhlükəsizlik qaydalarına"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q060",
-      "question": "60. Elektrik təhlükəsizliyi üzrə mütəхəssis icazə verməyincə işə başlamaq olarmı?",
-      "options": {
-        "A": "Olmaz",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "10 uzel sürətlə manevr etdikdə",
-        "D": "cənub-qərb dreyfi zamanı"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q061",
-      "question": "61. Təhlükəli ola biləcək gözlənilməz hallarda işçi qrup nə etməlidir?",
-      "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "Elektrik təhlükəsizliyi üzrə mütəхəssisi хəbərdar etməli və işlərin davam etdirilməsi üçün icazə gözləməlidir",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q062",
-      "question": "62. Cərəyanın, gərginliyin, zamanın, tezliyin və s. qiymətlərini ölçmək və verilmiş parametrdə işə düşmək hansı qurğuların funksiyalarına daxildir?",
-      "options": {
-        "A": "Müdafiə qurğularının",
-        "B": "şimal-şərq istiqamətində",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q063",
-      "question": "63. Qoruyucuların əsas vəzifəsi nədir?",
-      "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "C": "Qısa qapanmış dövrəni ayırmaq",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+        "A": "Kabelin xarici örtüyü mexaniki zədələndikdə",
+        "B": "Cərəyan sızması 30 mA-dan çox olduqda",
+        "C": "Tәhlükәsizlik qaydalarına",
+        "D": "Reaktiv güc itkiləri çox olduqda"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
-      "id": "q064",
-      "question": "64. Qoruyucunun işində neçə əsas period var?",
+      "id": "q060",
+      "question": "60. Elektrik tәhlükәsizliyi üzrә mütәхәssis icazә vermәyincә işә başlamaq olarmı?",
       "options": {
-        "A": "İki",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "A": "Qoruyucu rölelərin həssaslığı artırıldıqda",
+        "B": "Üçfazalı sistemdə asimmetriya 10%-i keçdikdə",
+        "C": "Tranzistor tipli gücləndiricilərdə",
+        "D": "Olmaz"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q061",
+      "question": "61. Tәhlükәli ola bilәcәk gözlәnilmәz hallarda işçi qrup nә etmәlidir?",
+      "options": {
+        "A": "Qısaqapanma cərəyanı 10 kA-dan çox olduqda",
+        "B": "Üçfazalı sistemdə asimmetriya 10%-i keçdikdə",
+        "C": "Elektrik tәhlükәsizliyi üzrә mütәхәssisi хәbәrdar etmәli vә işlәrin davam etdirilmәsi üçün icazә gözlәmәlidir",
+        "D": "Qoruyucu rölelərin həssaslığı artırıldıqda"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "id": "q062",
+      "question": "62. Cәrәyanın, gәrginliyin, zamanın, tezliyin vә s. qiymәtlәrini ölçmәk vә verilmiş parametrdә işә düşmәk hansı qurğuların funksiyalarına daxildir?",
+      "options": {
+        "A": "Kabelin xarici örtüyü mexaniki zədələndikdə",
+        "B": "Neytral naqil tamamilə ayrıldıqda",
+        "C": "Sabit cərəyan generatorunun maqnit sahəsi itdikdə",
+        "D": "Müdafiә qurğularının"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q063",
+      "question": "63. Qoruyucuların әsas vәzifәsi nәdir?",
+      "options": {
+        "A": "Neytral naqil tamamilə ayrıldıqda",
+        "B": "Cərəyan transformatorunun ikinci dolağı açıq qaldıqda",
+        "C": "Sıxıcı kontaktların boşalması nəticəsində qığılcım yarandıqda",
+        "D": "Qısa qapanmış dövrәni ayırmaq"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q064",
+      "question": "64. Qoruyucunun işindә neçә әsas period var?",
+      "options": {
+        "A": "Termiki dayanıqlılıq həddini aşdıqda",
+        "B": "İki",
+        "C": "Avtomatik açar termal yüklənmədən çıxdıqda",
+        "D": "Gərginlik 220 V dərəcəsinə düşdükdə"
+      },
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q065",
-      "question": "65. Qövsdən əvvəlki vaxt nədən asılıdır?",
+      "question": "65. Qövsdәn әvvәlki vaxt nәdәn asılıdır?",
       "options": {
-        "A": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "B": "gərginlik 220 V həddinə çatdıqda",
-        "C": "Cərəyanın qiymətindən",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "A": "Lokal topraqlama xətti mövcud olmadıqda",
+        "B": "Şinlərarası məsafə 10 mm-dən az olduqda",
+        "C": "Cәrәyanın qiymәtindәn",
+        "D": "Cərəyan transformatorunun ikinci dolağı açıq qaldıqda"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q066",
-      "question": "66. Qövsdən sonrakı vaxt (qövsün yanma vaxtı) nədən asılıdır?",
+      "question": "66. Qövsdәn sonrakı vaxt (qövsün yanma vaxtı) nәdәn asılıdır?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "şimal-şərq istiqamətində",
-        "C": "Gərginliyin qiymətindən",
-        "D": "gəminin texniki sənədlərində göstərilmiş qaydada"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q067",
-      "question": "67. Aktiv qısaqapanmalar nəyə deyilir?",
-      "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "fırtınalı havada təxirə salınmaqla",
-        "C": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "D": "Bir fazanın cərəyanı ilə ikinci fazanın cərəyanının qısaqapanması və ya bir fazanın yerlə qapanmasına"
+        "A": "Yalnız açıq havada quraşdırılmış transformatorlarda",
+        "B": "Fazalararası gərginlik sıfıra bərabər olduqda",
+        "C": "Neytral naqil tamamilə ayrıldıqda",
+        "D": "Gәrginliyin qiymәtindәn"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
-      "id": "q068",
-      "question": "68. Passiv qısaqapanmalar nəyə deyilir?",
+      "id": "q067",
+      "question": "67. Aktiv qısaqapanmalar nәyә deyilir?",
       "options": {
-        "A": "lövbər dayanacağı sahəsində",
-        "B": "50 metr məsafədə dənizdə",
-        "C": "Cərəyan axan naqillərdə cərəyan şiddətinin artması nəticəsində izolyasiyanın tədricən sıradan çıxması və onun xidmət müddətinin azalmasına",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q069",
-      "question": "69. Güc qurğusunun əsas vəzifəsi nədir?",
-      "options": {
-        "A": "50 metr məsafədə dənizdə",
-        "B": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq",
-        "C": "Fasiləsiz elektrik təchizatını maksimum təmin etmək",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q070",
-      "question": "70. Selektivlik, dayanıqlılıq, zez işə düşmə, həssaslıq və s. kimi keyfiyyətlərə malik olan qurğular necə adlanırlar?",
-      "options": {
-        "A": "hər ayda bir dəfədən az olmayan müddətdə",
-        "B": "Müdafiə sistemləri",
-        "C": "50 metr məsafədə dənizdə",
-        "D": "cərəyan şiddəti nominal dəyəri keçdikdə"
+        "A": "Elektromaqnit induksiyası sıfıra düşərsə",
+        "B": "Bir fazanın cәrәyanı ilә ikinci fazanın cәrәyanının qısaqapanması vә ya bir fazanın yerlә qapanmasına",
+        "C": "Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda",
+        "D": "Gərginlik transformatorunun sarğılarında qırılma olduqda"
       },
       "correct_answer": "B",
       "explanation": ""
     },
     {
-      "id": "q071",
-      "question": "71. Nasaz hissələri müəyyən edərək izolyasiya etmək necə adlanır?",
+      "id": "q068",
+      "question": "68. Passiv qısaqapanmalar nәyә deyilir?",
       "options": {
-        "A": "Selektivlik",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "hər ayda bir dəfədən az olmayan müddətdə",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "Cәrәyan axan naqillәrdә cәrәyan şiddәtinin artması nәticәsindә izolyasiyanın tәdricәn sıradan çıxması vә onun xidmәt müddәtinin azalmasına",
+        "B": "Lokal topraqlama xətti mövcud olmadıqda",
+        "C": "Tezlik çeviricilərindəki tranzistorlar sıradan çıxdıqda",
+        "D": "24 V qəza işıqlandırma sistemlərində"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
-      "id": "q072",
-      "question": "72. Fasiləsiz qidalanmanı təmin etmək üçün saz dövrələri zədələnmədən qorumaq necə adlanır?",
+      "id": "q069",
+      "question": "69. Güc qurğusunun әsas vәzifәsi nәdir?",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "Dayanıqlılıq",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "A": "Yalnız aşağı gərginlik şəbəkələrində",
+        "B": "Fasilәsiz elektrik tәchizatını maksimum tәmin etmәk",
+        "C": "Tezlik 60 Hz-dən 50 Hz-ə dəyişdikdə",
+        "D": "Dəyişən cərəyan şəbəkələrində güc əmsalı aşağı olduqda"
       },
       "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q070",
+      "question": "70. Selektivlik, dayanıqlılıq, zez işә düşmә, hәssaslıq vә s. kimi keyfiyyәtlәrә malik olan qurğular necә adlanırlar?",
+      "options": {
+        "A": "Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda",
+        "B": "Gərginlik transformatorunun sarğılarında qırılma olduqda",
+        "C": "Transformator yağı həddindən artıq isindikdə",
+        "D": "Müdafiә sistemlәri"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q071",
+      "question": "71. Nasaz hissәlәri müәyyәn edәrәk izolyasiya etmәk necә adlanır?",
+      "options": {
+        "A": "Bütün fazalarda eyni zamanda qapanma baş verdikdə",
+        "B": "Selektivlik",
+        "C": "Gərginlik 380 V olduqda",
+        "D": "Transformator yağı həddindən artıq isindikdə"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "q072",
+      "question": "72. Fasilәsiz qidalanmanı tәmin etmәk üçün saz dövrәlәri zәdәlәnmәdәn qorumaq necә adlanır?",
+      "options": {
+        "A": "Neytral naqil tamamilə ayrıldıqda",
+        "B": "Torpaqlama konturu tam kəsildikdə",
+        "C": "Dayanıqlılıq",
+        "D": "Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda"
+      },
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q073",
-      "question": "73. Elektrik yoxlamalarının məqsədi nədir?",
+      "question": "73. Elektrik yoxlamalarının mәqsәdi nәdir?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "Elektrik avadanlıqlarının şəbəkəyə qoşulmaq üçün təhlükəsizliyini və ya baş verə biləcək qısaqapanmanı təyin edərək lokallaşdırmaq",
-        "C": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "D": "xüsusi təyin olunmuş növbətçi şturman tərəfindən"
+        "A": "İzolyasiya müqaviməti 500 kOm-dan az olduqda",
+        "B": "Dəyişən cərəyan şəbəkələrində güc əmsalı aşağı olduqda",
+        "C": "Elektrik avadanlıqlarının şәbәkәyә qoşulmaq üçün tәhlükәsizliyini vә ya baş verә bilәcәk qısaqapanmanı tәyin edәrәk lokallaşdırmaq",
+        "D": "Avtomatik açar termal yüklənmədən çıxdıqda"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q074",
-      "question": "74. İstismarda olmuş, təmirdən sonra istismara buraxılmış və ya texniki baxışdan keçmiş kabellər hansı testdən keçirilməlidirlər?",
+      "question": "74. İstismarda olmuş, tәmirdәn sonra istismara buraxılmış vә ya texniki baxışdan keçmiş kabellәr hansı testdәn keçirilmәlidirlәr?",
       "options": {
-        "A": "əllə idarəetmə rejiminə keçdikdə",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "Bütövlük testindən",
-        "D": "avtomatik rejimdə işləyərkən"
+        "A": "Akkumulyator batareyaları tam boşaldıqda",
+        "B": "Bütövlük testindәn",
+        "C": "Fazalararası müqavimət 0 olduqda",
+        "D": "Qoruyucu rölelərin həssaslığı artırıldıqda"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q075",
-      "question": "75. Cərəyan transformatorunun quruluşu necədir?",
+      "question": "75. Cәrәyan transformatorunun quruluşu necәdir?",
       "options": {
-        "A": "cərəyan şiddəti nominal dəyəri keçdikdə",
-        "B": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "C": "Birinci və ikinci dolaqlardan ibarət birfazalı transformatordur",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "A": "Birinci vә ikinci dolaqlardan ibarәt birfazalı transformatordur",
+        "B": "Reaktiv güc itkiləri çox olduqda",
+        "C": "İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda",
+        "D": "Qısaqapanma cərəyanı 10 kA-dan çox olduqda"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q076",
-      "question": "76. Qütbləşmə indeksinin test yoxlaması necə aparılır?",
+      "question": "76. Qütblәşmә indeksinin test yoxlaması necә aparılır?",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "İzolyasiyanın müqavimətinin yoxlanılması testi ilə birlikdə əsasən 3,3 kV elektrik mühərriklərində aparılır",
-        "C": "bütün cavablar doğrudur",
-        "D": "baş mexanikin və növbətçi mexanikin nəzarəti altında"
+        "A": "İzolyasiyanın müqavimәtinin yoxlanılması testi ilә birlikdә әsasәn 3,3 kV elektrik mühәrriklәrindә aparılır",
+        "B": "Torpaqlama konturu tam kəsildikdə",
+        "C": "Fazalararası müqavimət 0 olduqda",
+        "D": "Kabelin xarici örtüyü mexaniki zədələndikdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q077",
-      "question": "77. Elektrik avadanlığı dəyişən cərəyanla işləyirsə test yoxlaması hansı cərəyanla yerinə yetirilməlidir?",
+      "question": "77. Elektrik avadanlığı dәyişәn cәrәyanla işlәyirsә test yoxlaması hansı cәrәyanla yerinә yetirilmәlidir?",
       "options": {
-        "A": "fırtınalı havada təxirə salınmaqla",
-        "B": "Dəyişən cərəyanla",
-        "C": "cənub-qərb dreyfi zamanı",
-        "D": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq"
+        "A": "Dәyişәn cәrәyanla",
+        "B": "Tranzistor tipli gücləndiricilərdə",
+        "C": "Sabit cərəyan generatorunun maqnit sahəsi itdikdə",
+        "D": "Bütün fazalarda eyni zamanda qapanma baş verdikdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q078",
-      "question": "78. Elektrik avadanlığı sabit cərəyanla işləyirsə test yoxlaması hansı cərəyanla yerinə yetirilməlidir?",
+      "question": "78. Elektrik avadanlığı sabit cәrәyanla işlәyirsә test yoxlaması hansı cәrәyanla yerinә yetirilmәlidir?",
       "options": {
-        "A": "Sabit cərəyanla",
-        "B": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "C": "əllə idarəetmə rejiminə keçdikdə",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "Sabit cәrәyanla",
+        "B": "Fazalararası gərginlik sıfıra bərabər olduqda",
+        "C": "Gərginlik 220 V dərəcəsinə düşdükdə",
+        "D": "Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q079",
-      "question": "79. Transformatorun ikinci dolağı yüksüz rejimdə sınaq yoxlamalarından keçirilirsə bu necə test yoxlaması adlanır?",
+      "question": "79. Transformatorun ikinci dolağı yüksüz rejimdә sınaq yoxlamalarından keçirilirsә bu necә test yoxlaması adlanır?",
       "options": {
-        "A": "avtomatik rejimdə işləyərkən",
-        "B": "gəmi limana daxil olana qədər",
-        "C": "Gərginlikdən ayrılmış şəbəkələrin test yoxlaması",
-        "D": "gərginlik 220 V həddinə çatdıqda"
+        "A": "Neytral naqil tamamilə ayrıldıqda",
+        "B": "Sabit cərəyan generatorunun maqnit sahəsi itdikdə",
+        "C": "Gәrginlikdәn ayrılmış şәbәkәlәrin test yoxlaması",
+        "D": "İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q080",
-      "question": "80. Cərəyan nə ilə ölçülür?",
+      "question": "80. Cәrәyan nә ilә ölçülür?",
       "options": {
-        "A": "10 uzel sürətlə manevr etdikdə",
-        "B": "Ampermetrlə",
-        "C": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "D": "fırtınalı havada təxirə salınmaqla"
+        "A": "Elektrik mühərrikinin sürəti nominaldan az olduqda",
+        "B": "Termiki dayanıqlılıq həddini aşdıqda",
+        "C": "Ampermetrlә",
+        "D": "Bütün fazalarda eyni zamanda qapanma baş verdikdə"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q081",
-      "question": "81. Müqavimət nə ilə ölçülür?",
+      "question": "81. Müqavimәt nә ilә ölçülür?",
       "options": {
-        "A": "Ommetrlə",
-        "B": "SOLAS Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "gəmi limana daxil olana qədər"
+        "A": "Ommetrlә",
+        "B": "Cərəyan sızması 30 mA-dan çox olduqda",
+        "C": "Sıxıcı kontaktların boşalması nəticəsində qığılcım yarandıqda",
+        "D": "Gərginlik transformatorunun sarğılarında qırılma olduqda"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q082",
-      "question": "82. Müqavimət hansı düsturla hesablanır?",
+      "question": "82. Müqavimәt hansı düsturla hesablanır?",
       "options": {
-        "A": "gəmi limana daxil olana qədər",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "R=U/I",
-        "D": "50 metr məsafədə dənizdə"
+        "A": "R=U/I",
+        "B": "Lokal topraqlama xətti mövcud olmadıqda",
+        "C": "İzolyasiya müqaviməti 500 kOm-dan az olduqda",
+        "D": "Gərginlik 220 V dərəcəsinə düşdükdə"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q083",
-      "question": "83. «Ulduz» birləşdirilmiş dolaqlar necə yoxlanılmalıdır?",
+      "question": "83. «Ulduz» birlәşdirilmiş dolaqlar necә yoxlanılmalıdır?",
       "options": {
-        "A": "cənub-qərb dreyfi zamanı",
-        "B": "avtomatik rejimdə işləyərkən",
-        "C": "Faza ilə neytral arasında",
-        "D": "hər ayda bir dəfədən az olmayan müddətdə"
+        "A": "Faza ilә neytral arasında",
+        "B": "Cərəyan sızması 30 mA-dan çox olduqda",
+        "C": "Qısaqapanma cərəyanı 10 kA-dan çox olduqda",
+        "D": "Yalnız aşağı gərginlik şəbəkələrində"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": ""
     },
     {
       "id": "q084",
-      "question": "84. «Üçbucaq» birləşdirilmiş dolaqlar necə yoxlanılmalıdır?",
+      "question": "84. «Üçbucaq» birlәşdirilmiş dolaqlar necә yoxlanılmalıdır?",
       "options": {
-        "A": "bütün cavablar doğrudur",
-        "B": "lövbər dayanacağı sahəsində",
-        "C": "Faza ilə faza arasında",
-        "D": "bütün cavablar yanlışdır"
+        "A": "Transformator yağı həddindən artıq isindikdə",
+        "B": "Cərəyan sızması 30 mA-dan çox olduqda",
+        "C": "Faza ilә faza arasında",
+        "D": "24 V qəza işıqlandırma sistemlərində"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
       "id": "q085",
-      "question": "85. Voltmetr dövrəyə necə qoşulur?",
+      "question": "85. Voltmetr dövrәyә necә qoşulur?",
       "options": {
-        "A": "Paralel",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "bütün cavablar yanlışdır",
-        "D": "50 metr məsafədə dənizdə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q086",
-      "question": "86. Ampermetr dövrəyə necə qoşulur?",
-      "options": {
-        "A": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "B": "gəminin texniki sənədlərində göstərilmiş qaydada",
-        "C": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "D": "Ardıcıl"
+        "A": "Fazalararası gərginlik sıfıra bərabər olduqda",
+        "B": "24 V qəza işıqlandırma sistemlərində",
+        "C": "Sıxıcı kontaktların boşalması nəticəsində qığılcım yarandıqda",
+        "D": "Paralel"
       },
       "correct_answer": "D",
       "explanation": ""
     },
     {
-      "id": "q087",
-      "question": "87. Transformasiya əmsalı nə deməkdir?",
+      "id": "q086",
+      "question": "86. Ampermetr dövrәyә necә qoşulur?",
       "options": {
-        "A": "xüsusi təyin olunmuş növbətçi şturman tərəfindən",
-        "B": "cənub-qərb dreyfi zamanı",
-        "C": "Transformatorun birinci və ikinci dolaqlarının sarğılarının nisbətidir",
-        "D": "GMDSS beynəlxalq radiorabitə nizamnaməsinə uyğun olaraq"
+        "A": "Tezlik çeviricilərindəki tranzistorlar sıradan çıxdıqda",
+        "B": "Dəyişən cərəyan şəbəkələrində güc əmsalı aşağı olduqda",
+        "C": "Ardıcıl",
+        "D": "Sabit cərəyan generatorunun maqnit sahəsi itdikdə"
       },
       "correct_answer": "C",
       "explanation": ""
     },
     {
-      "id": "q088",
-      "question": "88. Aktiv gücün ölçü vahidi nədir?",
+      "id": "q087",
+      "question": "87. Transformasiya әmsalı nә demәkdir?",
       "options": {
-        "A": "Vatt",
-        "B": "bütün cavablar yanlışdır",
-        "C": "izolyasiya müqaviməti 0.5 Mom-dan yüksək olduqda",
-        "D": "cənub-qərb dreyfi zamanı"
+        "A": "Transformatorun birinci vә ikinci dolaqlarının sarğılarının nisbәtidir",
+        "B": "Avtomatik açar termal yüklənmədən çıxdıqda",
+        "C": "Cərəyan sızması 30 mA-dan çox olduqda",
+        "D": "Lokal topraqlama xətti mövcud olmadıqda"
       },
       "correct_answer": "A",
       "explanation": ""
     },
     {
-      "id": "q089",
-      "question": "89. Elektrik mühərriklərinin işəburaxma momentində onların istehlak gücü nominal gücdən neçə dəfə çox ola bilər?",
+      "id": "q088",
+      "question": "88. Aktiv gücün ölçü vahidi nәdir?",
       "options": {
-        "A": "yalnız gəmi kapitanının yazılı icazəsi ilə",
-        "B": "MARPOL 73/78 Konvensiyasının V əlavəsinə əsasən",
-        "C": "3-7 dəfə",
-        "D": "10 uzel sürətlə manevr etdikdə"
+        "A": "İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda",
+        "B": "Yalnız açıq havada quraşdırılmış transformatorlarda",
+        "C": "Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda",
+        "D": "Vatt"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "id": "q089",
+      "question": "89. Elektrik mühәrriklәrinin işәburaxma momentindә onların istehlak gücü nominal gücdәn neçә dәfә çox ola bilәr?",
+      "options": {
+        "A": "Qısaqapanma cərəyanı 10 kA-dan çox olduqda",
+        "B": "3-7 dәfә",
+        "C": "İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda",
+        "D": "Yalnız açıq havada quraşdırılmış transformatorlarda"
+      },
+      "correct_answer": "B",
       "explanation": ""
     },
     {
       "id": "q090",
       "question": "90. Tam gücün ölçü vahidi nədir?",
       "options": {
-        "A": "Volt-Amper",
-        "B": "əllə idarəetmə rejiminə keçdikdə",
-        "C": "baş mexanikin və növbətçi mexanikin nəzarəti altında",
-        "D": "cənub-qərb dreyfi zamanı"
+        "A": "Cərəyan sızması 30 mA-dan çox olduqda",
+        "B": "Volt-Amper",
+        "C": "Qısaqapanma cərəyanı 10 kA-dan çox olduqda",
+        "D": "Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": ""
     }
   ]
