@@ -9,6 +9,8 @@ import TestPage from './pages/TestPage';
 import SoruCevapBankasi from './pages/SoruCevapBankasi';
 import Profile from './pages/Profile';
 import RealExamPage from './pages/RealExamPage';
+import AdminDashboard from './pages/AdminDashboard';
+
 import { authFetch, clearTokens, getAccessToken } from './utils/api';
 
 
@@ -76,6 +78,8 @@ function App() {
             <Route path="/real-exam" element={<RealExamPage />} />
             <Route path="/qa-bank" element={<SoruCevapBankasi />} />
             <Route path="/profile" element={<Profile />} />
+          <Route path="/admin-dashboard" element={<AdminDashboard />} />
+
           </Routes>
         </div>
 

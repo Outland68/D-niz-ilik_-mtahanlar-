@@ -1,8 +1,21 @@
 import { useNavigate } from 'react-router-dom';
+import { authFetch } from '../utils/api';
+import { useEffect, useState } from 'react';
 import { BookOpen, Award, Settings, LogOut, User } from 'lucide-react';
 
 export default function MainMenu() {
+  
   const navigate = useNavigate();
+  const [isAdmin, setIsAdmin] = useState(false);
+
+  useEffect(() => {
+    authFetch('/auth/me/').then(user => {
+      if (user && user.is_superuser) {
+        setIsAdmin(true);
+      }
+    }).catch(() => {});
+  }, []);
+
 
   return (
     <div className="w-full glass-card p-8 animate-[fadeIn_0.5s_ease-out]">
@@ -17,6 +30,14 @@ export default function MainMenu() {
           </div>
         </div>
         <div className="flex gap-3">
+          
+          {isAdmin && (
+            <button onClick={() => navigate('/admin-dashboard')} className="btn bg-blue-500/20 text-blue-400 hover:bg-blue-500/30 border border-blue-500/30 flex items-center gap-2">
+              <Settings size={18} />
+              Admin
+            </button>
+          )}
+
           <button onClick={() => navigate('/profile')} className="btn bg-white/10 hover:bg-white/20 flex items-center gap-2">
             <User size={18} />
             Profil

@@ -82,6 +82,7 @@ def login_view(request):
             'email': user.email,
             'first_name': user.first_name,
             'last_name': user.last_name,
+        'is_superuser': user.is_superuser,
         }
     })
 
@@ -241,6 +242,7 @@ def verify_email_view(request):
             'email': user.email,
             'first_name': user.first_name,
             'last_name': user.last_name,
+        'is_superuser': user.is_superuser,
         }
     }, status=status.HTTP_201_CREATED)
 
@@ -459,6 +461,7 @@ def me_view(request):
         'email': user.email,
         'first_name': user.first_name,
         'last_name': user.last_name,
+        'is_superuser': user.is_superuser,
     })
 
 
@@ -590,3 +593,21 @@ def record_visit(request):
         page_url=url
     )
     return Response({'status': 'ok'})
+
+@api_view(['GET'])
+@permission_classes([permissions.IsAuthenticated])
+def get_site_visits(request):
+    if not request.user.is_superuser:
+        return Response({'error': 'Unauthorized'}, status=403)
+        
+    visits = SiteVisit.objects.all().order_by('-visited_at')[:200]
+    data = []
+    for v in visits:
+        data.append({
+            'id': v.id,
+            'ip': v.ip_address,
+            'username': v.user.username if v.user else 'Anonim',
+            'url': v.page_url,
+            'time': v.visited_at.strftime('%Y-%m-%d %H:%M:%S')
+        })
+    return Response(data)
