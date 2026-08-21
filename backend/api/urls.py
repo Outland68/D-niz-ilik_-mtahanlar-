@@ -24,4 +24,6 @@ urlpatterns = [
     path('auth/logout/', logout_view, name='auth-logout'),
     path('auth/change-password/', change_password_view, name='auth-change-password'),
     path('auth/me/', me_view, name='auth-me'),
+    path('record-visit/', record_visit, name='record-visit'),
+    path('site-visits/', get_site_visits, name='site-visits'),
 ]
