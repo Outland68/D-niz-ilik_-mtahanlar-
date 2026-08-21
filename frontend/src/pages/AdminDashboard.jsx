@@ -12,6 +12,10 @@ export default function AdminDashboard() {
   useEffect(() => {
     // Ilk olarak superuser mi kontrol et
     authFetch('/auth/me/')
+      .then(res => {
+        if (!res || !res.ok) throw new Error('Not auth');
+        return res.json();
+      })
       .then(user => {
         if (!user || !user.is_superuser) {
           navigate('/'); // Eger superuser degilse anasayfaya at
@@ -25,8 +29,10 @@ export default function AdminDashboard() {
   const fetchVisits = async () => {
     try {
       const res = await authFetch('/site-visits/');
-      if (res && res.error) throw new Error(res.error);
-      setVisits(res || []);
+      if (!res || !res.ok) throw new Error('Error');
+      const data = await res.json();
+      if (data && data.error) throw new Error(data.error);
+      setVisits(data || []);
     } catch (err) {
       setError('Veriler alınamadı veya yetkiniz yok.');
     } finally {

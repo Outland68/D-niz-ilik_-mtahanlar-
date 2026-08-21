@@ -9,11 +9,16 @@ export default function MainMenu() {
   const [isAdmin, setIsAdmin] = useState(false);
 
   useEffect(() => {
-    authFetch('/auth/me/').then(user => {
-      if (user && user.is_superuser) {
-        setIsAdmin(true);
-      }
-    }).catch(() => {});
+    authFetch('/auth/me/')
+      .then(res => {
+        if (res && res.ok) return res.json();
+        throw new Error('fail');
+      })
+      .then(user => {
+        if (user && user.is_superuser) {
+          setIsAdmin(true);
+        }
+      }).catch(() => {});
   }, []);
 
 
