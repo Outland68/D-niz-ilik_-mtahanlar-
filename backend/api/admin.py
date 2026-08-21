@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Category, Certificate, QuestionReport
+from .models import Category, Certificate, QuestionReport, SiteVisit
 
 @admin.register(Category)
 class CategoryAdmin(admin.ModelAdmin):
@@ -24,3 +24,17 @@ class QuestionReportAdmin(admin.ModelAdmin):
         css = {'all': ('css/admin_custom.css',)}
 
 
+
+@admin.register(SiteVisit)
+class SiteVisitAdmin(admin.ModelAdmin):
+    list_display = ('user_display', 'ip_address', 'page_url', 'visited_at')
+    list_filter = ('visited_at',)
+    search_fields = ('ip_address', 'page_url', 'user__username')
+    readonly_fields = ('user', 'ip_address', 'user_agent', 'page_url', 'visited_at')
+    
+    def user_display(self, obj):
+        return obj.user.username if obj.user else 'Anonim'
+    user_display.short_description = 'İstifadəçi'
+    
+    class Media:
+        css = {'all': ('css/admin_custom.css',)}

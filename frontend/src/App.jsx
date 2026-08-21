@@ -11,6 +11,25 @@ import Profile from './pages/Profile';
 import RealExamPage from './pages/RealExamPage';
 import { authFetch, clearTokens, getAccessToken } from './utils/api';
 
+
+
+function VisitTracker() {
+  const location = useLocation();
+  
+  useEffect(() => {
+    fetch('https://d-niz-ilik-mtahanlar-1.onrender.com/api/record-visit/', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': getAccessToken() ? 'Bearer ' + getAccessToken() : ''
+      },
+      body: JSON.stringify({ url: window.location.href })
+    }).catch(err => console.log('Tracker error:', err));
+  }, []);
+
+  return null;
+}
+
 function SessionChecker() {
   const location = useLocation();
   const navigate = useNavigate();
@@ -37,7 +56,8 @@ function SessionChecker() {
 function App() {
   return (
     <Router>
-      <SessionChecker />
+      <VisitTracker />
+        <SessionChecker />
       <div className="min-h-screen bg-gradient-to-br from-dark to-dark-paper text-light flex flex-col items-center justify-between p-4 relative overflow-x-hidden">
         {/* Decorative background circles for modern look */}
         <div className="fixed top-[-10%] left-[-10%] w-[40vw] h-[40vw] bg-primary/20 rounded-full blur-[120px] pointer-events-none"></div>

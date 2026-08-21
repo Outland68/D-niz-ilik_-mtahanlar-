@@ -4,7 +4,7 @@ from .views import (
     CategoryViewSet, CertificateViewSet, QuestionReportViewSet,
     login_view, register_view, verify_email_view, refresh_token_view, change_password_view,
     send_reset_code_view, verify_reset_code_view,
-    logout_view, me_view
+    logout_view, me_view, record_visit
 )
 
 router = DefaultRouter()

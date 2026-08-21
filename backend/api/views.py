@@ -564,3 +564,29 @@ class QuestionReportViewSet(viewsets.ModelViewSet):
         serializer.save(user=user)
 
 
+
+from .models import SiteVisit
+
+def get_client_ip(request):
+    x_forwarded_for = request.META.get('HTTP_X_FORWARDED_FOR')
+    if x_forwarded_for:
+        ip = x_forwarded_for.split(',')[0]
+    else:
+        ip = request.META.get('REMOTE_ADDR')
+    return ip
+
+@api_view(['POST'])
+@permission_classes([permissions.AllowAny])
+def record_visit(request):
+    ip = get_client_ip(request)
+    url = request.data.get('url', '')[:500]
+    user_agent = request.META.get('HTTP_USER_AGENT', '')
+    user = request.user if request.user.is_authenticated else None
+    
+    SiteVisit.objects.create(
+        ip_address=ip,
+        user=user,
+        user_agent=user_agent,
+        page_url=url
+    )
+    return Response({'status': 'ok'})

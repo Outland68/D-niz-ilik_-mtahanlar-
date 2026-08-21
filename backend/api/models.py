@@ -41,3 +41,19 @@ class QuestionReport(models.Model):
 
     def __str__(self):
         return f"Report by {self.user.username if self.user else 'Guest'} on {self.certificate_name} (Sual: {self.question_id})"
+
+class SiteVisit(models.Model):
+    ip_address = models.GenericIPAddressField(null=True, blank=True)
+    user = models.ForeignKey(User, on_delete=models.SET_NULL, null=True, blank=True)
+    user_agent = models.TextField(null=True, blank=True)
+    visited_at = models.DateTimeField(auto_now_add=True)
+    page_url = models.CharField(max_length=500, null=True, blank=True)
+
+    class Meta:
+        ordering = ['-visited_at']
+        verbose_name = 'Sayt Ziyarəti'
+        verbose_name_plural = 'Sayt Ziyarətləri'
+
+    def __str__(self):
+        usr = self.user.username if self.user else 'Anonim'
+        return f"{usr} - {self.ip_address}"
