@@ -341,9 +341,9 @@
             "id": "q029",
             "question": "Yük tankının içindә zәrәrçәkәnә tәcili tibbi yardım göstәrәn zaman \noksigen reanimatordan istifadә etmәk olarmı?",
             "options": {
-                "A": "Zәrәrçәkәn huşsuz olduqda mütlәqdir",
-                "B": "Gәmi kapitanının icazәsi ilә mümkündür",
-                "C": "Yalnız qısa müddәtә icazә verilir",
+                "A": "30-45 dәqiqә",
+                "B": "Qadağan olunur",
+                "C": "650 C",
                 "D": "Qәti olmaz"
             },
             "correct_answer": "D",

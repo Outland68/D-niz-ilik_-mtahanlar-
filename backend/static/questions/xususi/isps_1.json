@@ -413,10 +413,10 @@
             "id": "q035",
             "question": "Gəmi mühafizə xəbərdaretmə sisteminin düymələri gəmidə hansı bölmələrdə quraşdırılmalıdır?",
             "options": {
-                "A": "1-ci düymə maşın şöbəsində, 2-ci düymə kambuzda",
-                "B": "1-ci düymə bosmanın kayutasında, 2-ci düymə nasosxanada",
+                "A": "6-ci düymə kapitan körpüsündə, 2-ci düymə isə mühafizə planında göstərilən yerdə",
+                "B": "21-ci düymə kapitan körpüsündə, 2-ci düymə isə mühafizə planında göstərilən yerdə",
                 "C": "1-ci düymə kapitan körpüsündə, 2-ci düymə isə mühafizə planında göstərilən yerdə",
-                "D": "Bütün düymələr gəmi kapitanının kayutasında"
+                "D": "101-ci düymə kapitan körpüsündə, 2-ci düymə isə mühafizə planında göstərilən yerdə"
             },
             "correct_answer": "C",
             "explanation": ""
@@ -497,10 +497,10 @@
             "id": "q042",
             "question": "Gəminin mühafizə planının elektron şəkildə saxlanılmasına icazə verilirmi?",
             "options": {
-                "A": "Yalnız limanda olarkən",
+                "A": "3 ayda azı 1 dəfə",
                 "B": "Bəli",
-                "C": "Yalnız dəniz administrasiyasının xüsusi icazəsi ilə",
-                "D": "Xeyr"
+                "C": "Müstəsna səviyyə",
+                "D": "Soyuq silahlar"
             },
             "correct_answer": "B",
             "explanation": ""

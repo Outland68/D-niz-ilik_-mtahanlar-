@@ -1,557 +1,557 @@
 {
-  "certificate": "Inert qaz sistemi",
-  "questions": [
-    {
-      "id": "q001",
-      "question": "1. İnert qazlar hansı mənbələrdən alınır?",
-      "options": {
-        "A": "Yalnız gəmi kondisioner sistemindən",
-        "B": "Azot generatorlarından və buxar qazanlarından xaric edilən qazların tərkibindən",
-        "C": "Yalnız baş mühərrikin soyutma suyundan",
-        "D": "Yalnız hava kompressorunun filtrlərindən"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q002",
-      "question": "2. İnert qazların tərkibi hansı qazlardan ibarətdir?",
-      "options": {
-        "A": "Cl2, F2, CO, H2",
-        "B": "N2, O2, NOx, CO2",
-        "C": "CH4, H2S, NH3, Ar",
-        "D": "C2H2, He, Ne, Kr"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q003",
-      "question": "3. İnert qaz sisteminin gəmilərdə qoyulma məqsədi nədir?",
-      "options": {
-        "A": "Gəmilərdə insan həyatını qorumaq, daşınan yükün təhlükəsiz mənzil başına çatdırmaq, gəmidə partlayış, yanğın və korroziyanin qarşısını almaq üçün",
-        "B": "Gəminin sürətini 2 dəfə artırmaq üçün",
-        "C": "Karter yağını təmizləmək üçün",
-        "D": "Yük tanklarını soyuq su ilə yumaq üçün"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q004",
-      "question": "4. İnert qaz sistemində keçirilən texniki baxışlar hansılardır?",
-      "options": {
-        "A": "Yalnız gəmi satılarkən keçirilən baxışlar",
-        "B": "Gündəlik, həftəlik, 3 ayda, 6 ayda, 1 il ərzində keçirilən texniki baxışlar",
-        "C": "Texniki baxış keçirilməsi nəzərdə tutulmur",
-        "D": "Yalnız 10 ildən bir keçirilən baxışlar"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. İnert qaz sistemi hansı elementlərdən ibarətdir?",
-      "options": {
-        "A": "Yalnız seyr fənərləri və radarlar",
-        "B": "Azot generatoru, buxar qazanı, skrubber, azot resiveri, hava balonu, kompressorlar, elektrik qızdırıcıları, hava üfürcüləri, nəzarət edici, yoxlayıcı və idarə edici cihazlar, boru kəmərləri",
-        "C": "Yalnız separatorlar və pər valı",
-        "D": "Yalnız xilasedici qayıqlar və sallar"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q006",
-      "question": "6. İnert qaz sistemində hansı borulardan istifadə olunur?",
-      "options": {
-        "A": "Rezin şlanqlar",
-        "B": "Şovsuz, qalın divarlı borular",
-        "C": "Alüminium folqa borular",
-        "D": "Nazik divarlı plastik borular"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q007",
-      "question": "7. İnert qaz sistemində qoyulan resiverin tutumu nə qədərdir?",
-      "options": {
-        "A": "50 m³",
-        "B": "5 m³",
-        "C": "0.5 m³",
-        "D": "100 m³"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q008",
-      "question": "8. İnert qaz sisteminde neçə pilləli kompressorlardan istifadə edilir?",
-      "options": {
-        "A": "Kompressor istifadə edilmir",
-        "B": "1 pilləli əl nasosları",
-        "C": "2 pilləli sıxılmış hava kompressorları",
-        "D": "6 pilləli vakuumpressorlar"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q009",
-      "question": "9. İnert qaz sistemində “Saxlama“ rejimində yük anbarlarında inert qazın təzyiqi nə qədərdir?",
-      "options": {
-        "A": "0,1 bar",
-        "B": "50 bar",
-        "C": "0,001 bar",
-        "D": "10 bar"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q010",
-      "question": "10. İnert qazın tərkibində karbon dioksidin miqdarı nə qədərdir? (karbon dioksid CO₂)",
-      "options": {
-        "A": "90-99 %",
-        "B": "50-60 %",
-        "C": "0.1-0.5 %",
-        "D": "12-14 %"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q011",
-      "question": "11. İnert qazlar sistemində istifadə olunan boruların diametri nə qədərdir? (qurğunun saxlama iş rejimi üçün)",
-      "options": {
-        "A": "1000 x 50 mm",
-        "B": "500 x 20 mm",
-        "C": "25 x 1 mm",
-        "D": "159 x 5 mm"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q012",
-      "question": "12. İnert qaz sistemi uzun müddət işləmədikdə hansı işlər görülməlidir?",
-      "options": {
-        "A": "Bütün klapanlar kipləşdirilib bağlamalı və resiver maksimum təzyiqlə doldurulmalıdır",
-        "B": "Sistemə dəniz suyu doldurulmalıdır",
-        "C": "Kompressorlar sökülüb kənara qoyulmalıdır",
-        "D": "Sistemdə olan bütün klapanların açıq vəziyyətdə olması tələb edilir və resiver boş olmalıdır"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q013",
-      "question": "13. İnert qaz sisteminin sıradan çıxması hansı qurğulardan asılıdır?",
-      "options": {
-        "A": "Yalnız gəmi fiti işləmədikdə",
-        "B": "Azot generatoru və hava kompressorları sıradan çıxdığı vaxt",
-        "C": "Yalnız sükan qurğusu zədələndikdə",
-        "D": "Yalnız seyr fənərləri söndükdə"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q014",
-      "question": "14. İnert qaz sisteminin üfürmə rejimində təzyiqi nə qədər olmalıdır?",
-      "options": {
-        "A": "0.1-0.5 bar",
-        "B": "50-100 bar",
-        "C": "7-10 bar",
-        "D": "150-200 bar"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q015",
-      "question": "15. İnert qaz sisteminin iş rejimləri hansılardır?",
-      "options": {
-        "A": "Vakuumlama, sıxma, rəngləmə rejimləri",
-        "B": "Qızdırma, donma, qaynama rejimləri",
-        "C": "Saxlama, doldurma, üfürmə rejimləri",
-        "D": "Yalnız sınaq rejimi"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q016",
-      "question": "16. Tankın deqazasiyası üçün oksigenin miqdarı neçə faiz olmalıdır?",
-      "options": {
-        "A": "5 %",
-        "B": "50 %",
-        "C": "0 %",
-        "D": "21 %"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q017",
-      "question": "17. İnert qaz sistemləri hansı növ yuyulma sistemi olan tankerlərdə quraşdırılır?",
-      "options": {
-        "A": "Yalnız buxarla yuma sistemi olan kiçik barjalarda",
-        "B": "Yalnız tatlı su ilə yuma olan qum gəmilərində",
-        "C": "Xam neftlə yuma sistemi quraşdırılmış tankerlərdə",
-        "D": "Bütün sərnişin gəmilərində"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q018",
-      "question": "18. Stasionar yuyucu maşınlar tankerlərin hansı hissəsində quraşdırılır?",
-      "options": {
-        "A": "Tankın içərisində",
-        "B": "Kapitan körpüsündə",
-        "C": "Liman binalarında",
-        "D": "Maşın şöbəsinin karterində"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q019",
-      "question": "19. Tanklarda inertizasiya dedikdə nə başa düşülür?",
-      "options": {
-        "A": "Tankın neftlə ağzınadək doldurulması",
-        "B": "Tankın buxarla tam doldurulması",
-        "C": "Tanklarda təsirsiz atmosferin yaradılması məqsədi ilə tanka inert qazın ötürülməsi",
-        "D": "Tanklara havanın vurulması ilə oksigenin artırılması"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q020",
-      "question": "20. Resiverin üstündəki qoruyucu klapan hansı təzyiqdə avtomatik açılır?",
-      "options": {
-        "A": "1 bar",
-        "B": "100 bar",
-        "C": "13 bar",
-        "D": "50 bar"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q021",
-      "question": "21. Yay dizel yanacağının qatılıq dərəcəsi nə qədərdir?",
-      "options": {
-        "A": "20°C, 3-6 s/st",
-        "B": "0°C, 1 s/st",
-        "C": "100°C, 200 s/st",
-        "D": "-50°C, 100 s/st"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q022",
-      "question": "22. Üfürmə rejimi hansı təzyiqdə işləyir?",
-      "options": {
-        "A": "7-10 bar",
-        "B": "30-50 bar",
-        "C": "100-120 bar",
-        "D": "0.1 bar"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q023",
-      "question": "23. İnert qaz sistemi boşaltma/xam neftlə yuma əməliyyatı zamanı sıradan çıxarsa hansı tədbirlər görülməlidir?",
-      "options": {
-        "A": "Boşaltmanı 2 dəfə sürətləndirmək",
-        "B": "Tankın qapaqlarını tam açmaq",
-        "C": "Maşın bölməsini söndürmək",
-        "D": "Boşaltmanı, xam neftlə yumanı dayandırmaq"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q024",
-      "question": "24. İnert qaz sistemində hansı tip kompressorlardan istifadə olunur?",
-      "options": {
-        "A": "Yalnız el fiti kompressorları",
-        "B": "Yalnız mərkəzdənqaçma su turbinləri",
-        "C": "Porşenli və vintli",
-        "D": "Kompressorlardan istifadə olunmur"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q025",
-      "question": "25. Tankerdə yük əməliyyatları prosesində inert qaz sistemində nasazlıq yaranarsa, hansı tədbirlər görülməlidir?",
-      "options": {
-        "A": "Tanklara su vuraraq yükü dənizə tökmək lazımdır",
-        "B": "Yük əməliyyatlarına fasiləsiz davam etmək lazımdır",
-        "C": "Bütün yük əməliyyatları dayandırılmalıdır və tanka hava sızmasının qarşısı alınmalıdır",
-        "D": "Gəminin sürətini artıraraq dənizə çıxmaq lazımdır"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q026",
-      "question": "26. Yük əməliyyatları zamanı inert qaz sisteminin işi hər hansı bir səbəbdən dayandırılıbsa və 30 dəqiqə ərzində tanka hava daxil olubsa hansı tədbirlər görülməlidir?",
-      "options": {
-        "A": "Gəmi kapitanı diplomunu təhvil verməlidir",
-        "B": "30 dəqiqə ərzində tankda heç bir əməliyyat aparmaq olmaz",
-        "C": "Yükü dərhal nasosla dənizə vurmaq lazımdır",
-        "D": "Tanka açıq alov vurmaq lazımdır"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q027",
-      "question": "27. Tankların yuyulması zamanı neçə üsuldan istifadə olunur?",
-      "options": {
-        "A": "10",
-        "B": "3",
-        "C": "1",
-        "D": "Üsul nəzərdə tutulmur"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q028",
-      "question": "28. Tankerlərin ventilyasiya sistemində neft məhsullarının buxarlarının atmosferə çıxması zamanı nədən istifadə edilmir?",
-      "options": {
-        "A": "Qazçıxaran borulardan",
-        "B": "Alovboğucu torlardan",
-        "C": "Təzyiq-vakuum klapanlarından",
-        "D": "Qazanalizator cihazından"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q029",
-      "question": "29. Ayrıca qazayırıcı sistemin qurğuları yük göyərtəsindən hansı hündürlukdə quraşdırılır?",
-      "options": {
-        "A": "2.5 metr",
-        "B": "10 metr",
-        "C": "50 metr",
-        "D": "0.1 metr"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q030",
-      "question": "30. SOLAS-74 Beynəlxalq Konvensiyasına görə tankerlərdə ən azı neçə yanğın əleyhinə ləvazimat komplekti nəzərdə tutulur?",
-      "options": {
-        "A": "12",
-        "B": "4",
-        "C": "20",
-        "D": "1"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q031",
-      "question": "31. Tankerlərdə neçə növ tank mövcuddur?",
-      "options": {
-        "A": "10",
-        "B": "15",
-        "C": "4",
-        "D": "1"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q032",
-      "question": "32. SOLAS-74 Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq nə zaman tankın atmosferi təsirsiz hesab olunur?",
-      "options": {
-        "A": "Tank tamamen su ilə dolduqda",
-        "B": "Tankın atmosferində oksigenin həcmi 8 % təşkil edirsə",
-        "C": "Tankda temperatur 100°C olduqda",
-        "D": "Tankın atmosferində oksigen 21 % olduqda"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q033",
-      "question": "33. Yük tankının içində zərərçəkənə təcili tibbi yardım göstərən zaman oksigen reanimatorundan istifadə etmək olarmı?",
-      "options": {
-        "A": "Yalnız sərnişin gəmisində olar",
-        "B": "Yalnız gecə vaxtı olar",
-        "C": "Olmaz",
-        "D": "Bütün hallarda sərbəst olaraq olar"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q034",
-      "question": "34. Ürəyin bağlı masajı vaxtı döş qəfəsi 1 dəqiqə ərzində neçə dəfə sıxılmalıdır?",
-      "options": {
-        "A": "10-20",
-        "B": "5-10",
-        "C": "80-100",
-        "D": "200-300"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q035",
-      "question": "35. Orta yaşlı insanlarda nəbz 1 dəqiqə ərzində neçə dəfə vurmalıdır?",
-      "options": {
-        "A": "20-30",
-        "B": "150-200",
-        "C": "5-10",
-        "D": "75-80"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q036",
-      "question": "36. İnert qaz sistemində Demister hansı funksiyanı yerinə yetirir?",
-      "options": {
-        "A": "Azot generatorunun elektrik gərginliyini tənzimləyir",
-        "B": "Pər valının fırlanma sürətini ölçür",
-        "C": "Qazın scrubberdən çıxışında qazla birlikdə su damlalarının keçməsinin qarşısını alır",
-        "D": "Gəmi fitinin səsini gücləndirir"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q037",
-      "question": "37. Blowerdə (ventilyator) nasazlıq yaranarsa:",
-      "options": {
-        "A": "Qaz tənzimləyici klapan avtomatik qapanır",
-        "B": "Mühərrik karterinə dərhal su dolur",
-        "C": "Gəmi lövbəri avtomatik suya düşür",
-        "D": "Gəminin bütün işıqları sönür"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q038",
-      "question": "38. Scrubberdə neçə soyuq su vuran nasos olmalıdır?",
-      "options": {
-        "A": "Nasos olmamalıdır",
-        "B": "1",
-        "C": "10",
-        "D": "2"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q039",
-      "question": "39. Scrubberdə hansı halda siqnalizasiya işə düşür?",
-      "options": {
-        "A": "Gündüz saat 12:00 olduqda",
-        "B": "Gəmi limana daxil olduqda",
-        "C": "Suyun aşağı təzyiqdə olması zamanı",
-        "D": "Suyun temperaturu 0°C olduqda"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q040",
-      "question": "40. Qaz tənzimləyici klapanın funksiyası hansıdır?",
-      "options": {
-        "A": "Buxar qazanının təzyiqini sıfırlayır",
-        "B": "Sükan yelləncəyini hərəkətə gətirir",
-        "C": "Gəminin içməli su sərfindən cavabdehdir",
-        "D": "İnert qaz axının tanka ötürülməsinə avtomatik nəzarət edir"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q041",
-      "question": "41. Qaz tənzimləyici klapan tankerin hansı hissəsində quraşdırılmalıdır?",
-      "options": {
-        "A": "Gəminin ən uca dor ağacında",
-        "B": "Maşın şöbəsində, göyərtə klapanından öncə quraşdırılmalıdır",
-        "C": "Liman anbarında",
-        "D": "Kapitanın şəxsi kayutasında"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q042",
-      "question": "42. Oksigen analizatorunun funksiyası hansıdır?",
-      "options": {
-        "A": "Dəniz suyunun duzluluğunu təyin edir",
-        "B": "Oksigenin miqdarını davamlı ölçür və qeyd edir",
-        "C": "Gəminin sürətini knots ilə göstərir",
-        "D": "Yanacağın özlülüyünü ölçür"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q043",
-      "question": "43. Oksigen analizatorunun siqnalizasiyası hansı halda işə düşür?",
-      "options": {
-        "A": "Oksigenin miqdarı 8 % dən yuxarı olarsa",
-        "B": "Oksigenin miqdarı 0 % olduqda",
-        "C": "Gəmi lövbərə durduqda",
-        "D": "Dizel generatoru dayandıqda"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q044",
-      "question": "44. Oksigenin miqdarı 8 % dən yuxarı olarsa, oksigen analizatorunun siqnalizasiyası işə düşür və bu halda sistemdə hansı dəyişikliklər baş verir?",
-      "options": {
-        "A": "Tanklara hava vuran ventilyator maksimal sürətlə işləməlidir",
-        "B": "Gəmi fiti fasiləsiz çalmalıdır",
-        "C": "Tankı qazla təmin edən klapan avtomatik qapanmalıdır",
-        "D": "Yük nasosları 2 dəfə sürətlənməlidir"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q045",
-      "question": "45. Maşın şöbəsindən gələn karbohidrogen buxarlarının qarşısı hansı qurğu vasitəsilə alınır?",
-      "options": {
-        "A": "Sükan maşını",
-        "B": "Geri qaytarmayan klapan",
-        "C": "Hidrofor tankı",
-        "D": "Buxar turbini"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q046",
-      "question": "46. Təzyiq – vakuum boğucu (breaker) hansı funksiyanı yerinə yetirir?",
-      "options": {
-        "A": "Gəmi radarlarını soyudur",
-        "B": "İzolyasiya klapanları bağlı olduqda, yük tanklarını dəyişkən temperaturdan yaranan aşağı və ya yuxarı təzyiqdən qoruyur",
-        "C": "Karter yağını təmizləyir",
-        "D": "Gəminin lövbər zəncirini dartır"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    }
-  ]
+    "certificate": "Inert qaz sistemi",
+    "questions": [
+        {
+            "id": "q001",
+            "question": "1. İnert qazlar hansı mənbələrdən alınır?",
+            "options": {
+                "A": "Yalnız gəmi kondisioner sistemindən",
+                "B": "Azot generatorlarından və buxar qazanlarından xaric edilən qazların tərkibindən",
+                "C": "Yalnız baş mühərrikin soyutma suyundan",
+                "D": "Yalnız hava kompressorunun filtrlərindən"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q002",
+            "question": "2. İnert qazların tərkibi hansı qazlardan ibarətdir?",
+            "options": {
+                "A": "Cl2, F2, CO, H2",
+                "B": "N2, O2, NOx, CO2",
+                "C": "CH4, H2S, NH3, Ar",
+                "D": "C2H2, He, Ne, Kr"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q003",
+            "question": "3. İnert qaz sisteminin gəmilərdə qoyulma məqsədi nədir?",
+            "options": {
+                "A": "Gəmilərdə insan həyatını qorumaq, daşınan yükün təhlükəsiz mənzil başına çatdırmaq, gəmidə partlayış, yanğın və korroziyanin qarşısını almaq üçün",
+                "B": "Gəminin sürətini 2 dəfə artırmaq üçün",
+                "C": "Karter yağını təmizləmək üçün",
+                "D": "Yük tanklarını soyuq su ilə yumaq üçün"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q004",
+            "question": "4. İnert qaz sistemində keçirilən texniki baxışlar hansılardır?",
+            "options": {
+                "A": "Yalnız gəmi satılarkən keçirilən baxışlar",
+                "B": "Gündəlik, həftəlik, 3 ayda, 6 ayda, 1 il ərzində keçirilən texniki baxışlar",
+                "C": "Texniki baxış keçirilməsi nəzərdə tutulmur",
+                "D": "Yalnız 10 ildən bir keçirilən baxışlar"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q005",
+            "question": "5. İnert qaz sistemi hansı elementlərdən ibarətdir?",
+            "options": {
+                "A": "Yalnız seyr fənərləri və radarlar",
+                "B": "Azot generatoru, buxar qazanı, skrubber, azot resiveri, hava balonu, kompressorlar, elektrik qızdırıcıları, hava üfürcüləri, nəzarət edici, yoxlayıcı və idarə edici cihazlar, boru kəmərləri",
+                "C": "Yalnız separatorlar və pər valı",
+                "D": "Yalnız xilasedici qayıqlar və sallar"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q006",
+            "question": "6. İnert qaz sistemində hansı borulardan istifadə olunur?",
+            "options": {
+                "A": "Rezin şlanqlar",
+                "B": "Şovsuz, qalın divarlı borular",
+                "C": "Alüminium folqa borular",
+                "D": "Nazik divarlı plastik borular"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q007",
+            "question": "7. İnert qaz sistemində qoyulan resiverin tutumu nə qədərdir?",
+            "options": {
+                "A": "50 m³",
+                "B": "5 m³",
+                "C": "0.5 m³",
+                "D": "100 m³"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q008",
+            "question": "8. İnert qaz sisteminde neçə pilləli kompressorlardan istifadə edilir?",
+            "options": {
+                "A": "1 pilləli sıxılmış hava kompressorları",
+                "B": "32 pilləli sıxılmış hava kompressorları",
+                "C": "2 pilləli sıxılmış hava kompressorları",
+                "D": "7 pilləli sıxılmış hava kompressorları"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q009",
+            "question": "9. İnert qaz sistemində “Saxlama“ rejimində yük anbarlarında inert qazın təzyiqi nə qədərdir?",
+            "options": {
+                "A": "0,1 bar",
+                "B": "50 bar",
+                "C": "0,001 bar",
+                "D": "10 bar"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q010",
+            "question": "10. İnert qazın tərkibində karbon dioksidin miqdarı nə qədərdir? (karbon dioksid CO₂)",
+            "options": {
+                "A": "90-99 %",
+                "B": "50-60 %",
+                "C": "0.1-0.5 %",
+                "D": "12-14 %"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q011",
+            "question": "11. İnert qazlar sistemində istifadə olunan boruların diametri nə qədərdir? (qurğunun saxlama iş rejimi üçün)",
+            "options": {
+                "A": "1000 x 50 mm",
+                "B": "500 x 20 mm",
+                "C": "25 x 1 mm",
+                "D": "159 x 5 mm"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q012",
+            "question": "12. İnert qaz sistemi uzun müddət işləmədikdə hansı işlər görülməlidir?",
+            "options": {
+                "A": "Bütün klapanlar kipləşdirilib bağlamalı və resiver maksimum təzyiqlə doldurulmalıdır",
+                "B": "Sistemə dəniz suyu doldurulmalıdır",
+                "C": "Kompressorlar sökülüb kənara qoyulmalıdır",
+                "D": "Sistemdə olan bütün klapanların açıq vəziyyətdə olması tələb edilir və resiver boş olmalıdır"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q013",
+            "question": "13. İnert qaz sisteminin sıradan çıxması hansı qurğulardan asılıdır?",
+            "options": {
+                "A": "Yalnız gəmi fiti işləmədikdə",
+                "B": "Azot generatoru və hava kompressorları sıradan çıxdığı vaxt",
+                "C": "Yalnız sükan qurğusu zədələndikdə",
+                "D": "Yalnız seyr fənərləri söndükdə"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q014",
+            "question": "14. İnert qaz sisteminin üfürmə rejimində təzyiqi nə qədər olmalıdır?",
+            "options": {
+                "A": "0.1-0.5 bar",
+                "B": "50-100 bar",
+                "C": "7-10 bar",
+                "D": "150-200 bar"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q015",
+            "question": "15. İnert qaz sisteminin iş rejimləri hansılardır?",
+            "options": {
+                "A": "Vakuumlama, sıxma, rəngləmə rejimləri",
+                "B": "Qızdırma, donma, qaynama rejimləri",
+                "C": "Saxlama, doldurma, üfürmə rejimləri",
+                "D": "Yalnız sınaq rejimi"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q016",
+            "question": "16. Tankın deqazasiyası üçün oksigenin miqdarı neçə faiz olmalıdır?",
+            "options": {
+                "A": "5 %",
+                "B": "50 %",
+                "C": "0 %",
+                "D": "21 %"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q017",
+            "question": "17. İnert qaz sistemləri hansı növ yuyulma sistemi olan tankerlərdə quraşdırılır?",
+            "options": {
+                "A": "Yalnız buxarla yuma sistemi olan kiçik barjalarda",
+                "B": "Yalnız tatlı su ilə yuma olan qum gəmilərində",
+                "C": "Xam neftlə yuma sistemi quraşdırılmış tankerlərdə",
+                "D": "Bütün sərnişin gəmilərində"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q018",
+            "question": "18. Stasionar yuyucu maşınlar tankerlərin hansı hissəsində quraşdırılır?",
+            "options": {
+                "A": "Tankın içərisində",
+                "B": "Kapitan körpüsündə",
+                "C": "Liman binalarında",
+                "D": "Maşın şöbəsinin karterində"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q019",
+            "question": "19. Tanklarda inertizasiya dedikdə nə başa düşülür?",
+            "options": {
+                "A": "Tankın neftlə ağzınadək doldurulması",
+                "B": "Tankın buxarla tam doldurulması",
+                "C": "Tanklarda təsirsiz atmosferin yaradılması məqsədi ilə tanka inert qazın ötürülməsi",
+                "D": "Tanklara havanın vurulması ilə oksigenin artırılması"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q020",
+            "question": "20. Resiverin üstündəki qoruyucu klapan hansı təzyiqdə avtomatik açılır?",
+            "options": {
+                "A": "1 bar",
+                "B": "100 bar",
+                "C": "13 bar",
+                "D": "50 bar"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q021",
+            "question": "21. Yay dizel yanacağının qatılıq dərəcəsi nə qədərdir?",
+            "options": {
+                "A": "20°C, 3-6 s/st",
+                "B": "0°C, 1 s/st",
+                "C": "100°C, 200 s/st",
+                "D": "-50°C, 100 s/st"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q022",
+            "question": "22. Üfürmə rejimi hansı təzyiqdə işləyir?",
+            "options": {
+                "A": "7-10 bar",
+                "B": "30-50 bar",
+                "C": "100-120 bar",
+                "D": "0.1 bar"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q023",
+            "question": "23. İnert qaz sistemi boşaltma/xam neftlə yuma əməliyyatı zamanı sıradan çıxarsa hansı tədbirlər görülməlidir?",
+            "options": {
+                "A": "Boşaltmanı 2 dəfə sürətləndirmək",
+                "B": "Tankın qapaqlarını tam açmaq",
+                "C": "Maşın bölməsini söndürmək",
+                "D": "Boşaltmanı, xam neftlə yumanı dayandırmaq"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q024",
+            "question": "24. İnert qaz sistemində hansı tip kompressorlardan istifadə olunur?",
+            "options": {
+                "A": "Yalnız el fiti kompressorları",
+                "B": "Yalnız mərkəzdənqaçma su turbinləri",
+                "C": "Porşenli və vintli",
+                "D": "Kompressorlardan istifadə olunmur"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q025",
+            "question": "25. Tankerdə yük əməliyyatları prosesində inert qaz sistemində nasazlıq yaranarsa, hansı tədbirlər görülməlidir?",
+            "options": {
+                "A": "Tanklara su vuraraq yükü dənizə tökmək lazımdır",
+                "B": "Yük əməliyyatlarına fasiləsiz davam etmək lazımdır",
+                "C": "Bütün yük əməliyyatları dayandırılmalıdır və tanka hava sızmasının qarşısı alınmalıdır",
+                "D": "Gəminin sürətini artıraraq dənizə çıxmaq lazımdır"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q026",
+            "question": "26. Yük əməliyyatları zamanı inert qaz sisteminin işi hər hansı bir səbəbdən dayandırılıbsa və 30 dəqiqə ərzində tanka hava daxil olubsa hansı tədbirlər görülməlidir?",
+            "options": {
+                "A": "50 dəqiqə ərzində tankda heç bir əməliyyat aparmaq olmaz",
+                "B": "30 dəqiqə ərzində tankda heç bir əməliyyat aparmaq olmaz",
+                "C": "40 dəqiqə ərzində tankda heç bir əməliyyat aparmaq olmaz",
+                "D": "20 dəqiqə ərzində tankda heç bir əməliyyat aparmaq olmaz"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q027",
+            "question": "27. Tankların yuyulması zamanı neçə üsuldan istifadə olunur?",
+            "options": {
+                "A": "4",
+                "B": "3",
+                "C": "2",
+                "D": "6"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q028",
+            "question": "28. Tankerlərin ventilyasiya sistemində neft məhsullarının buxarlarının atmosferə çıxması zamanı nədən istifadə edilmir?",
+            "options": {
+                "A": "Qazçıxaran borulardan",
+                "B": "Alovboğucu torlardan",
+                "C": "Təzyiq-vakuum klapanlarından",
+                "D": "Qazanalizator cihazından"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q029",
+            "question": "29. Ayrıca qazayırıcı sistemin qurğuları yük göyərtəsindən hansı hündürlukdə quraşdırılır?",
+            "options": {
+                "A": "2.5 metr",
+                "B": "10 metr",
+                "C": "50 metr",
+                "D": "0.1 metr"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q030",
+            "question": "30. SOLAS-74 Beynəlxalq Konvensiyasına görə tankerlərdə ən azı neçə yanğın əleyhinə ləvazimat komplekti nəzərdə tutulur?",
+            "options": {
+                "A": "12",
+                "B": "4",
+                "C": "20",
+                "D": "1"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q031",
+            "question": "31. Tankerlərdə neçə növ tank mövcuddur?",
+            "options": {
+                "A": "10",
+                "B": "15",
+                "C": "4",
+                "D": "1"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q032",
+            "question": "32. SOLAS-74 Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq nə zaman tankın atmosferi təsirsiz hesab olunur?",
+            "options": {
+                "A": "Tank tamamen su ilə dolduqda",
+                "B": "Tankın atmosferində oksigenin həcmi 8 % təşkil edirsə",
+                "C": "Tankda temperatur 100°C olduqda",
+                "D": "Tankın atmosferində oksigen 21 % olduqda"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q033",
+            "question": "33. Yük tankının içində zərərçəkənə təcili tibbi yardım göstərən zaman oksigen reanimatorundan istifadə etmək olarmı?",
+            "options": {
+                "A": "Yalnız sərnişin gəmisində olar",
+                "B": "Yalnız gecə vaxtı olar",
+                "C": "Olmaz",
+                "D": "Bütün hallarda sərbəst olaraq olar"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q034",
+            "question": "34. Ürəyin bağlı masajı vaxtı döş qəfəsi 1 dəqiqə ərzində neçə dəfə sıxılmalıdır?",
+            "options": {
+                "A": "10-20",
+                "B": "5-10",
+                "C": "80-100",
+                "D": "200-300"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q035",
+            "question": "35. Orta yaşlı insanlarda nəbz 1 dəqiqə ərzində neçə dəfə vurmalıdır?",
+            "options": {
+                "A": "20-30",
+                "B": "150-200",
+                "C": "5-10",
+                "D": "75-80"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q036",
+            "question": "36. İnert qaz sistemində Demister hansı funksiyanı yerinə yetirir?",
+            "options": {
+                "A": "Azot generatorunun elektrik gərginliyini tənzimləyir",
+                "B": "Pər valının fırlanma sürətini ölçür",
+                "C": "Qazın scrubberdən çıxışında qazla birlikdə su damlalarının keçməsinin qarşısını alır",
+                "D": "Gəmi fitinin səsini gücləndirir"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q037",
+            "question": "37. Blowerdə (ventilyator) nasazlıq yaranarsa:",
+            "options": {
+                "A": "Qaz tənzimləyici klapan avtomatik qapanır",
+                "B": "Mühərrik karterinə dərhal su dolur",
+                "C": "Gəmi lövbəri avtomatik suya düşür",
+                "D": "Gəminin bütün işıqları sönür"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q038",
+            "question": "38. Scrubberdə neçə soyuq su vuran nasos olmalıdır?",
+            "options": {
+                "A": "3",
+                "B": "5",
+                "C": "1",
+                "D": "2"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q039",
+            "question": "39. Scrubberdə hansı halda siqnalizasiya işə düşür?",
+            "options": {
+                "A": "Gündüz saat 12:00 olduqda",
+                "B": "Gəmi limana daxil olduqda",
+                "C": "Suyun aşağı təzyiqdə olması zamanı",
+                "D": "Suyun temperaturu 0°C olduqda"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q040",
+            "question": "40. Qaz tənzimləyici klapanın funksiyası hansıdır?",
+            "options": {
+                "A": "Buxar qazanının təzyiqini sıfırlayır",
+                "B": "Sükan yelləncəyini hərəkətə gətirir",
+                "C": "Gəminin içməli su sərfindən cavabdehdir",
+                "D": "İnert qaz axının tanka ötürülməsinə avtomatik nəzarət edir"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q041",
+            "question": "41. Qaz tənzimləyici klapan tankerin hansı hissəsində quraşdırılmalıdır?",
+            "options": {
+                "A": "Gəminin ən uca dor ağacında",
+                "B": "Maşın şöbəsində, göyərtə klapanından öncə quraşdırılmalıdır",
+                "C": "Liman anbarında",
+                "D": "Kapitanın şəxsi kayutasında"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q042",
+            "question": "42. Oksigen analizatorunun funksiyası hansıdır?",
+            "options": {
+                "A": "Dəniz suyunun duzluluğunu təyin edir",
+                "B": "Oksigenin miqdarını davamlı ölçür və qeyd edir",
+                "C": "Gəminin sürətini knots ilə göstərir",
+                "D": "Yanacağın özlülüyünü ölçür"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q043",
+            "question": "43. Oksigen analizatorunun siqnalizasiyası hansı halda işə düşür?",
+            "options": {
+                "A": "Oksigenin miqdarı 8 % dən yuxarı olarsa",
+                "B": "Oksigenin miqdarı 0 % olduqda",
+                "C": "Gəmi lövbərə durduqda",
+                "D": "Dizel generatoru dayandıqda"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q044",
+            "question": "44. Oksigenin miqdarı 8 % dən yuxarı olarsa, oksigen analizatorunun siqnalizasiyası işə düşür və bu halda sistemdə hansı dəyişikliklər baş verir?",
+            "options": {
+                "A": "Tanklara hava vuran ventilyator maksimal sürətlə işləməlidir",
+                "B": "Gəmi fiti fasiləsiz çalmalıdır",
+                "C": "Tankı qazla təmin edən klapan avtomatik qapanmalıdır",
+                "D": "Yük nasosları 2 dəfə sürətlənməlidir"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q045",
+            "question": "45. Maşın şöbəsindən gələn karbohidrogen buxarlarının qarşısı hansı qurğu vasitəsilə alınır?",
+            "options": {
+                "A": "Sükan maşını",
+                "B": "Geri qaytarmayan klapan",
+                "C": "Hidrofor tankı",
+                "D": "Buxar turbini"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q046",
+            "question": "46. Təzyiq – vakuum boğucu (breaker) hansı funksiyanı yerinə yetirir?",
+            "options": {
+                "A": "Gəmi radarlarını soyudur",
+                "B": "İzolyasiya klapanları bağlı olduqda, yük tanklarını dəyişkən temperaturdan yaranan aşağı və ya yuxarı təzyiqdən qoruyur",
+                "C": "Karter yağını təmizləyir",
+                "D": "Gəminin lövbər zəncirini dartır"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        }
+    ]
 }

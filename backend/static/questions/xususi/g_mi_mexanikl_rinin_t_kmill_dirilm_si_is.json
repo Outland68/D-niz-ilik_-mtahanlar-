@@ -6,9 +6,9 @@
             "question": "Nominal gücün 45-50% aşmayan yüklə işləyən dizel generatorların paralel rejimdə işləməsinin müddəti, davamiyyəti nə qədər olmalıdır?",
             "options": {
                 "A": "Minimal",
-                "B": "4 saatdan çox olmamaq şərtilə",
-                "C": "Maksimal (şəbəkənin tələbatına uyğun)",
-                "D": "Yanacaq sərfi sabitləşənə qədər"
+                "B": "növbətçi mexanik",
+                "C": "3 dəfə azalar",
+                "D": "“0” vəziyyətinə"
             },
             "correct_answer": "A",
             "explanation": ""
@@ -30,9 +30,9 @@
             "question": "Cərəyanla qurutma üsulundan hansı izolyasiya müqavimətinə malik olan elektrik maşınlarında tətbiq edilməsinə icazə verilir?",
             "options": {
                 "A": "0.1 Mom-dan az olmayanda",
-                "B": "5 Mom və daha yuxarı olduqda",
-                "C": "Yalnız qısaqapanma sınaqlarından sonra",
-                "D": "0.5 Mom-dan çox olduqda"
+                "B": "5.1 Mom-dan az olmayanda",
+                "C": "1.31 Mom-dan az olmayanda",
+                "D": "50.31 Mom-dan az olmayanda"
             },
             "correct_answer": "A",
             "explanation": ""
@@ -306,9 +306,9 @@
             "question": "Şəkillərdə iki növ Yüksək Təyziqli Yanacaq nasosları (YTYN/ТНВД) göstərilmişdir. Zolotnik tipli YTYN-nu göstərin?\n1.\n2.",
             "options": {
                 "A": "1",
-                "B": "2",
-                "C": "Hər ikisi",
-                "D": "Heç biri"
+                "B": "4",
+                "C": "2",
+                "D": "5"
             },
             "correct_answer": "A",
             "explanation": ""
@@ -557,10 +557,10 @@
             "id": "q047",
             "question": "Birləşmə üsulunu üç bucaqlı birləşmədən ulduzvari birləşməyə dəyişdikdə dəyişən cərəyanlı asinxron elektrik mühərrikinin gücü necə dəyişər?",
             "options": {
-                "A": "Dəyişməz qalar",
-                "B": "3 dəfə artar",
+                "A": "1 dəfə azalar",
+                "B": "8 dəfə azalar",
                 "C": "3 dəfə azalar",
-                "D": "1.5 dəfə artar"
+                "D": "103 dəfə azalar"
             },
             "correct_answer": "C",
             "explanation": ""

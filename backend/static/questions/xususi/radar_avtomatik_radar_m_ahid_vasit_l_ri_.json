@@ -426,9 +426,9 @@
             "question": "36. Planşetdə gördüyünüz gəmi (qırmızı nöqtələr) hansı manevr edib?",
             "options": {
                 "A": "9-cu dəqiqədən sonra kursunu sol tərəfə dəyişib, sürətini azaldıb",
-                "B": "Maşını geri işlədərək təcili dayanıb",
-                "C": "Kursunu sağa dəyişib, sürətini artırıb",
-                "D": "Sürətini artıraraq bizimlə paralel kursa keçib"
+                "B": "19-cu dəqiqədən sonra kursunu sol tərəfə dəyişib, sürətini azaldıb",
+                "C": "109-cu dəqiqədən sonra kursunu sol tərəfə dəyişib, sürətini azaldıb",
+                "D": "39-cu dəqiqədən sonra kursunu sol tərəfə dəyişib, sürətini azaldıb"
             },
             "correct_answer": "A",
             "explanation": ""
@@ -449,10 +449,10 @@
             "id": "q038",
             "question": "38. Planşetdə gördüyünüz gəmi (qırmızı nöqtələr) hansı manevr edib?",
             "options": {
-                "A": "Hədəf 90 dərəcə sola dönüb",
-                "B": "Hədəf hərəkətsiz vəziyyətə keçib",
+                "A": "32-ci dəqiqədən sonra hədəf bizim gəmimizlə eyni kursla hərəkət edir, sürətini azaldıb",
+                "B": "22-ci dəqiqədən sonra hədəf bizim gəmimizlə eyni kursla hərəkət edir, sürətini azaldıb",
                 "C": "12-ci dəqiqədən sonra hədəf bizim gəmimizlə eyni kursla hərəkət edir, sürətini azaldıb",
-                "D": "12-ci dəqiqədən sonra hədəf əks kursla tam sürətlə hərəkətə başlayıb"
+                "D": "42-ci dəqiqədən sonra hədəf bizim gəmimizlə eyni kursla hərəkət edir, sürətini azaldıb"
             },
             "correct_answer": "C",
             "explanation": ""
@@ -461,10 +461,10 @@
             "id": "q039",
             "question": "39. Planşetdə gördüyünüz gəmi (qırmızı nöqtələr) hansı manevr edib?",
             "options": {
-                "A": "12-ci dəqiqədən sonra hədəfin sürəti bizimkindən 3 dəfə çoxdur",
+                "A": "62-ci dəqiqədən sonra hədəfin kursu bizim gəmimizin əksidir",
                 "B": "12-ci dəqiqədən sonra hədəfin kursu bizim gəmimizin əksidir",
-                "C": "Hədəf xəbərdarlıq siqnalı vermədən dayanıb",
-                "D": "Hədəf bizimlə paralel kursda hərəkətini davam etdirir"
+                "C": "112-ci dəqiqədən sonra hədəfin kursu bizim gəmimizin əksidir",
+                "D": "42-ci dəqiqədən sonra hədəfin kursu bizim gəmimizin əksidir"
             },
             "correct_answer": "B",
             "explanation": ""

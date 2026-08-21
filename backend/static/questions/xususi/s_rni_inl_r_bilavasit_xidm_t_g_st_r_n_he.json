@@ -1,365 +1,365 @@
 {
-  "certificate": "Sәrnişinlәrә bilavasitә xidmәt göstәrәn heyәt üzvlәri",
-  "questions": [
-    {
-      "id": "q001",
-      "question": "1. Sərnişin gəmisi:",
-      "options": {
-        "A": "2 nəfərdən artıq sərnişin daşıyan gəmidir",
-        "B": "500 nəfərdən artıq sərnişin daşıyan gəmidir",
-        "C": "12 nəfərdən artıq sərnişin daşıyan gəmidir",
-        "D": "1000 nəfərdən artıq sərnişin daşıyan gəmidir"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q002",
-      "question": "2. Sərnişin gəmilərində uşaqlar və körpələr üçün aşağıdakı sayda əlavə xilasedici jiletlər nəzərdə tutulmalıdır:",
-      "options": {
-        "A": "50%",
-        "B": "100%",
-        "C": "10%",
-        "D": "2%"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q003",
-      "question": "3. 36 nəfərdən artıq sərnişin daşıyan gəmilər üçün yalnız bir təxliyə yoluna malik olan dəhlizin uzunluğu aşağıdakını aşmamalıdır:",
-      "options": {
-        "A": "13 metr",
-        "B": "5 metr",
-        "C": "25 metr",
-        "D": "40 metr"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q004",
-      "question": "4. Xilasedici dairələrin ümumi çəkisi nə qədər olur?",
-      "options": {
-        "A": "0.5 kq",
-        "B": "2.5 kq",
-        "C": "15 kq",
-        "D": "10 kq"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Xilasedici dairələr necə işarələnirlər?",
-      "options": {
-        "A": "Gəmi kapitanının ev ünvanı ilə",
-        "B": "Gəminin adı və qeydiyyat limanı ilə",
-        "C": "Sərnişin biletinin qiyməti ilə",
-        "D": "İMO rəhbərinin adı və soyadı ilə"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q006",
-      "question": "6. Xilasedici dairələr gəmidə harada yerləşdirilir?",
-      "options": {
-        "A": "Bütün açıq göyərtələrdə",
-        "B": "Yalnız gəmi mətbəxində",
-        "C": "Yalnız kapitan kayutasının içində",
-        "D": "Yalnız maşın şöbəsinin karterində"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q007",
-      "question": "7. Xilasedici gödəkçələr nə ilə komplektləşdirilir?",
-      "options": {
-        "A": "İşıq lampası, batareya və fitverən ilə",
-        "B": "Yalnız radioötürücü antenna ilə",
-        "C": "Yalnız güzgü və kompas ilə",
-        "D": "Yalnız balıq tutmaq üçün tilov ilə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q008",
-      "question": "8. Xilasedici salda olarkən işarəverici raketdən və falşveyerdən necə istifadə edilməlidir?",
-      "options": {
-        "A": "Gündüz saat 12:00-da avtomatik",
-        "B": "Hər 5 dəqiqədən bir fasiləsiz olaraq",
-        "C": "Xilasedici salın komandirinin göstərişinə əsasən",
-        "D": "İstənilən sərnişinin öz istəyinə əsasən"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q009",
-      "question": "9. Üç davamlı uzun səs siqnalı nəyi bildirir?",
-      "options": {
-        "A": "Dumanlı havada lövbər siqnalını",
-        "B": "Yanğın həyəcan siqnalını",
-        "C": "Gəmini tərk etmə siqnalını",
-        "D": "Suda adam həyəcan siqnalını"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q010",
-      "question": "10. Gəmini tərk etmə komandasını kim verir?",
-      "options": {
-        "A": "Sərnişinlərin böyüyü",
-        "B": "Kapitan",
-        "C": "Növbətçi matros",
-        "D": "Gəmi aşpazı"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q011",
-      "question": "11. Həyəcan cədvəli harada yerləşməlidir?",
-      "options": {
-        "A": "Yalnız maşın şöbəsinin altında",
-        "B": "Kapitan körpüsündə və heyətin yerləşdiyi yerdə",
-        "C": "Liman müfəttişliyinin ofisində",
-        "D": "Yalnız gəminin avar valında"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q012",
-      "question": "12. Xilasedici dairələr hansı maksimal hündürlükdən suya atılmağa davamlı olmalıdır?",
-      "options": {
-        "A": "5 metr",
-        "B": "2 metr",
-        "C": "100 metr",
-        "D": "30 metr"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q013",
-      "question": "13. Xilasedici jileti geyinib suya hansı maksimal hündürlükdən tullanmaq olar?",
-      "options": {
-        "A": "20 metr",
-        "B": "4.5 metr",
-        "C": "50 metr",
-        "D": "1 metr"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q014",
-      "question": "14. Xilasedici jilet hansı maksimal müddət ərzində kənardan kömək olmadan geyinilməlidir?",
-      "options": {
-        "A": "60 saniyə",
-        "B": "5 saniyə",
-        "C": "30 dəqiqə",
-        "D": "10 dəqiqə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q015",
-      "question": "15. Hidrotermokostyum ilə suya hansı maksimal hündürlükdən tullanmaq olar?",
-      "options": {
-        "A": "15 metr",
-        "B": "4.5 metr",
-        "C": "30 metr",
-        "D": "1 metr"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q016",
-      "question": "16. Hidrotermokostyum hansı maksimal müddət ərzində kənardan kömək olmadan geyinilməlidir?",
-      "options": {
-        "A": "30 dəqiqə",
-        "B": "15 dəqiqə",
-        "C": "2 dəqiqə",
-        "D": "10 saniyə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q017",
-      "question": "17. Hidrotermokostyum hansı müddət ərzində huşunu itirmiş insanın ağzını su üzərində olan vəziyyətə çevirməlidir?",
-      "options": {
-        "A": "1 dəqiqə ərzində",
-        "B": "Çevirmir",
-        "C": "5 saniyə ərzində",
-        "D": "10 dəqiqə ərzində"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q018",
-      "question": "18. Su xaricində olan xilasedici qayığın mühərriki maksimum hansı vaxt ərzində işləyə bilər?",
-      "options": {
-        "A": "24 saat",
-        "B": "Su xaricində mühərrik işlədilə bilməz",
-        "C": "5 dəqiqə",
-        "D": "60 dəqiqə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q019",
-      "question": "19. Xilasedici qayıqla tam yanacaq ehtiyyatı neçə saat və hansı sürətlə manevr etməyə imkan yaradır?",
-      "options": {
-        "A": "20 uzel ilə azı 2 saat",
-        "B": "2 uzel ilə azı 5 saat",
-        "C": "6 uzel ilə azı 24 saat",
-        "D": "12 uzel ilə azı 48 saat"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q020",
-      "question": "20. Hava təchizatı ilə təmin olunmuş tam örtülü qayıqlar azı hansı müddətə nəfəs almağa şərait yaradır?",
-      "options": {
-        "A": "10 dəqiqə",
-        "B": "24 saat",
-        "C": "60 dəqiqə",
-        "D": "2 dəqiqə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q021",
-      "question": "21. Oda davamlı xilasedici qayıqların minimal mühafizə müddəti nə qədərdir?",
-      "options": {
-        "A": "60 dəqiqə",
-        "B": "24 saat",
-        "C": "1 dəqiqə",
-        "D": "8 dəqiqə"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q022",
-      "question": "22. Kolektiv xilasedici vasitədə olarkən dəniz xəstəliyinə karşı dərmanı kim qəbul etməlidir?",
-      "options": {
-        "A": "Yalnız gəmi kapitanı",
-        "B": "Heç kim dərman qəbul etməməlidir",
-        "C": "Hamı",
-        "D": "Yalnız mühərrik ustası"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q023",
-      "question": "23. Bütün həyəcan siqnalları üzrə məşqlər hansı vaxtda keçirilir?",
-      "options": {
-        "A": "Sutkanın istənilən vaxtı",
-        "B": "Yalnız gecə saat 03:00-da",
-        "C": "Yalnız gəmi limanda olanda",
-        "D": "Yalnız günortadan sonra saat 12:00-da"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q024",
-      "question": "24. Gəmidə hansı yerlərdə siqaret çəkməyə icazə verilir?",
-      "options": {
-        "A": "Bütün qapalı hissələrdə",
-        "B": "Yalnız kayutlarda",
-        "C": "Əmrlə təyin olunmuş yerlərdə",
-        "D": "Yalnız yanacaq tanklarının üstündə"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q025",
-      "question": "25. Xilasedici salda (qayıqda) UQD radiostansiya “MAYDAY” fəlakət siqnalını ötürmək üçün hansı kanala köklənməlidir?",
-      "options": {
-        "A": "UQD kanal 16",
-        "B": "UQD kanal 70",
-        "C": "UQD kanal 6",
-        "D": "UQD kanal 12"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q026",
-      "question": "26. Xilasedici qayıqda balıq tutmaq üçün avadanlıq varmı?",
-      "options": {
-        "A": "Bəli",
-        "B": "Yalnız buzqıran gəmilərdə var",
-        "C": "Xeyr",
-        "D": "Yalnız hərbi gəmilərdə var"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q027",
-      "question": "27. Gəmidə həyəcan siqnalları üzrə məşqlər əən geci hansı müddətdə keçirilir?",
-      "options": {
-        "A": "Yalnız gəmi satılarkən",
-        "B": "İldə bir dəfədən az olmayaraq",
-        "C": "Məşq keçirilməsi tələb olunmur",
-        "D": "10 ildən bir"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q028",
-      "question": "28. Ümumgəmi həyəcan siqnalı necə verilir?",
-      "options": {
-        "A": "3 uzun",
-        "B": "7 qısa 1 uzun",
-        "C": "Fasiləsiz 24 saat",
-        "D": "1 qısa 1 uzun"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q029",
-      "question": "29. Yanğınla mübarizə üçün vasitələr harada olmalıdır?",
-      "options": {
-        "A": "Anbarın dərinliyində",
-        "B": "Xüsusi olaraq ayrılmış yerdə",
-        "C": "Kapitan kayutunda",
-        "D": "İstənilən yerdə"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q030",
-      "question": "30. Gəmidə təhlükəli yüklə doldurulmuş bölməyə girdikdə hansı təhlükəsizlik qaydalarına riayət etmək lazımdır?",
-      "options": {
-        "A": "Bölməyə dərhal açıq alovla daxil olmaq",
-        "B": "Bölmənin qapılarını bağlayıb gözləmək",
-        "C": "Hava-qaz mühitini yoxlayaraq daxil olmaq",
-        "D": "Elektrik işıqlarını tam söndürmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    }
-  ]
+    "certificate": "Sәrnişinlәrә bilavasitә xidmәt göstәrәn heyәt üzvlәri",
+    "questions": [
+        {
+            "id": "q001",
+            "question": "1. Sərnişin gəmisi:",
+            "options": {
+                "A": "2 nəfərdən artıq sərnişin daşıyan gəmidir",
+                "B": "500 nəfərdən artıq sərnişin daşıyan gəmidir",
+                "C": "12 nəfərdən artıq sərnişin daşıyan gəmidir",
+                "D": "1000 nəfərdən artıq sərnişin daşıyan gəmidir"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q002",
+            "question": "2. Sərnişin gəmilərində uşaqlar və körpələr üçün aşağıdakı sayda əlavə xilasedici jiletlər nəzərdə tutulmalıdır:",
+            "options": {
+                "A": "50%",
+                "B": "100%",
+                "C": "10%",
+                "D": "2%"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q003",
+            "question": "3. 36 nəfərdən artıq sərnişin daşıyan gəmilər üçün yalnız bir təxliyə yoluna malik olan dəhlizin uzunluğu aşağıdakını aşmamalıdır:",
+            "options": {
+                "A": "13 metr",
+                "B": "5 metr",
+                "C": "25 metr",
+                "D": "40 metr"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q004",
+            "question": "4. Xilasedici dairələrin ümumi çəkisi nə qədər olur?",
+            "options": {
+                "A": "0.5 kq",
+                "B": "2.5 kq",
+                "C": "15 kq",
+                "D": "10 kq"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q005",
+            "question": "5. Xilasedici dairələr necə işarələnirlər?",
+            "options": {
+                "A": "Gəmi kapitanının ev ünvanı ilə",
+                "B": "Gəminin adı və qeydiyyat limanı ilə",
+                "C": "Sərnişin biletinin qiyməti ilə",
+                "D": "İMO rəhbərinin adı və soyadı ilə"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q006",
+            "question": "6. Xilasedici dairələr gəmidə harada yerləşdirilir?",
+            "options": {
+                "A": "Bütün açıq göyərtələrdə",
+                "B": "Yalnız gəmi mətbəxində",
+                "C": "Yalnız kapitan kayutasının içində",
+                "D": "Yalnız maşın şöbəsinin karterində"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q007",
+            "question": "7. Xilasedici gödəkçələr nə ilə komplektləşdirilir?",
+            "options": {
+                "A": "İşıq lampası, batareya və fitverən ilə",
+                "B": "Yalnız radioötürücü antenna ilə",
+                "C": "Yalnız güzgü və kompas ilə",
+                "D": "Yalnız balıq tutmaq üçün tilov ilə"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q008",
+            "question": "8. Xilasedici salda olarkən işarəverici raketdən və falşveyerdən necə istifadə edilməlidir?",
+            "options": {
+                "A": "Gündüz saat 12:00-da avtomatik",
+                "B": "Hər 5 dəqiqədən bir fasiləsiz olaraq",
+                "C": "Xilasedici salın komandirinin göstərişinə əsasən",
+                "D": "İstənilən sərnişinin öz istəyinə əsasən"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q009",
+            "question": "9. Üç davamlı uzun səs siqnalı nəyi bildirir?",
+            "options": {
+                "A": "Dumanlı havada lövbər siqnalını",
+                "B": "Yanğın həyəcan siqnalını",
+                "C": "Gəmini tərk etmə siqnalını",
+                "D": "Suda adam həyəcan siqnalını"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q010",
+            "question": "10. Gəmini tərk etmə komandasını kim verir?",
+            "options": {
+                "A": "Sərnişinlərin böyüyü",
+                "B": "Kapitan",
+                "C": "Növbətçi matros",
+                "D": "Gəmi aşpazı"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q011",
+            "question": "11. Həyəcan cədvəli harada yerləşməlidir?",
+            "options": {
+                "A": "Yalnız maşın şöbəsinin altında",
+                "B": "Kapitan körpüsündə və heyətin yerləşdiyi yerdə",
+                "C": "Liman müfəttişliyinin ofisində",
+                "D": "Yalnız gəminin avar valında"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q012",
+            "question": "12. Xilasedici dairələr hansı maksimal hündürlükdən suya atılmağa davamlı olmalıdır?",
+            "options": {
+                "A": "5 metr",
+                "B": "2 metr",
+                "C": "100 metr",
+                "D": "30 metr"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q013",
+            "question": "13. Xilasedici jileti geyinib suya hansı maksimal hündürlükdən tullanmaq olar?",
+            "options": {
+                "A": "20 metr",
+                "B": "4.5 metr",
+                "C": "50 metr",
+                "D": "1 metr"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q014",
+            "question": "14. Xilasedici jilet hansı maksimal müddət ərzində kənardan kömək olmadan geyinilməlidir?",
+            "options": {
+                "A": "60 saniyə",
+                "B": "5 saniyə",
+                "C": "30 dəqiqə",
+                "D": "10 dəqiqə"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q015",
+            "question": "15. Hidrotermokostyum ilə suya hansı maksimal hündürlükdən tullanmaq olar?",
+            "options": {
+                "A": "15 metr",
+                "B": "4.5 metr",
+                "C": "30 metr",
+                "D": "1 metr"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q016",
+            "question": "16. Hidrotermokostyum hansı maksimal müddət ərzində kənardan kömək olmadan geyinilməlidir?",
+            "options": {
+                "A": "30 dəqiqə",
+                "B": "15 dəqiqə",
+                "C": "2 dəqiqə",
+                "D": "10 saniyə"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q017",
+            "question": "17. Hidrotermokostyum hansı müddət ərzində huşunu itirmiş insanın ağzını su üzərində olan vəziyyətə çevirməlidir?",
+            "options": {
+                "A": "1 dəqiqə ərzində",
+                "B": "Çevirmir",
+                "C": "5 saniyə ərzində",
+                "D": "10 dəqiqə ərzində"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q018",
+            "question": "18. Su xaricində olan xilasedici qayığın mühərriki maksimum hansı vaxt ərzində işləyə bilər?",
+            "options": {
+                "A": "15 dəqiqə",
+                "B": "10 dəqiqə",
+                "C": "5 dəqiqə",
+                "D": "105 dəqiqə"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q019",
+            "question": "19. Xilasedici qayıqla tam yanacaq ehtiyyatı neçə saat və hansı sürətlə manevr etməyə imkan yaradır?",
+            "options": {
+                "A": "20 uzel ilə azı 2 saat",
+                "B": "2 uzel ilə azı 5 saat",
+                "C": "6 uzel ilə azı 24 saat",
+                "D": "12 uzel ilə azı 48 saat"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q020",
+            "question": "20. Hava təchizatı ilə təmin olunmuş tam örtülü qayıqlar azı hansı müddətə nəfəs almağa şərait yaradır?",
+            "options": {
+                "A": "10 dəqiqə",
+                "B": "24 saat",
+                "C": "60 dəqiqə",
+                "D": "2 dəqiqə"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q021",
+            "question": "21. Oda davamlı xilasedici qayıqların minimal mühafizə müddəti nə qədərdir?",
+            "options": {
+                "A": "60 dəqiqə",
+                "B": "24 saat",
+                "C": "1 dəqiqə",
+                "D": "8 dəqiqə"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q022",
+            "question": "22. Kolektiv xilasedici vasitədə olarkən dəniz xəstəliyinə karşı dərmanı kim qəbul etməlidir?",
+            "options": {
+                "A": "Yalnız gəmi kapitanı",
+                "B": "Heç kim dərman qəbul etməməlidir",
+                "C": "Hamı",
+                "D": "Yalnız mühərrik ustası"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q023",
+            "question": "23. Bütün həyəcan siqnalları üzrə məşqlər hansı vaxtda keçirilir?",
+            "options": {
+                "A": "Sutkanın istənilən vaxtı",
+                "B": "Yalnız gecə saat 03:00-da",
+                "C": "Yalnız gəmi limanda olanda",
+                "D": "Yalnız günortadan sonra saat 12:00-da"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q024",
+            "question": "24. Gəmidə hansı yerlərdə siqaret çəkməyə icazə verilir?",
+            "options": {
+                "A": "Bütün qapalı hissələrdə",
+                "B": "Yalnız kayutlarda",
+                "C": "Əmrlə təyin olunmuş yerlərdə",
+                "D": "Yalnız yanacaq tanklarının üstündə"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q025",
+            "question": "25. Xilasedici salda (qayıqda) UQD radiostansiya “MAYDAY” fəlakət siqnalını ötürmək üçün hansı kanala köklənməlidir?",
+            "options": {
+                "A": "UQD kanal 16",
+                "B": "UQD kanal 70",
+                "C": "UQD kanal 6",
+                "D": "UQD kanal 12"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q026",
+            "question": "26. Xilasedici qayıqda balıq tutmaq üçün avadanlıq varmı?",
+            "options": {
+                "A": "Bəli",
+                "B": "Yalnız buzqıran gəmilərdə var",
+                "C": "Xeyr",
+                "D": "Yalnız hərbi gəmilərdə var"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q027",
+            "question": "27. Gəmidə həyəcan siqnalları üzrə məşqlər əən geci hansı müddətdə keçirilir?",
+            "options": {
+                "A": "Yalnız gəmi satılarkən",
+                "B": "İldə bir dəfədən az olmayaraq",
+                "C": "Məşq keçirilməsi tələb olunmur",
+                "D": "10 ildən bir"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q028",
+            "question": "28. Ümumgəmi həyəcan siqnalı necə verilir?",
+            "options": {
+                "A": "3 uzun",
+                "B": "7 qısa 1 uzun",
+                "C": "Fasiləsiz 24 saat",
+                "D": "1 qısa 1 uzun"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q029",
+            "question": "29. Yanğınla mübarizə üçün vasitələr harada olmalıdır?",
+            "options": {
+                "A": "Anbarın dərinliyində",
+                "B": "Xüsusi olaraq ayrılmış yerdə",
+                "C": "Kapitan kayutunda",
+                "D": "İstənilən yerdə"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q030",
+            "question": "30. Gəmidə təhlükəli yüklə doldurulmuş bölməyə girdikdə hansı təhlükəsizlik qaydalarına riayət etmək lazımdır?",
+            "options": {
+                "A": "Bölməyə dərhal açıq alovla daxil olmaq",
+                "B": "Bölmənin qapılarını bağlayıb gözləmək",
+                "C": "Hava-qaz mühitini yoxlayaraq daxil olmaq",
+                "D": "Elektrik işıqlarını tam söndürmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        }
+    ]
 }

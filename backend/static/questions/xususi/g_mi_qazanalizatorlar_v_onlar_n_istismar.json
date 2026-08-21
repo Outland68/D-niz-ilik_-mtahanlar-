@@ -354,9 +354,9 @@
             "question": "30. “Ok” düymәsini 2 dәfә sürәtlә basmaq hansı әmәliyyatlar zamanı yerinә yetirilir?",
             "options": {
                 "A": "Hamısı",
-                "B": "Cihazın batareyasını enerjiyә qoymaq üçün",
-                "C": "Qaz ölçmәni dayandırmaq üçün",
-                "D": "Cihazın dilini dәyişdirmәk üçün"
+                "B": "27.6 %",
+                "C": "CAL ABORTED",
+                "D": "1.1 %"
             },
             "correct_answer": "A",
             "explanation": ""

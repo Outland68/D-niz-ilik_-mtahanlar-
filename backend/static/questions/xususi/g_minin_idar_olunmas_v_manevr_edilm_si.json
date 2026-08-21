@@ -137,10 +137,10 @@
             "id": "q012",
             "question": "Gәminin lövbәrdә dayanmağı üçün dәniz dibinin әlverişli tәrkibi hansı sayılır?",
             "options": {
-                "A": "Qayaaltı sәth, mərcan qayaları",
-                "B": "Dәrin yarğanlar, vulkanik mәnşәli dib",
+                "A": "Mәsafә vә vaxt",
+                "B": "30° - 40°",
                 "C": "Gil, daşlıq",
-                "D": "Yumşaq lil, qum"
+                "D": "5 metr"
             },
             "correct_answer": "C",
             "explanation": ""
@@ -522,9 +522,9 @@
             "question": "Gәmi lövbәrdә dayanarkәn onu döndәrmәk mәqsәdi ilә, eyni zamanda baş mühәrriki istifadә etmәk olarmı?",
             "options": {
                 "A": "Olar",
-                "B": "Qәti qadağandır, çünki zәncir qırıla bilәr",
-                "C": "Yalnız yedәk gәmisi vasitәsilә hәyata keçirmәk lazımdır",
-                "D": "Yalnız burun tәrәfә diferent olduqda mümkündür"
+                "B": "180°",
+                "C": "IAMSAR",
+                "D": "35°"
             },
             "correct_answer": "A",
             "explanation": ""
@@ -666,9 +666,9 @@
             "question": "Lövbәri vermәklә körpüyә yan almaq olarmı?",
             "options": {
                 "A": "Olar",
-                "B": "Mümkün deyil, çünki sirkulyasiya pozulur",
-                "C": "Yalnız fırtınalı havalarda icazә verilir",
-                "D": "Beynәlxalq liman qaydaları ilә qadağandır"
+                "B": "IAMSAR",
+                "C": "35°",
+                "D": "Şarnov manevri"
             },
             "correct_answer": "A",
             "explanation": ""

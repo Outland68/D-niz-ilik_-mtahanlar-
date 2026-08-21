@@ -1,1301 +1,1301 @@
 {
-  "certificate": "Gəmidə tibbi nəzarət",
-  "questions": [
-    {
-      "id": "q001",
-      "question": "1. Güclü burun qanaxmasında ilk tibbi yardım hansıdır?",
-      "options": {
-        "A": "buruna tampon qoymaq",
-        "B": "Yaraya isti kompres qoymaq",
-        "C": "Yaraya açıq sarğı qoymaq",
-        "D": "Zərərçəkənə çoxlu maye içirtmək"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q002",
-      "question": "2. Normal hamilәlik neçә hәftә olmalıdır?",
-      "options": {
-        "A": "Gündə 3 dəfə antibiotik vermək",
-        "B": "Damardaxili iynə vurmaq",
-        "C": "Yaraya yod sürtmək",
-        "D": "40 hәftә"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q003",
-      "question": "3. Mәdә qanaxmasıında hәkimәqәdәr yardıma nә daxildir?",
-      "options": {
-        "A": "Aclıq vә buz qovuğunun tәtbiqi",
-        "B": "Yaraya açıq sarğı qoymaq",
-        "C": "Yaranı spirtlə yumaq",
-        "D": "Turnanı 3 saatdan çox saxlamaq"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q004",
-      "question": "4. Ağciyәr qanaxması zamanı sizin sәrbәst müdaxilәniz nәdәn ibarәt ola bilәr?",
-      "options": {
-        "A": "Yaraya isti kompres qoymaq",
-        "B": "Turnanı 3 saatdan çox saxlamaq",
-        "C": "Döş qәfәsinә soyuq kompres qoymaq",
-        "D": "Yaranı spirtlə yumaq"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Hipotermiya nә demәkdir?",
-      "options": {
-        "A": "Oduza yaxınlaşdırmaq",
-        "B": "Suluqları partlatmaq",
-        "C": "Bәdәn temperaturunun düşmәsi",
-        "D": "Qarla ovxalamaq"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q006",
-      "question": "6. Yüngül dәrәcә donmada dәrin toxumalar olur?",
-      "options": {
-        "A": "Oduza yaxınlaşdırmaq",
-        "B": "Donmuş nahiyəni isti su ilə yumaq",
-        "C": "Qarla ovxalamaq",
-        "D": "dәrin toxumalara heçnә olmur"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q007",
-      "question": "7. Gözün qәlәvi ilә yanıqları zamanı aşağıdakı hansı maddә ilә yumaq  lazımdır?",
-      "options": {
-        "A": "Spirtlə təmizləmək",
-        "B": "Suluqları deşmək",
-        "C": "2%-li bor turşusu",
-        "D": "Yanıq səthinə yod sürtmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q008",
-      "question": "8. Diş çәkildikdәn sonra qanaxmanı saxlamaq üçün nәdәn istifadә edirlәr?",
-      "options": {
-        "A": "Yaraya isti kompres qoymaq",
-        "B": "Diş yuvasına tampon qoyulur",
-        "C": "Yaraya açıq sarğı qoymaq",
-        "D": "Zərərçəkənə çoxlu maye içirtmək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q009",
-      "question": "9. Ölüm nişanәlәri hansılardır?",
-      "options": {
-        "A": "Damardaxili iynə vurmaq",
-        "B": "Yaraya yod sürtmək",
-        "C": "Dərhal əməliyyat etmək",
-        "D": "ürәk döyüntüsünün dayanması, tәnәffüsün dayanması"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q010",
-      "question": "10. Bәdәn temperaturunu ölçәn zaman civәli termometri neçә dәqiqә  qoltuqaltında saxlamaq lazımdır?",
-      "options": {
-        "A": "Xəstəni izolyatora yerləşdirmək",
-        "B": "5-7",
-        "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "D": "Gündə 3 dəfə antibiotik vermək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q011",
-      "question": "11. Aşağı әtraf baldır nahiyyәsi hansı sümüklәrdәn tәşkil olunmuşdur?",
-      "options": {
-        "A": "Xəstəni yeritməyə cəhd etmək",
-        "B": "Sınıq yerinə isti qoymaq",
-        "C": "Sınmış sümüyü yerinə salmağa çalışmaq",
-        "D": "Qamış vә incik"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q012",
-      "question": "12. Gәmidә qidalanma gigiyenası nәdir?",
-      "options": {
-        "A": "Şin qoymadan xəstəni köçürmək",
-        "B": "Xəstəni izolyatora yerləşdirmək",
-        "C": "Damardaxili iynə vurmaq",
-        "D": "Qida hazırlayanların sağlamlığı,mәtbәxin tәmizliyi,dadlı  xörәklәrin hazırlanması"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q013",
-      "question": "13. Dәniz xәstәliyinin şikayәtlәri hansılardır?",
-      "options": {
-        "A": "Damardaxili iynə vurmaq",
-        "B": "iştahasızlıq, zәiflik, baş gicәllәnmә, ürәk bulanma, qusma",
-        "C": "Yaraya yod sürtmək",
-        "D": "Xəstəni izolyatora yerləşdirmək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q014",
-      "question": "14. Qarının deşilmiş yarası zamanı ilk tibbi yardım?",
-      "options": {
-        "A": "Yarımoturaq-ayaqları yığılmış vәziyyәtdә,soyuq kompres  qoymaq",
-        "B": "Gəmi aptekçisini gözləmək",
-        "C": "Xəstəyə sakitləşdirici vermək",
-        "D": "Xəstəni izolyatora yerləşdirmək"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q015",
-      "question": "15. İnsanın normal bәdәn temperaturu neçәdir (qoltuqaltı)?",
-      "options": {
-        "A": "Gündə 3 dəfə antibiotik vermək",
-        "B": "36,5 S",
-        "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "D": "Xəstəni izolyatora yerləşdirmək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q016",
-      "question": "16. Cәrrahi әmәliyyatlar zamanı drenajlar nә üçün qoyulur?",
-      "options": {
-        "A": "Dərhal əməliyyat etmək",
-        "B": "Yara ifrazatını çıxarmaq üçün",
-        "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "D": "Xəstəni izolyatora yerləşdirmək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q017",
-      "question": "17. Xarici zәdә әlamәtlәri görünmәyәn vә huşsuz vәziyyәtdә olan, ürәk  ağciyәr reanimasiyası keçirmiş zәrәrçәkәnә hansı “bәrpa edici” vәziyyәti  vermәk lazımdır?",
-      "options": {
-        "A": "Başının altına hündür yastıq qoymaq",
-        "B": "Süni tənəffüs vermədən masaj etmək",
-        "C": "Xəstəni dərhal oturtmaq",
-        "D": "Böyrü üstә uzadıb ayaqlarını dizdәn bükmәk"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q018",
-      "question": "18. Yumşaq toxumaların zәdәlәnmәsindә ilk yardım hansıdır?",
-      "options": {
-        "A": "Yaraya yod sürtmək",
-        "B": "Xəstəni izolyatora yerləşdirmək",
-        "C": "Soyuq vә aseptik sarğı qoymaq",
-        "D": "Gündə 3 dəfə antibiotik vermək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q019",
-      "question": "19. Sınıqlar zamanı şokun profilaktikası üçün hәkimә qәdәr ilk tibbi yardım  zamanı nә etmәk olmaz?",
-      "options": {
-        "A": "Sınıq yerinə isti qoymaq",
-        "B": "Sınmış sümüyü yerinə salmağa çalışmaq",
-        "C": "Xəstəni yeritməyə cəhd etmək",
-        "D": "Xәstәni hәrәkәt etdirmәk"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q020",
-      "question": "20. Yaranın cәrrahi işlәnmәsindә hidrogen peroksidin neçә faizli mәhlulundan  istifadә olunur?",
-      "options": {
-        "A": "Xəstəni izolyatora yerləşdirmək",
-        "B": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "C": "Dərhal əməliyyat etmək",
-        "D": "3 %"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q021",
-      "question": "21. Gözün turşu ilә yanıqları zamanı hansı maddәlәrlә gözü yumaq lazmdır?",
-      "options": {
-        "A": "Xəstəyə isti çay vermək",
-        "B": "Yanıq səthinə yod sürtmək",
-        "C": "Yaraya pambıq qoymaq",
-        "D": "2%-li natrium-hidrokarbonat"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q022",
-      "question": "22. Burun qanaxması zamanı ilk tibbi yardım hansıdır?",
-      "options": {
-        "A": "Qanayan hissəni aşağı salmaq",
-        "B": "Burun tamponadasını etmәk",
-        "C": "Yaraya isti kompres qoymaq",
-        "D": "Zərərçəkənə çoxlu maye içirtmək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q023",
-      "question": "23. Burun qanaxmasında başa hansı vәziyyәt verilir?",
-      "options": {
-        "A": "Yaraya isti kompres qoymaq",
-        "B": "Yüngül önә әyilmiş",
-        "C": "Zərərçəkənə çoxlu maye içirtmək",
-        "D": "Turnanı 3 saatdan çox saxlamaq"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q024",
-      "question": "24. Yüngül dәrәcәli yanıqlara hansı yanıqlar aiddir?",
-      "options": {
-        "A": "Yanıq yerinə bitki yağı çəkmək",
-        "B": "Yanıq səthinə yod sürtmək",
-        "C": "Yaraya pambıq qoymaq",
-        "D": "I,II,III A dәrәcәli yanıqlar"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q025",
-      "question": "25. Hәyati әlamәtlәrə bunlardan hansı aid deyil?",
-      "options": {
-        "A": "Damardaxili iynə vurmaq",
-        "B": "Xəstəyə sakitləşdirici vermək",
-        "C": "Gözün buynuz qışası bulanır vә quruyur",
-        "D": "Dərhal əməliyyat etmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q026",
-      "question": "26. Qansaxlayıcı jqut düzgün qoyulduqda әtraflarda nә baş verir?",
-      "options": {
-        "A": "Qanayan hissəni aşağı salmaq",
-        "B": "Әtraf göyәrir,avazıyır,jqutdan aşağı nәbz tәyin edilmir",
-        "C": "Turnanı 3 saatdan çox saxlamaq",
-        "D": "Yaraya isti kompres qoymaq"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q027",
-      "question": "27. Yüngül donvurmuş nahiyyәnin qan dövranını bәrpa etmәk üçün hansı ilk  tibbi yardım göstәrilir?",
-      "options": {
-        "A": "Yaranı spirtlə yumaq",
-        "B": "Yaraya açıq sarğı qoymaq",
-        "C": "Yaraya isti kompres qoymaq",
-        "D": "Spirtli pambıqla (silmәk) sürtmәk"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q028",
-      "question": "28. Alkoqolla zәhәrlәnmә zamanı ilk tәxirә salınmaz yardım hansıdır?",
-      "options": {
-        "A": "Dərhal əməliyyat etmək",
-        "B": "Mәdәni yumaq",
-        "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "D": "Xəstəni izolyatora yerləşdirmək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q029",
-      "question": "29. Gәmidә tibbi nәzarәt kursu beynәlxalq konvensiyanın hansı tәlәblәrinә  әsasәn keçirilir?",
-      "options": {
-        "A": "Dərhal əməliyyat etmək",
-        "B": "Gündə 3 dəfə antibiotik vermək",
-        "C": "Xəstəni izolyatora yerləşdirmək",
-        "D": "BDT-nin 1.15 model kursuna"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q030",
-      "question": "30. Arterial qanaxmanı dayandırmaq üçün turna düzgün qoyulduqda nә baş  verir?",
-      "options": {
-        "A": "Qanayan hissəni aşağı salmaq",
-        "B": "Qanaxma dayanır vә periferik nәbz itir",
-        "C": "Yaraya isti kompres qoymaq",
-        "D": "Yaranı spirtlə yumaq"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q031",
-      "question": "31. Ağciyәr qanaxması zamanı ilk yardım olaraq nә etmәk olar?",
-      "options": {
-        "A": "Qanayan hissəni aşağı salmaq",
-        "B": "Yaraya açıq sarğı qoymaq",
-        "C": "Yaranı spirtlə yumaq",
-        "D": "Döş qәfәsinә soyuq kompres qoymaq"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q032",
-      "question": "32. Yataq yaralarının yaranmaması üçün ağır xәstәlәrin vәziyyәtini neçә  saatdan bir dәyişmәk lazımdır?",
-      "options": {
-        "A": "Xəstəni izolyatora yerləşdirmək",
-        "B": "Damardaxili iynə vurmaq",
-        "C": "2",
-        "D": "Şin qoymadan xəstəni köçürmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q033",
-      "question": "33. Bәdәn temperaturu hansı dәrәcәyә qalxdıqda xәstәnin huşu pozula bilәr?",
-      "options": {
-        "A": "Süni tənəffüs vermədən masaj etmək",
-        "B": "Ağzına soyuq su tökmək",
-        "C": "40.5-41.0 S",
-        "D": "Xəstəni dərhal oturtmaq"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q034",
-      "question": "34. İsti vannaları hansı halda tәtbiq etmәk olmaz?",
-      "options": {
-        "A": "Gəmi aptekçisini gözləmək",
-        "B": "Xəstəyə sakitləşdirici vermək",
-        "C": "Xroniki rinit",
-        "D": "Şin qoymadan xəstəni köçürmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q035",
-      "question": "35. Döş sümüyünun arxasında sıxıcı ağrılar zamanı hәkimә qәdәrki ilk yardım  hansıdır?",
-      "options": {
-        "A": "Şin qoymadan xəstəni köçürmək",
-        "B": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "C": "Morfinin yeridilmәsi",
-        "D": "Gündə 3 dəfə antibiotik vermək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q036",
-      "question": "36. Anafilaktik şok zamanı tәxirәsalınmaz yardım harada göstәrilmәlidir?",
-      "options": {
-        "A": "Xəstəyə sakitləşdirici vermək",
-        "B": "Şin qoymadan xəstəni köçürmək",
-        "C": "Xəstəni izolyatora yerləşdirmək",
-        "D": "Hadisә baş verdiyi yerdә"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q037",
-      "question": "37. Kәskin damar çatışmazlığı olan xәstә xәrәkdә hansı vәziyyәtdә nәql  edilmәlidir?",
-      "options": {
-        "A": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "B": "Dərhal əməliyyat etmək",
-        "C": "Hәrәkәtsiz düz vәziyyәtdә",
-        "D": "Şin qoymadan xəstəni köçürmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q038",
-      "question": "38. Xәstәlik  tarixçәsindә  olan  temperatur  vәrәqәsindә  aşağıda  göstәrilәnlәrdәn hansılar qeyd olunmalıdır?",
-      "options": {
-        "A": "Gündə 3 dəfə antibiotik vermək",
-        "B": "Xəstəyə sakitləşdirici vermək",
-        "C": "Hamısı",
-        "D": "Şin qoymadan xəstəni köçürmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q039",
-      "question": "39. Dәrialtı inyeksiyadan sonra inyeksiya yeri bәrkidikdә aşağıda sadalanan  tәdbirdәn hansı әks-göstәriş sayılır?",
-      "options": {
-        "A": "Xəstəyə sakitləşdirici vermək",
-        "B": "Gündə 3 dəfə antibiotik vermək",
-        "C": "Damardaxili iynə vurmaq",
-        "D": "Bәrkiyәn nahiyyәyә buz qovuğu qoymaq"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q040",
-      "question": "40. Vena daxili inyeksiyadan әvvәl turnanın düzgün qoyulmasının göstәricisi  nәdir?",
-      "options": {
-        "A": "Mil arteriyasında nәbzin olmaması",
-        "B": "Damardaxili iynə vurmaq",
-        "C": "Gündə 3 dəfə antibiotik vermək",
-        "D": "Gəmi aptekçisini gözləmək"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q041",
-      "question": "41. Nәbzi hansı arteriyalarda saymaq mümkündür?",
-      "options": {
-        "A": "Sadalanan arteriyalarda",
-        "B": "Damardaxili iynə vurmaq",
-        "C": "Xəstəni izolyatora yerləşdirmək",
-        "D": "Yaraya yod sürtmək"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q042",
-      "question": "42. Böyük adamda sakit halda tәnәffüs hәrәkәtlәrinin sayı 1 dәqiqә neçә olur?",
-      "options": {
-        "A": "Yaraya yod sürtmək",
-        "B": "Xəstəyə sakitləşdirici vermək",
-        "C": "Gündə 3 dəfə antibiotik vermək",
-        "D": "16-20"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q043",
-      "question": "43. Zәrәrçәkәndә tәnәffüs hәrәkәtlәrini sayarkәn sizin әsas taktikanız nәdәn  ibarәt olmalıdır?",
-      "options": {
-        "A": "Xəstəyə sakitləşdirici vermək",
-        "B": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "C": "Gündə 3 dəfə antibiotik vermək",
-        "D": "Siz  tәnәffüs  hәrәkәtlәrini  sayarkәn  çalışmalısınız  ki,zәrәrçәkәn bunu hiss etmәsin"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q044",
-      "question": "44. Döş sümüyü arxasında deşici,yandırıcı,ağrıların olması zamanı sizin ilk  taktikanız nә olmalıdır?",
-      "options": {
-        "A": "Dərhal əməliyyat etmək",
-        "B": "Xәstәnin hәrәkәtsizliyini tәmin etmәk",
-        "C": "Gündə 3 dəfə antibiotik vermək",
-        "D": "Xəstəyə sakitləşdirici vermək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q045",
-      "question": "45. Dәri içi inyeksiya hansı nahiyyәdә aparılır?",
-      "options": {
-        "A": "Saidin içәri sәthi",
-        "B": "Damardaxili iynə vurmaq",
-        "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "D": "Xəstəyə sakitləşdirici vermək"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q046",
-      "question": "46. Vena daxilinә damcı üsulu ilә dәrman yeridilәrkәn xәstәnin vәziyyәti necә  olmalıdır?",
-      "options": {
-        "A": "Arxası üstә uzanmış",
-        "B": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "C": "Gəmi aptekçisini gözləmək",
-        "D": "Dərhal əməliyyat etmək"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q047",
-      "question": "47. Dәrman maddәlәrinin venadaxili yeridilmәsinin әsas üstünlüyü nәdәn  ibarәtdir?",
-      "options": {
-        "A": "Xəstəni izolyatora yerləşdirmək",
-        "B": "Yaraya yod sürtmək",
-        "C": "Gəmi aptekçisini gözləmək",
-        "D": "Tәxirәsalınmaz tibbi yardım zamanı nәticәnin yüksәk olması"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q048",
-      "question": "48. Yeni doğulmuş uşağın burun boşluğu nә ilә tәmizlәnir?",
-      "options": {
-        "A": "Steril bitki yağında isladılmış çöp ilә",
-        "B": "Damardaxili iynə vurmaq",
-        "C": "Şin qoymadan xəstəni köçürmək",
-        "D": "Xəstəni izolyatora yerləşdirmək"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q049",
-      "question": "49. Elektrotravmalarda ilk tibbi yardım hansıdır?",
-      "options": {
-        "A": "Yaraya yod sürtmək",
-        "B": "Ürәyin xarici masajı",
-        "C": "Gəmi aptekçisini gözləmək",
-        "D": "Yalnız kapitanın icazəsi ilə yardım etmək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q050",
-      "question": "50. II dәrәcәli donma üçün xarakterik әlamәt hansıdır?",
-      "options": {
-        "A": "Suluqların әmәlә gәlmәsi",
-        "B": "Suluqları partlatmaq",
-        "C": "Qarla ovxalamaq",
-        "D": "Donmuş nahiyəni isti su ilə yumaq"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q051",
-      "question": "51. Qabırğaların sınığı zamanı xәstәni hansı vәziyyәtdә daşımaq olar?",
-      "options": {
-        "A": "Yarımoturaq",
-        "B": "Gündə 3 dəfə antibiotik vermək",
-        "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "D": "Damardaxili iynə vurmaq"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q052",
-      "question": "52. Deratizasiya nәdir?",
-      "options": {
-        "A": "Xəstəni izolyatora yerləşdirmək",
-        "B": "Damardaxili iynə vurmaq",
-        "C": "Dərhal əməliyyat etmək",
-        "D": "İçmәli suyu tәmizlәmәk"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q053",
-      "question": "53. Sıxıcı sarğılar әsasәn nә vaxt işlәdilir?",
-      "options": {
-        "A": "Şin qoymadan xəstəni köçürmək",
-        "B": "Venoz qanaxmanı dayandırmaq üçün",
-        "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "D": "Gündə 3 dəfə antibiotik vermək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q054",
-      "question": "54. Onurğa sütunu sınmasının әlamәtlәri nәdir?",
-      "options": {
-        "A": "Xəstəni izolyatora yerləşdirmək",
-        "B": "Hәrәkәtin әllәrdә, ayaqlarda zәiflәmәsi vә ya olmaması sidiyi,  nәcisi saxlaya bilmәmәsi",
-        "C": "Şin qoymadan xəstəni köçürmək",
-        "D": "Yaraya yod sürtmək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q055",
-      "question": "55. Elektrotravmalarda ilk görülәcәk vacib tәdbir hansıdır?",
-      "options": {
-        "A": "Xəstəni izolyatora yerləşdirmək",
-        "B": "Damardaxili iynə vurmaq",
-        "C": "Yaraya yod sürtmək",
-        "D": "Cәrәyanın tәsirini kәsmәk"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q056",
-      "question": "56. Arterial qanaxma üçün xarakterik әlamәt hansıdır?",
-      "options": {
-        "A": "Qanayan hissəni aşağı salmaq",
-        "B": "Yaranı spirtlə yumaq",
-        "C": "Qanın al qırmızı rәngdә olması",
-        "D": "Yaraya açıq sarğı qoymaq"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q057",
-      "question": "57. Yuxarı  әtrafın  travması  zamanı,  zәrәrçәkәnin  köynәyini  necә  soyundurmalı?",
-      "options": {
-        "A": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "B": "Gəmi aptekçisini gözləmək",
-        "C": "Xəstəni izolyatora yerləşdirmək",
-        "D": "Ağrıkәsici vurub köynәyin qolunu travma olmayan tәrәfdәn  çıxartmaq, sonra köynәyi soyundurmaq"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q058",
-      "question": "58. Hansı әlamәtlәrә görә zәrәrçәkәndә ürәk tutmasının olmadığını,  boğulmanın olmasını demәk olar?",
-      "options": {
-        "A": "Xəstəyə sakitləşdirici vermək",
-        "B": "Gəmi aptekçisini gözləmək",
-        "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "D": "Tez-tez nәfәs alır, rәngi ağarır sonra qızarır,hәrәkәti zәiflәyir"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q059",
-      "question": "59. Hansı dәrәcәli yanıqlar dәrin yanıqlara aid edilir?",
-      "options": {
-        "A": "Yaraya pambıq qoymaq",
-        "B": "Yanıq səthinə yod sürtmək",
-        "C": "III B-IV",
-        "D": "Suluqları deşmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q060",
-      "question": "60. Tәhlükәli qızdırma hansıdır?",
-      "options": {
-        "A": "Dərhal əməliyyat etmək",
-        "B": "Xəstəyə sakitləşdirici vermək",
-        "C": "39 C – 40 C",
-        "D": "Yaraya yod sürtmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q061",
-      "question": "61. Zәrәrçәkәn huşsuz vәziyyәtdә olarsa birinci olaraq hansı hәyati vacib  funksiyanı nәzarәtdә saxlamaq lazımdır?",
-      "options": {
-        "A": "Xəstəni dərhal oturtmaq",
-        "B": "Ağzına soyuq su tökmək",
-        "C": "Süni tənəffüs vermədən masaj etmək",
-        "D": "Tәnәffüsü, nәbzi"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q062",
-      "question": "62. Bir neçә tikiş qoyanda tikişlәr arasında mәsafә nә qәdәr olmalıdır?",
-      "options": {
-        "A": "Dərhal əməliyyat etmək",
-        "B": "Gəmi aptekçisini gözləmək",
-        "C": "Gündə 3 dəfə antibiotik vermək",
-        "D": "1 sm"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q063",
-      "question": "63. Kәsilmiş tәzә yaranın әn tәhlükәli simptomu hansıdır?",
-      "options": {
-        "A": "Dərhal əməliyyat etmək",
-        "B": "Qanaxma",
-        "C": "Yaraya yod sürtmək",
-        "D": "Damardaxili iynə vurmaq"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q064",
-      "question": "64. Bir vә ya iki tikiş qoyulanda keyidici dәrmanlardan hәr hansı biri yoxdursa,  tikiş qoyan zaman keyidici dәrmandan istifadә etmәk lazımdırmı?",
-      "options": {
-        "A": "Lazım deyil",
-        "B": "Gəmi aptekçisini gözləmək",
-        "C": "Xəstəyə sakitləşdirici vermək",
-        "D": "Damardaxili iynə vurmaq"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q065",
-      "question": "65. Әzilmә zamanı ilk yardım üçün hansı kompres istifadә edilmәlidir?",
-      "options": {
-        "A": "Damardaxili iynə vurmaq",
-        "B": "Gəmi aptekçisini gözləmək",
-        "C": "Xəstəni izolyatora yerləşdirmək",
-        "D": "Soyuq kompres qoymaq,ağrıkәsici preparat istifadә etmәk"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q066",
-      "question": "66. İsti qrelkanın temperaturu nә qәdәr olmalıdır?",
-      "options": {
-        "A": "40 S",
-        "B": "Şin qoymadan xəstəni köçürmək",
-        "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "D": "Gəmi aptekçisini gözləmək"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q067",
-      "question": "67. III dәrәcәli donma üçün xarakterik әlamәt hansıdır?",
-      "options": {
-        "A": "Qarla ovxalamaq",
-        "B": "Oduza yaxınlaşdırmaq",
-        "C": "Donmuş nahiyəni isti su ilə yumaq",
-        "D": "Epidermisin nekrozu vә suluqların әmәlә gәlmәsi"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q068",
-      "question": "68. Yanıq sahәsini tәyin etmәk üçün hansı qanunu istifadә etmәk lazımdır?",
-      "options": {
-        "A": "Qanayan hissəni aşağı salmaq",
-        "B": "Yanıq səthinə yod sürtmək",
-        "C": "Yaraya açıq sarğı qoymaq",
-        "D": "9-lar qanunu"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q069",
-      "question": "69. İstivurma nәticәsindә yardım kimi qәbul edilәn soyuq vanna suyu  temperaturu necә S dərəcə olmalıdır?",
-      "options": {
-        "A": "20 S",
-        "B": "Donmuş nahiyəni isti su ilə yumaq",
-        "C": "Oduza yaxınlaşdırmaq",
-        "D": "Qarla ovxalamaq"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q070",
-      "question": "70. Ağır dәrәcәli donmada, dәrin toxumalar hansı vәziyyәtdә olur?",
-      "options": {
-        "A": "Suluqları partlatmaq",
-        "B": "Donmuş nahiyəni isti su ilə yumaq",
-        "C": "Suluqlu",
-        "D": "Qarla ovxalamaq"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q071",
-      "question": "71. Yanığın әn geniş yayılmış növü hansıdır?",
-      "options": {
-        "A": "Gündə 3 dəfə antibiotik vermək",
-        "B": "Termiki yanıqlar",
-        "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "D": "Xəstəyə sakitləşdirici vermək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q072",
-      "question": "72. Dәridә suluqların әmәlә gәlmәsi neçәnci dәrәcәli yanıqlara  aiddir?",
-      "options": {
-        "A": "II",
-        "B": "Yaraya pambıq qoymaq",
-        "C": "Yanıq yerinə bitki yağı çəkmək",
-        "D": "Yanıq səthinə yod sürtmək"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q073",
-      "question": "73. Ölümün sonrakı әlamәtlәri?",
-      "options": {
-        "A": "Dərhal əməliyyat etmək",
-        "B": "Xəstəyə sakitləşdirici vermək",
-        "C": "Meyit lәkәlәri, meyitin çürümәsi",
-        "D": "Yaraya yod sürtmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q074",
-      "question": "74. Doğulmuş uşağın göbәyi kәsilmәmişdәn әvvәl birinci bağ qarından neçә  santimetr aralıda qoyulmalıdır?",
-      "options": {
-        "A": "Gəmi aptekçisini gözləmək",
-        "B": "Yaraya yod sürtmək",
-        "C": "Damardaxili iynə vurmaq",
-        "D": "5 sm"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q075",
-      "question": "75. Daxili qanaxmanın xarakterik әlamәti hansıdır?",
-      "options": {
-        "A": "Dәri örtüyünün avazıması",
-        "B": "Yaraya isti kompres qoymaq",
-        "C": "Yaranı spirtlə yumaq",
-        "D": "Yaraya açıq sarğı qoymaq"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q076",
-      "question": "76. Dişlәnmiş yaralarda ilkin olaraq aşağıdakılardan hansını yerinә  yetirmәk lazımdır?",
-      "options": {
-        "A": "Dərhal əməliyyat etmək",
-        "B": "Gündə 3 dəfə antibiotik vermək",
-        "C": "Şin qoymadan xəstəni köçürmək",
-        "D": "Yara kәnarını yodla tәmizlәyib,aseptik sarğı qoymaq"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q077",
-      "question": "77. Neçә cür inyeksiya ( iynәlәr) vurulma növü mövcuddur?",
-      "options": {
-        "A": "Xəstəni izolyatora yerləşdirmək",
-        "B": "Dərhal əməliyyat etmək",
-        "C": "3",
-        "D": "Şin qoymadan xəstəni köçürmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q078",
-      "question": "78. Dezinseksiya nәdir?",
-      "options": {
-        "A": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "B": "Gündə 3 dəfə antibiotik vermək",
-        "C": "siçovulları mәhv etmәk",
-        "D": "Şin qoymadan xəstəni köçürmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q079",
-      "question": "79. Daxili qanaxma әlamәtlәri hansılardı?",
-      "options": {
-        "A": "Yaraya açıq sarğı qoymaq",
-        "B": "Yaranı spirtlə yumaq",
-        "C": "arterial tәzyiqin aşağı enmәsi, halsızlıq, ürәyin tez-tez  vurması, soyuq yapışqanlı tәr",
-        "D": "Yaraya isti kompres qoymaq"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q080",
-      "question": "80. Vena daxili infuziya zamanı hava emboliyasının qarşısını almaq üçün  hansı profilaktik tәdbir görülmәlidir?",
-      "options": {
-        "A": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "B": "Gəmi aptekçisini gözləmək",
-        "C": "Sistemdәn hava çıxarılmalıdır",
-        "D": "Xəstəyə sakitləşdirici vermək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q081",
-      "question": "81. Döş qәfәsindә yerlәşәn orqanlar hansıdır?",
-      "options": {
-        "A": "Yaranı spirtlə yumaq",
-        "B": "Zərərçəkənə çoxlu maye içirtmək",
-        "C": "Yaraya açıq sarğı qoymaq",
-        "D": "Ürәk,ağciyәr"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q082",
-      "question": "82. Әgәr zәrәrçәkәn yerdә uzanmış haldadırsa vә huşu aydın deyilsә siz ilk  olaraq zәrәrçәkәndә nәyә diqqәt etmәlisiniz?",
-      "options": {
-        "A": "Başının altına hündür yastıq qoymaq",
-        "B": "Tәnәffüsün  tezliyinә,  Nәbzin  tezliyinә,  Bәbәklәrin  genişlәnmәsinә",
-        "C": "Ağzına soyuq su tökmək",
-        "D": "Süni tənəffüs vermədən masaj etmək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q083",
-      "question": "83. Venaya inyeksiya etdikdә hansı halda inyeksiyanı dayandırmaq lazımdır?",
-      "options": {
-        "A": "Xəstəyə sakitləşdirici vermək",
-        "B": "Nә vaxt xәstә özü dayandırsa",
-        "C": "Gündə 3 dəfə antibiotik vermək",
-        "D": "Xəstəni izolyatora yerləşdirmək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q084",
-      "question": "84. Nәbzin tezliyi 1 dәqiqәdә neçә olmalıdır (kişilәrdә)?",
-      "options": {
-        "A": "Şin qoymadan xəstəni köçürmək",
-        "B": "Dərhal əməliyyat etmək",
-        "C": "Yaraya yod sürtmək",
-        "D": "60-70"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q086",
-      "question": "86. Ağciyәr qanaxmasında zәrәrçәkәni hansı vәziyyәtdә daşımaq olar?",
-      "options": {
-        "A": "Turnanı 3 saatdan çox saxlamaq",
-        "B": "Zərərçəkənə çoxlu maye içirtmək",
-        "C": "Qanayan hissəni aşağı salmaq",
-        "D": "Yarımoturaq"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q087",
-      "question": "87. Normal halda tәnәffüsün tezliyi 1 dәqiqәdә neçә olmalıdır (kişilәrdә)?",
-      "options": {
-        "A": "Gəmi aptekçisini gözləmək",
-        "B": "16-18",
-        "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "D": "Damardaxili iynə vurmaq"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q088",
-      "question": "88. Geniş vә dәrin yaralara necә yardım edilir?",
-      "options": {
-        "A": "Xəstəyə sakitləşdirici vermək",
-        "B": "Şin qoymadan xəstəni köçürmək",
-        "C": "tikiş qoyulur",
-        "D": "Xəstəni izolyatora yerləşdirmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q089",
-      "question": "89. Daxilә tikiş qoyulma üçün hansı tibbi sapdan istifadә olunmalıdır?",
-      "options": {
-        "A": "Yaraya yod sürtmək",
-        "B": "Xəstəni izolyatora yerləşdirmək",
-        "C": "Dərhal əməliyyat etmək",
-        "D": "hamısı ilә olar"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q090",
-      "question": "90. Diş çәkildikdәn sonra qanaxmanı saxlamaq üçün nәdәn istifadә edirlәr?",
-      "options": {
-        "A": "Diş yuvasına steril bintdәn hazırlanmış tampon qoyurlar",
-        "B": "Yaranı spirtlə yumaq",
-        "C": "Yaraya isti kompres qoymaq",
-        "D": "Yaraya açıq sarğı qoymaq"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q091",
-      "question": "91. Böyük yaralara tikiş qoyma vaxtı hansı keyitmәdәn istifadә etmәk  lazımdır?",
-      "options": {
-        "A": "Yaraya yod sürtmək",
-        "B": "yerli",
-        "C": "Gəmi aptekçisini gözləmək",
-        "D": "Xəstəni izolyatora yerləşdirmək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q092",
-      "question": "92. Dәm qazı ilә zәhәrlәnmә zamanı ilkin әlamәtlәr hansılardır?",
-      "options": {
-        "A": "Dərhal əməliyyat etmək",
-        "B": "Damardaxili iynə vurmaq",
-        "C": "Gündə 3 dəfə antibiotik vermək",
-        "D": "Ümumi zәiflik hissi,alın vә gicgah nahiyyәsindә ağrı,qulaqda  ağırlıq hissiyatı"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q093",
-      "question": "93. İsitmә nә üçün istifadә olunur?",
-      "options": {
-        "A": "qan dövranını yaxşılatmaq üçün",
-        "B": "Dərhal əməliyyat etmək",
-        "C": "Gəmi aptekçisini gözləmək",
-        "D": "Xəstəyə sakitləşdirici vermək"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q094",
-      "question": "94. Qanaxma anatomik quruluşuna görә neçә qrupa bölunur?",
-      "options": {
-        "A": "Yaraya açıq sarğı qoymaq",
-        "B": "Zərərçəkənə çoxlu maye içirtmək",
-        "C": "2",
-        "D": "Yaraya isti kompres qoymaq"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q095",
-      "question": "95. Soyuq sudan çıxarılan insanın temperaturunu hansı nahiyyәdә ölçmәk  lazımdır?",
-      "options": {
-        "A": "Donmuş nahiyəni isti su ilə yumaq",
-        "B": "Qarla ovxalamaq",
-        "C": "Suluqları partlatmaq",
-        "D": "Düz bağırsaqda"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q096",
-      "question": "96. Hipotermiyalı zәrәçәkәnin isidilmәsi, düz bağırsaqda hәrarәt neçә S  dərəcəyə yüksәlmәsinә qәdәr davam etdirilir?",
-      "options": {
-        "A": "Qarla ovxalamaq",
-        "B": "Suluqları partlatmaq",
-        "C": "35 S",
-        "D": "Oduza yaxınlaşdırmaq"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q097",
-      "question": "97. Şәkildәki vәziyyәt zәrәrçәkәnә hansı hallarda verilir?",
-      "options": {
-        "A": "Xəstəni izolyatora yerləşdirmək",
-        "B": "Dərhal əməliyyat etmək",
-        "C": "Gündə 3 dəfə antibiotik vermək",
-        "D": "Tәnәffüs,nәbz dayanıbsa,huşu yerindәdisә"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q098",
-      "question": "98. I-II dәrәcәli termiki yanıq zamanı hәkimәqәdәrki yardım hansıdır?",
-      "options": {
-        "A": "Yanıq yerinə bitki yağı çəkmək",
-        "B": "Yaraya pambıq qoymaq",
-        "C": "Aseptik sarğı qoyub,tәcili yardım çağırmaq",
-        "D": "Yanıq səthinə yod sürtmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q099",
-      "question": "99. Açıq pnevmotoraks zamanı ilk tibbi yardım nәdәn ibarәtdir?",
-      "options": {
-        "A": "Gündə 3 dəfə antibiotik vermək",
-        "B": "Xəstəni izolyatora yerləşdirmək",
-        "C": "Okkulizion sarğı qoymaq",
-        "D": "Şin qoymadan xəstəni köçürmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q100",
-      "question": "100. Uzun müddәt yataqda qaldıqda xәstәnin vәziyyәtini nә ağırlaşdıra bilәr?",
-      "options": {
-        "A": "Gəmi aptekçisini gözləmək",
-        "B": "Yataq yarası",
-        "C": "Yaraya yod sürtmək",
-        "D": "Yalnız kapitanın icazəsi ilə yardım etmək"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q101",
-      "question": "101. Aşağıda göstәrilәn vәziyyәtlәrdәn hansında siz xәstәyә buz qovuğu  tәtbiq edә bilmәzsiz?",
-      "options": {
-        "A": "Böyrәk sancılarında",
-        "B": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "C": "Şin qoymadan xəstəni köçürmək",
-        "D": "Gəmi aptekçisini gözləmək"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q102",
-      "question": "102. Qış fәslindә Esmarx turnasının saxlanma müddәti nә qәdәrdir?",
-      "options": {
-        "A": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "B": "Şin qoymadan xəstəni köçürmək",
-        "C": "0.5 saat",
-        "D": "Yaraya yod sürtmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q103",
-      "question": "103. Normal halda nәbzin tezliyi 1 dәq neçә olmalıdır (qadınlarda)?",
-      "options": {
-        "A": "Şin qoymadan xəstəni köçürmək",
-        "B": "Yalnız kapitanın icazəsi ilə yardım etmək",
-        "C": "70-80",
-        "D": "Gəmi aptekçisini gözləmək"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q104",
-      "question": "104. Bud sümüyünün açıq sınığı zamanı güclu qanaxma olarsa ilk yardım  olaraq nәyi yerinә yetirmәk lazımdır?",
-      "options": {
-        "A": "Qanayan hissəni aşağı salmaq",
-        "B": "Yaraya isti kompres qoymaq",
-        "C": "Yaranı spirtlə yumaq",
-        "D": "Qanaxmanı dayandırmaq lazım"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q105",
-      "question": "105. Orqanizmin birdәn birә neçә litr qan itirmәsi ölümlә nәticәlәnә bilәr?",
-      "options": {
-        "A": "Turnanı 3 saatdan çox saxlamaq",
-        "B": "Yaranı spirtlə yumaq",
-        "C": "Yaraya isti kompres qoymaq",
-        "D": "1,5-2 L"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q106",
-      "question": "106. Periferik venanın kateterizasiyası üçün hansı venanın seçilmәsi  mәqsәdә uyğundur?",
-      "options": {
-        "A": "Orta dirsәk venası",
-        "B": "Dərhal əməliyyat etmək",
-        "C": "Gəmi aptekçisini gözləmək",
-        "D": "Xəstəni izolyatora yerləşdirmək"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q107",
-      "question": "107. Hansı qanaxmalarda bәrk sarğıdan istifadә olunur?",
-      "options": {
-        "A": "Qanayan hissəni aşağı salmaq",
-        "B": "Yaraya açıq sarğı qoymaq",
-        "C": "Turnanı 3 saatdan çox saxlamaq",
-        "D": "Venoz"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q108",
-      "question": "108. Zәrәrçәkәnә sabit yan vәziyyәt hansı hallarda verilir?",
-      "options": {
-        "A": "Damardaxili iynə vurmaq",
-        "B": "Gəmi aptekçisini gözləmək",
-        "C": "Dərhal əməliyyat etmək",
-        "D": "Huşu yoxdur,nәbz vә tәnәffüs tәyin edilir"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q109",
-      "question": "109. Onurğa sütününün zәdәlәnmәsiz zamanı zәrәrçәkәn huşsuz vәziyyәtdә  olarsa onu hansı vәziyyәtdә tәxliyyә etmәk lazımdır?",
-      "options": {
-        "A": "Qarnı üstә uzadılmış vәziyyәtdә",
-        "B": "Ağzına soyuq su tökmək",
-        "C": "Başının altına hündür yastıq qoymaq",
-        "D": "Süni tənəffüs vermədən masaj etmək"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    }
-  ]
+    "certificate": "Gəmidə tibbi nəzarət",
+    "questions": [
+        {
+            "id": "q001",
+            "question": "1. Güclü burun qanaxmasında ilk tibbi yardım hansıdır?",
+            "options": {
+                "A": "buruna tampon qoymaq",
+                "B": "Yaraya isti kompres qoymaq",
+                "C": "Yaraya açıq sarğı qoymaq",
+                "D": "Zərərçəkənə çoxlu maye içirtmək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q002",
+            "question": "2. Normal hamilәlik neçә hәftә olmalıdır?",
+            "options": {
+                "A": "140 hәftә",
+                "B": "35 hәftә",
+                "C": "45 hәftә",
+                "D": "40 hәftә"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q003",
+            "question": "3. Mәdә qanaxmasıında hәkimәqәdәr yardıma nә daxildir?",
+            "options": {
+                "A": "Aclıq vә buz qovuğunun tәtbiqi",
+                "B": "Yaraya açıq sarğı qoymaq",
+                "C": "Yaranı spirtlə yumaq",
+                "D": "Turnanı 3 saatdan çox saxlamaq"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q004",
+            "question": "4. Ağciyәr qanaxması zamanı sizin sәrbәst müdaxilәniz nәdәn ibarәt ola bilәr?",
+            "options": {
+                "A": "Yaraya isti kompres qoymaq",
+                "B": "Turnanı 3 saatdan çox saxlamaq",
+                "C": "Döş qәfәsinә soyuq kompres qoymaq",
+                "D": "Yaranı spirtlə yumaq"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q005",
+            "question": "5. Hipotermiya nә demәkdir?",
+            "options": {
+                "A": "Oduza yaxınlaşdırmaq",
+                "B": "Suluqları partlatmaq",
+                "C": "Bәdәn temperaturunun düşmәsi",
+                "D": "Qarla ovxalamaq"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q006",
+            "question": "6. Yüngül dәrәcә donmada dәrin toxumalar olur?",
+            "options": {
+                "A": "Oduza yaxınlaşdırmaq",
+                "B": "Donmuş nahiyəni isti su ilə yumaq",
+                "C": "Qarla ovxalamaq",
+                "D": "dәrin toxumalara heçnә olmur"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q007",
+            "question": "7. Gözün qәlәvi ilә yanıqları zamanı aşağıdakı hansı maddә ilә yumaq  lazımdır?",
+            "options": {
+                "A": "1%-li bor turşusu",
+                "B": "52%-li bor turşusu",
+                "C": "2%-li bor turşusu",
+                "D": "102%-li bor turşusu"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q008",
+            "question": "8. Diş çәkildikdәn sonra qanaxmanı saxlamaq üçün nәdәn istifadә edirlәr?",
+            "options": {
+                "A": "Yaraya isti kompres qoymaq",
+                "B": "Diş yuvasına tampon qoyulur",
+                "C": "Yaraya açıq sarğı qoymaq",
+                "D": "Zərərçəkənə çoxlu maye içirtmək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q009",
+            "question": "9. Ölüm nişanәlәri hansılardır?",
+            "options": {
+                "A": "Damardaxili iynə vurmaq",
+                "B": "Yaraya yod sürtmək",
+                "C": "Dərhal əməliyyat etmək",
+                "D": "ürәk döyüntüsünün dayanması, tәnәffüsün dayanması"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q010",
+            "question": "10. Bәdәn temperaturunu ölçәn zaman civәli termometri neçә dәqiqә  qoltuqaltında saxlamaq lazımdır?",
+            "options": {
+                "A": "buruna tampon qoymaq",
+                "B": "5-7",
+                "C": "9-lar qanunu",
+                "D": "0.5 saat"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q011",
+            "question": "11. Aşağı әtraf baldır nahiyyәsi hansı sümüklәrdәn tәşkil olunmuşdur?",
+            "options": {
+                "A": "Xəstəni yeritməyə cəhd etmək",
+                "B": "Sınıq yerinə isti qoymaq",
+                "C": "Sınmış sümüyü yerinə salmağa çalışmaq",
+                "D": "Qamış vә incik"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q012",
+            "question": "12. Gәmidә qidalanma gigiyenası nәdir?",
+            "options": {
+                "A": "Şin qoymadan xəstəni köçürmək",
+                "B": "Xəstəni izolyatora yerləşdirmək",
+                "C": "Damardaxili iynə vurmaq",
+                "D": "Qida hazırlayanların sağlamlığı,mәtbәxin tәmizliyi,dadlı  xörәklәrin hazırlanması"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q013",
+            "question": "13. Dәniz xәstәliyinin şikayәtlәri hansılardır?",
+            "options": {
+                "A": "Damardaxili iynə vurmaq",
+                "B": "iştahasızlıq, zәiflik, baş gicәllәnmә, ürәk bulanma, qusma",
+                "C": "Yaraya yod sürtmək",
+                "D": "Xəstəni izolyatora yerləşdirmək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q014",
+            "question": "14. Qarının deşilmiş yarası zamanı ilk tibbi yardım?",
+            "options": {
+                "A": "Yarımoturaq-ayaqları yığılmış vәziyyәtdә,soyuq kompres  qoymaq",
+                "B": "Gəmi aptekçisini gözləmək",
+                "C": "Xəstəyə sakitləşdirici vermək",
+                "D": "Xəstəni izolyatora yerləşdirmək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q015",
+            "question": "15. İnsanın normal bәdәn temperaturu neçәdir (qoltuqaltı)?",
+            "options": {
+                "A": "136,35 S",
+                "B": "36,5 S",
+                "C": "41,15 S",
+                "D": "46,35 S"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q016",
+            "question": "16. Cәrrahi әmәliyyatlar zamanı drenajlar nә üçün qoyulur?",
+            "options": {
+                "A": "Dərhal əməliyyat etmək",
+                "B": "Yara ifrazatını çıxarmaq üçün",
+                "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
+                "D": "Xəstəni izolyatora yerləşdirmək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q017",
+            "question": "17. Xarici zәdә әlamәtlәri görünmәyәn vә huşsuz vәziyyәtdә olan, ürәk  ağciyәr reanimasiyası keçirmiş zәrәrçәkәnә hansı “bәrpa edici” vәziyyәti  vermәk lazımdır?",
+            "options": {
+                "A": "Başının altına hündür yastıq qoymaq",
+                "B": "Süni tənəffüs vermədən masaj etmək",
+                "C": "Xəstəni dərhal oturtmaq",
+                "D": "Böyrü üstә uzadıb ayaqlarını dizdәn bükmәk"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q018",
+            "question": "18. Yumşaq toxumaların zәdәlәnmәsindә ilk yardım hansıdır?",
+            "options": {
+                "A": "Yaraya yod sürtmək",
+                "B": "Xəstəni izolyatora yerləşdirmək",
+                "C": "Soyuq vә aseptik sarğı qoymaq",
+                "D": "Gündə 3 dəfə antibiotik vermək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q019",
+            "question": "19. Sınıqlar zamanı şokun profilaktikası üçün hәkimә qәdәr ilk tibbi yardım  zamanı nә etmәk olmaz?",
+            "options": {
+                "A": "Sınıq yerinə isti qoymaq",
+                "B": "Sınmış sümüyü yerinə salmağa çalışmaq",
+                "C": "Xəstəni yeritməyə cəhd etmək",
+                "D": "Xәstәni hәrәkәt etdirmәk"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q020",
+            "question": "20. Yaranın cәrrahi işlәnmәsindә hidrogen peroksidin neçә faizli mәhlulundan  istifadә olunur?",
+            "options": {
+                "A": "13 %",
+                "B": "23 %",
+                "C": "1 %",
+                "D": "3 %"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q021",
+            "question": "21. Gözün turşu ilә yanıqları zamanı hansı maddәlәrlә gözü yumaq lazmdır?",
+            "options": {
+                "A": "102%-li natrium-hidrokarbonat",
+                "B": "1%-li natrium-hidrokarbonat",
+                "C": "12%-li natrium-hidrokarbonat",
+                "D": "2%-li natrium-hidrokarbonat"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q022",
+            "question": "22. Burun qanaxması zamanı ilk tibbi yardım hansıdır?",
+            "options": {
+                "A": "Qanayan hissəni aşağı salmaq",
+                "B": "Burun tamponadasını etmәk",
+                "C": "Yaraya isti kompres qoymaq",
+                "D": "Zərərçəkənə çoxlu maye içirtmək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q023",
+            "question": "23. Burun qanaxmasında başa hansı vәziyyәt verilir?",
+            "options": {
+                "A": "Yaraya isti kompres qoymaq",
+                "B": "Yüngül önә әyilmiş",
+                "C": "Zərərçəkənə çoxlu maye içirtmək",
+                "D": "Turnanı 3 saatdan çox saxlamaq"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q024",
+            "question": "24. Yüngül dәrәcәli yanıqlara hansı yanıqlar aiddir?",
+            "options": {
+                "A": "Yanıq yerinə bitki yağı çəkmək",
+                "B": "Yanıq səthinə yod sürtmək",
+                "C": "Yaraya pambıq qoymaq",
+                "D": "I,II,III A dәrәcәli yanıqlar"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q025",
+            "question": "25. Hәyati әlamәtlәrə bunlardan hansı aid deyil?",
+            "options": {
+                "A": "Damardaxili iynə vurmaq",
+                "B": "Xəstəyə sakitləşdirici vermək",
+                "C": "Gözün buynuz qışası bulanır vә quruyur",
+                "D": "Dərhal əməliyyat etmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q026",
+            "question": "26. Qansaxlayıcı jqut düzgün qoyulduqda әtraflarda nә baş verir?",
+            "options": {
+                "A": "Qanayan hissəni aşağı salmaq",
+                "B": "Әtraf göyәrir,avazıyır,jqutdan aşağı nәbz tәyin edilmir",
+                "C": "Turnanı 3 saatdan çox saxlamaq",
+                "D": "Yaraya isti kompres qoymaq"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q027",
+            "question": "27. Yüngül donvurmuş nahiyyәnin qan dövranını bәrpa etmәk üçün hansı ilk  tibbi yardım göstәrilir?",
+            "options": {
+                "A": "Yaranı spirtlə yumaq",
+                "B": "Yaraya açıq sarğı qoymaq",
+                "C": "Yaraya isti kompres qoymaq",
+                "D": "Spirtli pambıqla (silmәk) sürtmәk"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q028",
+            "question": "28. Alkoqolla zәhәrlәnmә zamanı ilk tәxirә salınmaz yardım hansıdır?",
+            "options": {
+                "A": "III B-IV",
+                "B": "Mәdәni yumaq",
+                "C": "Yataq yarası",
+                "D": "5 sm"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q029",
+            "question": "29. Gәmidә tibbi nәzarәt kursu beynәlxalq konvensiyanın hansı tәlәblәrinә  әsasәn keçirilir?",
+            "options": {
+                "A": "Dərhal əməliyyat etmək",
+                "B": "Gündə 3 dəfə antibiotik vermək",
+                "C": "Xəstəni izolyatora yerləşdirmək",
+                "D": "BDT-nin 1.15 model kursuna"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q030",
+            "question": "30. Arterial qanaxmanı dayandırmaq üçün turna düzgün qoyulduqda nә baş  verir?",
+            "options": {
+                "A": "Qanayan hissəni aşağı salmaq",
+                "B": "Qanaxma dayanır vә periferik nәbz itir",
+                "C": "Yaraya isti kompres qoymaq",
+                "D": "Yaranı spirtlə yumaq"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q031",
+            "question": "31. Ağciyәr qanaxması zamanı ilk yardım olaraq nә etmәk olar?",
+            "options": {
+                "A": "Qanayan hissəni aşağı salmaq",
+                "B": "Yaraya açıq sarğı qoymaq",
+                "C": "Yaranı spirtlə yumaq",
+                "D": "Döş qәfәsinә soyuq kompres qoymaq"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q032",
+            "question": "32. Yataq yaralarının yaranmaması üçün ağır xәstәlәrin vәziyyәtini neçә  saatdan bir dәyişmәk lazımdır?",
+            "options": {
+                "A": "4",
+                "B": "1",
+                "C": "2",
+                "D": "5"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q033",
+            "question": "33. Bәdәn temperaturu hansı dәrәcәyә qalxdıqda xәstәnin huşu pozula bilәr?",
+            "options": {
+                "A": "Süni tənəffüs vermədən masaj etmək",
+                "B": "Ağzına soyuq su tökmək",
+                "C": "40.5-41.0 S",
+                "D": "Xəstəni dərhal oturtmaq"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q034",
+            "question": "34. İsti vannaları hansı halda tәtbiq etmәk olmaz?",
+            "options": {
+                "A": "Gəmi aptekçisini gözləmək",
+                "B": "Xəstəyə sakitləşdirici vermək",
+                "C": "Xroniki rinit",
+                "D": "Şin qoymadan xəstəni köçürmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q035",
+            "question": "35. Döş sümüyünun arxasında sıxıcı ağrılar zamanı hәkimә qәdәrki ilk yardım  hansıdır?",
+            "options": {
+                "A": "Şin qoymadan xəstəni köçürmək",
+                "B": "Yalnız kapitanın icazəsi ilə yardım etmək",
+                "C": "Morfinin yeridilmәsi",
+                "D": "Gündə 3 dəfə antibiotik vermək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q036",
+            "question": "36. Anafilaktik şok zamanı tәxirәsalınmaz yardım harada göstәrilmәlidir?",
+            "options": {
+                "A": "Xəstəyə sakitləşdirici vermək",
+                "B": "Şin qoymadan xəstəni köçürmək",
+                "C": "Xəstəni izolyatora yerləşdirmək",
+                "D": "Hadisә baş verdiyi yerdә"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q037",
+            "question": "37. Kәskin damar çatışmazlığı olan xәstә xәrәkdә hansı vәziyyәtdә nәql  edilmәlidir?",
+            "options": {
+                "A": "Yalnız kapitanın icazəsi ilə yardım etmək",
+                "B": "Dərhal əməliyyat etmək",
+                "C": "Hәrәkәtsiz düz vәziyyәtdә",
+                "D": "Şin qoymadan xəstəni köçürmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q038",
+            "question": "38. Xәstәlik  tarixçәsindә  olan  temperatur  vәrәqәsindә  aşağıda  göstәrilәnlәrdәn hansılar qeyd olunmalıdır?",
+            "options": {
+                "A": "Gündə 3 dəfə antibiotik vermək",
+                "B": "Xəstəyə sakitləşdirici vermək",
+                "C": "Hamısı",
+                "D": "Şin qoymadan xəstəni köçürmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q039",
+            "question": "39. Dәrialtı inyeksiyadan sonra inyeksiya yeri bәrkidikdә aşağıda sadalanan  tәdbirdәn hansı әks-göstәriş sayılır?",
+            "options": {
+                "A": "Xəstəyə sakitləşdirici vermək",
+                "B": "Gündə 3 dəfə antibiotik vermək",
+                "C": "Damardaxili iynə vurmaq",
+                "D": "Bәrkiyәn nahiyyәyә buz qovuğu qoymaq"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q040",
+            "question": "40. Vena daxili inyeksiyadan әvvәl turnanın düzgün qoyulmasının göstәricisi  nәdir?",
+            "options": {
+                "A": "Mil arteriyasında nәbzin olmaması",
+                "B": "Damardaxili iynə vurmaq",
+                "C": "Gündə 3 dəfə antibiotik vermək",
+                "D": "Gəmi aptekçisini gözləmək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q041",
+            "question": "41. Nәbzi hansı arteriyalarda saymaq mümkündür?",
+            "options": {
+                "A": "Sadalanan arteriyalarda",
+                "B": "Damardaxili iynə vurmaq",
+                "C": "Xəstəni izolyatora yerləşdirmək",
+                "D": "Yaraya yod sürtmək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q042",
+            "question": "42. Böyük adamda sakit halda tәnәffüs hәrәkәtlәrinin sayı 1 dәqiqә neçә olur?",
+            "options": {
+                "A": "Yaraya yod sürtmək",
+                "B": "Xəstəyə sakitləşdirici vermək",
+                "C": "Gündə 3 dəfə antibiotik vermək",
+                "D": "16-20"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q043",
+            "question": "43. Zәrәrçәkәndә tәnәffüs hәrәkәtlәrini sayarkәn sizin әsas taktikanız nәdәn  ibarәt olmalıdır?",
+            "options": {
+                "A": "Xəstəyə sakitləşdirici vermək",
+                "B": "Yalnız kapitanın icazəsi ilə yardım etmək",
+                "C": "Gündə 3 dəfə antibiotik vermək",
+                "D": "Siz  tәnәffüs  hәrәkәtlәrini  sayarkәn  çalışmalısınız  ki,zәrәrçәkәn bunu hiss etmәsin"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q044",
+            "question": "44. Döş sümüyü arxasında deşici,yandırıcı,ağrıların olması zamanı sizin ilk  taktikanız nә olmalıdır?",
+            "options": {
+                "A": "Dərhal əməliyyat etmək",
+                "B": "Xәstәnin hәrәkәtsizliyini tәmin etmәk",
+                "C": "Gündə 3 dəfə antibiotik vermək",
+                "D": "Xəstəyə sakitləşdirici vermək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q045",
+            "question": "45. Dәri içi inyeksiya hansı nahiyyәdә aparılır?",
+            "options": {
+                "A": "Saidin içәri sәthi",
+                "B": "Damardaxili iynə vurmaq",
+                "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
+                "D": "Xəstəyə sakitləşdirici vermək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q046",
+            "question": "46. Vena daxilinә damcı üsulu ilә dәrman yeridilәrkәn xәstәnin vәziyyәti necә  olmalıdır?",
+            "options": {
+                "A": "Arxası üstә uzanmış",
+                "B": "Yalnız kapitanın icazəsi ilə yardım etmək",
+                "C": "Gəmi aptekçisini gözləmək",
+                "D": "Dərhal əməliyyat etmək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q047",
+            "question": "47. Dәrman maddәlәrinin venadaxili yeridilmәsinin әsas üstünlüyü nәdәn  ibarәtdir?",
+            "options": {
+                "A": "Xəstəni izolyatora yerləşdirmək",
+                "B": "Yaraya yod sürtmək",
+                "C": "Gəmi aptekçisini gözləmək",
+                "D": "Tәxirәsalınmaz tibbi yardım zamanı nәticәnin yüksәk olması"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q048",
+            "question": "48. Yeni doğulmuş uşağın burun boşluğu nә ilә tәmizlәnir?",
+            "options": {
+                "A": "Steril bitki yağında isladılmış çöp ilә",
+                "B": "Damardaxili iynə vurmaq",
+                "C": "Şin qoymadan xəstəni köçürmək",
+                "D": "Xəstəni izolyatora yerləşdirmək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q049",
+            "question": "49. Elektrotravmalarda ilk tibbi yardım hansıdır?",
+            "options": {
+                "A": "Yaraya yod sürtmək",
+                "B": "Ürәyin xarici masajı",
+                "C": "Gəmi aptekçisini gözləmək",
+                "D": "Yalnız kapitanın icazəsi ilə yardım etmək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q050",
+            "question": "50. II dәrәcәli donma üçün xarakterik әlamәt hansıdır?",
+            "options": {
+                "A": "Suluqların әmәlә gәlmәsi",
+                "B": "Suluqları partlatmaq",
+                "C": "Qarla ovxalamaq",
+                "D": "Donmuş nahiyəni isti su ilə yumaq"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q051",
+            "question": "51. Qabırğaların sınığı zamanı xәstәni hansı vәziyyәtdә daşımaq olar?",
+            "options": {
+                "A": "Yarımoturaq",
+                "B": "tikiş qoyulur",
+                "C": "9-lar qanunu",
+                "D": "Morfinin yeridilmәsi"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q052",
+            "question": "52. Deratizasiya nәdir?",
+            "options": {
+                "A": "Xəstəni izolyatora yerləşdirmək",
+                "B": "Damardaxili iynə vurmaq",
+                "C": "Dərhal əməliyyat etmək",
+                "D": "İçmәli suyu tәmizlәmәk"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q053",
+            "question": "53. Sıxıcı sarğılar әsasәn nә vaxt işlәdilir?",
+            "options": {
+                "A": "Şin qoymadan xəstəni köçürmək",
+                "B": "Venoz qanaxmanı dayandırmaq üçün",
+                "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
+                "D": "Gündə 3 dəfə antibiotik vermək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q054",
+            "question": "54. Onurğa sütunu sınmasının әlamәtlәri nәdir?",
+            "options": {
+                "A": "Xəstəni izolyatora yerləşdirmək",
+                "B": "Hәrәkәtin әllәrdә, ayaqlarda zәiflәmәsi vә ya olmaması sidiyi,  nәcisi saxlaya bilmәmәsi",
+                "C": "Şin qoymadan xəstəni köçürmək",
+                "D": "Yaraya yod sürtmək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q055",
+            "question": "55. Elektrotravmalarda ilk görülәcәk vacib tәdbir hansıdır?",
+            "options": {
+                "A": "Xəstəni izolyatora yerləşdirmək",
+                "B": "Damardaxili iynə vurmaq",
+                "C": "Yaraya yod sürtmək",
+                "D": "Cәrәyanın tәsirini kәsmәk"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q056",
+            "question": "56. Arterial qanaxma üçün xarakterik әlamәt hansıdır?",
+            "options": {
+                "A": "Qanayan hissəni aşağı salmaq",
+                "B": "Yaranı spirtlə yumaq",
+                "C": "Qanın al qırmızı rәngdә olması",
+                "D": "Yaraya açıq sarğı qoymaq"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q057",
+            "question": "57. Yuxarı  әtrafın  travması  zamanı,  zәrәrçәkәnin  köynәyini  necә  soyundurmalı?",
+            "options": {
+                "A": "Yalnız kapitanın icazəsi ilə yardım etmək",
+                "B": "Gəmi aptekçisini gözləmək",
+                "C": "Xəstəni izolyatora yerləşdirmək",
+                "D": "Ağrıkәsici vurub köynәyin qolunu travma olmayan tәrәfdәn  çıxartmaq, sonra köynәyi soyundurmaq"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q058",
+            "question": "58. Hansı әlamәtlәrә görә zәrәrçәkәndә ürәk tutmasının olmadığını,  boğulmanın olmasını demәk olar?",
+            "options": {
+                "A": "Xəstəyə sakitləşdirici vermək",
+                "B": "Gəmi aptekçisini gözləmək",
+                "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
+                "D": "Tez-tez nәfәs alır, rәngi ağarır sonra qızarır,hәrәkәti zәiflәyir"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q059",
+            "question": "59. Hansı dәrәcәli yanıqlar dәrin yanıqlara aid edilir?",
+            "options": {
+                "A": "Yaraya pambıq qoymaq",
+                "B": "Yanıq səthinə yod sürtmək",
+                "C": "III B-IV",
+                "D": "Suluqları deşmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q060",
+            "question": "60. Tәhlükәli qızdırma hansıdır?",
+            "options": {
+                "A": "44 C – 40 C",
+                "B": "59 C – 40 C",
+                "C": "39 C – 40 C",
+                "D": "34 C – 40 C"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q061",
+            "question": "61. Zәrәrçәkәn huşsuz vәziyyәtdә olarsa birinci olaraq hansı hәyati vacib  funksiyanı nәzarәtdә saxlamaq lazımdır?",
+            "options": {
+                "A": "Xəstəni dərhal oturtmaq",
+                "B": "Ağzına soyuq su tökmək",
+                "C": "Süni tənəffüs vermədən masaj etmək",
+                "D": "Tәnәffüsü, nәbzi"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q062",
+            "question": "62. Bir neçә tikiş qoyanda tikişlәr arasında mәsafә nә qәdәr olmalıdır?",
+            "options": {
+                "A": "21 sm",
+                "B": "11 sm",
+                "C": "6 sm",
+                "D": "1 sm"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q063",
+            "question": "63. Kәsilmiş tәzә yaranın әn tәhlükәli simptomu hansıdır?",
+            "options": {
+                "A": "Dərhal əməliyyat etmək",
+                "B": "Qanaxma",
+                "C": "Yaraya yod sürtmək",
+                "D": "Damardaxili iynə vurmaq"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q064",
+            "question": "64. Bir vә ya iki tikiş qoyulanda keyidici dәrmanlardan hәr hansı biri yoxdursa,  tikiş qoyan zaman keyidici dәrmandan istifadә etmәk lazımdırmı?",
+            "options": {
+                "A": "Lazım deyil",
+                "B": "Gəmi aptekçisini gözləmək",
+                "C": "Xəstəyə sakitləşdirici vermək",
+                "D": "Damardaxili iynə vurmaq"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q065",
+            "question": "65. Әzilmә zamanı ilk yardım üçün hansı kompres istifadә edilmәlidir?",
+            "options": {
+                "A": "Damardaxili iynə vurmaq",
+                "B": "Gəmi aptekçisini gözləmək",
+                "C": "Xəstəni izolyatora yerləşdirmək",
+                "D": "Soyuq kompres qoymaq,ağrıkәsici preparat istifadә etmәk"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q066",
+            "question": "66. İsti qrelkanın temperaturu nә qәdәr olmalıdır?",
+            "options": {
+                "A": "40 S",
+                "B": "20 S",
+                "C": "60 S",
+                "D": "30 S"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q067",
+            "question": "67. III dәrәcәli donma üçün xarakterik әlamәt hansıdır?",
+            "options": {
+                "A": "Qarla ovxalamaq",
+                "B": "Oduza yaxınlaşdırmaq",
+                "C": "Donmuş nahiyəni isti su ilə yumaq",
+                "D": "Epidermisin nekrozu vә suluqların әmәlә gәlmәsi"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q068",
+            "question": "68. Yanıq sahәsini tәyin etmәk üçün hansı qanunu istifadә etmәk lazımdır?",
+            "options": {
+                "A": "4-lar qanunu",
+                "B": "1-lar qanunu",
+                "C": "14-lar qanunu",
+                "D": "9-lar qanunu"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q069",
+            "question": "69. İstivurma nәticәsindә yardım kimi qәbul edilәn soyuq vanna suyu  temperaturu necә S dərəcə olmalıdır?",
+            "options": {
+                "A": "20 S",
+                "B": "120 S",
+                "C": "15 S",
+                "D": "40 S"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q070",
+            "question": "70. Ağır dәrәcәli donmada, dәrin toxumalar hansı vәziyyәtdә olur?",
+            "options": {
+                "A": "Suluqları partlatmaq",
+                "B": "Donmuş nahiyəni isti su ilə yumaq",
+                "C": "Suluqlu",
+                "D": "Qarla ovxalamaq"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q071",
+            "question": "71. Yanığın әn geniş yayılmış növü hansıdır?",
+            "options": {
+                "A": "Gündə 3 dəfə antibiotik vermək",
+                "B": "Termiki yanıqlar",
+                "C": "Yalnız kapitanın icazəsi ilə yardım etmək",
+                "D": "Xəstəyə sakitləşdirici vermək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q072",
+            "question": "72. Dәridә suluqların әmәlә gәlmәsi neçәnci dәrәcәli yanıqlara  aiddir?",
+            "options": {
+                "A": "II",
+                "B": "Yaraya pambıq qoymaq",
+                "C": "Yanıq yerinə bitki yağı çəkmək",
+                "D": "Yanıq səthinə yod sürtmək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q073",
+            "question": "73. Ölümün sonrakı әlamәtlәri?",
+            "options": {
+                "A": "Dərhal əməliyyat etmək",
+                "B": "Xəstəyə sakitləşdirici vermək",
+                "C": "Meyit lәkәlәri, meyitin çürümәsi",
+                "D": "Yaraya yod sürtmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q074",
+            "question": "74. Doğulmuş uşağın göbәyi kәsilmәmişdәn әvvәl birinci bağ qarından neçә  santimetr aralıda qoyulmalıdır?",
+            "options": {
+                "A": "1 sm",
+                "B": "10 sm",
+                "C": "35 sm",
+                "D": "5 sm"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q075",
+            "question": "75. Daxili qanaxmanın xarakterik әlamәti hansıdır?",
+            "options": {
+                "A": "Dәri örtüyünün avazıması",
+                "B": "Yaraya isti kompres qoymaq",
+                "C": "Yaranı spirtlə yumaq",
+                "D": "Yaraya açıq sarğı qoymaq"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q076",
+            "question": "76. Dişlәnmiş yaralarda ilkin olaraq aşağıdakılardan hansını yerinә  yetirmәk lazımdır?",
+            "options": {
+                "A": "Dərhal əməliyyat etmək",
+                "B": "Gündə 3 dəfə antibiotik vermək",
+                "C": "Şin qoymadan xəstəni köçürmək",
+                "D": "Yara kәnarını yodla tәmizlәyib,aseptik sarğı qoymaq"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q077",
+            "question": "77. Neçә cür inyeksiya ( iynәlәr) vurulma növü mövcuddur?",
+            "options": {
+                "A": "2",
+                "B": "5",
+                "C": "3",
+                "D": "6"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q078",
+            "question": "78. Dezinseksiya nәdir?",
+            "options": {
+                "A": "Yalnız kapitanın icazəsi ilə yardım etmək",
+                "B": "Gündə 3 dəfə antibiotik vermək",
+                "C": "siçovulları mәhv etmәk",
+                "D": "Şin qoymadan xəstəni köçürmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q079",
+            "question": "79. Daxili qanaxma әlamәtlәri hansılardı?",
+            "options": {
+                "A": "Yaraya açıq sarğı qoymaq",
+                "B": "Yaranı spirtlə yumaq",
+                "C": "arterial tәzyiqin aşağı enmәsi, halsızlıq, ürәyin tez-tez  vurması, soyuq yapışqanlı tәr",
+                "D": "Yaraya isti kompres qoymaq"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q080",
+            "question": "80. Vena daxili infuziya zamanı hava emboliyasının qarşısını almaq üçün  hansı profilaktik tәdbir görülmәlidir?",
+            "options": {
+                "A": "Yalnız kapitanın icazəsi ilə yardım etmək",
+                "B": "Gəmi aptekçisini gözləmək",
+                "C": "Sistemdәn hava çıxarılmalıdır",
+                "D": "Xəstəyə sakitləşdirici vermək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q081",
+            "question": "81. Döş qәfәsindә yerlәşәn orqanlar hansıdır?",
+            "options": {
+                "A": "Yaranı spirtlə yumaq",
+                "B": "Zərərçəkənə çoxlu maye içirtmək",
+                "C": "Yaraya açıq sarğı qoymaq",
+                "D": "Ürәk,ağciyәr"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q082",
+            "question": "82. Әgәr zәrәrçәkәn yerdә uzanmış haldadırsa vә huşu aydın deyilsә siz ilk  olaraq zәrәrçәkәndә nәyә diqqәt etmәlisiniz?",
+            "options": {
+                "A": "Başının altına hündür yastıq qoymaq",
+                "B": "Tәnәffüsün  tezliyinә,  Nәbzin  tezliyinә,  Bәbәklәrin  genişlәnmәsinә",
+                "C": "Ağzına soyuq su tökmək",
+                "D": "Süni tənəffüs vermədən masaj etmək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q083",
+            "question": "83. Venaya inyeksiya etdikdә hansı halda inyeksiyanı dayandırmaq lazımdır?",
+            "options": {
+                "A": "Xəstəyə sakitləşdirici vermək",
+                "B": "Nә vaxt xәstә özü dayandırsa",
+                "C": "Gündə 3 dəfə antibiotik vermək",
+                "D": "Xəstəni izolyatora yerləşdirmək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q084",
+            "question": "84. Nәbzin tezliyi 1 dәqiqәdә neçә olmalıdır (kişilәrdә)?",
+            "options": {
+                "A": "Şin qoymadan xəstəni köçürmək",
+                "B": "Dərhal əməliyyat etmək",
+                "C": "Yaraya yod sürtmək",
+                "D": "60-70"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q086",
+            "question": "86. Ağciyәr qanaxmasında zәrәrçәkәni hansı vәziyyәtdә daşımaq olar?",
+            "options": {
+                "A": "Turnanı 3 saatdan çox saxlamaq",
+                "B": "Zərərçəkənə çoxlu maye içirtmək",
+                "C": "Qanayan hissəni aşağı salmaq",
+                "D": "Yarımoturaq"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q087",
+            "question": "87. Normal halda tәnәffüsün tezliyi 1 dәqiqәdә neçә olmalıdır (kişilәrdә)?",
+            "options": {
+                "A": "Arxası üstә uzanmış",
+                "B": "16-18",
+                "C": "40 hәftә",
+                "D": "Suluqlu"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q088",
+            "question": "88. Geniş vә dәrin yaralara necә yardım edilir?",
+            "options": {
+                "A": "Xəstəyə sakitləşdirici vermək",
+                "B": "Şin qoymadan xəstəni köçürmək",
+                "C": "tikiş qoyulur",
+                "D": "Xəstəni izolyatora yerləşdirmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q089",
+            "question": "89. Daxilә tikiş qoyulma üçün hansı tibbi sapdan istifadә olunmalıdır?",
+            "options": {
+                "A": "Yaraya yod sürtmək",
+                "B": "Xəstəni izolyatora yerləşdirmək",
+                "C": "Dərhal əməliyyat etmək",
+                "D": "hamısı ilә olar"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q090",
+            "question": "90. Diş çәkildikdәn sonra qanaxmanı saxlamaq üçün nәdәn istifadә edirlәr?",
+            "options": {
+                "A": "Diş yuvasına steril bintdәn hazırlanmış tampon qoyurlar",
+                "B": "Yaranı spirtlə yumaq",
+                "C": "Yaraya isti kompres qoymaq",
+                "D": "Yaraya açıq sarğı qoymaq"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q091",
+            "question": "91. Böyük yaralara tikiş qoyma vaxtı hansı keyitmәdәn istifadә etmәk  lazımdır?",
+            "options": {
+                "A": "Yaraya yod sürtmək",
+                "B": "yerli",
+                "C": "Gəmi aptekçisini gözləmək",
+                "D": "Xəstəni izolyatora yerləşdirmək"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q092",
+            "question": "92. Dәm qazı ilә zәhәrlәnmә zamanı ilkin әlamәtlәr hansılardır?",
+            "options": {
+                "A": "Dərhal əməliyyat etmək",
+                "B": "Damardaxili iynə vurmaq",
+                "C": "Gündə 3 dəfə antibiotik vermək",
+                "D": "Ümumi zәiflik hissi,alın vә gicgah nahiyyәsindә ağrı,qulaqda  ağırlıq hissiyatı"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q093",
+            "question": "93. İsitmә nә üçün istifadә olunur?",
+            "options": {
+                "A": "qan dövranını yaxşılatmaq üçün",
+                "B": "Dərhal əməliyyat etmək",
+                "C": "Gəmi aptekçisini gözləmək",
+                "D": "Xəstəyə sakitləşdirici vermək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q094",
+            "question": "94. Qanaxma anatomik quruluşuna görә neçә qrupa bölunur?",
+            "options": {
+                "A": "4",
+                "B": "3",
+                "C": "2",
+                "D": "1"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q095",
+            "question": "95. Soyuq sudan çıxarılan insanın temperaturunu hansı nahiyyәdә ölçmәk  lazımdır?",
+            "options": {
+                "A": "Donmuş nahiyəni isti su ilə yumaq",
+                "B": "Qarla ovxalamaq",
+                "C": "Suluqları partlatmaq",
+                "D": "Düz bağırsaqda"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q096",
+            "question": "96. Hipotermiyalı zәrәçәkәnin isidilmәsi, düz bağırsaqda hәrarәt neçә S  dərəcəyə yüksәlmәsinә qәdәr davam etdirilir?",
+            "options": {
+                "A": "25 S",
+                "B": "30 S",
+                "C": "35 S",
+                "D": "40 S"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q097",
+            "question": "97. Şәkildәki vәziyyәt zәrәrçәkәnә hansı hallarda verilir?",
+            "options": {
+                "A": "Xəstəni izolyatora yerləşdirmək",
+                "B": "Dərhal əməliyyat etmək",
+                "C": "Gündə 3 dəfə antibiotik vermək",
+                "D": "Tәnәffüs,nәbz dayanıbsa,huşu yerindәdisә"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q098",
+            "question": "98. I-II dәrәcәli termiki yanıq zamanı hәkimәqәdәrki yardım hansıdır?",
+            "options": {
+                "A": "Yanıq yerinə bitki yağı çəkmək",
+                "B": "Yaraya pambıq qoymaq",
+                "C": "Aseptik sarğı qoyub,tәcili yardım çağırmaq",
+                "D": "Yanıq səthinə yod sürtmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q099",
+            "question": "99. Açıq pnevmotoraks zamanı ilk tibbi yardım nәdәn ibarәtdir?",
+            "options": {
+                "A": "Gündə 3 dəfə antibiotik vermək",
+                "B": "Xəstəni izolyatora yerləşdirmək",
+                "C": "Okkulizion sarğı qoymaq",
+                "D": "Şin qoymadan xəstəni köçürmək"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q100",
+            "question": "100. Uzun müddәt yataqda qaldıqda xәstәnin vәziyyәtini nә ağırlaşdıra bilәr?",
+            "options": {
+                "A": "Termiki yanıqlar",
+                "B": "Yataq yarası",
+                "C": "Lazım deyil",
+                "D": "Yüngül önә әyilmiş"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q101",
+            "question": "101. Aşağıda göstәrilәn vәziyyәtlәrdәn hansında siz xәstәyә buz qovuğu  tәtbiq edә bilmәzsiz?",
+            "options": {
+                "A": "Böyrәk sancılarında",
+                "B": "Yalnız kapitanın icazəsi ilə yardım etmək",
+                "C": "Şin qoymadan xəstəni köçürmək",
+                "D": "Gəmi aptekçisini gözləmək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q102",
+            "question": "102. Qış fәslindә Esmarx turnasının saxlanma müddәti nә qәdәrdir?",
+            "options": {
+                "A": "20.105 saat",
+                "B": "50.10 saat",
+                "C": "0.5 saat",
+                "D": "1.1 saat"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q103",
+            "question": "103. Normal halda nәbzin tezliyi 1 dәq neçә olmalıdır (qadınlarda)?",
+            "options": {
+                "A": "3 %",
+                "B": "Ürәk,ağciyәr",
+                "C": "70-80",
+                "D": "Hamısı"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q104",
+            "question": "104. Bud sümüyünün açıq sınığı zamanı güclu qanaxma olarsa ilk yardım  olaraq nәyi yerinә yetirmәk lazımdır?",
+            "options": {
+                "A": "Qanayan hissəni aşağı salmaq",
+                "B": "Yaraya isti kompres qoymaq",
+                "C": "Yaranı spirtlə yumaq",
+                "D": "Qanaxmanı dayandırmaq lazım"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q105",
+            "question": "105. Orqanizmin birdәn birә neçә litr qan itirmәsi ölümlә nәticәlәnә bilәr?",
+            "options": {
+                "A": "Turnanı 3 saatdan çox saxlamaq",
+                "B": "Yaranı spirtlə yumaq",
+                "C": "Yaraya isti kompres qoymaq",
+                "D": "1,5-2 L"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q106",
+            "question": "106. Periferik venanın kateterizasiyası üçün hansı venanın seçilmәsi  mәqsәdә uyğundur?",
+            "options": {
+                "A": "Orta dirsәk venası",
+                "B": "Dərhal əməliyyat etmək",
+                "C": "Gəmi aptekçisini gözləmək",
+                "D": "Xəstəni izolyatora yerləşdirmək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q107",
+            "question": "107. Hansı qanaxmalarda bәrk sarğıdan istifadә olunur?",
+            "options": {
+                "A": "Qanayan hissəni aşağı salmaq",
+                "B": "Yaraya açıq sarğı qoymaq",
+                "C": "Turnanı 3 saatdan çox saxlamaq",
+                "D": "Venoz"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q108",
+            "question": "108. Zәrәrçәkәnә sabit yan vәziyyәt hansı hallarda verilir?",
+            "options": {
+                "A": "Damardaxili iynə vurmaq",
+                "B": "Gəmi aptekçisini gözləmək",
+                "C": "Dərhal əməliyyat etmək",
+                "D": "Huşu yoxdur,nәbz vә tәnәffüs tәyin edilir"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q109",
+            "question": "109. Onurğa sütününün zәdәlәnmәsiz zamanı zәrәrçәkәn huşsuz vәziyyәtdә  olarsa onu hansı vәziyyәtdә tәxliyyә etmәk lazımdır?",
+            "options": {
+                "A": "Qarnı üstә uzadılmış vәziyyәtdә",
+                "B": "Ağzına soyuq su tökmək",
+                "C": "Başının altına hündür yastıq qoymaq",
+                "D": "Süni tənəffüs vermədən masaj etmək"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        }
+    ]
 }

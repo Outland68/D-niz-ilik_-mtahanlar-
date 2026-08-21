@@ -30,8 +30,8 @@
             "question": "Gəminin mühafizəyə məsul şəxsi gəmi üçün təyin olunmuş mühafizə səviyyəsini\ndəyişə bilərmi?",
             "options": {
                 "A": "Bəli",
-                "B": "Bəli, əgər mühafizə səviyyəsi 2-dirsə",
-                "C": "Bəli, gəmi agentinin razılığı ilə",
+                "B": "Bəli",
+                "C": "Bəli, mütləqdir",
                 "D": "Xeyr"
             },
             "correct_answer": "D",
@@ -65,9 +65,9 @@
             "id": "q006",
             "question": "Gəmidə qeyri-leqal sərnişinin aşkar edilməsi gəmiyə baxışın keçirilməsi üçün\nəsasdırmı?",
             "options": {
-                "A": "Yalnız kapitanın xüsusi icazəsi ilə",
+                "A": "Adi səviyyədir",
                 "B": "Bəli",
-                "C": "Yalnız liman idarəsinin göstərişi ilə",
+                "C": "Gələnlər jurnalında",
                 "D": "Xeyr"
             },
             "correct_answer": "B",
@@ -77,10 +77,10 @@
             "id": "q007",
             "question": "Yüklənəcək avtomobillərə baxış gizli olmalıdır ki, avtomobilin sahibinin və ya onun\nnümayəndəsinin diqqəti cəlb edilməsin:",
             "options": {
-                "A": "Bəli, əgər mühafizə səviyyəsi 2-dirsə",
+                "A": "12 ayda 1 dəfə",
                 "B": "Xeyr",
-                "C": "Bəli",
-                "D": "Bəli, gəmi agentinin razılığı ilə"
+                "C": "3 ayda azı 1 dəfə",
+                "D": "3 aydan bir"
             },
             "correct_answer": "B",
             "explanation": ""
@@ -89,10 +89,10 @@
             "id": "q008",
             "question": "Gəminin mühafizə planının yerinə yetirilməsini təmin etmək üçün mühafizə üzrə\nməşqlər hansı müddətdən bir keçirilməlidir?",
             "options": {
-                "A": "6 ayda 1 dəfə",
-                "B": "Hər növbə təhvil verilərkən",
+                "A": "13 ayda azı 1 dəfə",
+                "B": "1 ayda azı 1 dəfə",
                 "C": "3 ayda azı 1 dəfə",
-                "D": "Gəmi limana hər daxil olduqda"
+                "D": "33 ayda azı 1 dəfə"
             },
             "correct_answer": "C",
             "explanation": ""
@@ -221,10 +221,10 @@
             "id": "q019",
             "question": "Liman nəzarətinin nümayəndələri gəmini yoxlayarkən aşağıdakılardan hansı\namillərə diqqət yetirirlər?\n1. Təyin olunmuş mühafizə səviyyəsinə uyğun olaraq gəmiyə girişə nəzarətin\nolmasına;\n2. Limanın vəzifəli şəxsləri də daxil olmaqla, gəmiyə daxil olanların hamısına\nnəzarətin həyata keçirilməsinə;\n3. Keçid pilləkənində duran növbə çəkən heyət üzvünün xarici görünüşünün\nqənaətbəxş olmasına;\n4. Gəmidə təmizlik işlərinin vaxtlı-vaxtında aparılmasına;\n5. Kapitanının növbə köməkçisinin naviqasiya təhlükəsizliyinə diqqət yetirməsinə",
             "options": {
-                "A": "2, 4",
+                "A": "1, 4",
                 "B": "1, 2",
-                "C": "3, 5",
-                "D": "3, 5 (əlavə)"
+                "C": "4, 5",
+                "D": "2, 3"
             },
             "correct_answer": "B",
             "explanation": ""
@@ -569,10 +569,10 @@
             "id": "q048",
             "question": "Telefonla gəmiyə təhdid olarkən, təhdidin məzmununu və danışıq tərzini maksimal\nolaraq yadda saxlamaq lazımdırmı?",
             "options": {
-                "A": "Yalnız kapitanın xüsusi icazəsi ilə",
-                "B": "Xeyr",
+                "A": "12 ayda 1 dəfə",
+                "B": "3 ayda azı 1 dəfə",
                 "C": "Bəli",
-                "D": "Yalnız liman idarəsinin göstərişi ilə"
+                "D": "Adi səviyyədir"
             },
             "correct_answer": "C",
             "explanation": ""
@@ -581,9 +581,9 @@
             "id": "q049",
             "question": "Rəsmi şəxslər üçün gəmiyə giriş üzrə nəzarət tədbirlərinin yerinə yetirilməsi tələb\nedilirmi?",
             "options": {
-                "A": "Xeyr",
-                "B": "Yalnız kapitanın xüsusi icazəsi ilə",
-                "C": "Yalnız liman idarəsinin göstərişi ilə",
+                "A": "Gələnlər jurnalında",
+                "B": "Xeyr",
+                "C": "Xeyr",
                 "D": "Bəli"
             },
             "correct_answer": "D",
@@ -689,10 +689,10 @@
             "id": "q058",
             "question": "Məşğələ və təlim və haqqında qeydlər icazəsiz müdaxilədən qorunmalıdır ifadəsi\ndüzdürmü?",
             "options": {
-                "A": "Xeyr",
+                "A": "Bəli, mütləqdir",
                 "B": "Bəli",
-                "C": "Yalnız liman idarəsinin göstərişi ilə",
-                "D": "Yalnız kapitanın xüsusi icazəsi ilə"
+                "C": "Xeyr",
+                "D": "12 ayda 1 dəfə"
             },
             "correct_answer": "B",
             "explanation": ""
@@ -701,10 +701,10 @@
             "id": "q059",
             "question": "Gəminin mühafizəsinin təmin edilməsi üzrə məşqlər hansı dövrdən bir keçirilir?",
             "options": {
-                "A": "Hər növbə təhvil verilərkən",
-                "B": "Gəmi limana hər daxil olduqda",
+                "A": "33 aydan bir",
+                "B": "13 aydan bir",
                 "C": "3 aydan bir",
-                "D": "6 ayda 1 dəfə"
+                "D": "1 aydan bir"
             },
             "correct_answer": "C",
             "explanation": ""
@@ -881,9 +881,9 @@
             "id": "q074",
             "question": "Gəminin mühafizəsi üzrə təlimlər hansı aralıqlarla keçirilməlidir?",
             "options": {
-                "A": "Hər növbə təhvil verilərkən",
-                "B": "6 ayda 1 dəfə",
-                "C": "Gəmi limana hər daxil olduqda",
+                "A": "2 ayda 1 dəfə",
+                "B": "62 ayda 1 dəfə",
+                "C": "112 ayda 1 dəfə",
                 "D": "12 ayda 1 dəfə"
             },
             "correct_answer": "D",

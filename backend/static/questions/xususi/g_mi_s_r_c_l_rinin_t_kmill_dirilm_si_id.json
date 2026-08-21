@@ -1,586 +1,586 @@
 {
-  "certificate": "Gəmi sürücülərinin təkmilləşdirilməsi (idarəetmə)",
-  "questions": [
-    {
-      "id": "q001",
-      "question": "1. Buz şəraitinə dair xəritələrdə ovalın içində qırmızı fonda qeyd edilən rəqəmlər nəyi xarakterizə edir?",
-      "options": {
-        "A": "buzun sıxılma ehtimalı",
-        "B": "buzun təbəqələşmə dərəcəsi",
-        "C": "buzun yaşı",
-        "D": "buzun dreyf sürəti və istiqaməti"
-      },
-      "correct_answer": "C",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_001.jpeg"
-    },
-    {
-      "id": "q002",
-      "question": "2. “AİS” sisteminin avadanlıqları adaların, çayların, döngələrinin arxasında olan hədəfləri göstərirmi ?",
-      "options": {
-        "A": "xeyr, çünki radio dalğaları optik görünüş xəttindən asılıdır",
-        "B": "bəli, ancaq VHF əhatə dairəsində hədəflər aktiv rejimdə olduqda",
-        "C": "bəli, lakin yalnız VTS mərkəzinin təkrar ötürücü stansiyaları vasitəsilə",
-        "D": "bəli"
-      },
-      "correct_answer": "D",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_002.jpeg"
-    },
-    {
-      "id": "q003",
-      "question": "3. “Dənizin gəmilərdən çirkləndirilməsinin qarşısının alınması haqqında” (MARPOL) Beynəlxalq Konvensiyaya uyğun olaraq məişət tullantılarının dənizə atılmasının şərtini qeyd edin.",
-      "options": {
-        "A": "gəmidəki tullantı yandırıcısı (incinerator) nasaz olduqda",
-        "B": "sahildən 12 mil məsafədə, xüsusi zonalar xaricində hərəkət edərkən",
-        "C": "məişət tullantılarının gəmidən dənizə atılması qadağandır",
-        "D": "xüsusi zonalarda yalnız qida tullantıları ilə qarışdırıldıqda"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q004",
-      "question": "4. Birləşmiş Millətlər Təşkilatının “Dəniz hüququ haqqında” Beynəlxalq Konvensiyasına ğörə ərazi sularının eni “əsas xətdən” ölçülür. “Əsas xətt” nə deməkdir?",
-      "options": {
-        "A": "sahilyanı dövlətin rəsmi tanıdığı iri miqyaslı dəniz xəritəsində göstərilən qabarma-çəkilmə hadisələrində sahilboyu dəniz səviyyəsinin ən çox çəkilmə xətti",
-        "B": "eksklüziv iqtisadi zonanın daxili sərhədini müəyyən edən şərti xətt",
-        "C": "beynəlxalq boğazlarda ayrılmış hərəkət zolaqlarının mərkəzi xətti",
-        "D": "sahil dövlətinin daxili suları ilə ərazi sularını ayıran koordinat xətti"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q005",
-      "question": "5. Beynəlxalq Dəniz Təşkilatının A.1052 (27) qətnaməsinə uyğun olaraq Dövlət liman nəzarəti müfəttişliyi tərəfindən gəmilərin yoxlanması prosedurları hansı gəmilərin yoxlanması üçün tərtib edilib?",
-      "options": {
-        "A": "Xarici dövlətlərin bayrağı altında üzən gəmilər üçün",
-        "B": "Limana giriş icazəsi istəyən bütün daxili və beynəlxalq gəmilər üçün",
-        "C": "Yalnız ISM məcəlləsinin tələblərinə uyğun gəlməyən riskli gəmilər üçün",
-        "D": "Yalnız təhlükəli yüklər (IMDG Code) daşıyan xüsusi təyinatlı gəmilər üçün"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q006",
-      "question": "6. Gəminin dayanaqlığının azalmasının əlamətlərini (xarici şəraitin dəyişilməməsi şərti ilə) qeyd edin:",
-      "options": {
-        "A": "gəminin fırlaq momenti (metasentrik hündürlüyü) kəskin şəkildə artır",
-        "B": "sərbəst səthlərin təsiri nəticəsində dalğaya qarşı müqavimət yüksəlir",
-        "C": "gəminin yırğalanma periodu artır, gəminin yırğalanması zamanı “kren” bucağı artır",
-        "D": "yırğalanma periodu kiçilir və gəmi ani olaraq tarazlığa qayıdır"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q007",
-      "question": "7. Gəminin yük qəbulu zamanı üzmə ehtiyatı hansı sənəd ilə tənzimlənir?",
-      "options": {
-        "A": "Beynəlxalq tonaj şəhadətnaməsi (ITC-69)",
-        "B": "Gəminin dənizə yararlılıq haqqında təsnifat cəmiyyətinin aktı",
-        "C": "Gəmi konstruksiyasının təhlükəsizliyi haqqında şəhadətnamə",
-        "D": "yük nişanı haqqında şəhadətnamə"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q008",
-      "question": "8. “Konosament”-in neçə (orijinal) nüsxəsi yük göndərən şəxsə verilə bilər?",
-      "options": {
-        "A": "yük sahibinin tələbi əsasında qeyri-məhdud sayda, eyni seriya ilə",
-        "B": "hər nüsxədə “Konosament” orijinallarının sayını göstərməklə bir neçə nüsxə",
-        "C": "fraxt müqaviləsinə uyğun olaraq maksimum 5 orijinal nüsxə",
-        "D": "kapitanın qərarı ilə yalnız 3 nüsxədən ibarət olmaqla"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q009",
-      "question": "9. Meteoroloji xəritənin məlumatına görə şimali atlantikanın hansı rayonunda maksimal külək müşahidə edilir?",
-      "options": {
-        "A": "Süveyş kanalından Cəbəllütariq boğazına gedən yolda",
-        "B": "Nyufaundlend adasının cənub-şərq akvatoriyasında",
-        "C": "Azor adaları və Kanar adaları arasındakı antisiklon zonasında",
-        "D": "Skandinaviyanın şimal-qərb sahilində"
-      },
-      "correct_answer": "D",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_009.jpeg"
-    },
-    {
-      "id": "q010",
-      "question": "10. Şəkildə göstərilən axtarış üsulunun adını qeyd edin:",
-      "options": {
-        "A": "təqib edən axtarış modeli (Track line search)",
-        "B": "koordinatlı sektor axtarışı (Sector search)",
-        "C": "paralel “qals”lar ilə axtarış",
-        "D": "genişlənən kvadrat axtarışı (Expanding square search)"
-      },
-      "correct_answer": "C",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_010.jpeg"
-    },
-    {
-      "id": "q011",
-      "question": "11. Bayraq Administrasiyası tərəfindən hansı gəmi heyət üzvlərinin sertifikatlarına təsdiqnamə verilir?",
-      "options": {
-        "A": "kapitan və komandir heyəti üzvlərinə",
-        "B": "ISM məcəlləsinə görə məsul olan bütün şirkət nümayəndələrinə",
-        "C": "yalnız qlobal dəniz fəlakət rabitəsi (GMDSS) operatorlarına",
-        "D": "yalnız STCW konvensiyasının VI fəslinə aid olan dənizçilərə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q012",
-      "question": "12. Gəmi baroqrafı hansı atmosfer hadisəsini qeyd edib?",
-      "options": {
-        "A": "tropik siklon",
-        "B": "genişmiqyaslı duman zolağının yaranması",
-        "C": "güclü qütb antisiklonu",
-        "D": "yerli termal qabarma tufanı"
-      },
-      "correct_answer": "A",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_012.jpeg"
-    },
-    {
-      "id": "q013",
-      "question": "13. Kapitan “Təhlükəli yüklərin dəniz yolu ilə daşınmasına dair” Beynəlxalq Məcəlləyə (IMDG Code) əsasən qablaşdırılmış təhlükəli yükün dənizdə itirilməsi ilə bağlı insident haqqında məlumatı kimə verməlidir?",
-      "options": {
-        "A": "yükün sığorta şirkətinə (P&I Club) və fraxtedənə",
-        "B": "təhlükəli yüklərin beynəlxalq dəniz qeydiyyatı mərkəzinə (IMDG Center)",
-        "C": "ən yaxın olan sahilyanı dövlətə",
-        "D": "gəminin qeydiyyatda olduğu Bayraq Dövləti İdarəsinə (Administration)"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q014",
-      "question": "14. Gəminin uzununa davamlılığı nə ilə təmin edilir?",
-      "options": {
-        "A": "Gəmi davamlılığının nəzarət diaqramı vasitəsi ilə yük planını tərtib edərkən davamlılığın hesablanması",
-        "B": "yük markasının (Plimsoll line) batma səviyyəsinin yoxlanması ilə",
-        "C": "ballast sularının idarəetmə planına əsasən tankların doluluq səviyyəsi ilə",
-        "D": "gəminin eninə metasantr hündürlüyünün daim müsbət saxlanması ilə"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q015",
-      "question": "15. Dənizin gəmilərdən zibil ilə çirkləndirilməsinin qarşısının alınmasına dair qaydalar “Dənizin gəmilərdən çirkləndirilməsinin qarşısının alınmasına dair” Beynəlxalq Konvensiyanın hansı əlavəsində qeyd edilib?",
-      "options": {
-        "A": "Əlavə 1 (Neftlə çirklənmənin qarşısının alınması)",
-        "B": "Əlavə 4 (Gəmi çirkab suları ilə çirklənmənin qarşısının alınması)",
-        "C": "Əlavə 6 (Havanın gəmilər tərəfindən çirklənməsinin qarşısının alınması)",
-        "D": "5"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q016",
-      "question": "16.Gəminin saya oturması hallarında gəmi sürücüsü nə etməməlidir?",
-      "options": {
-        "A": "baş mühərrikləri tam gücü ilə “arxaya” (Full Astern) rejimində işlətmək",
-        "B": "sərbəst səth effekti yaranmasın deyə bütün ballast tanklarını boşaltmaq",
-        "C": "gəminin xilasedici vasitələrini suya salıb heyəti təcili təxliyə etmək",
-        "D": "yükün yerini “vater” xətin üstündə yerləşən bölmələrdən “vater” xətdən aşağıda yerləşən bölmələrə dəyişmək"
-      },
-      "correct_answer": "D",
-      "explanation": ""
-    },
-    {
-      "id": "q017",
-      "question": "17. Müşahidə etdiyiniz gəmidən verilən üç qısa səs siqnalı nə deməkdir?",
-      "options": {
-        "A": "mən öz kursumu sola (port) dəyişirəm",
-        "B": "mən hərəkət edə bilmirəm, mənə yol verin",
-        "C": "“mənim baş mühərriklərim arxaya işləyir”",
-        "D": "mən öz kursumu sağa (starboard) dəyişirəm"
-      },
-      "correct_answer": "C",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_017.jpeg"
-    },
-    {
-      "id": "q018",
-      "question": "18. Sükançıya “Starboard, steer two one eight” verilən komanda nə deməkdir?",
-      "options": {
-        "A": "sükan sağ borta və 218º kursa istiqamət götürmək",
-        "B": "sağ borta tərəf yavaş-yavaş (slow ahead) 218 fırlanma ilə irəli",
-        "C": "sükan diametral müstəvidə (midships) və kurs 218º olsun",
-        "D": "sükan sol borta və gəmi sürəti 21.8 uzel olsun"
-      },
-      "correct_answer": "A",
-      "explanation": ""
-    },
-    {
-      "id": "q019",
-      "question": "19. Hava şəraiti haqqında xəritədə göstərilən Hind okeanının şərq hissəsində yaranan “Frontal” siklon necə adlandırılır?",
-      "options": {
-        "A": "çox mərkəzli (iki mərkəzli)",
-        "B": "antisiklonik cərəyan modeli",
-        "C": "qütb hava kütlələrinin hərəkəti",
-        "D": "ekvatorial dumanlı front"
-      },
-      "correct_answer": "A",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_019.jpeg"
-    },
-    {
-      "id": "q020",
-      "question": "20. Şəkildə göstərilən yanalma qurğusuna aid olan “braşpil”i qeyd edin?",
-      "options": {
-        "A": "4",
-        "B": "2",
-        "C": "qurğu ümumiyyətlə yanalma üçün deyil",
-        "D": "3"
-      },
-      "correct_answer": "D",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_020.jpeg"
-    },
-    {
-      "id": "q021",
-      "question": "21. Şəkildə göstərilən buz şəraitinə dair xəritələrdə qeyd edilən işarə nəyi göstərir?",
-      "options": {
-        "A": "su səthinin donma temperaturunu",
-        "B": "buz kütləsinin qırılma ehtimalını",
-        "C": "buzun dreyf istiqamətini",
-        "D": "buz sahəsinin sıxılması dərəcəsini"
-      },
-      "correct_answer": "D",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_021.jpeg"
-    },
-    {
-      "id": "q022",
-      "question": "22. “RLS”-nin ekranında (RLS nisbi hərəkət rejimindədir, sabitləşmə - “N”, məsafə rejimi – 6 mildir, 1-məsafə halqası 1-mildir) qeyd edilən hədəflərdən hansı daha təhlükəli hədəf hesab edilir (hədəflərin vektorları nisbidir, uzunluğu 6 dəqiqədir)?",
-      "options": {
-        "A": "4-nömrəli hədəf",
-        "B": "1-nömrəli hədəf",
-        "C": "2-nömrəli hədəf",
-        "D": "3-nömrəli hədəf"
-      },
-      "correct_answer": "C",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_022.jpeg"
-    },
-    {
-      "id": "q023",
-      "question": "23. Atlantik okeanın şimal hissəsinin hansı rayonunda dalğaların maksimal hündürlüyü müşahidə edilir?",
-      "options": {
-        "A": "Berinq dənizinin cənub hissəsində",
-        "B": "Biskay körfəzində",
-        "C": "Madaqaskar adasının şərq sahillərində",
-        "D": "La-Manş boğazının qərb çıxışında"
-      },
-      "correct_answer": "B",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_023.jpeg"
-    },
-    {
-      "id": "q024",
-      "question": "24. Losmanın “What is your heading” sualına necə cavab verilməlidir?",
-      "options": {
-        "A": "my course over ground is zero, three, seven",
-        "B": "my bearing to the target is zero, three, seven",
-        "C": "my heading is zero, three, seven degrees",
-        "D": "I am turning to starboard zero, three, seven"
-      },
-      "correct_answer": "C",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_024.jpeg"
-    },
-    {
-      "id": "q025",
-      "question": "25. “Dənizdə insan həyatının mühafizəsi haqqında” Beynəlxalq Konvensiyanın tələblərinə əsasən “girokompas” avadanlığı hansı gəmilərdə quraşdırılır?",
-      "options": {
-        "A": "yalnız sərnişin və təhlükəli yük daşıyan ro-ro tipli gəmilərdə",
-        "B": "tam tutumu 300 registr ton və artıq olan gəmilərdə",
-        "C": "yalnız 500 registr ton və artıq olan beynəlxalq səfər edən gəmilərdə",
-        "D": "sahilyanı sular daxilində (A1 rayonu) üzən bütün ticarət gəmilərində"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q026",
-      "question": "26. “Binokl”dan baxdıqda hansı buyu görürsünüz?",
-      "options": {
-        "A": "Şimal koordinal buyu",
-        "B": "Cənub buyu",
-        "C": "Təhlükəsiz sular (Safe water) buyu",
-        "D": "Şərq koordinal buyu"
-      },
-      "correct_answer": "B",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_026.jpeg"
-    },
-    {
-      "id": "q027",
-      "question": "27. Qərb “koordinal” buyu hansı kurs bucağındadır?",
-      "options": {
-        "A": "90° sağ bort (Starboard beam)",
-        "B": "180° arxa (Astern)",
-        "C": "45° sol bort",
-        "D": "0° ön (Head on)"
-      },
-      "correct_answer": "C",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_027.jpeg"
-    },
-    {
-      "id": "q028",
-      "question": "28. Şəkildə gördüyünüz gəminin işıqlarının mənasını açıqlayın?",
-      "options": {
-        "A": "lövbərdə dayanaraq yük əməliyyatı edən gəmi",
-        "B": "manevr qabiliyyəti məhdud olan gəmi (RAM)",
-        "C": "sualtı əməliyyat və ya tral çəkən gəmi",
-        "D": "losman işlərini yerinə yetirən gəmi"
-      },
-      "correct_answer": "D",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_028.jpeg"
-    },
-    {
-      "id": "q029",
-      "question": "29. Gəminin “Top” işığının üfüqi görünmə sektoru neçə dərəcədir?",
-      "options": {
-        "A": "gəminin diametral müstəvisindən hər iki borta 135° olmaqla cəmi 270°",
-        "B": "gəminin “deametral“ müstəvisindən sağ və sol bortlara tərəf gəminin arxa tərəfinə istiqamətində 112,5°",
-        "C": "yalnız sağ və sol bortlara 112,5° olmaqla ümumilikdə 225°",
-        "D": "bütün üfüq boyu 360° kəsintisiz sektor"
-      },
-      "correct_answer": "B",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_029.jpeg"
-    },
-    {
-      "id": "q030",
-      "question": "30. “RLS”-in ekranında (RLS nisbi hərəkət rejimindədir, sabitləşmə - “N”, məsafə rejimi – 6 mildir, bir məsafə halqası 1-mildir) bizim kurs 310°, sürətimiz 10 düy, hədəfin kursunu və sürətini aşağıda qeyd edilənlər seçin (hədəfin vektoru nisbidir, uzunluğu 6 dəqiqədir)?",
-      "options": {
-        "A": "hədəfin kursu 130°, sürəti 5 düyün",
-        "B": "hədəfin kursu 180°, sürəti 12 düyün",
-        "C": "hədəfin kursu 090°, sürəti 15 düyün",
-        "D": "hədəfin kursu 310°, sürəti 10 düyün"
-      },
-      "correct_answer": "A",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_030.jpeg"
-    },
-    {
-      "id": "q031",
-      "question": "31. Gəmi fiti ilə üç qısa səs siqnalı verilməlidir:",
-      "options": {
-        "A": "gəmi hərəkət edərkən mühərrik dayandıqda",
-        "B": "lövbərə qalxmazdan dərhal əvvəl xəbərdarlıq kimi",
-        "C": "dar kanalda qarşıdan gələn gəmini xəbərdar etdikdə",
-        "D": "baş mühərrikə “arxaya hərəkət” komandası verilməmişdən öncə"
-      },
-      "correct_answer": "D",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_031.jpeg"
-    },
-    {
-      "id": "q032",
-      "question": "32. Şəkildə göstərilən “RLS”–in ekranında 1 rəqəmi ilə işarə edilib:",
-      "options": {
-        "A": "pelenq kəsişmə xətti (EBL)",
-        "B": "head line / kurs xətti",
-        "C": "paralel indeks xətti (PI)",
-        "D": "hədəfin nisbi hərəkət vektoru (RM)"
-      },
-      "correct_answer": "B",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_032.jpeg"
-    },
-    {
-      "id": "q033",
-      "question": "33. Radarın ekranında göstərilən 1 №-li hədəf hansı istiqamətdə hərəkət edir?",
-      "options": {
-        "A": "Şərqə",
-        "B": "Cənub-qərbə",
-        "C": "Cənub-şərqə",
-        "D": "Şimal-qərbə"
-      },
-      "correct_answer": "A",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_033.jpeg"
-    },
-    {
-      "id": "q034",
-      "question": "34. Şəkildə gördüyünüzün adını qeyd edin.",
-      "options": {
-        "A": "Klyuz (Hawsepipe)",
-        "B": "Rolks (Roller fairlead)",
-        "C": "Knext (Bollard)",
-        "D": "“Şpiqat”"
-      },
-      "correct_answer": "D",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_034.jpeg"
-    },
-    {
-      "id": "q035",
-      "question": "35. Siz 1 saylı gəmidəsiniz. Sizin gəminizin kursu hansı hərf ilə qeyd edilmişdir?",
-      "options": {
-        "A": "“A”",
-        "B": "“E”",
-        "C": "“D”",
-        "D": "“B”"
-      },
-      "correct_answer": "A",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_035.jpeg"
-    },
-    {
-      "id": "q036",
-      "question": "36. Şəkildə buludların hansı növü göstərilmişdir?",
-      "options": {
-        "A": "Yüksək-qatlı buludlar (Altostratus)",
-        "B": "Laylı-yağışlı buludlar (Nimbostratus)",
-        "C": "“Lələkli” (Ci)",
-        "D": "Topa-yağışlı buludlar (Cumulonimbus)"
-      },
-      "correct_answer": "C",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_036.jpeg"
-    },
-    {
-      "id": "q037",
-      "question": "37. Şəkildə göstərilən dor ağacında qaldırmış işarəyə görə gəmi haqqında məlumatı qeyd edin?",
-      "options": {
-        "A": "Gəmi sualtı kabellərin çəkilməsi ilə məşğuldur",
-        "B": "Gəmi balıq ovu ilə məşğuldur",
-        "C": "Gəmi minadan təmizləmə əməliyyatı həyata keçirir",
-        "D": "Gəminin manevr qabiliyyəti məhduddur"
-      },
-      "correct_answer": "B",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_037.jpeg"
-    },
-    {
-      "id": "q038",
-      "question": "38. Kapitanın növbə köməkçisi hansı halda öz vəzifələrin icrasından azad olmuş hesab edilir?",
-      "options": {
-        "A": "Növbəti köməkçi körpüyə qalxdığı ilk anda",
-        "B": "Kapitan gəminin idarə edilməsini qəbul etdiyi halda",
-        "C": "Gəmi limana tam yan aldıqdan və mühərriklər dayandıqdan sonra",
-        "D": "Gəmi lövbər saldıqdan sonra kapitan körpünü tərk etdikdə"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q039",
-      "question": "39. Gəminiz 38,0 ° kurs üzrə 12,5 düyün sürətlə hərəkət edir. RLS-nın ekranında “pelenq”i və məsafəsi dəyişilməyən hədəf müşahidə edilir. Hədəf hansı kurs və sürətlə hərəkət edir?",
-      "options": {
-        "A": "Kurs 038,0 °, sürət 0 düyün",
-        "B": "Kurs 180,0 °, sürət 15,0 düyün",
-        "C": "Kurs 38,0 °, sürət 12,5 düyün",
-        "D": "Kurs 218,0 °, sürət 12,5 düyün"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    },
-    {
-      "id": "q040",
-      "question": "40. Gəmilərdə quraşdırılan qəza radiobuylarının yoxlamadan keçmə müddətini qeyd edin?",
-      "options": {
-        "A": "hər 5 ildən bir gəminin sinif yenilənməsində",
-        "B": "hər 6 aydan bir xüsusi təsdiqlənmiş laboratoriyada",
-        "C": "hər səfərdən əvvəl liman nəzarəti tərəfindən",
-        "D": "ildə bir dəfə"
-      },
-      "correct_answer": "D",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_040.jpeg"
-    },
-    {
-      "id": "q041",
-      "question": "41. Şəkildə gördüyünüz buyun hansı tərəfində naviqasiya təhlükəsi mövcuddur?",
-      "options": {
-        "A": "şərq tərəfdən",
-        "B": "şimal tərəfdən",
-        "C": "qərb tərəfdən",
-        "D": "cənub tərəfdən"
-      },
-      "correct_answer": "D",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_041.jpeg"
-    },
-    {
-      "id": "q042",
-      "question": "42. “GMDSS” sisteminə aid təcililik siqnalını qeyd edin?",
-      "options": {
-        "A": "“PANPAN”",
-        "B": "“SILENCE FINI”",
-        "C": "“MAYDAY”",
-        "D": "“SECURITE”"
-      },
-      "correct_answer": "A",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_042.jpeg"
-    },
-    {
-      "id": "q043",
-      "question": "43. Şəkildə gördüyünüz buy necə adlandırılır?",
-      "options": {
-        "A": "təhlükəsiz su (safe water) buyu",
-        "B": "təcrid olunmuş təhlükə buyu",
-        "C": "sağ tərəf (starboard) lateral buyu",
-        "D": "xüsusi təyinatlı buy"
-      },
-      "correct_answer": "D",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_043.jpeg"
-    },
-    {
-      "id": "q044",
-      "question": "44. Sektor üsulu ilə axtarış xilasetmə əməliyatlarında gəminin hər dəfə kursu neçə dərəcə dəyişməlidir?",
-      "options": {
-        "A": "45°",
-        "B": "120°",
-        "C": "60°",
-        "D": "90°"
-      },
-      "correct_answer": "B",
-      "explanation": ""
-    },
-    {
-      "id": "q045",
-      "question": "45. Şəkildə gördüyünüz bayraq gəmidə nə zaman qaldırılır?",
-      "options": {
-        "A": "gəmidə gömrük və sərhəd yoxlaması aparılarkən",
-        "B": "gəmidə infeksion xəstəlik olmaması barədə karantin siqnalı verərkən",
-        "C": "gəmiyə yardıma ehtiyac olanda",
-        "D": "gəmi təhlükəli yüklərlə əməliyyat apararkən"
-      },
-      "correct_answer": "C",
-      "explanation": "",
-      "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_045.jpeg"
-    },
-    {
-      "id": "q046",
-      "question": "46. Sükançıya verilən “Keep the buoy on starboard side” komandası nə deməkdir?",
-      "options": {
-        "A": "buyu birbaşa diametral kəsikdə qarşıla",
-        "B": "buyu sol bortda saxla",
-        "C": "buyu sağda saxla",
-        "D": "buydan tamamilə uzaqlaş (clear the buoy)"
-      },
-      "correct_answer": "C",
-      "explanation": ""
-    }
-  ]
+    "certificate": "Gəmi sürücülərinin təkmilləşdirilməsi (idarəetmə)",
+    "questions": [
+        {
+            "id": "q001",
+            "question": "1. Buz şəraitinə dair xəritələrdə ovalın içində qırmızı fonda qeyd edilən rəqəmlər nəyi xarakterizə edir?",
+            "options": {
+                "A": "buzun sıxılma ehtimalı",
+                "B": "buzun təbəqələşmə dərəcəsi",
+                "C": "buzun yaşı",
+                "D": "buzun dreyf sürəti və istiqaməti"
+            },
+            "correct_answer": "C",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_001.jpeg"
+        },
+        {
+            "id": "q002",
+            "question": "2. “AİS” sisteminin avadanlıqları adaların, çayların, döngələrinin arxasında olan hədəfləri göstərirmi ?",
+            "options": {
+                "A": "Biskay körfəzində",
+                "B": "Şərqə",
+                "C": "“Şpiqat”",
+                "D": "bəli"
+            },
+            "correct_answer": "D",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_002.jpeg"
+        },
+        {
+            "id": "q003",
+            "question": "3. “Dənizin gəmilərdən çirkləndirilməsinin qarşısının alınması haqqında” (MARPOL) Beynəlxalq Konvensiyaya uyğun olaraq məişət tullantılarının dənizə atılmasının şərtini qeyd edin.",
+            "options": {
+                "A": "gəmidəki tullantı yandırıcısı (incinerator) nasaz olduqda",
+                "B": "sahildən 12 mil məsafədə, xüsusi zonalar xaricində hərəkət edərkən",
+                "C": "məişət tullantılarının gəmidən dənizə atılması qadağandır",
+                "D": "xüsusi zonalarda yalnız qida tullantıları ilə qarışdırıldıqda"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q004",
+            "question": "4. Birləşmiş Millətlər Təşkilatının “Dəniz hüququ haqqında” Beynəlxalq Konvensiyasına ğörə ərazi sularının eni “əsas xətdən” ölçülür. “Əsas xətt” nə deməkdir?",
+            "options": {
+                "A": "sahilyanı dövlətin rəsmi tanıdığı iri miqyaslı dəniz xəritəsində göstərilən qabarma-çəkilmə hadisələrində sahilboyu dəniz səviyyəsinin ən çox çəkilmə xətti",
+                "B": "eksklüziv iqtisadi zonanın daxili sərhədini müəyyən edən şərti xətt",
+                "C": "beynəlxalq boğazlarda ayrılmış hərəkət zolaqlarının mərkəzi xətti",
+                "D": "sahil dövlətinin daxili suları ilə ərazi sularını ayıran koordinat xətti"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q005",
+            "question": "5. Beynəlxalq Dəniz Təşkilatının A.1052 (27) qətnaməsinə uyğun olaraq Dövlət liman nəzarəti müfəttişliyi tərəfindən gəmilərin yoxlanması prosedurları hansı gəmilərin yoxlanması üçün tərtib edilib?",
+            "options": {
+                "A": "Xarici dövlətlərin bayrağı altında üzən gəmilər üçün",
+                "B": "Limana giriş icazəsi istəyən bütün daxili və beynəlxalq gəmilər üçün",
+                "C": "Yalnız ISM məcəlləsinin tələblərinə uyğun gəlməyən riskli gəmilər üçün",
+                "D": "Yalnız təhlükəli yüklər (IMDG Code) daşıyan xüsusi təyinatlı gəmilər üçün"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q006",
+            "question": "6. Gəminin dayanaqlığının azalmasının əlamətlərini (xarici şəraitin dəyişilməməsi şərti ilə) qeyd edin:",
+            "options": {
+                "A": "gəminin fırlaq momenti (metasentrik hündürlüyü) kəskin şəkildə artır",
+                "B": "sərbəst səthlərin təsiri nəticəsində dalğaya qarşı müqavimət yüksəlir",
+                "C": "gəminin yırğalanma periodu artır, gəminin yırğalanması zamanı “kren” bucağı artır",
+                "D": "yırğalanma periodu kiçilir və gəmi ani olaraq tarazlığa qayıdır"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q007",
+            "question": "7. Gəminin yük qəbulu zamanı üzmə ehtiyatı hansı sənəd ilə tənzimlənir?",
+            "options": {
+                "A": "Beynəlxalq tonaj şəhadətnaməsi (ITC-69)",
+                "B": "Gəminin dənizə yararlılıq haqqında təsnifat cəmiyyətinin aktı",
+                "C": "Gəmi konstruksiyasının təhlükəsizliyi haqqında şəhadətnamə",
+                "D": "yük nişanı haqqında şəhadətnamə"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q008",
+            "question": "8. “Konosament”-in neçə (orijinal) nüsxəsi yük göndərən şəxsə verilə bilər?",
+            "options": {
+                "A": "yük sahibinin tələbi əsasında qeyri-məhdud sayda, eyni seriya ilə",
+                "B": "hər nüsxədə “Konosament” orijinallarının sayını göstərməklə bir neçə nüsxə",
+                "C": "fraxt müqaviləsinə uyğun olaraq maksimum 5 orijinal nüsxə",
+                "D": "kapitanın qərarı ilə yalnız 3 nüsxədən ibarət olmaqla"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q009",
+            "question": "9. Meteoroloji xəritənin məlumatına görə şimali atlantikanın hansı rayonunda maksimal külək müşahidə edilir?",
+            "options": {
+                "A": "Süveyş kanalından Cəbəllütariq boğazına gedən yolda",
+                "B": "Nyufaundlend adasının cənub-şərq akvatoriyasında",
+                "C": "Azor adaları və Kanar adaları arasındakı antisiklon zonasında",
+                "D": "Skandinaviyanın şimal-qərb sahilində"
+            },
+            "correct_answer": "D",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_009.jpeg"
+        },
+        {
+            "id": "q010",
+            "question": "10. Şəkildə göstərilən axtarış üsulunun adını qeyd edin:",
+            "options": {
+                "A": "təqib edən axtarış modeli (Track line search)",
+                "B": "koordinatlı sektor axtarışı (Sector search)",
+                "C": "paralel “qals”lar ilə axtarış",
+                "D": "genişlənən kvadrat axtarışı (Expanding square search)"
+            },
+            "correct_answer": "C",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_010.jpeg"
+        },
+        {
+            "id": "q011",
+            "question": "11. Bayraq Administrasiyası tərəfindən hansı gəmi heyət üzvlərinin sertifikatlarına təsdiqnamə verilir?",
+            "options": {
+                "A": "kapitan və komandir heyəti üzvlərinə",
+                "B": "ISM məcəlləsinə görə məsul olan bütün şirkət nümayəndələrinə",
+                "C": "yalnız qlobal dəniz fəlakət rabitəsi (GMDSS) operatorlarına",
+                "D": "yalnız STCW konvensiyasının VI fəslinə aid olan dənizçilərə"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q012",
+            "question": "12. Gəmi baroqrafı hansı atmosfer hadisəsini qeyd edib?",
+            "options": {
+                "A": "tropik siklon",
+                "B": "genişmiqyaslı duman zolağının yaranması",
+                "C": "güclü qütb antisiklonu",
+                "D": "yerli termal qabarma tufanı"
+            },
+            "correct_answer": "A",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_012.jpeg"
+        },
+        {
+            "id": "q013",
+            "question": "13. Kapitan “Təhlükəli yüklərin dəniz yolu ilə daşınmasına dair” Beynəlxalq Məcəlləyə (IMDG Code) əsasən qablaşdırılmış təhlükəli yükün dənizdə itirilməsi ilə bağlı insident haqqında məlumatı kimə verməlidir?",
+            "options": {
+                "A": "yükün sığorta şirkətinə (P&I Club) və fraxtedənə",
+                "B": "təhlükəli yüklərin beynəlxalq dəniz qeydiyyatı mərkəzinə (IMDG Center)",
+                "C": "ən yaxın olan sahilyanı dövlətə",
+                "D": "gəminin qeydiyyatda olduğu Bayraq Dövləti İdarəsinə (Administration)"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q014",
+            "question": "14. Gəminin uzununa davamlılığı nə ilə təmin edilir?",
+            "options": {
+                "A": "Gəmi davamlılığının nəzarət diaqramı vasitəsi ilə yük planını tərtib edərkən davamlılığın hesablanması",
+                "B": "yük markasının (Plimsoll line) batma səviyyəsinin yoxlanması ilə",
+                "C": "ballast sularının idarəetmə planına əsasən tankların doluluq səviyyəsi ilə",
+                "D": "gəminin eninə metasantr hündürlüyünün daim müsbət saxlanması ilə"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q015",
+            "question": "15. Dənizin gəmilərdən zibil ilə çirkləndirilməsinin qarşısının alınmasına dair qaydalar “Dənizin gəmilərdən çirkləndirilməsinin qarşısının alınmasına dair” Beynəlxalq Konvensiyanın hansı əlavəsində qeyd edilib?",
+            "options": {
+                "A": "4",
+                "B": "3",
+                "C": "6",
+                "D": "5"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q016",
+            "question": "16.Gəminin saya oturması hallarında gəmi sürücüsü nə etməməlidir?",
+            "options": {
+                "A": "baş mühərrikləri tam gücü ilə “arxaya” (Full Astern) rejimində işlətmək",
+                "B": "sərbəst səth effekti yaranmasın deyə bütün ballast tanklarını boşaltmaq",
+                "C": "gəminin xilasedici vasitələrini suya salıb heyəti təcili təxliyə etmək",
+                "D": "yükün yerini “vater” xətin üstündə yerləşən bölmələrdən “vater” xətdən aşağıda yerləşən bölmələrə dəyişmək"
+            },
+            "correct_answer": "D",
+            "explanation": ""
+        },
+        {
+            "id": "q017",
+            "question": "17. Müşahidə etdiyiniz gəmidən verilən üç qısa səs siqnalı nə deməkdir?",
+            "options": {
+                "A": "mən öz kursumu sola (port) dəyişirəm",
+                "B": "mən hərəkət edə bilmirəm, mənə yol verin",
+                "C": "“mənim baş mühərriklərim arxaya işləyir”",
+                "D": "mən öz kursumu sağa (starboard) dəyişirəm"
+            },
+            "correct_answer": "C",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_017.jpeg"
+        },
+        {
+            "id": "q018",
+            "question": "18. Sükançıya “Starboard, steer two one eight” verilən komanda nə deməkdir?",
+            "options": {
+                "A": "sükan sağ borta və 218º kursa istiqamət götürmək",
+                "B": "sağ borta tərəf yavaş-yavaş (slow ahead) 218 fırlanma ilə irəli",
+                "C": "sükan diametral müstəvidə (midships) və kurs 218º olsun",
+                "D": "sükan sol borta və gəmi sürəti 21.8 uzel olsun"
+            },
+            "correct_answer": "A",
+            "explanation": ""
+        },
+        {
+            "id": "q019",
+            "question": "19. Hava şəraiti haqqında xəritədə göstərilən Hind okeanının şərq hissəsində yaranan “Frontal” siklon necə adlandırılır?",
+            "options": {
+                "A": "çox mərkəzli (iki mərkəzli)",
+                "B": "antisiklonik cərəyan modeli",
+                "C": "qütb hava kütlələrinin hərəkəti",
+                "D": "ekvatorial dumanlı front"
+            },
+            "correct_answer": "A",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_019.jpeg"
+        },
+        {
+            "id": "q020",
+            "question": "20. Şəkildə göstərilən yanalma qurğusuna aid olan “braşpil”i qeyd edin?",
+            "options": {
+                "A": "4",
+                "B": "5",
+                "C": "1",
+                "D": "3"
+            },
+            "correct_answer": "D",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_020.jpeg"
+        },
+        {
+            "id": "q021",
+            "question": "21. Şəkildə göstərilən buz şəraitinə dair xəritələrdə qeyd edilən işarə nəyi göstərir?",
+            "options": {
+                "A": "su səthinin donma temperaturunu",
+                "B": "buz kütləsinin qırılma ehtimalını",
+                "C": "buzun dreyf istiqamətini",
+                "D": "buz sahəsinin sıxılması dərəcəsini"
+            },
+            "correct_answer": "D",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_021.jpeg"
+        },
+        {
+            "id": "q022",
+            "question": "22. “RLS”-nin ekranında (RLS nisbi hərəkət rejimindədir, sabitləşmə - “N”, məsafə rejimi – 6 mildir, 1-məsafə halqası 1-mildir) qeyd edilən hədəflərdən hansı daha təhlükəli hədəf hesab edilir (hədəflərin vektorları nisbidir, uzunluğu 6 dəqiqədir)?",
+            "options": {
+                "A": "4-nömrəli hədəf",
+                "B": "1-nömrəli hədəf",
+                "C": "2-nömrəli hədəf",
+                "D": "3-nömrəli hədəf"
+            },
+            "correct_answer": "C",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_022.jpeg"
+        },
+        {
+            "id": "q023",
+            "question": "23. Atlantik okeanın şimal hissəsinin hansı rayonunda dalğaların maksimal hündürlüyü müşahidə edilir?",
+            "options": {
+                "A": "Berinq dənizinin cənub hissəsində",
+                "B": "Biskay körfəzində",
+                "C": "Madaqaskar adasının şərq sahillərində",
+                "D": "La-Manş boğazının qərb çıxışında"
+            },
+            "correct_answer": "B",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_023.jpeg"
+        },
+        {
+            "id": "q024",
+            "question": "24. Losmanın “What is your heading” sualına necə cavab verilməlidir?",
+            "options": {
+                "A": "my course over ground is zero, three, seven",
+                "B": "my bearing to the target is zero, three, seven",
+                "C": "my heading is zero, three, seven degrees",
+                "D": "I am turning to starboard zero, three, seven"
+            },
+            "correct_answer": "C",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_024.jpeg"
+        },
+        {
+            "id": "q025",
+            "question": "25. “Dənizdə insan həyatının mühafizəsi haqqında” Beynəlxalq Konvensiyanın tələblərinə əsasən “girokompas” avadanlığı hansı gəmilərdə quraşdırılır?",
+            "options": {
+                "A": "yalnız sərnişin və təhlükəli yük daşıyan ro-ro tipli gəmilərdə",
+                "B": "tam tutumu 300 registr ton və artıq olan gəmilərdə",
+                "C": "yalnız 500 registr ton və artıq olan beynəlxalq səfər edən gəmilərdə",
+                "D": "sahilyanı sular daxilində (A1 rayonu) üzən bütün ticarət gəmilərində"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q026",
+            "question": "26. “Binokl”dan baxdıqda hansı buyu görürsünüz?",
+            "options": {
+                "A": "Şimal koordinal buyu",
+                "B": "Cənub buyu",
+                "C": "Təhlükəsiz sular (Safe water) buyu",
+                "D": "Şərq koordinal buyu"
+            },
+            "correct_answer": "B",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_026.jpeg"
+        },
+        {
+            "id": "q027",
+            "question": "27. Qərb “koordinal” buyu hansı kurs bucağındadır?",
+            "options": {
+                "A": "90° sağ bort (Starboard beam)",
+                "B": "180° arxa (Astern)",
+                "C": "45° sol bort",
+                "D": "0° ön (Head on)"
+            },
+            "correct_answer": "C",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_027.jpeg"
+        },
+        {
+            "id": "q028",
+            "question": "28. Şəkildə gördüyünüz gəminin işıqlarının mənasını açıqlayın?",
+            "options": {
+                "A": "lövbərdə dayanaraq yük əməliyyatı edən gəmi",
+                "B": "manevr qabiliyyəti məhdud olan gəmi (RAM)",
+                "C": "sualtı əməliyyat və ya tral çəkən gəmi",
+                "D": "losman işlərini yerinə yetirən gəmi"
+            },
+            "correct_answer": "D",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_028.jpeg"
+        },
+        {
+            "id": "q029",
+            "question": "29. Gəminin “Top” işığının üfüqi görünmə sektoru neçə dərəcədir?",
+            "options": {
+                "A": "gəminin diametral müstəvisindən hər iki borta 135° olmaqla cəmi 270°",
+                "B": "gəminin “deametral“ müstəvisindən sağ və sol bortlara tərəf gəminin arxa tərəfinə istiqamətində 112,5°",
+                "C": "yalnız sağ və sol bortlara 112,5° olmaqla ümumilikdə 225°",
+                "D": "bütün üfüq boyu 360° kəsintisiz sektor"
+            },
+            "correct_answer": "B",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_029.jpeg"
+        },
+        {
+            "id": "q030",
+            "question": "30. “RLS”-in ekranında (RLS nisbi hərəkət rejimindədir, sabitləşmə - “N”, məsafə rejimi – 6 mildir, bir məsafə halqası 1-mildir) bizim kurs 310°, sürətimiz 10 düy, hədəfin kursunu və sürətini aşağıda qeyd edilənlər seçin (hədəfin vektoru nisbidir, uzunluğu 6 dəqiqədir)?",
+            "options": {
+                "A": "hədəfin kursu 130°, sürəti 5 düyün",
+                "B": "hədəfin kursu 180°, sürəti 12 düyün",
+                "C": "hədəfin kursu 090°, sürəti 15 düyün",
+                "D": "hədəfin kursu 310°, sürəti 10 düyün"
+            },
+            "correct_answer": "A",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_030.jpeg"
+        },
+        {
+            "id": "q031",
+            "question": "31. Gəmi fiti ilə üç qısa səs siqnalı verilməlidir:",
+            "options": {
+                "A": "gəmi hərəkət edərkən mühərrik dayandıqda",
+                "B": "lövbərə qalxmazdan dərhal əvvəl xəbərdarlıq kimi",
+                "C": "dar kanalda qarşıdan gələn gəmini xəbərdar etdikdə",
+                "D": "baş mühərrikə “arxaya hərəkət” komandası verilməmişdən öncə"
+            },
+            "correct_answer": "D",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_031.jpeg"
+        },
+        {
+            "id": "q032",
+            "question": "32. Şəkildə göstərilən “RLS”–in ekranında 1 rəqəmi ilə işarə edilib:",
+            "options": {
+                "A": "pelenq kəsişmə xətti (EBL)",
+                "B": "head line / kurs xətti",
+                "C": "paralel indeks xətti (PI)",
+                "D": "hədəfin nisbi hərəkət vektoru (RM)"
+            },
+            "correct_answer": "B",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_032.jpeg"
+        },
+        {
+            "id": "q033",
+            "question": "33. Radarın ekranında göstərilən 1 №-li hədəf hansı istiqamətdə hərəkət edir?",
+            "options": {
+                "A": "Şərqə",
+                "B": "Cənub-qərbə",
+                "C": "Cənub-şərqə",
+                "D": "Şimal-qərbə"
+            },
+            "correct_answer": "A",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_033.jpeg"
+        },
+        {
+            "id": "q034",
+            "question": "34. Şəkildə gördüyünüzün adını qeyd edin.",
+            "options": {
+                "A": "Klyuz (Hawsepipe)",
+                "B": "Rolks (Roller fairlead)",
+                "C": "Knext (Bollard)",
+                "D": "“Şpiqat”"
+            },
+            "correct_answer": "D",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_034.jpeg"
+        },
+        {
+            "id": "q035",
+            "question": "35. Siz 1 saylı gəmidəsiniz. Sizin gəminizin kursu hansı hərf ilə qeyd edilmişdir?",
+            "options": {
+                "A": "“A”",
+                "B": "“E”",
+                "C": "“D”",
+                "D": "“B”"
+            },
+            "correct_answer": "A",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_035.jpeg"
+        },
+        {
+            "id": "q036",
+            "question": "36. Şəkildə buludların hansı növü göstərilmişdir?",
+            "options": {
+                "A": "Yüksək-qatlı buludlar (Altostratus)",
+                "B": "Laylı-yağışlı buludlar (Nimbostratus)",
+                "C": "“Lələkli” (Ci)",
+                "D": "Topa-yağışlı buludlar (Cumulonimbus)"
+            },
+            "correct_answer": "C",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_036.jpeg"
+        },
+        {
+            "id": "q037",
+            "question": "37. Şəkildə göstərilən dor ağacında qaldırmış işarəyə görə gəmi haqqında məlumatı qeyd edin?",
+            "options": {
+                "A": "Gəmi sualtı kabellərin çəkilməsi ilə məşğuldur",
+                "B": "Gəmi balıq ovu ilə məşğuldur",
+                "C": "Gəmi minadan təmizləmə əməliyyatı həyata keçirir",
+                "D": "Gəminin manevr qabiliyyəti məhduddur"
+            },
+            "correct_answer": "B",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_037.jpeg"
+        },
+        {
+            "id": "q038",
+            "question": "38. Kapitanın növbə köməkçisi hansı halda öz vəzifələrin icrasından azad olmuş hesab edilir?",
+            "options": {
+                "A": "Növbəti köməkçi körpüyə qalxdığı ilk anda",
+                "B": "Kapitan gəminin idarə edilməsini qəbul etdiyi halda",
+                "C": "Gəmi limana tam yan aldıqdan və mühərriklər dayandıqdan sonra",
+                "D": "Gəmi lövbər saldıqdan sonra kapitan körpünü tərk etdikdə"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q039",
+            "question": "39. Gəminiz 38,0 ° kurs üzrə 12,5 düyün sürətlə hərəkət edir. RLS-nın ekranında “pelenq”i və məsafəsi dəyişilməyən hədəf müşahidə edilir. Hədəf hansı kurs və sürətlə hərəkət edir?",
+            "options": {
+                "A": "Kurs 038,0 °, sürət 0 düyün",
+                "B": "Kurs 180,0 °, sürət 15,0 düyün",
+                "C": "Kurs 38,0 °, sürət 12,5 düyün",
+                "D": "Kurs 218,0 °, sürət 12,5 düyün"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        },
+        {
+            "id": "q040",
+            "question": "40. Gəmilərdə quraşdırılan qəza radiobuylarının yoxlamadan keçmə müddətini qeyd edin?",
+            "options": {
+                "A": "hər 5 ildən bir gəminin sinif yenilənməsində",
+                "B": "hər 6 aydan bir xüsusi təsdiqlənmiş laboratoriyada",
+                "C": "hər səfərdən əvvəl liman nəzarəti tərəfindən",
+                "D": "ildə bir dəfə"
+            },
+            "correct_answer": "D",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_040.jpeg"
+        },
+        {
+            "id": "q041",
+            "question": "41. Şəkildə gördüyünüz buyun hansı tərəfində naviqasiya təhlükəsi mövcuddur?",
+            "options": {
+                "A": "şərq tərəfdən",
+                "B": "şimal tərəfdən",
+                "C": "qərb tərəfdən",
+                "D": "cənub tərəfdən"
+            },
+            "correct_answer": "D",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_041.jpeg"
+        },
+        {
+            "id": "q042",
+            "question": "42. “GMDSS” sisteminə aid təcililik siqnalını qeyd edin?",
+            "options": {
+                "A": "“PANPAN”",
+                "B": "“SILENCE FINI”",
+                "C": "“MAYDAY”",
+                "D": "“SECURITE”"
+            },
+            "correct_answer": "A",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_042.jpeg"
+        },
+        {
+            "id": "q043",
+            "question": "43. Şəkildə gördüyünüz buy necə adlandırılır?",
+            "options": {
+                "A": "təhlükəsiz su (safe water) buyu",
+                "B": "təcrid olunmuş təhlükə buyu",
+                "C": "sağ tərəf (starboard) lateral buyu",
+                "D": "xüsusi təyinatlı buy"
+            },
+            "correct_answer": "D",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_043.jpeg"
+        },
+        {
+            "id": "q044",
+            "question": "44. Sektor üsulu ilə axtarış xilasetmə əməliyatlarında gəminin hər dəfə kursu neçə dərəcə dəyişməlidir?",
+            "options": {
+                "A": "45°",
+                "B": "120°",
+                "C": "60°",
+                "D": "90°"
+            },
+            "correct_answer": "B",
+            "explanation": ""
+        },
+        {
+            "id": "q045",
+            "question": "45. Şəkildə gördüyünüz bayraq gəmidə nə zaman qaldırılır?",
+            "options": {
+                "A": "gəmidə gömrük və sərhəd yoxlaması aparılarkən",
+                "B": "gəmidə infeksion xəstəlik olmaması barədə karantin siqnalı verərkən",
+                "C": "gəmiyə yardıma ehtiyac olanda",
+                "D": "gəmi təhlükəli yüklərlə əməliyyat apararkən"
+            },
+            "correct_answer": "C",
+            "explanation": "",
+            "image_url": "/images/g_mi_s_r_c_l_rinin_t_kmill_dirilm_si_id/q_045.jpeg"
+        },
+        {
+            "id": "q046",
+            "question": "46. Sükançıya verilən “Keep the buoy on starboard side” komandası nə deməkdir?",
+            "options": {
+                "A": "buyu birbaşa diametral kəsikdə qarşıla",
+                "B": "buyu sol bortda saxla",
+                "C": "buyu sağda saxla",
+                "D": "buydan tamamilə uzaqlaş (clear the buoy)"
+            },
+            "correct_answer": "C",
+            "explanation": ""
+        }
+    ]
 }

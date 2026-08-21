@@ -17,9 +17,9 @@
             "id": "q002",
             "question": "2. Mühafizə üzrə tədbirlər görmək üçün yaxınlaşma farvateri liman vasitəsinin tərkibinə daxil edilə bilərmi?",
             "options": {
-                "A": "Yalnız hərbi gəmilərin girişi zamanı daxil edilir",
-                "B": "Yalnız fırtınalı hava şəraitində daxil edilir",
-                "C": "Xeyr, yalnız liman akvatoriyası daxil edilir",
+                "A": "18 ayı",
+                "B": "12 ayda azı bir dəfə",
+                "C": "3 ayda azı 1 dəfə",
                 "D": "Bəli"
             },
             "correct_answer": "D",

@@ -78,9 +78,9 @@
             "question": "Yüklәmә әmәliyyatı zamanı terminalın tәlәbi ilә gәminin torpaqlanması yerinә yetirilib, tәcridedici flansın istifadәsi:",
             "options": {
                 "A": "Vacibdir",
-                "B": "Qadağandır",
-                "C": "Tövsiyə olunur",
-                "D": "Yalnız fırtınalı havada tələb olunur"
+                "B": "Oddan qoruyucu",
+                "C": "150C",
+                "D": "5 % olmalıdır"
             },
             "correct_answer": "A",
             "explanation": ""
@@ -233,9 +233,9 @@
             "id": "q020",
             "question": "\"LR-1” abbreviaturası hansı növ tankerlәrin işarәlәnmәsindә istifadә olunur?",
             "options": {
-                "A": "Orta tonajlı tankerlərin",
-                "B": "Kiçiktonajlı kimyəvi tankerlərin",
-                "C": "2-ci sinif böyük tankerlərin",
+                "A": "6-ci sinif böyük tankerlәrin",
+                "B": "51-ci sinif böyük tankerlәrin",
+                "C": "21-ci sinif böyük tankerlәrin",
                 "D": "1-ci sinif böyük tankerlәrin"
             },
             "correct_answer": "D",
@@ -474,9 +474,9 @@
             "question": "”LR-2” abbreviaturası hansı növ tankerlәrin işarәlәnmәsindә istifadә olunur?",
             "options": {
                 "A": "2-ci sinif böyük tankerlәrin",
-                "B": "Supertankerlərin",
-                "C": "1-ci sinif böyük tankerlərin",
-                "D": "Ortatonajlı tankerlərin"
+                "B": "1-ci sinif böyük tankerlәrin",
+                "C": "32-ci sinif böyük tankerlәrin",
+                "D": "52-ci sinif böyük tankerlәrin"
             },
             "correct_answer": "A",
             "explanation": ""
@@ -486,9 +486,9 @@
             "question": "”VLCC” abbreviaturası hansı növ tankerlәrin işarәlәnmәsindә istifadә olunur?",
             "options": {
                 "A": "3-cü sinif böyük tankerlәrin",
-                "B": "1-ci sinif böyük tankerlərin",
-                "C": "Kiçiktonajlı tankerlərin",
-                "D": "2-ci sinif böyük tankerlərin"
+                "B": "8-cü sinif böyük tankerlәrin",
+                "C": "1-cü sinif böyük tankerlәrin",
+                "D": "53-cü sinif böyük tankerlәrin"
             },
             "correct_answer": "A",
             "explanation": ""
@@ -701,9 +701,9 @@
             "id": "q059",
             "question": "IBC kodeksinә әsasәn kimyәvi yük daşıyan tankerlәrdә yük tankları necә markalanmalıdır?",
             "options": {
-                "A": "I,II,III",
-                "B": "A,B,C,D",
-                "C": "X,Y,Z",
+                "A": "1,12,G,P",
+                "B": "51,32,G,P",
+                "C": "51,1,G,P",
                 "D": "1,2,G,P"
             },
             "correct_answer": "D",

@@ -533,10 +533,10 @@
             "id": "q045",
             "question": "INMARSAT sistemindә hansı peyk aid deyil",
             "options": {
-                "A": "POR (Sakit okean regionu)",
-                "B": "IOR (Hind okeanı regionu)",
+                "A": "156.8 MHs",
+                "B": "Daimi",
                 "C": "LEOSAR",
-                "D": "AOR-E (Atlantik okeanının şәrq regionu)"
+                "D": "3 әdәd"
             },
             "correct_answer": "C",
             "explanation": ""

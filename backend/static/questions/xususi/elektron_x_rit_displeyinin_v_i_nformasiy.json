@@ -545,9 +545,9 @@
             "id": "q046",
             "question": "Elektron xəritələrin nömrələnməsində Azərbaycanın kodu necə göstərilir?",
             "options": {
-                "A": "AZ",
-                "B": "4J",
-                "C": "99",
+                "A": "17A",
+                "B": "57A",
+                "C": "1A",
                 "D": "7A"
             },
             "correct_answer": "D",

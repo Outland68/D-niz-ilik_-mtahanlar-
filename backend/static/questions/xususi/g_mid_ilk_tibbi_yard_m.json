@@ -221,9 +221,9 @@
             "id": "q019",
             "question": "Әzәlәdaxili inyeksiya hansı bucaq altında aparılır?(sarğı әzәlәsinә)",
             "options": {
-                "A": "15 dərəcə",
-                "B": "180 dərəcə",
-                "C": "45 dərəcə",
+                "A": "13",
+                "B": "21",
+                "C": "9",
                 "D": "90"
             },
             "correct_answer": "D",
@@ -905,9 +905,9 @@
             "id": "q076",
             "question": "Orqanizmin birdәn birә neçә litr qan itirmәsi ölümlә nәticәlәnә bilәr?(70 kq)",
             "options": {
-                "A": "Huşsuz xəstənin ağzına su tökmək",
-                "B": "Qanayan nahiyəni ürək səviyyəsindən aşağı salmaq",
-                "C": "Yaranın içərisini yodla yumaq və pambıq qoymaq",
+                "A": "4-5 dәq",
+                "B": "soyuq kompres qoymaq",
+                "C": "75-80",
                 "D": "1, 5-2 L"
             },
             "correct_answer": "D",
@@ -965,10 +965,10 @@
             "id": "q081",
             "question": "Zәrәrçәkәnin huşu yoxdur,tәnәffüs edir və nәbz tәyin edilirsә zәrәrçәkәnә hansı vәziyyәt verilir?",
             "options": {
-                "A": "Yanıq nahiyəsinə yağ, maz və ya spirt çəkmək",
+                "A": "120/80",
                 "B": "Böyürü üstә",
-                "C": "Huşsuz xəstənin ağzına su tökmək",
-                "D": "Zəhərlənmə zamanı süni qusdurma yaratmaq və qan almaq"
+                "C": "16-18",
+                "D": "A-VI/4"
             },
             "correct_answer": "B",
             "explanation": ""

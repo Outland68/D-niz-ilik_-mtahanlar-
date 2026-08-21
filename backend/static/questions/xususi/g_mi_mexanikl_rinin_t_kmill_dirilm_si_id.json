@@ -78,9 +78,9 @@
             "question": "DHDNÇ-78 BK-ya edilmiş əlavələr onun tərkib hissəsi sayılırmı?",
             "options": {
                 "A": "Bəli sayılır",
-                "B": "Yalnız Bayraq Administrasiyası tərəfindən ratifikasiya olunduqdan sonra sayılır",
-                "C": "Xeyr, əlavələr ayrı-ayrı müstəqil konvensiya kimi qəbul edilir",
-                "D": "Xeyr, onlar sadəcə tövsiyə xarakterlidir"
+                "B": "25 mil",
+                "C": "6 saat",
+                "D": "Bir saat ərzində"
             },
             "correct_answer": "A",
             "explanation": ""
@@ -89,9 +89,9 @@
             "id": "q008",
             "question": "Konvensiyaya istinad etmək Konvensiyanın əlavələrinə istinad etmək hesab edilirmi?",
             "options": {
-                "A": "Yalnız Beynəlxalq Dəniz Təşkilatı (IMO) xüsusi qərar qəbul etdikdə edilir",
-                "B": "Xeyr, əlavələrə ayrıca istinad olunmalıdır",
-                "C": "Xeyr, istinad yalnız əsas mətnin maddələrinə şamil olunur",
+                "A": "Tez bir zamanda",
+                "B": "Bir saat ərzində",
+                "C": "6 saat",
                 "D": "Bəli edilir"
             },
             "correct_answer": "D",
