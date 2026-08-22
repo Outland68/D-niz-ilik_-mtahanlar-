@@ -41,7 +41,7 @@ const tryRefresh = async () => {
     });
     if (res.ok) {
       const data = await res.json();
-      saveTokens(data.access, null);
+      saveTokens(data.access, data.refresh || null);
       return true;
     }
   } catch (_) {}

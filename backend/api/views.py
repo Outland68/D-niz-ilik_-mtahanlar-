@@ -272,11 +272,18 @@ def refresh_token_view(request):
                     status=status.HTTP_401_UNAUTHORIZED
                 )
 
-        access_token = token.access_token
+        # Generate new refresh token to implement rotation
+        new_refresh_token = RefreshToken.for_user(user) if user else token
+        new_access_token = new_refresh_token.access_token
+        
         if token_session_key:
-            access_token['session_key'] = token_session_key
+            new_access_token['session_key'] = token_session_key
+            new_refresh_token['session_key'] = token_session_key
 
-        return Response({'access': str(access_token)})
+        return Response({
+            'access': str(new_access_token),
+            'refresh': str(new_refresh_token)
+        })
     except TokenError as e:
         return Response({'error': str(e)}, status=status.HTTP_401_UNAUTHORIZED)
 
