@@ -263,9 +263,12 @@ def refresh_token_view(request):
         user_id = token.payload.get('user_id')
         token_session_key = token.payload.get('session_key')
 
-        if user_id and token_session_key:
+        user = None
+        if user_id:
             user = User.objects.filter(id=user_id).first()
-            active_session = UserSession.objects.filter(user=user).first() if user else None
+            
+        if user and token_session_key:
+            active_session = UserSession.objects.filter(user=user).first()
             if active_session and active_session.session_key != token_session_key:
                 return Response(
                     {'error': 'Bu hesaba başqa bir cihazdan daxil olundu. Sizin sessiyanız sonlandırıldı.'},
