@@ -30,9 +30,34 @@ const authHeaders = () => ({
 });
 
 // ─── Try to refresh token silently ───────────────────
+let isRefreshing = false;
+let refreshSubscribers = [];
+
+const subscribeTokenRefresh = (cb) => {
+  refreshSubscribers.push(cb);
+};
+
+const onRefreshed = (token) => {
+  refreshSubscribers.forEach((cb) => cb(token));
+  refreshSubscribers = [];
+};
+
 const tryRefresh = async () => {
+  if (isRefreshing) {
+    return new Promise((resolve) => {
+      subscribeTokenRefresh((token) => {
+        resolve(!!token);
+      });
+    });
+  }
+
+  isRefreshing = true;
   const refresh = getRefreshToken();
-  if (!refresh) return false;
+  if (!refresh) {
+    isRefreshing = false;
+    return false;
+  }
+  
   try {
     const res = await fetch(`${BASE_URL}/auth/refresh/`, {
       method: 'POST',
@@ -42,9 +67,14 @@ const tryRefresh = async () => {
     if (res.ok) {
       const data = await res.json();
       saveTokens(data.access, data.refresh || null);
+      isRefreshing = false;
+      onRefreshed(data.access);
       return true;
     }
   } catch (_) {}
+  
+  isRefreshing = false;
+  onRefreshed(null);
   return false;
 };
 
