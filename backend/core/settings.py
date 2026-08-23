@@ -100,7 +100,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'postgres',
         'USER': 'postgres.szsfnoxwuflfxdjgphcq', # Supabase IPv4 Pooler Username
-        'PASSWORD': 'BURAYA_SUPABASE_PAROLUNUZU_YAZIN', 
+        'PASSWORD': 'Nitrosense2006.', 
         'HOST': 'aws-0-ap-northeast-2.pooler.supabase.com',
         'PORT': '5432',
     }
