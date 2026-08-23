@@ -148,15 +148,46 @@ def register_view(request):
     import threading
     from django.core.mail import send_mail
 
-    # Send email synchronously to avoid Thread deaths on Render and catch errors
-    from django.core.mail import send_mail
-    try:
-        subject = "Dənizçilik İmtahanları - Qeydiyyat Təsdiq Kodu"
-        message = f"Hərvaxtınız xeyir,\n\nDənizçilik İmtahanları platformasında qeydiyyatdan keçmək üçün təsdiq kodunuz: {code}\n\nBu kodu qeydiyyat pəncərəsinə daxil edərək hesabınızı aktivləşdirin.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
-        send_mail(subject, message, settings.DEFAULT_FROM_EMAIL, [email], fail_silently=False)
-    except Exception as smtp_err:
-        del EMAIL_VERIFICATION_CODES[email]
-        return Response({'error': f'E-poçt göndərilərkən xəta baş verdi. Sistem xətası: {str(smtp_err)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+    # 1. n8n Webhook integration (HTTP over port 443 bypassing Render SMTP blocks)
+    import urllib.request
+    import json
+    
+    n8n_url = os.environ.get('N8N_WEBHOOK_URL', '')
+    if not n8n_url and hasattr(settings, 'N8N_WEBHOOK_URL'):
+        n8n_url = getattr(settings, 'N8N_WEBHOOK_URL', '')
+    
+    if n8n_url:
+        try:
+            payload = {
+                'email': email,
+                'code': code,
+                'type': 'register',
+                'username': username or 'İstifadəçi'
+            }
+            data_bytes = json.dumps(payload).encode('utf-8')
+            req = urllib.request.Request(
+                n8n_url,
+                data=data_bytes,
+                headers={'Content-Type': 'application/json'},
+                method='POST'
+            )
+            with urllib.request.urlopen(req, timeout=10) as response:
+                if response.status not in [200, 201]:
+                    del EMAIL_VERIFICATION_CODES[email]
+                    return Response({'error': f'n8n Webhook xətası: {response.status}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+        except Exception as web_err:
+            del EMAIL_VERIFICATION_CODES[email]
+            return Response({'error': f'n8n Webhook xətası: {str(web_err)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+    else:
+        # 2. Django SMTP Fallback (Will likely timeout on Render Free Tier)
+        from django.core.mail import send_mail
+        try:
+            subject = "Dənizçilik İmtahanları - Qeydiyyat Təsdiq Kodu"
+            message = f"Hərvaxtınız xeyir,\n\nDənizçilik İmtahanları platformasında qeydiyyatdan keçmək üçün təsdiq kodunuz: {code}\n\nBu kodu qeydiyyat pəncərəsinə daxil edərək hesabınızı aktivləşdirin.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
+            send_mail(subject, message, settings.DEFAULT_FROM_EMAIL, [email], fail_silently=False)
+        except Exception as smtp_err:
+            del EMAIL_VERIFICATION_CODES[email]
+            return Response({'error': f'SMTP Xətası (Render port bloklaması ola bilər): {str(smtp_err)}. Xahiş edirik n8n Webhook qurun.'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 
     return Response({
@@ -283,17 +314,50 @@ def send_reset_code_view(request):
     import threading
     from django.core.mail import send_mail
 
-    # Send email synchronously
-    from django.core.mail import send_mail
-    try:
-        subject = "Dənizçilik İmtahanları - Şifrə Sıfırlama Kodu"
-        message = f"Hərvaxtınız xeyir {user.username},\n\nŞifrənizi sıfırlamaq üçün təsdiq kodunuz: {code}\n\nBu kodu heç kimlə paylaşmayın.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
-        send_mail(subject, message, settings.DEFAULT_FROM_EMAIL, [user.email], fail_silently=False)
-    except Exception as e:
-        del RESET_CODES[user.email]
-        if email in RESET_CODES:
-            del RESET_CODES[email]
-        return Response({'error': f'E-poçt göndərilərkən xəta: {str(e)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+    # 1. n8n Webhook integration (HTTP over port 443 bypassing Render SMTP blocks)
+    import urllib.request
+    import json
+    
+    n8n_url = os.environ.get('N8N_WEBHOOK_URL', '')
+    if not n8n_url and hasattr(settings, 'N8N_WEBHOOK_URL'):
+        n8n_url = getattr(settings, 'N8N_WEBHOOK_URL', '')
+    
+    if n8n_url:
+        try:
+            payload = {
+                'email': user.email,
+                'code': code,
+                'type': 'reset',
+                'username': user.username
+            }
+            data_bytes = json.dumps(payload).encode('utf-8')
+            req = urllib.request.Request(
+                n8n_url,
+                data=data_bytes,
+                headers={'Content-Type': 'application/json'},
+                method='POST'
+            )
+            with urllib.request.urlopen(req, timeout=10) as response:
+                if response.status not in [200, 201]:
+                    del RESET_CODES[user.email]
+                    if email in RESET_CODES: del RESET_CODES[email]
+                    return Response({'error': f'n8n Webhook xətası: {response.status}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+        except Exception as web_err:
+            del RESET_CODES[user.email]
+            if email in RESET_CODES: del RESET_CODES[email]
+            return Response({'error': f'n8n Webhook xətası: {str(web_err)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+    else:
+        # Send email synchronously
+        from django.core.mail import send_mail
+        try:
+            subject = "Dənizçilik İmtahanları - Şifrə Sıfırlama Kodu"
+            message = f"Hərvaxtınız xeyir {user.username},\n\nŞifrənizi sıfırlamaq üçün təsdiq kodunuz: {code}\n\nBu kodu heç kimlə paylaşmayın.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
+            send_mail(subject, message, settings.DEFAULT_FROM_EMAIL, [user.email], fail_silently=False)
+        except Exception as e:
+            del RESET_CODES[user.email]
+            if email in RESET_CODES:
+                del RESET_CODES[email]
+            return Response({'error': f'SMTP Xətası: {str(e)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 
     return Response({
