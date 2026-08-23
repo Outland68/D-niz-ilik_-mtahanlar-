@@ -1,0 +1,350 @@
+1. Kimyәvi yük daşıyan tankerlәrin tikilmәsini tәnzimlәyәn әsas rәhbәr sәnәd hansıdır?
+A) Sərbəst səth effektinin (Free Surface Effect) nəzərə alınması
+B) Zəhərli maye maddələrin (NLS) kateqoriyaları
+C) Deqazasiya əməliyyatı zamanı oksigenin yoxlanılması
+D) Kimyәvi yük daşıyan tankerlәrin tikilmәsi vә tәchiz olunması mәcәllәsi (İBC)
+Doğru cavab: D
+
+2. Hansı beynəlxalq konvensiyalar biləvasitə kimyəvi yük daşıyan gəmilərə aiddir? 1. SOLAS-1974/1995; 2. MARPOL-1973/1978; 3. DHDNÇ-1978-1995; 4. Gәmi-vertolyot әmәliyyatları üçün rәhbәrlik; 5. Tәmiz dәniz üçün rәhbәrlik.
+A) Deqazasiya əməliyyatı zamanı oksigenin yoxlanılması
+B) 1,2,3
+C) Zəhərli maye maddələrin (NLS) kateqoriyaları
+D) P&A (Prosedur və Təşkiletmə) Təlimat kitabçasına əsasən
+Doğru cavab: B
+
+3. Yük zonasının konstruktiv müdafiәsinә görә kimyәvi yük daşıyan tankerlәr neçә tipә bölünürlәr?
+A) Dəniz mühitinin çirklənməsinin qarşısının alınması
+B) 3
+C) Antistatik tədbirlərin görülməsi
+D) IGC Məcəlləsinə uyğun olaraq
+Doğru cavab: B
+
+4. I tip kimyәvi yük daşıyan tankerlәrdә yük tanklarından borta qәdәr olan mәsafә neçә metrdir?
+A) MARPOL Əlavə II tələblərinə riayət etməklə
+B) 11,5 metr
+C) Yük tanklarının yuyulma təlimatına uyğun olaraq
+D) Zəhərli maye maddələrin (NLS) kateqoriyaları
+Doğru cavab: B
+
+5. II tip kimyәvi yük daşıyan tankerlәrdә yük tanklarından borta qәdәr olan mәsafә neçә metrdir?
+A) Xüsusi kimyəvi geyim və qoruyucu vasitələrdən istifadə
+B) 0,760 metr
+C) Gəmi-Sahil təhlükəsizlik yoxlama vərəqəsi (Ship/Shore Safety Checklist)
+D) Yük tanklarının yuyulma təlimatına uyğun olaraq
+Doğru cavab: B
+
+6. I tip kimyәvi yük daşıyan tankerlәrdә hәr bir ayrı tanklardakı yükün maksimal hәcm göstәricisi nә qәdәr olmalıdır ?
+A) Dəniz mühitinin çirklənməsinin qarşısının alınması
+B) Yükləmə-boşaltma planının (Cargo Plan) təsdiqi
+C) 1250 m3
+D) IBC Məcəlləsinin 15-ci fəslinin tələblərinə əsasən
+Doğru cavab: C
+
+7. II tip kimyәvi yük daşıyan tankerlәrdә hәr bir ayrı tanklardakı yükün maksimal hәcm göstәricisi neçә m3-dir?
+A) MARPOL Əlavə II tələblərinə riayət etməklə
+B) Yük tanklarının yuyulma təlimatına uyğun olaraq
+C) IGC Məcəlləsinə uyğun olaraq
+D) 3000 m3
+Doğru cavab: D
+
+8. Kimyәvi yük daşıyan tankerlәrdә yük boru xәttlәri әn azı hansı tәzyiqә davam gәtirmәlidir?
+A) Buxar qayıtma sisteminin (Vapor Return System) işə salınması
+B) 10 kq/ sm2
+C) IBC Məcəlləsinin 15-ci fəslinin tələblərinə əsasən
+D) Tank yuma sularının (Slop) təhvil verilməsi qaydası
+Doğru cavab: B
+
+9. 1999-cu ildә vә ondan sonra tikilәn tankerlәrdә beynәlxalq tәlәblәrә görә hәr bir tankda yükün maksimal qalığı nә qәdәr olmalıdır?
+A) 20 litr
+B) Qapalı məkana giriş proseduruna əsasən
+C) Gəmi-Sahil təhlükəsizlik yoxlama vərəqəsi (Ship/Shore Safety Checklist)
+D) Yük sisteminin hidravlik sınaqdan keçirilməsi
+Doğru cavab: A
+
+10. Kimyәvi yük daşıyan tankerlәrdә qazayırıcı sistemin neçә tipi var?
+A) IGC Məcəlləsinə uyğun olaraq
+B) 2
+C) Buxar qayıtma sisteminin (Vapor Return System) işə salınması
+D) Dəniz mühitinin çirklənməsinin qarşısının alınması
+Doğru cavab: B
+
+11. Kimyәvi yük daşıyan tankerlәrdә qazxaricedici kalonkalar üst göyәrtәdәn hansı hündürlükdә quraşdırılır?
+A) Qapalı məkana giriş proseduruna əsasən
+B) 7 metr
+C) Tankın inert qazla təchiz olunması
+D) Yük sisteminin hidravlik sınaqdan keçirilməsi
+Doğru cavab: B
+
+12. Kimyәvi yük daşıyan tankerlәrdә qazxaricedici kalonkalar giriş dәliklәrindәn hansı tәhlükәsiz mәsafәdә quraşdırılır?
+A) Yük sisteminin hidravlik sınaqdan keçirilməsi
+B) Deqazasiya əməliyyatı zamanı oksigenin yoxlanılması
+C) Zəhərli maye maddələrin (NLS) kateqoriyaları
+D) 10 metr
+Doğru cavab: D
+
+13. Kimyəvi yük daşıyan tankerlər haqqında Beynəlxalq Konvensiyaya görə nasosların üzərində hansı dəqiq markirovka olmalıdır? 1. Nasosların tәzyiqi; 2. Nasosların tәyinatı; 3. Sovurma hündürlüyü; 4. Mәsafәdәn söndürülmәsi; 5. Nasosların mәhsuldarlığı.
+A) Tankların ventilyasiya rejimi
+B) 2,4
+C) Yük tanklarının yuyulma təlimatına uyğun olaraq
+D) Tankın inert qazla təchiz olunması
+Doğru cavab: B
+
+14. Kimyәvi yük daşıyan tankerlәrdә neçә tip tank mövcuddur?
+A) 4
+B) Qapalı məkana giriş proseduruna əsasən
+C) Kofurdamların və ballast tanklarının yoxlanılması
+D) IGC Məcəlləsinə uyğun olaraq
+Doğru cavab: A
+
+15. Kimyәvi yük daşıyan tankerlәrdә yükün keyfiyyәti vә tәhlükәsizliyi üçün kim mәsuliyyәt daşıyır?
+A) Gəmi-Sahil təhlükəsizlik yoxlama vərəqəsi (Ship/Shore Safety Checklist)
+B) Kimyəvi yüklərin bir-birinə uyğunluğu cədvəlinə əsasən
+C) Kapitan
+D) Tankın içərisindəki atmosferin zəhərlilik dərəcəsi
+Doğru cavab: C
+
+16. Yük әmәliyyatına başlamazdan әvvәl gәmidә әsas nәyi yoxlamaq lazımdır?
+A) Yükün yuxarı hәddә olmasını bildirәn müstәqil siqnalizasiyanı
+B) IGC Məcəlləsinə uyğun olaraq
+C) Antistatik tədbirlərin görülməsi
+D) Qapalı məkana giriş proseduruna əsasən
+Doğru cavab: A
+
+17. Kimyәvi yük daşıyan tankerlәrdә tanklarda hava atmosferinin tәnzimlәnmәsinin neçә üsulu var?
+A) 4
+B) Kimyəvi yüklərin bir-birinə uyğunluğu cədvəlinə əsasən
+C) Tankın inert qazla təchiz olunması
+D) Sərbəst səth effektinin (Free Surface Effect) nəzərə alınması
+Doğru cavab: A
+
+18. Kimyәvi yük daşıyan tankerlәrdә әn qorxulu tәhlükә nәdir?
+A) Gəmi-Sahil təhlükəsizlik yoxlama vərəqəsi (Ship/Shore Safety Checklist)
+B) Yanğın
+C) Fövqəladə hallarda müdaxilə planı (SOPEP/SMPEP)
+D) Yükləmə-boşaltma planının (Cargo Plan) təsdiqi
+Doğru cavab: B
+
+19. Yük zonası әrazisindә yanğın zamanı stasionar köpüklә yanğın söndürәn qurğunun ehtiyatı nә qәdәr vaxta çatmalıdır?
+A) Dəniz mühitinin çirklənməsinin qarşısının alınması
+B) 30 dәq.
+C) Xüsusi kimyəvi geyim və qoruyucu vasitələrdən istifadə
+D) P&A (Prosedur və Təşkiletmə) Təlimat kitabçasına əsasən
+Doğru cavab: B
+
+20. Yük nasos şöbәsinin yaxınlığında olan xüsusi xilasedici avadanlığın komplektindә olan avtonom nәfәsalma aparatının hava ehtiyatı nә qәdәr vaxta çatmalıdır?
+A) Yükləmə-boşaltma planının (Cargo Plan) təsdiqi
+B) 20 dәq.
+C) Tank yuma sularının (Slop) təhvil verilməsi qaydası
+D) Kofurdamların və ballast tanklarının yoxlanılması
+Doğru cavab: B
+
+21. Qaynar işlәrin aparılması üçün deqazasiya olan әrazidә oksigenin hәcm faizi nә qәdәr olmalıdır?
+A) Yük sisteminin hidravlik sınaqdan keçirilməsi
+B) 21 %
+C) Nasosların nominal işçi təzyiqi
+D) MARPOL Əlavə II tələblərinə riayət etməklə
+Doğru cavab: B
+
+22. Әgәr kimyәvi yük daşıyan tankerdә daşınan yükün qızdırılması tәlәb olunarsa, hansı әmәliyyat yerinә yetirilmәlidir?
+A) Tankın inert qazla təchiz olunması
+B) Yük tanklarının yuyulma təlimatına uyğun olaraq
+C) Xüsusi kimyəvi geyim və qoruyucu vasitələrdən istifadə
+D) Qızdırcı sistemin boruları işçi tәzyiqә yoxlanılmalıdır
+Doğru cavab: D
+
+23. Әgәr kimyәvi yük daşıyan tankerdә ballast tanklarının, koferdamların havalandırılması üçün daşınan ventilyatorlar işlәdilirsә, IBC kodeksinin tәlәblәrinә әsasәn ventilyatorun mәhsuldarlığı nә qәdәr olmalıdır?
+A) Saatda 16 dәfә hava dәyişilmәlidir
+B) Tank yuma sularının (Slop) təhvil verilməsi qaydası
+C) Gəmi-Sahil təhlükəsizlik yoxlama vərəqəsi (Ship/Shore Safety Checklist)
+D) P&A (Prosedur və Təşkiletmə) Təlimat kitabçasına əsasən
+Doğru cavab: A
+
+24. “Gәmi-Sahil" yoxlama vәrәqinin tәlәbi ilә hansı sistemlәrin işlәk olmasına әminlik olmalıdır?
+A) Kofurdamların və ballast tanklarının yoxlanılması
+B) Tankın içərisindəki atmosferin zəhərlilik dərəcəsi
+C) Qızdırıcı sistemin
+D) Yük tanklarının yuyulma təlimatına uyğun olaraq
+Doğru cavab: C
+
+25. Tankerlәrdә "yanğın tәhlükәsizliyi üzrә ümumi qaydalar" hansı Beynәlxalq Konvensiya ilә nәzәrdә tutulmuşdur?
+A) Yük sisteminin hidravlik sınaqdan keçirilməsi
+B) Tankın inert qazla təchiz olunması
+C) SOLAS-1974
+D) Qapalı məkana giriş proseduruna əsasən
+Doğru cavab: C
+
+26. Kimyәvi yük daşıyan tankerdә neft mәhsulları ilә yük әmәliyyatlarının qeydiyyatı harada aparılır?
+A) Buxar qayıtma sisteminin (Vapor Return System) işə salınması
+B) Yük әmәliyyatları jurnalında
+C) IBC Məcəlləsinin 15-ci fəslinin tələblərinə əsasən
+D) Zəhərli maye maddələrin (NLS) kateqoriyaları
+Doğru cavab: B
+
+27. Beynәlxalq tәlәblәrә әsasәn gәminin sәlahiyyәtli cәmiyyәtlәr tәrәfindәn şәhadәtlәndirilmәsi vә şәhadәtlәndirmәnin yenilәnmәsinә kim mәsuliyyәt daşıyır?
+A) Buxar qayıtma sisteminin (Vapor Return System) işə salınması
+B) MARPOL Əlavə II tələblərinə riayət etməklə
+C) Kapitan
+D) Deqazasiya əməliyyatı zamanı oksigenin yoxlanılması
+Doğru cavab: C
+
+28. Yük әmәliyyatlarına başlamazdan әvvәl radiolokasiya (RLS) stansiyasına hansı tәlәb qoyulur?
+A) Stansiya söndürülmәlidir
+B) Buxar qayıtma sisteminin (Vapor Return System) işə salınması
+C) Zəhərli maye maddələrin (NLS) kateqoriyaları
+D) MARPOL Əlavə II tələblərinə riayət etməklə
+Doğru cavab: A
+
+29. Tankerlәrdә yük magistralları hansı tәzyiqә vә neçә müddәtdәn bir sınaqdan keçirilir?
+A) Fövqəladə hallarda müdaxilə planı (SOPEP/SMPEP)
+B) Gəmi-Sahil təhlükəsizlik yoxlama vərəqəsi (Ship/Shore Safety Checklist)
+C) Yükləmə-boşaltma planının (Cargo Plan) təsdiqi
+D) Hәr il, işçi tәzyiqin 150% -i qәdәr
+Doğru cavab: D
+
+30. Heyvan vә bitki mәnşәli yağların dәnizlә daşımalar şәraitini hansı standartlar tәyin edir? 1. NOLP; 2. FOSFA; 3. IGC Code; 4. SOLAS-74.
+A) IGC Məcəlləsinə uyğun olaraq
+B) 1,2
+C) Gəminin təhlükəsizlik idarəetmə sisteminə (SMS) əsasən
+D) Tankın içərisindəki atmosferin zəhərlilik dərəcəsi
+Doğru cavab: B
+
+31. Yük әmәliyyatlarında iştirak edәn heyәt üzvlәrinә "Gәmi-Sahil" yoxlama vәrәqinin qoyduğu tәlәb nәdir?
+A) Heyyәt üzvlәri yükün zәhәrlәnmә xüsusiyyәtini bilmәlidir
+B) Tank yuma sularının (Slop) təhvil verilməsi qaydası
+C) Kofurdamların və ballast tanklarının yoxlanılması
+D) Nasosların nominal işçi təzyiqi
+Doğru cavab: A
+
+32. Yanğınsöndürmә lәvazimatında olan nәfәsalma aparatlarının ümumi hava ehtiyatı nә qәdәr olmalıdır?
+A) Kofurdamların və ballast tanklarının yoxlanılması
+B) P&A (Prosedur və Təşkiletmə) Təlimat kitabçasına əsasən
+C) Qapalı məkana giriş proseduruna əsasən
+D) 7200 litr
+Doğru cavab: D
+
+33. Qapalı әrazidә işlәmәk üçün icazә hansı müddәtә verilir?
+A) IBC Məcəlləsinin 15-ci fəslinin tələblərinə əsasən
+B) iş günü әrzindә
+C) Sərbəst səth effektinin (Free Surface Effect) nəzərə alınması
+D) Fövqəladə hallarda müdaxilə planı (SOPEP/SMPEP)
+Doğru cavab: B
+
+34. SOLAS-74 tәlәblәrinә uyğun olaraq tankerlәrdә minimum neçә komplekt yanğına qarşı lәvazimat nәzәrdә tutulmuşdur?
+A) azı 4 komplekt
+B) Tankların ventilyasiya rejimi
+C) Dəniz mühitinin çirklənməsinin qarşısının alınması
+D) MARPOL Əlavə II tələblərinə riayət etməklə
+Doğru cavab: A
+
+35. BDT-nin (IMO) tәlәbinә әsasәn kimyәvi yüklә işlәmәk üçün nәfәsalma aparatının hava ehtiyatı minimum nә qәdәr olmalıdır?
+A) Fövqəladə hallarda müdaxilə planı (SOPEP/SMPEP)
+B) 20 dәq
+C) IBC Məcəlləsinin 15-ci fəslinin tələblərinə əsasən
+D) Antistatik tədbirlərin görülməsi
+Doğru cavab: B
+
+36. Elektrostatik cәrәyanın әmәlә gәlmә sәbәblәri hansılardır? 1. Yükdә suyun olması; 2. Yük tanklarının su ilә yuyulması; 3. Yükün tanka sәrbәst düşmәsi; 4. Uçan yüklәri yüklәyәn zaman; 5. Yük tanklarının xam neftlә yuyulması.
+A) P&A (Prosedur və Təşkiletmə) Təlimat kitabçasına əsasən
+B) 1;2;3;4;5
+C) Tankın içərisindəki atmosferin zəhərlilik dərəcəsi
+D) Antistatik tədbirlərin görülməsi
+Doğru cavab: B
+
+37. Kimyәvi yük daşıyan tankerlәrdә tanklar necә markalanmalıdır?
+A) P&A (Prosedur və Təşkiletmə) Təlimat kitabçasına əsasən
+B) Dəniz mühitinin çirklənməsinin qarşısının alınması
+C) 1; 2; G; P
+D) Xüsusi kimyəvi geyim və qoruyucu vasitələrdən istifadə
+Doğru cavab: C
+
+38. MARPOL-73/78 tәlәblәrinә әsasәn tanker ballastla hәrәkәtdә olarkәn minimal orta suya oturumu nә qәdәr olmalıdır?
+A) Yük sisteminin hidravlik sınaqdan keçirilməsi
+B) Sərbəst səth effektinin (Free Surface Effect) nəzərə alınması
+C) 2 metr + 2% gәminin uzunluğundan
+D) IGC Məcəlləsinə uyğun olaraq
+Doğru cavab: C
+
+39. "Gәmi-Sahil" yoxlama vәrәqinin tәlәbi ilә gәminin torpaqlanması yerinә yetirilib. Tәcridedici flansın nәticәsi:
+A) Tankların ventilyasiya rejimi
+B) Sərbəst səth effektinin (Free Surface Effect) nəzərə alınması
+C) Tankın inert qazla təchiz olunması
+D) Lazımdır
+Doğru cavab: D
+
+40. Kimyәvi yük daşıyan tankerlәrdә yük әmәliyyatlarının qeydiyyatı hansı jurnalda aparılır?
+A) Zəhərli maye maddələrin (NLS) kateqoriyaları
+B) Tankların ventilyasiya rejimi
+C) Yük әmәliyyatları jurnalı
+D) Deqazasiya əməliyyatı zamanı oksigenin yoxlanılması
+Doğru cavab: C
+
+41. MARPOL-73/78, II Əlavәsinin tәlәblәrinә әsasәn, 1986-cı ildәn sonra tikilәn tankerlәrdә "C" kateqoriyalı yüklәri boşaltdıqdan vә tanklar tәmizlәndikdәn sonra maksimal qalıq nә qәdәr olmalıdır?
+A) 100 litr
+B) IBC Məcəlləsinin 15-ci fəslinin tələblərinə əsasən
+C) Kofurdamların və ballast tanklarının yoxlanılması
+D) Tankların ventilyasiya rejimi
+Doğru cavab: A
+
+42. MARPOL-73/78, II Əlavәsinin tәlәblәrinә әsasәn 1986-cı ildәn әvvәl tikilәn tankerlәrdә "C" kateqoriyalı yüklәri boşaltdıqdan vә tanklar tәmizlәndikdәn sonra maksimal qalıq nә qәdәr olmalıdır?
+A) Qapalı məkana giriş proseduruna əsasən
+B) Deqazasiya əməliyyatı zamanı oksigenin yoxlanılması
+C) Tankların ventilyasiya rejimi
+D) 900 litr
+Doğru cavab: D
+
+43. Yük şlanqlarının üzәrindә onların yüklә işә yararlı olması barәdә hansı markirovka vurulur? 1. Hidrostatik sınaq tarixi; 2. Şlanqın çәkisi; 3. Sınaq tәzyiqi; 4. Şlanqın uzunluğu; 5. Şlanqın hansı yükә aid olması.
+A) Sərbəst səth effektinin (Free Surface Effect) nəzərə alınması
+B) Deqazasiya əməliyyatı zamanı oksigenin yoxlanılması
+C) Tank yuma sularının (Slop) təhvil verilməsi qaydası
+D) 1,3,5
+Doğru cavab: D
+
+44. MARPOL-73/78 Beynәlxalq Konvensiyanın hansı әlavәsinin tәlәblәrinә әsasәn gәmilәrdә zibillә çirklәnmәnin qarşısı alınır?
+A) Tankın içərisindəki atmosferin zəhərlilik dərəcəsi
+B) Qapalı məkana giriş proseduruna əsasən
+C) Gəminin təhlükəsizlik idarəetmə sisteminə (SMS) əsasən
+D) Әlavә V
+Doğru cavab: D
+
+45. MARPOL-73/78 II əlavəsinin tələblərinə əsasən "xüsusi rayon" - lar hansılardır? 1. Qara dәniz; 2. Qırmızı dәniz; 3. Baltik dәnizi; 4. Aralıq dәnizi; 5. Antarktika.
+A) Gəminin təhlükəsizlik idarəetmə sisteminə (SMS) əsasən
+B) Buxar qayıtma sisteminin (Vapor Return System) işə salınması
+C) Tankın inert qazla təchiz olunması
+D) 1,3,5
+Doğru cavab: D
+
+46. BK MARPOL-73/78 təyin etdiyi "xüsusi rayon" larda 12 mildən az olmayan məsafədə nəyi gəmidən tullamaq olar? 1. Diri balıq; 2. Plasmasın bütün növlәri; 3. Sintetik troslar; 4. Xırdalanmış qida tullantıları; 5. Zibil üçün plasmas kisәlәr.
+A) Nasosların nominal işçi təzyiqi
+B) Tankın içərisindəki atmosferin zəhərlilik dərəcəsi
+C) 1,4
+D) Xüsusi kimyəvi geyim və qoruyucu vasitələrdən istifadə
+Doğru cavab: C
+
+47. Kimyәvi yük daşıyan tankerdә yük tankında olan qoruyucu klapan hansı maksimal tәzyiqdә açılmalıdır?
+A) P&A (Prosedur və Təşkiletmə) Təlimat kitabçasına əsasən
+B) 2100 s.s
+C) Antistatik tədbirlərin görülməsi
+D) Dəniz mühitinin çirklənməsinin qarşısının alınması
+Doğru cavab: B
+
+48. BK MARPOL-73/78 tәyin etdiyi "zibil" anlayışına hansı tullantılar aiddir? 1. Mәişәt tullantıları; 2. Şüşә mәmulatları; 3. İstismar tullantıları; 4. Metallar; 5. Qida tullantıları.
+A) Tankın içərisindəki atmosferin zəhərlilik dərəcəsi
+B) Yük tanklarının yuyulma təlimatına uyğun olaraq
+C) 1,3,5
+D) Kofurdamların və ballast tanklarının yoxlanılması
+Doğru cavab: C
+
+49. Tankların maye yüklәrlә doldurulmasının maksimal hәddi nә qәdәrdir?
+A) 98%
+B) Yük sisteminin hidravlik sınaqdan keçirilməsi
+C) Kofurdamların və ballast tanklarının yoxlanılması
+D) Kimyəvi yüklərin bir-birinə uyğunluğu cədvəlinə əsasən
+Doğru cavab: A
+
+50. Kimyәvi yük daşıyan tankerlәrdә istifadә olunan yük şlanqları hansı minimal tәzyiqә davamlı olmalıdır?
+A) Gəmi-Sahil təhlükəsizlik yoxlama vərəqəsi (Ship/Shore Safety Checklist)
+B) 10 bar
+C) Tankın içərisindəki atmosferin zəhərlilik dərəcəsi
+D) Buxar qayıtma sisteminin (Vapor Return System) işə salınması
+Doğru cavab: B
+

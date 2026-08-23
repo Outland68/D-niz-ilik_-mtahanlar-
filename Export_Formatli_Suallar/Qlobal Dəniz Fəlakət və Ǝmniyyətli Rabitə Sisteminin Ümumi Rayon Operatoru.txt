@@ -1,0 +1,350 @@
+VHF-radiostansiyası ilә DSC rejimindә verilmiş yanlış fәlakәt siqnalı hansı kanalda lәğv edilir?
+A) 70 Ch
+B) 16 Ch
+C) 13 Ch
+D) 06 Ch
+Doğru cavab: B
+
+SART-ın açıqlamasını göstәrin:
+A) Peyk rabitә terminalı
+B) Avtomatik identifikasiya sistemi
+C) Radiolokasiya cavabvericisi
+D) Qısa dalğalı ötürücü cihaz
+Doğru cavab: C
+
+HF- nin açıqlamasını göstәrin:
+A) Santimetr dalğalar
+B) Qısa dalğalar
+C) Uzun dalğalar
+D) Ultra qısa dalğalar
+Doğru cavab: B
+
+MF-nin açıqlamasını göstәrin:
+A) Millimetr dalğalar
+B) Qısa dalğalar
+C) Ara dalğalar
+D) Mikrodalğalar
+Doğru cavab: C
+
+Heç bir stansiya tәrәfindәn DSC fәlakət siqnalı tәsdiq olunmadıqda nә edir?
+A) Cihaz avtomatik sönür
+B) 10 dәqiqәdәn bir tәkrar olunur
+C) 1 saatdan sonra yenidәn göndәrilir
+D) 3,5-4,5 dәqiqәdәn bir avtomatik tәkrar olunur
+Doğru cavab: D
+
+DSC-nin açıqlamasını göstәrin:
+A) Avtomatik qәza ötürücüsü
+B) Uzaq mәsafәli radar siqnalı
+C) Peyk rabitә sistemi
+D) Rәqәmsal seçilmә çağırışı
+Doğru cavab: D
+
+EPİRB-nin açıqlamasını göstәrin:
+A) Qәza radiobuyu
+B) Gәmi daxili rabitә sistemi
+C) Radiolokasiya transponderi
+D) Naviqasiya mәlumatları qәbuledicisi
+Doğru cavab: A
+
+VHF-nin açıqlamasını göstәrin:
+A) Uzun dalğalar
+B) Qısa dalğalar
+C) Ultra qısa dalğalar
+D) Ara dalğalar
+Doğru cavab: C
+
+“Listing” hansı fәlakәt növünә aid olunur?
+A) Suyun gәmiyә dolması
+B) Gәminin saya oturması
+C) Gәmidә yanğın
+D) Gәminin tәhlükәli kreni (meyililik)
+Doğru cavab: D
+
+“Undesignated” hansı fәlakәt növünә aid olunur?
+A) Gәminin batması
+B) Quldur hücumu
+C) Dәnizә adam düşmәsi
+D) Tәyin olunmamış
+Doğru cavab: D
+
+“Abandoning ship” hansı fәlakәt növünә aid olunur?
+A) Gәminin tәrk edilmәsi
+B) Sükandakı nasazlıq
+C) Gәminin toqquşması
+D) Mühәrrikin sıradan çıxması
+Doğru cavab: A
+
+Sәfәrә çıxmazdan әvvәl GMDSS operatoru nәyi mütlәq yoxlamalıdır?
+A) Bütün radio avadanlığı vә ehtiyat enerji mәnbәlәri
+B) Yalnız VHF radiostansiyası
+C) Gәminin naviqasiya işıqları
+D) Yalnız SART vә EPIRB cihazları
+Doğru cavab: A
+
+MMSI abreviaturasını açıqlayın:
+A) Dәniz mobil servis identifikasiya nömrәsi
+B) Peyk naviqasiya nömrәsi
+C) Qlobal dәniz rabitә kodu
+D) Gәmi reyestrinin seriyası
+Doğru cavab: A
+
+MMSI nömrәsini birinci üç rәqәmi nәyi göstәrir?
+A) Gәminin tonnajı
+B) Gәmi sahibinin kodu
+C) İstehsalçı şirkәtin nömrәsi
+D) Milli mәnsubiyyәtin kodu
+Doğru cavab: D
+
+Fәlakәt zamanı radioәlaqənin aparılması üçün mәslәhәt görülәn rejim hansıdır?
+A) Teleks rejimi
+B) Yalnız DSC vasitәsilә
+C) Teleqraf rabitәsi
+D) Radiotelefon rabitəsi
+Doğru cavab: D
+
+VHF radiostansiyalar radio dalğalarının hansı diapazonunda işlәyirlәr?
+A) Qısa dalğalar
+B) Ultra qısa dalğalar
+C) Mikrodalğalar
+D) Ara dalğalar
+Doğru cavab: B
+
+VHF-dә Fәlakәt,Tәcili vә Çağırış beynәlxalq kanalı hansıdır?
+A) 16 Ch
+B) 06 Ch
+C) 13 Ch
+D) 70 Ch
+Doğru cavab: A
+
+16 kanalın tezliyi hansıdır?
+A) 2182 KHs
+B) 156.8 MHs
+C) 156.525 MHs
+D) 156.3 MHs
+Doğru cavab: B
+
+Aşağıda sadalananlardan hansı “Dupleks”kanalı hesab olunur?
+A) Yalnız qәbul edәn kanal
+B) Qәbulun vә ötürülmәnin eyni tezlikli kanal
+C) Yalnız ötürücü kanal
+D) Qәbulun vә ötürülmәnin müxtәlif tezlikli kanal
+Doğru cavab: D
+
+Gәmilәr arası dәnizdә üzmәnin tәhlükәsizliyi haqqında mәlumatın ötürülmәsi hansı kanalda aparılır?
+A) 16 Ch
+B) 09 Ch
+C) 70 Ch
+D) 13 Ch
+Doğru cavab: D
+
+Aşağıda sadalananlardan hansı “Simpleks” kanalı hesab olunur?
+A) Qәbulun vә ötürülmənin eyni tezlikli kanal
+B) Yalnız qәbul edәn kanal
+C) Yalnız ötürücü kanal
+D) Qәbulun vә ötürülmәnin müxtәlif tezlikli kanal
+Doğru cavab: A
+
+VHF radiostansiyalar DSC radionövbәsini hansı kanalda aparılır?
+A) 16 Ch
+B) 13 Ch
+C) 06 Ch
+D) 70 Ch
+Doğru cavab: D
+
+“Collision” hansı fәlakәt növünә aid olunur?
+A) Gәminin saya oturması
+B) Gәmidә partlayış
+C) Gәminin batması
+D) Gәminin toqquşması
+Doğru cavab: D
+
+MF diapazonunda Fәlakәt, Tәcili vә Çağırış beynәlxalq kanalı hansıdır?
+A) 2182 KHs
+B) 2187.5 KHs
+C) 156.8 MHs
+D) 2174.5 KHs
+Doğru cavab: A
+
+MF/HF radiostansiyanın hәftәlik testi kimin ünvanına göndәrilir?
+A) Xilasetmә mәrkәzlәrinә (RCC)
+B) Yalnız sahil radiostansiyasının ünvanına
+C) Bütün gәmilәrә
+D) Hәr hansı bir gәmiyә
+Doğru cavab: B
+
+Sәrnişin gәmilәrdә VHF qәza radiostansiyalarının minimal sayı nә qәdәr olmalıdır?
+A) 1 әdәd
+B) 3 әdәd
+C) 4 әdәd
+D) 2 әdәd
+Doğru cavab: B
+
+300 r/t olan gәmilәrdә qәza VHF radio stansiyalarının minimal sayı nә qәdәr olmalıdır?
+A) 3 әdәd
+B) 2 әdәd
+C) 1 әdәd
+D) 4 әdәd
+Doğru cavab: B
+
+SART-ın tәyinatı nədir?
+A) Hava haqqında mәlumat almaq
+B) Gәminin sürәtini tәyin etmәk
+C) Yerinin tәyin edilmәsi üçün
+D) Sәs rabitәsi yaratmaq
+Doğru cavab: C
+
+Şüalanma rejimindә SART-ın iş vaxtı nә qәdәrdir?
+A) 8 saat
+B) 96 saat
+C) 48 saat
+D) 24 saat
+Doğru cavab: A
+
+Gözlәmә rejimindә SART-ın iş vaxtı neçә saatdır?
+A) 96 saat
+B) 48 saat
+C) 72 saat
+D) 120 saat
+Doğru cavab: A
+
+SART haqqında sәhv müddәanı göstәrin:
+A) Korpusu göy rәngdә olmalıdır
+B) 9 GHz tezliyindә işlәyir
+C) Su keçirmәz olmalıdır
+D) Radiolokasiya ekranda nöqtәlәr seriyası yaradır
+Doğru cavab: A
+
+Xilasetmә avadanlıqlarından hansı fәlakәtin yerinin koordinatlarını ötürür?
+A) EPİRB
+B) SART
+C) VHF qәza radiostansiyası
+D) NAVTEX
+Doğru cavab: A
+
+Hansı vasitә EPİRB–nin gәmidәn avtomatik ayrılmasını tәmin edir?
+A) Hidrostat
+B) Elektrik mühәrrik
+C) Maqnit qıfıl
+D) Mexaniki ling
+Doğru cavab: A
+
+Gәminin radioavadanlığı hansı SART-ın siqnalını aşkar edir?
+A) Inmarsat terminalı
+B) AIS stansiyası
+C) GPS qәbuledicisi
+D) Radiolokasiya stansiyası
+Doğru cavab: D
+
+Hansı anda SART ötürmәyә başlayır ?
+A) EPIRB işә düşdükdәn sonra
+B) Gәmi kreni 45 dәrәcә olduqda
+C) İş rejiminә salındıqdan vә radiolokasiya stansiya tәrafindәn şüalanmasından sonra
+D) Suya düşәn kimi dәrhal
+Doğru cavab: C
+
+VHF qәza radiostansiyasının batareyasının gözlәmә rejimindә iş vaxtı neçә saatdır?
+A) 24 Saat
+B) 48 Saat
+C) 96 Saat
+D) 72 Saat
+Doğru cavab: D
+
+Neçә metr dәrinlikdә hidrostat EPIRB-ni gәmidәn avtomatik ayrılır?
+A) 15 m-ә qәdәr
+B) 10 m-ә qәdәr
+C) 20 m-dәn çox
+D) 2 m-ә qәdәr
+Doğru cavab: B
+
+Sadalanlardan hansı doğrudur?
+A) EPIRB yalnız VHF siqnalı vasitәsilә aktivlәşir
+B) EPIRB yalnız әllә işә salına bilәr
+C) EPIRB gәmidәn avtomatik ayrıldıkdan sonra işә düşmәlidir
+D) EPIRB gәmiyә bәrkidilmiş vәziyyәtdә siqnal verir
+Doğru cavab: C
+
+EPIRB-nin şüalanma rejimi neçә saatdır?
+A) 48 saat
+B) 24 saat
+C) 72 saat
+D) 96 saat
+Doğru cavab: A
+
+EPIRB-nin siqnalını hansı avadanlıq qәbul edir?
+A) Inmarsat peyklәri
+B) KOSPAS-SARSAT sisteminin peyklәri
+C) NAVTEX stansiyaları
+D) Gәminin radiolokasiya stansiyası
+Doğru cavab: B
+
+LEOSAR (Aşağı orbitalı peyklәr) tәrәfindәn EPİRB-nin koordinatlarının dәqiq tәyin edilmәsi neçә kilometrdir?
+A) 20-30 km
+B) 1-5 km
+C) 12-17 km
+D) 50 km-dәn çox
+Doğru cavab: C
+
+KOSPAS-SARSAT sistemindә GEOSAR (geostasionar peyklәr) tәrәfindәn EPİRB-dәn fәlakәt signalının RCC (xilasetmә koordinasiya mәrkәzinә) çatdırılması neçə dəqiqə ərzində təmin edilir?
+A) 1 saat
+B) 2-5 dәqiqә
+C) 30 dәqiqә
+D) 10-15 dәqiqә
+Doğru cavab: B
+
+NAVTEX sisteminin tәyinatı:
+A) Gәminin radardakı mövqeyini göstәrmәk
+B) Fәlakәt siqnalını peyklәrә göndәrmәk
+C) Dәnizdә üzmәnin tәhlükәsizliyi üzrә informasiyanın gәmilәrә ötürülmәsi üçün
+D) Gәmilәr arası sәsli rabitәni tәmin etmәk
+Doğru cavab: C
+
+Fәlakәt zamanı kömәyә aid olmayan danışıqların dayandırılması әmri aşağıdakı hansı ifadә ilә işarәlәrinir?
+A) SEELONCE FEENEE
+B) SILENCE DISTRESS
+C) SEELONCE MAYDAY
+D) PRUDONCE
+Doğru cavab: C
+
+INMARSAT sistemindә hansı peyk aid deyil
+A) POR (Sakit okean regionu)
+B) IOR (Hind okeanı regionu)
+C) LEOSAR
+D) AOR-E (Atlantik okeanının şәrq regionu)
+Doğru cavab: C
+
+Radio avadanlığının ehtiyat enerji qida mәnbәlәrinә hansı aiddir?
+A) Əsas generator
+B) Kömәkçi dizel-generator
+C) Külәk turbini
+D) Akumulyator
+Doğru cavab: D
+
+AIS stansiyası ilә hansı mәlumat növlәri ötürülür?
+A) Yalnız naviqasiya xәbәrdarlıqları
+B) Statik, dinamik vә sәfәr mәlumatları
+C) Fәlakәt vә tәcili rabitә xәtti
+D) Qlobal hava proqnozları
+Doğru cavab: B
+
+Gәminin AIS stansiyası nә vaxt qoşulmuş vәziyyәtdә olmalıdır?
+A) Yalnız lövbәrdә olduqda
+B) Yalnız fırtınalı havada
+C) Yalnız limana daxil olduqda
+D) Daimi
+Doğru cavab: D
+
+Fәlakәtə aid olan mәlumatlar vә ya danışıqlar hansı sözlә işarәlәnir?
+A) MAYDAY
+B) DISTRESS
+C) SECURITE
+D) PAN PAN
+Doğru cavab: A
+
+Fəlakətin qısa və tam formatları arasındakı fərq nədədir?
+A) Göndərilmə tezliyinin seçimində
+B) Koordinatların formatında
+C) Fəlakətin növünün göstərilməsində
+D) İstifadә olunan peyk növündә
+Doğru cavab: C
+

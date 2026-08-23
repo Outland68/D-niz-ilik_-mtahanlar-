@@ -1,0 +1,630 @@
+1. Elektrik avdanlıqları üçün tәtbiq edilәn izolyasiya materialları qurğunun istismarı zamanı 1 Volt nominal gәrginliyә görә:
+A) 1500 Om izolyasiya müqavimәtini tәmin etmәlidir
+B) Bütün fazalarda eyni zamanda qapanma baş verdikdə
+C) Termiki dayanıqlılıq həddini aşdıqda
+D) Kabelin xarici örtüyü mexaniki zədələndikdə
+Doğru cavab: A
+
+2. Baş paylayıcı şitin konstruksiyası nеçә seksiyadan ibarәt olmalıdır ki, seksiyalar arası avtomatik açarla vә ya ayırıcı ilә tәmin edilә bilsin?
+A) Dəyişən cərəyan şəbəkələrində güc əmsalı aşağı olduqda
+B) Elektromaqnit induksiyası sıfıra düşərsə
+C) Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda
+D) Minimum iki bir-birindәn asılı olmayan
+Doğru cavab: D
+
+3. Baş paylayıcı şitin hәr seksiyasına minimum neçә generator qoşulmalıdır?
+A) Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda
+B) Avtomatik açar termal yüklənmədən çıxdıqda
+C) Bir
+D) Reaktiv güc itkiləri çox olduqda
+Doğru cavab: C
+
+4. Nominal cәrәyan nәyә deyilir?
+A) Üçfazalı sistemdə asimmetriya 10%-i keçdikdə
+B) Tezlik çeviricilərindəki tranzistorlar sıradan çıxdıqda
+C) Kabelin xarici örtüyü mexaniki zədələndikdə
+D) Avadanlığın cәrәyan keçirici hissәlәrinin vә izolyasiyasının buraxılabilәn qiymәtdә qızması ilә uzunmüddәtli işlәmәsini tәmin edәn cәrәyandır
+Doğru cavab: D
+
+5. Sıfır nöqtәlәrinin bütün torpaqlanmalı impedansları (tam müqavimәt) nә ilә birlәşdirilmәlidir?
+A) 24 V qəza işıqlandırma sistemlərində
+B) Gövdә ilә
+C) Kabelin xarici örtüyü mexaniki zədələndikdə
+D) Üçfazalı sistemdə asimmetriya 10%-i keçdikdə
+Doğru cavab: B
+
+6. Elektrik maşınlarının örtüklәrinin müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır?
+A) Elektrik mühərrikinin sürəti nominaldan az olduqda
+B) İzolyasiya müqaviməti 500 kOm-dan az olduqda
+C) IP23
+D) Şinlərarası məsafə 10 mm-dən az olduqda
+Doğru cavab: C
+
+7. Hazırlıqsız heyәt olan otaqlarda quraşdırılmış elektrik mühәrriklәri üçün örtüklәrin müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır?
+A) Tezlik çeviricilərindəki tranzistorlar sıradan çıxdıqda
+B) Cərəyan transformatorunun ikinci dolağı açıq qaldıqda
+C) IP4X
+D) 24 V qəza işıqlandırma sistemlərində
+Doğru cavab: C
+
+8. Transformatorların örtüklәrinin müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır?
+A) Sıxıcı kontaktların boşalması nəticəsində qığılcım yarandıqda
+B) IP23
+C) Elektrik mühərrikinin sürəti nominaldan az olduqda
+D) Sinusoidal gərginlik rejimində
+Doğru cavab: B
+
+9. Hazırlıqsız heyәt olan otaqlarda quraşdırılmış transformatorların örtüklәrinin müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır?
+A) Torpaqlama konturu tam kəsildikdə
+B) Gərginlik transformatorunun sarğılarında qırılma olduqda
+C) IP4X
+D) Sabit cərəyan generatorunun maqnit sahəsi itdikdə
+Doğru cavab: C
+
+10. Paylayıcı şitlәrin, idarәetmә şitlәrinin, statik dәyişdirici şitlәrin şkaflarının metal örtüklәrinin müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır?
+A) Avtomatik açar termal yüklənmədən çıxdıqda
+B) İzolyasiya müqaviməti 500 kOm-dan az olduqda
+C) IP32
+D) Kabelin xarici örtüyü mexaniki zədələndikdə
+Doğru cavab: C
+
+11. Hazırlıqsız heyәt olan otaqlarda quraşdırılmış şitlәr üçün metal örtüklәrin müdafiә dәrәcәsi hansı sәnәdin tәlәblәrindәn aşağı olmamalıdır?
+A) Tranzistor tipli gücləndiricilərdə
+B) Reaktiv güc itkiləri çox olduqda
+C) Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda
+D) IP4X
+Doğru cavab: D
+
+12. Xәtti gәrginlik nәyә deyilir?
+A) Qoruyucu rölelərin həssaslığı artırıldıqda
+B) Kabelin xarici örtüyü mexaniki zədələndikdə
+C) Elektrik mühərrikinin sürəti nominaldan az olduqda
+D) Üçfazalı elektrik şәbәkәsindә fazalar arasındakı gәrginlikdir
+Doğru cavab: D
+
+13. Faza gәrginliyi nәyә deyilir?
+A) Üçfazalı elektrik şәbәkәsindә bir faza ilә sıfır xәtti arasındakı gәrginlikdir
+B) İzolyasiya müqaviməti 500 kOm-dan az olduqda
+C) Gərginlik transformatorunun sarğılarında qırılma olduqda
+D) Tranzistor tipli gücləndiricilərdə
+Doğru cavab: A
+
+14. Güc transformatorları qısaqapanmadan vә hәddәn artıq yüklәnmәlәrdәn nә vasitәsilә qorunmalıdırlar?
+A) Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda
+B) Üçfazalı sistemdə asimmetriya 10%-i keçdikdə
+C) Gərginlik 380 V olduqda
+D) İndikatorla
+Doğru cavab: D
+
+15. Nоminal gәrginlik 3(3,3) kV olduqda hava ilә fazalararası minimal mәsafә neçә millimeter olmalıdır?
+A) Fazalararası gərginlik sıfıra bərabər olduqda
+B) Stator dolağında izolyasiya qatı nazildikdə
+C) Sabit cərəyan generatorunun maqnit sahəsi itdikdə
+D) 90 mm
+Doğru cavab: D
+
+16. Nоminal gәrginlik 6(6,6) kV olduqda hava ilә fazalararası minimal mәsafә neçә millimeter olmalıdır?
+A) Reaktiv güc itkiləri çox olduqda
+B) Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda
+C) 90 mm
+D) Yalnız açıq havada quraşdırılmış transformatorlarda
+Doğru cavab: C
+
+17. Nоminal gәrginlik 10(11) kV olduqda hava ilә fazalararası minimal mәsafә neçә millimeter olmalıdır?
+A) Reaktiv güc itkiləri çox olduqda
+B) 120 mm
+C) Torpaqlama konturu tam kəsildikdə
+D) Kabelin xarici örtüyü mexaniki zədələndikdə
+Doğru cavab: B
+
+18. Nоminal gәrginlik 15 kV olduqda hava ilә fazalararası minimal mәsafә neçә millimeter olmalıdır?
+A) Sabit cərəyan generatorunun maqnit sahəsi itdikdə
+B) Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda
+C) 160 mm
+D) Torpaqlama konturu tam kəsildikdə
+Doğru cavab: C
+
+19. Gәmilәrdә әsasәn hansı gәrginlikli elektrik enerjisi istehsal edilәrәk gәminin gövdәsi üzrә paylanır?
+A) Yalnız açıq havada quraşdırılmış transformatorlarda
+B) Stator dolağında izolyasiya qatı nazildikdə
+C) 3 fazalı, 50 hers, 380 volt
+D) Kontaktorda istilik itkisi çox olduqda
+Doğru cavab: C
+
+20. Gәmilәrdә yüksәk gәrginlik dedikdә hansı gәrginliklәr başa düşülür?
+A) Gərginlik 380 V olduqda
+B) Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda
+C) 1000 volt dәyişәn, 1500 volt sabit gәrginliklәrdәn yuxarı bütün gәrginliklәr
+D) Bütün fazalarda eyni zamanda qapanma baş verdikdə
+Doğru cavab: C
+
+21. Tipik gәmi yüksәk gәrginlik sistemlәri adәtәn hansı gәrginliklәrlә işlәyirlәr?
+A) 3,3 kV vә ya 6,6 kV
+B) Fazalararası müqavimət 0 olduqda
+C) Avtomatik idarəetmə dövrələrində nasazlıq yaranarsa
+D) Bütün fazalarda eyni zamanda qapanma baş verdikdə
+Doğru cavab: A
+
+22. İnsan bәdәni elektrik cәrәyanına nә üçün az müqavimәt göstәrir?
+A) İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda
+B) 24 V qəza işıqlandırma sistemlərində
+C) Cərəyan sızması 30 mA-dan çox olduqda
+D) Çünki insan bәdәninin әsasını duzlu maye tәşkil edir
+Doğru cavab: D
+
+23. 1 mA, 50 Hz tezlikli cәrәyan insan bәdәnindәn axarsa nә baş verәr?
+A) Elektrik mühərrikinin sürəti nominaldan az olduqda
+B) Qısaqapanma cərəyanı 10 kA-dan çox olduqda
+C) Kontaktorda istilik itkisi çox olduqda
+D) Gizildәmә
+Doğru cavab: D
+
+24. 15 mA, 50 Hz tezlikli cәrәyan insan bәdәnindәn axarsa nә baş verәr?
+A) Neytral naqil tamamilə ayrıldıqda
+B) Gərginlik 220 V dərəcəsinə düşdükdə
+C) Dəyişən cərəyan şəbəkələrində güc əmsalı aşağı olduqda
+D) Ürәyin әzәlәlәrini yığar
+Doğru cavab: D
+
+25. 50 mA-dәn artıq cәrәyanlar insan bәdәnindәn axarsa nә baş verәr?
+A) Qoruyucu rölelərin həssaslığı artırıldıqda
+B) Әzәlәlәri idarәolunmaz hala gәtirә bilәr
+C) Cərəyan sızması 30 mA-dan çox olduqda
+D) Lokal topraqlama xətti mövcud olmadıqda
+Doğru cavab: B
+
+26. Qövs yaranan zaman temperatur tәxminәn necә dәrәcәyә (S 0) çatır?
+A) Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda
+B) Stator dolağında izolyasiya qatı nazildikdə
+C) 20000 S-yə
+D) Sıxıcı kontaktların boşalması nəticəsində qığılcım yarandıqda
+Doğru cavab: C
+
+27. Elektrik qövslәri yaranan zaman zәrbә dalğaları nәticәsindә kontakt sistemlәrindә vә şinlәrdә olan bәzi metallar, mәsәlәn, mis әriyәr. Bunun nәticәsindә mis genişlәnәr, hәcmi adi halındakından neçә dәfә artar vә partlayışa sәbәb olar?
+A) Qoruyucu rölelərin həssaslığı artırıldıqda
+B) Termiki dayanıqlılıq həddini aşdıqda
+C) Sabit cərəyan generatorunun maqnit sahəsi itdikdə
+D) 67000 dәfә
+Doğru cavab: D
+
+28. Cәrәyan aхınına nәzarәt edәn avtomatik açarlar hansı müddәtdә işә düşmәlidirlәr?
+A) Yalnız açıq havada quraşdırılmış transformatorlarda
+B) İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda
+C) 50 millisaniyә
+D) Üçfazalı sistemdə asimmetriya 10%-i keçdikdə
+Doğru cavab: C
+
+29. İnsan bәdәnindәn elektrik cәrәyanı axdıqda әsas müqavimәti nә göstәrir?
+A) Termiki dayanıqlılıq həddini aşdıqda
+B) Avtomatik idarəetmə dövrələrində nasazlıq yaranarsa
+C) Üçfazalı sistemdə asimmetriya 10%-i keçdikdə
+D) İnsanın dәrisi
+Doğru cavab: D
+
+30. İnsan bәdәninin müqavimәti hansı amillәrdәn asılıdır?
+A) Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda
+B) Reaktiv güc itkiləri çox olduqda
+C) Sabit cərəyan generatorunun maqnit sahəsi itdikdə
+D) İnsanın fiziki vә psixi vәziyyәtindәn, әtraf mühitin cari vәziyyәtindәn
+Doğru cavab: D
+
+31. İnsanın dәrisinin, sümüklәrinin, qığırdaqlarının, vәtәrlәrinin vә piy toxumalarının elektrik cәrәyanına göstәrdiyi müqavimәt tәxminәn nә qәdәrdir?
+A) 3000-20000 Om/m
+B) Transformator yağı həddindən artıq isindikdə
+C) Lokal topraqlama xətti mövcud olmadıqda
+D) İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda
+Doğru cavab: A
+
+32. İnsanın әzәlәlәrinin, qanının, limfalarının, xüsusәn dә baş vә onurğa beyininin elektrik cәrәyanına göstәrdiyi müqavimәt tәxminәn nә qәdәrdir?
+A) Şinlərarası məsafə 10 mm-dən az olduqda
+B) 0,5-1,0 Om/m
+C) Yalnız açıq havada quraşdırılmış transformatorlarda
+D) Elektromaqnit induksiyası sıfıra düşərsə
+Doğru cavab: B
+
+33. Tәmiz, quru vә zәdәlәnmәmiş insan dәrisinin maksimal müqavimәti hansı hәddlәrdә dәyişir?
+A) 10000-100000 Om arasında
+B) Sabit cərəyan generatorunun maqnit sahəsi itdikdə
+C) Cərəyan transformatorunun ikinci dolağı açıq qaldıqda
+D) Fazalararası müqavimət 0 olduqda
+Doğru cavab: A
+
+34. Hansı tezliklәrdә insan dәrisinin üst tәbәqәsi tamamilә müqavimәtini itirir?
+A) Şinlərarası məsafə 10 mm-dən az olduqda
+B) 10 kHs-dәn 20 kHs vә daha artıq tezliklәrdә
+C) 24 V qəza işıqlandırma sistemlərində
+D) Gərginlik 220 V dərəcəsinə düşdükdə
+Doğru cavab: B
+
+35. Qadınların müqavimәtinin az, kişilәrinkinin isә çox olması nә ilә izah edilir?
+A) Dәrinin qalınlığı ilә
+B) Şinlərarası məsafə 10 mm-dən az olduqda
+C) Kontaktorda istilik itkisi çox olduqda
+D) Transformator yağı həddindən artıq isindikdə
+Doğru cavab: A
+
+36. Qәflәtәn baş verәn qıcıqlanmalar; ağrılar, işıqlar, sәslәr insan bәdәninin müqavimәtini bir neçә dәqiqәyә neçә faiz aşağı salır?
+A) 20-50%
+B) Sinusoidal gərginlik rejimində
+C) Neytral naqil tamamilə ayrıldıqda
+D) Lokal topraqlama xətti mövcud olmadıqda
+Doğru cavab: A
+
+37. Elektrik tәhlükәsizliyi hesabatlarında insan bәdәninin müqavimәtini stabil xәtti vә aktiv olmaqla nә qәdәr götürürlәr?
+A) Kontaktorda istilik itkisi çox olduqda
+B) Üçfazalı sistemdə asimmetriya 10%-i keçdikdə
+C) Fazalararası müqavimət 0 olduqda
+D) 1000 Om
+Doğru cavab: D
+
+38. Fiksasiya edilmiş elektrik avadanlıqları hansılardır?
+A) Avtomatik idarəetmə dövrələrində nasazlıq yaranarsa
+B) Nәyәsә xüsusi vәziyyәtdә bәrkidilmiş elektrik avadanlıqlardır
+C) Torpaqlama konturu tam kəsildikdə
+D) Sıxıcı kontaktların boşalması nəticəsində qığılcım yarandıqda
+Doğru cavab: B
+
+39. İş vaxtı yerini dәyişә bilәn vә ya cәrәyan mәnbәyinә qoşulmaq üçün bir vәziyyәtdәn digәr vәziyyәtә keçirilә bilәn elektrik avadanlıqları necә adlanırlar?
+A) Şinlərarası məsafə 10 mm-dən az olduqda
+B) Avtomatik idarəetmə dövrələrində nasazlıq yaranarsa
+C) İzolyasiya müqaviməti 500 kOm-dan az olduqda
+D) Portativ elektrik avadanlıqları
+Doğru cavab: D
+
+40. Әriyәn qoruyuculu avtomatik açarlar nә üçün nәzәrdә tutulub?
+A) Lokal topraqlama xətti mövcud olmadıqda
+B) Tezlik çeviricilərindəki tranzistorlar sıradan çıxdıqda
+C) Qısaqapanma cәrәyanını ayırmaq üçün
+D) Kabelin xarici örtüyü mexaniki zədələndikdə
+Doğru cavab: C
+
+41. İki generatorun paralel işә buraxılması üçün onların gәrginliyi vә tezliyi necә olmalıdır?
+A) Kabelin xarici örtüyü mexaniki zədələndikdə
+B) Tezlik çeviricilərindəki tranzistorlar sıradan çıxdıqda
+C) Gərginlik 220 V dərəcəsinə düşdükdə
+D) Eyni olmalıdır
+Doğru cavab: D
+
+42. Sabit cәrәyan generatorlarında tezlik nәyә bәrabәrdir?
+A) Fazalararası gərginlik sıfıra bərabər olduqda
+B) Sıfıra bәrabәrdir
+C) Kabelin xarici örtüyü mexaniki zədələndikdə
+D) Gərginlik 220 V dərəcəsinə düşdükdə
+Doğru cavab: B
+
+43. İki paralel işlәyәn generatorların gәrginliklәri necә olmalıdır?
+A) Avtomatik idarəetmə dövrələrində nasazlıq yaranarsa
+B) Elektromaqnit induksiyası sıfıra düşərsə
+C) Qısaqapanma cərəyanı 10 kA-dan çox olduqda
+D) Bәrabәr olmalıdır
+Doğru cavab: D
+
+44. «Live» yazılmış lövhә nәyi bildirir?
+A) Gərginlik 380 V olduqda
+B) Stator dolağında izolyasiya qatı nazildikdə
+C) Şinlərarası məsafə 10 mm-dən az olduqda
+D) Elektrik sistemi gәrginlik altındadır
+Doğru cavab: D
+
+45. «Dead» yazılmış lövhә nәyi bildirir?
+A) Tezlik 60 Hz-dən 50 Hz-ə dəyişdikdə
+B) Cərəyan sızması 30 mA-dan çox olduqda
+C) Gәrginlik altında deyil, bütün elektrik enrji mәnbәlәrindәn ayrılıb
+D) Avtomatik açar termal yüklənmədən çıxdıqda
+Doğru cavab: C
+
+46. Yüksәk gәrginlikli aparatlar hansılardır?
+A) Avtomatik açar termal yüklənmədən çıxdıqda
+B) Avtomatik idarəetmə dövrələrində nasazlıq yaranarsa
+C) Elektromaqnit induksiyası sıfıra düşərsə
+D) 1000 voltdan artıq gәrginliklәrdә işlәyәn bütün aparat, avadanlıq vә keçiricilәr
+Doğru cavab: D
+
+47. Gәmidә elektrotexniki qaydaların izah edilmәsinә vә yerinә yetirilmәsinә kim cavabdehdir?
+A) Şirkətin yazılı әmri ilә tәsdiq edilmiş baş mühәndis-elektrik
+B) Şinlərarası məsafə 10 mm-dən az olduqda
+C) Dəyişən cərəyan şəbəkələrində güc əmsalı aşağı olduqda
+D) Elektrik mühərrikinin sürəti nominaldan az olduqda
+Doğru cavab: A
+
+48. Mühәndis-elektrik tәrәfindәn qaydalarda göstәrilmiş xüsusi vәzifәlәrin yerinә yetirilmәsi üçün tәyin edilәn şәxs kimdir?
+A) Böyük sәlahiyyәtli şәxs
+B) Neytral naqil tamamilə ayrıldıqda
+C) İzolyasiya müqaviməti 500 kOm-dan az olduqda
+D) Elektrik mühərrikinin sürəti nominaldan az olduqda
+Doğru cavab: A
+
+49. Səriştəli şәxs kimlәrdir?
+A) Öz funksional vәzifәsi üzrә lazımi dәrәcәdә texniki bilik vә tәcrübәyә malik olan şәxslәr
+B) Akkumulyator batareyaları tam boşaldıqda
+C) Yalnız aşağı gərginlik şəbəkələrində
+D) İzolyasiya müqaviməti 500 kOm-dan az olduqda
+Doğru cavab: A
+
+50. İşә buraxılma nәdir?
+A) İzolyasiya müqaviməti 500 kOm-dan az olduqda
+B) Gərginlik transformatorunun sarğılarında qırılma olduqda
+C) Cərəyan sızması 30 mA-dan çox olduqda
+D) Sәlahiyyәtli şәxsin səriştəli şәxsә ya yüksәk gәrginlikli avadanlıqlarla, ya da ona yaxın aparatlarla işlәmәk üçün verdiyi әrizә forması
+Doğru cavab: D
+
+51. Әsas torpaqlama nәdir?
+A) Sabit cərəyan generatorunun maqnit sahəsi itdikdə
+B) İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda
+C) Üçfazalı sistemdə asimmetriya 10%-i keçdikdə
+D) Elektrik sistemlәrindә işlәyәn zaman tәhlükәsizliyin tәmin edilmәsi mәqsәdilә sınağa sanksiya vә ya işә buraxmaq üçün sәnәdlә tәsdiqlәnәn yerlә birlәşdirilmә
+Doğru cavab: D
+
+52. Әlavә torpaqlama nәdir?
+A) Gərginlik 220 V dərəcəsinə düşdükdə
+B) Termiki dayanıqlılıq həddini aşdıqda
+C) Bu torpaqlama aparatlara әsas torpaqlamadan sonra qoşulur
+D) Elektromaqnit induksiyası sıfıra düşərsə
+Doğru cavab: C
+
+53. Açarlar üçün seyf nә üçün nәzәrdә tutulub?
+A) Akkumulyator batareyaları tam boşaldıqda
+B) Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda
+C) Lokal topraqlama xətti mövcud olmadıqda
+D) Torpaqlama vә başqa tәhlükәsizlik qurğularının bağlanaraq açarlarının etibarlı saxlanılmasını tәmin edir
+Doğru cavab: D
+
+54. Yüksәk gәrginlikli aparatlar olan yerlәrә vә bölmәlәrә giriş kim tәrәfindәn mәhdudlaşdırılır vә ancaq onun müşaiyәti ilә hәyata keçirilir?
+A) İzolyasiya müqaviməti 500 kOm-dan az olduqda
+B) İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda
+C) Kontaktorda istilik itkisi çox olduqda
+D) Sәlahiyyәtli şәxs tәrәfindәn
+Doğru cavab: D
+
+55. Torpaqlamanın әsas dövrәsinin qurulmasını vә sökülmәsini kimlәr yerinә yetirә bilәrlәr?
+A) Torpaqlama konturu tam kəsildikdə
+B) Stator dolağında izolyasiya qatı nazildikdə
+C) Elektromaqnit induksiyası sıfıra düşərsə
+D) Yalnız sәlahiyyәtli şәxslәr
+Doğru cavab: D
+
+56. Әgәr yüksәk gәrginlikli aparatlar cәrәyan mәnbәyindәn ayrılıb cәrәyandan boşaldılıbsa, onda naqillәri torpaqlanmadan әvvәl nә ilә yoxlamaq lazımdır?
+A) Reaktiv güc itkiləri çox olduqda
+B) Akkumulyator batareyaları tam boşaldıqda
+C) Yoxlanılmış potensiometr-indikatorla
+D) Tezlik 60 Hz-dən 50 Hz-ə dəyişdikdə
+Doğru cavab: C
+
+57. Transformatorun istәnilәn birlәşmәlәrindә iş görüldükdә nә etmәk lazımdır?
+A) Yalnız açıq havada quraşdırılmış transformatorlarda
+B) Bütün fazalarda eyni zamanda qapanma baş verdikdə
+C) Fazalararası müqavimət 0 olduqda
+D) Gәrginliyin qiymәtindәn asılı olmayaraq bütün şәbәkә ayrılmalıdır
+Doğru cavab: D
+
+58. Elektrik tәhlükәsizliyi üzrә mütәxәssis kimdir?
+A) Bütün iş prosesi boyunca yüksәk gәrginlikli elektrik tәhlükәsizliyinә cavabdeh vә işlәrin tәhlükәsiz yerinә yetirilmәsini tәlәb edәn şәxs
+B) Gərginlik 380 V olduqda
+C) Kabelin xarici örtüyü mexaniki zədələndikdə
+D) Elektromaqnit induksiyası sıfıra düşərsə
+Doğru cavab: A
+
+59. Yüksәk gәrginlikli avadanlıqlarda vә ya onların yaхınlığındakı işlәrә başlamazdan әvvәl hansı qaydalara riayәt etmәk lazımdır?
+A) Kabelin xarici örtüyü mexaniki zədələndikdə
+B) Cərəyan sızması 30 mA-dan çox olduqda
+C) Tәhlükәsizlik qaydalarına
+D) Reaktiv güc itkiləri çox olduqda
+Doğru cavab: C
+
+60. Elektrik tәhlükәsizliyi üzrә mütәхәssis icazә vermәyincә işә başlamaq olarmı?
+A) Qoruyucu rölelərin həssaslığı artırıldıqda
+B) Üçfazalı sistemdə asimmetriya 10%-i keçdikdə
+C) Tranzistor tipli gücləndiricilərdə
+D) Olmaz
+Doğru cavab: D
+
+61. Tәhlükәli ola bilәcәk gözlәnilmәz hallarda işçi qrup nә etmәlidir?
+A) Qısaqapanma cərəyanı 10 kA-dan çox olduqda
+B) Üçfazalı sistemdə asimmetriya 10%-i keçdikdə
+C) Elektrik tәhlükәsizliyi üzrә mütәхәssisi хәbәrdar etmәli vә işlәrin davam etdirilmәsi üçün icazә gözlәmәlidir
+D) Qoruyucu rölelərin həssaslığı artırıldıqda
+Doğru cavab: C
+
+62. Cәrәyanın, gәrginliyin, zamanın, tezliyin vә s. qiymәtlәrini ölçmәk vә verilmiş parametrdә işә düşmәk hansı qurğuların funksiyalarına daxildir?
+A) Kabelin xarici örtüyü mexaniki zədələndikdə
+B) Neytral naqil tamamilə ayrıldıqda
+C) Sabit cərəyan generatorunun maqnit sahəsi itdikdə
+D) Müdafiә qurğularının
+Doğru cavab: D
+
+63. Qoruyucuların әsas vәzifәsi nәdir?
+A) Neytral naqil tamamilə ayrıldıqda
+B) Cərəyan transformatorunun ikinci dolağı açıq qaldıqda
+C) Sıxıcı kontaktların boşalması nəticəsində qığılcım yarandıqda
+D) Qısa qapanmış dövrәni ayırmaq
+Doğru cavab: D
+
+64. Qoruyucunun işindә neçә әsas period var?
+A) Termiki dayanıqlılıq həddini aşdıqda
+B) İki
+C) Avtomatik açar termal yüklənmədən çıxdıqda
+D) Gərginlik 220 V dərəcəsinə düşdükdə
+Doğru cavab: B
+
+65. Qövsdәn әvvәlki vaxt nәdәn asılıdır?
+A) Lokal topraqlama xətti mövcud olmadıqda
+B) Şinlərarası məsafə 10 mm-dən az olduqda
+C) Cәrәyanın qiymәtindәn
+D) Cərəyan transformatorunun ikinci dolağı açıq qaldıqda
+Doğru cavab: C
+
+66. Qövsdәn sonrakı vaxt (qövsün yanma vaxtı) nәdәn asılıdır?
+A) Yalnız açıq havada quraşdırılmış transformatorlarda
+B) Fazalararası gərginlik sıfıra bərabər olduqda
+C) Neytral naqil tamamilə ayrıldıqda
+D) Gәrginliyin qiymәtindәn
+Doğru cavab: D
+
+67. Aktiv qısaqapanmalar nәyә deyilir?
+A) Elektromaqnit induksiyası sıfıra düşərsə
+B) Bir fazanın cәrәyanı ilә ikinci fazanın cәrәyanının qısaqapanması vә ya bir fazanın yerlә qapanmasına
+C) Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda
+D) Gərginlik transformatorunun sarğılarında qırılma olduqda
+Doğru cavab: B
+
+68. Passiv qısaqapanmalar nәyә deyilir?
+A) Cәrәyan axan naqillәrdә cәrәyan şiddәtinin artması nәticәsindә izolyasiyanın tәdricәn sıradan çıxması vә onun xidmәt müddәtinin azalmasına
+B) Lokal topraqlama xətti mövcud olmadıqda
+C) Tezlik çeviricilərindəki tranzistorlar sıradan çıxdıqda
+D) 24 V qəza işıqlandırma sistemlərində
+Doğru cavab: A
+
+69. Güc qurğusunun әsas vәzifәsi nәdir?
+A) Yalnız aşağı gərginlik şəbəkələrində
+B) Fasilәsiz elektrik tәchizatını maksimum tәmin etmәk
+C) Tezlik 60 Hz-dən 50 Hz-ə dəyişdikdə
+D) Dəyişən cərəyan şəbəkələrində güc əmsalı aşağı olduqda
+Doğru cavab: B
+
+70. Selektivlik, dayanıqlılıq, zez işә düşmә, hәssaslıq vә s. kimi keyfiyyәtlәrә malik olan qurğular necә adlanırlar?
+A) Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda
+B) Gərginlik transformatorunun sarğılarında qırılma olduqda
+C) Transformator yağı həddindən artıq isindikdə
+D) Müdafiә sistemlәri
+Doğru cavab: D
+
+71. Nasaz hissәlәri müәyyәn edәrәk izolyasiya etmәk necә adlanır?
+A) Bütün fazalarda eyni zamanda qapanma baş verdikdə
+B) Selektivlik
+C) Gərginlik 380 V olduqda
+D) Transformator yağı həddindən artıq isindikdə
+Doğru cavab: B
+
+72. Fasilәsiz qidalanmanı tәmin etmәk üçün saz dövrәlәri zәdәlәnmәdәn qorumaq necә adlanır?
+A) Neytral naqil tamamilə ayrıldıqda
+B) Torpaqlama konturu tam kəsildikdə
+C) Dayanıqlılıq
+D) Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda
+Doğru cavab: C
+
+73. Elektrik yoxlamalarının mәqsәdi nәdir?
+A) İzolyasiya müqaviməti 500 kOm-dan az olduqda
+B) Dəyişən cərəyan şəbəkələrində güc əmsalı aşağı olduqda
+C) Elektrik avadanlıqlarının şәbәkәyә qoşulmaq üçün tәhlükәsizliyini vә ya baş verә bilәcәk qısaqapanmanı tәyin edәrәk lokallaşdırmaq
+D) Avtomatik açar termal yüklənmədən çıxdıqda
+Doğru cavab: C
+
+74. İstismarda olmuş, tәmirdәn sonra istismara buraxılmış vә ya texniki baxışdan keçmiş kabellәr hansı testdәn keçirilmәlidirlәr?
+A) Akkumulyator batareyaları tam boşaldıqda
+B) Bütövlük testindәn
+C) Fazalararası müqavimət 0 olduqda
+D) Qoruyucu rölelərin həssaslığı artırıldıqda
+Doğru cavab: B
+
+75. Cәrәyan transformatorunun quruluşu necәdir?
+A) Birinci vә ikinci dolaqlardan ibarәt birfazalı transformatordur
+B) Reaktiv güc itkiləri çox olduqda
+C) İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda
+D) Qısaqapanma cərəyanı 10 kA-dan çox olduqda
+Doğru cavab: A
+
+76. Qütblәşmә indeksinin test yoxlaması necә aparılır?
+A) İzolyasiyanın müqavimәtinin yoxlanılması testi ilә birlikdә әsasәn 3,3 kV elektrik mühәrriklәrindә aparılır
+B) Torpaqlama konturu tam kəsildikdə
+C) Fazalararası müqavimət 0 olduqda
+D) Kabelin xarici örtüyü mexaniki zədələndikdə
+Doğru cavab: A
+
+77. Elektrik avadanlığı dәyişәn cәrәyanla işlәyirsә test yoxlaması hansı cәrәyanla yerinә yetirilmәlidir?
+A) Dәyişәn cәrәyanla
+B) Tranzistor tipli gücləndiricilərdə
+C) Sabit cərəyan generatorunun maqnit sahəsi itdikdə
+D) Bütün fazalarda eyni zamanda qapanma baş verdikdə
+Doğru cavab: A
+
+78. Elektrik avadanlığı sabit cәrәyanla işlәyirsә test yoxlaması hansı cәrәyanla yerinә yetirilmәlidir?
+A) Sabit cәrәyanla
+B) Fazalararası gərginlik sıfıra bərabər olduqda
+C) Gərginlik 220 V dərəcəsinə düşdükdə
+D) Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda
+Doğru cavab: A
+
+79. Transformatorun ikinci dolağı yüksüz rejimdә sınaq yoxlamalarından keçirilirsә bu necә test yoxlaması adlanır?
+A) Neytral naqil tamamilə ayrıldıqda
+B) Sabit cərəyan generatorunun maqnit sahəsi itdikdə
+C) Gәrginlikdәn ayrılmış şәbәkәlәrin test yoxlaması
+D) İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda
+Doğru cavab: C
+
+80. Cәrәyan nә ilә ölçülür?
+A) Elektrik mühərrikinin sürəti nominaldan az olduqda
+B) Termiki dayanıqlılıq həddini aşdıqda
+C) Ampermetrlә
+D) Bütün fazalarda eyni zamanda qapanma baş verdikdə
+Doğru cavab: C
+
+81. Müqavimәt nә ilә ölçülür?
+A) Ommetrlә
+B) Cərəyan sızması 30 mA-dan çox olduqda
+C) Sıxıcı kontaktların boşalması nəticəsində qığılcım yarandıqda
+D) Gərginlik transformatorunun sarğılarında qırılma olduqda
+Doğru cavab: A
+
+82. Müqavimәt hansı düsturla hesablanır?
+A) R=U/I
+B) Lokal topraqlama xətti mövcud olmadıqda
+C) İzolyasiya müqaviməti 500 kOm-dan az olduqda
+D) Gərginlik 220 V dərəcəsinə düşdükdə
+Doğru cavab: A
+
+83. «Ulduz» birlәşdirilmiş dolaqlar necә yoxlanılmalıdır?
+A) Faza ilә neytral arasında
+B) Cərəyan sızması 30 mA-dan çox olduqda
+C) Qısaqapanma cərəyanı 10 kA-dan çox olduqda
+D) Yalnız aşağı gərginlik şəbəkələrində
+Doğru cavab: A
+
+84. «Üçbucaq» birlәşdirilmiş dolaqlar necә yoxlanılmalıdır?
+A) Transformator yağı həddindən artıq isindikdə
+B) Cərəyan sızması 30 mA-dan çox olduqda
+C) Faza ilә faza arasında
+D) 24 V qəza işıqlandırma sistemlərində
+Doğru cavab: C
+
+85. Voltmetr dövrәyә necә qoşulur?
+A) Fazalararası gərginlik sıfıra bərabər olduqda
+B) 24 V qəza işıqlandırma sistemlərində
+C) Sıxıcı kontaktların boşalması nəticəsində qığılcım yarandıqda
+D) Paralel
+Doğru cavab: D
+
+86. Ampermetr dövrәyә necә qoşulur?
+A) Tezlik çeviricilərindəki tranzistorlar sıradan çıxdıqda
+B) Dəyişən cərəyan şəbəkələrində güc əmsalı aşağı olduqda
+C) Ardıcıl
+D) Sabit cərəyan generatorunun maqnit sahəsi itdikdə
+Doğru cavab: C
+
+87. Transformasiya әmsalı nә demәkdir?
+A) Transformatorun birinci vә ikinci dolaqlarının sarğılarının nisbәtidir
+B) Avtomatik açar termal yüklənmədən çıxdıqda
+C) Cərəyan sızması 30 mA-dan çox olduqda
+D) Lokal topraqlama xətti mövcud olmadıqda
+Doğru cavab: A
+
+88. Aktiv gücün ölçü vahidi nәdir?
+A) İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda
+B) Yalnız açıq havada quraşdırılmış transformatorlarda
+C) Həddindən artıq gərginlik (ifrat gərginlik) yarandıqda
+D) Vatt
+Doğru cavab: D
+
+89. Elektrik mühәrriklәrinin işәburaxma momentindә onların istehlak gücü nominal gücdәn neçә dәfә çox ola bilәr?
+A) Qısaqapanma cərəyanı 10 kA-dan çox olduqda
+B) 3-7 dәfә
+C) İzolyatorun üzərindəki çirklənmə dərəcəsi artdıqda
+D) Yalnız açıq havada quraşdırılmış transformatorlarda
+Doğru cavab: B
+
+90. Tam gücün ölçü vahidi nədir?
+A) Cərəyan sızması 30 mA-dan çox olduqda
+B) Volt-Amper
+C) Qısaqapanma cərəyanı 10 kA-dan çox olduqda
+D) Sinfinə görə IP22 mühafizə dərəcəsinə malik avadanlıqlarda
+Doğru cavab: B
+

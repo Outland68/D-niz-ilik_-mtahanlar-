@@ -1,0 +1,431 @@
+MARPOL-73/78 Beynəlxalq Konvensiyasının tәlәblәrinә әsasәn tankerdәn 
+dәnizә atılan suların tәrkibindә neftin miqdarı nә qәdәr olmalıdır?
+A) 15 ppm
+B) 100 ppm
+C) 30 ppm
+D) 50 ppm
+Doğru cavab: A
+
+Xam neft boşaldan zamanı eyni vaxtda xam neftlә tankların yuyulmasına 
+icazә verilirmi?
+A) yalnız liman rəhbərliyinin icazəsi ilə
+B) yalnız gündüz vaxtı icazə verilir
+C) icazə verilir
+D) qəti qadağandır
+Doğru cavab: C
+
+Yük şlanqlarının üzәrindә onların işlәk vәziyyәtdә olduqlarını tәsdiqlәyәn 
+yazılardan hansı vurulur? 
+1. yük şlanqı hansı tip yükә aiddir; 
+2. sınaq tәzyiqi; 
+3. istehsal olunduğu ay vә il; 
+4. elektrik keçirmәsi barәdә mәlumat; 
+5. yük şlanqlarının çәkisi.
+A) 2,3,4,5
+B) 1,2,3,4
+C) 1,3,4,5
+D) 1,2,5
+Doğru cavab: B
+
+Hansı neft mәhsulları alışma temperaturuna görә uçan yüklәrә aiddir?
+A) alışma temperaturuna görә 80 0C-dәn aşağı olan neft mәhsulları
+B) özlülüyü yüksək olan qalıq neft məhsulları
+C) alışma temperaturuna görə 100 0C-dən yuxarı olan neft mәhsulları
+D) alışma temperaturuna görә 60 0C-dən aşağı olan neft 
+mәhsulları
+Doğru cavab: D
+
+Yük boşaldılan zaman boru kәmәrinin klapanları hansı ardıcıllıqla açılır?
+A) boru kәmәrinin kәsәn klapanı, tankın klapanı, manifoldun klapanı
+B) tankın klapanı, manifoldun klapanı, boru kәmәrinin kәsәn klapanı
+C) manifoldun klapanı, boru kәmәrinin kәsәn klapanı, tankın klapanı
+D) tankın klapanı, boru kәmәrinin kәsәn klapanı, manifoldun 
+klapanı
+Doğru cavab: D
+
+Zәhәrlәnmәnin bütün hallarında zәrәrçәkәnә neçә dәqiqә әrzindә 
+oksigenlә nәfәs verilmәsi mәslәhәt görülür?
+A) 10-15 dәqiqә
+B) 5-10 dәqiqә
+C) 60-90 dәqiqә
+D) 30-45 dәqiqә
+Doğru cavab: D
+
+Yuxarı nәfәs orqanlarının qıcıqlanması zamanı yaxalama üçün neçә %-li 
+qida sodası istifadә olunur?
+A) 5%-li
+B) 0.5%-li
+C) 2%-li
+D) 10%-li
+Doğru cavab: C
+
+Gәmidәn-gәmiyә neft mәhsulları ötürmә zamanı yük şlanqlarının minimal 
+әyilmә radiusu nә qәdәr olmalıdır?
+A) şlanqın diametrinin 4 mislindәn az olmamalıdır
+B) şlanqın diametrinin 6 mislindәn az olmamalıdır
+C) şlanqın diametrinin 2 mislindәn az olmamalıdır
+D) şlanqın diametrinin 10 mislindәn az olmamalıdır
+Doğru cavab: B
+
+Gәmi-Sahil yoxlama vәrәqi yük göyәrtәsi rayonunda daşınan elektrik 
+avadanlıqları barәsindә nәyi nәzәrdә tutur?
+A) Daşınan elektrik avadanlığı yalnız xüsusi izolyasiya ilə istifadə olunmalıdır
+B) Daşınan elektrik avadanlığı fasiləsiz işləməlidir
+C) Elektrik avadanlığının gərginliyi artırılmalıdır
+D) Daşınan elektrik avadanlığının kabellәri şәbәkәdәn 
+ayrılmalıdır
+Doğru cavab: D
+
+Yük әmәliyyatları zamanı hansı bayraq qaldırılmalıdır?
+A) Qolf
+B) Alfa
+C) Çarli
+D) Bravo
+Doğru cavab: D
+
+Boşaltma / xam neftlә yuma әmәliyyatı zamanı inert qaz sistemi sıradan 
+çıxarsa, nә etmәk lazımdır?
+A) Boşaltmanı, xam neftlә yumanı saxlamaq
+B) Nasosların sürətini azaltmaq
+C) Əlavə ventilyatorları qoşub davam etmək
+D) Yalnız xam neftlә yumanı saxlamaq
+Doğru cavab: A
+
+Yük şlanqlarının sınağı zamanı yoxlama tәzyiqi işçi tәzyiqdәn neçә dәfә 
+çox olmalıdır?
+A) 1.5 dәfә
+B) 2.5 dәfә
+C) 3.0 dәfә
+D) 1.0 dәfә
+Doğru cavab: A
+
+Bağlama (burazlanma) vә gәminin bortunda yedәk gәmisi 
+durduqda yükün ölçülmәsinә vә nümunәlәrin götürülmәsinә:
+A) Xüsusi ehtiyat tәdbirlәri görərək icazә verilir
+B) Liman nəzarətçisinin icazəsi ilə mümkündür
+C) Yalnız şlüz sistemlәrindәn istifadә edәrәk icazә verilir
+D) Qadağan olunur
+Doğru cavab: D
+
+Ürәyin bağlı masajı vaxtı döş qәfәsi 1 dәqiqә әrzindә neçә dәfә 
+sıxılmalıdır?
+A) 80-100
+B) 60-70
+C) 40-60
+D) 120-140
+Doğru cavab: A
+
+Gәmi-Sahil yoxlama vәrәqinin tәlәblәrinә uyğun olaraq terminal 
+nümayәndәsinә hansı sistemlәrin işlәk olması barәsindә sübutlar tәqdim 
+edilmәlidir?
+A) Tanklardakı yükün yuxarı hәddә olmasını xәbәr verәn 
+müstәqil siqnalizasiya sisteminin
+B) Bütün ballast nasoslarının vә boru kәmәrlәrinin
+C) Gәminin baş mühәrrikinin vә kömәkçi mexanizmlәrinin
+D) İqlimlәndirmә vә ventilyasiya sistemlәrinin
+Doğru cavab: A
+
+Tankerlәrdә qaz klapanları hansı mәqsәdlә istifadә olunur?
+A) Neft mәhsulları buxarlarının yük tanklarından atmosferә 
+çıxmasının qarşısını almaq üçün
+B) Tanklarda yükün temperaturunu tənzimləmək üçün
+C) Köpük söndürmə sisteminin tәzyiqini saxlamaq üçün
+D) Tankların daxilindəki maye səviyyəsini ölçmək üçün
+Doğru cavab: A
+
+1-ci tip kimyәvi tankerlәrdә yük zonasının konstruktiv müdafiәsinә görә 
+yük tanklarından borta qәdәr olan mәsafә neçә metr tәşkil edir?
+A) 7.6 metr
+B) 5.0 metr
+C) 15.0 metr
+D) 11.5 metr
+Doğru cavab: D
+
+Tankerlәrdә neçә әsas yüklәmә xәtti sistemindәn istifadә olunur?
+A) 2 sistem
+B) 1 sistem
+C) 4 sistem
+D) 3 sistem
+Doğru cavab: D
+
+Yüklәmә әmәliyyatına başlamazdan әvvәl inert qaz sisteminin 3 yollu 
+klapanı hansı vәziyyәtdә olmalıdır?
+A) yarımaçıq
+B) qapalı
+C) açıq
+D) avtomatik tәnzimlәnәn rejimdә
+Doğru cavab: B
+
+Gәmi xüsusi rayonda olmadıqda dәnizә tullamaq qadağan olunmur:
+A) Kimyәvi maddә qarışıqlı yuyucu suları
+B) Xırdalanmış qida tullantılarını
+C) Bütün növ plastik tullantıları
+D) İşlәnmiş sürtkü yağlarını
+Doğru cavab: B
+
+Marpol-73/78-in V әlavәsinin tәlәblәrinә uyğun olaraq xüsusi rayonlarda 
+yaxın sahildәn 12 mildәn az olmayan mәsafәdә nәyi gәmidәn tullamaq olar?
+A) Xırdalanmış qida tullantılarını
+B) Bütün növ neft qalıqlarını
+C) Sintetik kәndirlәri
+D) Plastik qablaşdırmaları
+Doğru cavab: A
+
+Neçә növ qazayırıcı sistem mövcuddur?
+A) 1
+B) 3
+C) 2
+D) 4
+Doğru cavab: C
+
+MARPOL-73/78-in I әlavәsinin tәlәblәrinә uyğun olaraq xüsusi 
+rayonlardan kәnarda yük tanklarından tәrkibindә neft suları tullayarkәn nәyә 
+riayәt etmәk vacib deyil?
+A) Sahildәn olan mәsafәyә
+B) Tullantının dәnizә axıdılma intensivliyinә
+C) Gәminin hәrәkәt sürәtinә
+D) Әtraf mühitin temperaturuna
+Doğru cavab: D
+
+İnertizә olunmuş tanklı tankerlәrdә ildırımlı tufan xәbәrdarlığı alınan 
+zaman uçan neft mәhsulları ilә әmәliyyatların keçirilmәsi:
+A) Yalnız gündüz vaxtı icazә verilir
+B) Xüsusi ehtiyat tәdbirlәri ilә icazә verilir
+C) Qadağan olunur
+D) Liman kapitanının icazәsi ilә mümkündür
+Doğru cavab: C
+
+Yük tanklarının içindә partlama tәhlükәsinin qarşısını almaq üçün hansı 
+sistemdәn istifadә olunur?
+A) Köpüklә söndürmә sistemindәn
+B) Karbon qazı (CO2) sistemindәn
+C) Su çilәyici sistemdәn
+D) İnert qaz sistemindәn
+Doğru cavab: D
+
+Neft tankerlərində inert qaz sistemində hansı tipli göyərtə zatvorlarından 
+istifadə olunur? 
+1. Qurudulmayan; 
+2. Yarıqurudulmayan; 
+3. Qurudulan tipli; 
+4. Nәm tipli; 
+5. Yarınәm tipli.
+A) 1,4
+B) 2,4,5
+C) 3,4,5
+D) 1,2,3
+Doğru cavab: D
+
+Hansı neft mәhsulları alışma temperaturuna görә uçmayan yüklәrә 
+aiddir?
+A) buxarlanma qabiliyyәti yüksәk olan yüngül neft mәhsulları
+B) alışma temperaturuna görә 600 C-dәn aşağı olan neft mәhsulları
+C) xüsusi çәkisi 0.8-dәn az olan mәhsullar
+D) alışma temperaturuna görә 600 C-dən yuxarı olan neft 
+mәhsulları
+Doğru cavab: D
+
+SOLAS-74 Beynəlxalq Konvensiyası ilә tankerlerdә әn azı neçә yanğın 
+әleyhinә komplekti nәzәrdә tutulub?
+A) 2
+B) 4
+C) 6
+D) 8
+Doğru cavab: B
+
+Yük tankının içindә zәrәrçәkәnә tәcili tibbi yardım göstәrәn zaman 
+oksigen reanimatordan istifadә etmәk olarmı?
+A) Zәrәrçәkәn huşsuz olduqda mütlәqdir
+B) Gәmi kapitanının icazәsi ilә mümkündür
+C) Yalnız qısa müddәtә icazә verilir
+D) Qәti olmaz
+Doğru cavab: D
+
+Yük әmәliyyatları zamanı ballast tanklarının qapaqları hansı vәziyyәtdә 
+olmalıdır?
+A) bağlı
+B) ventilyasiya rejimindә
+C) yarımaçıq
+D) açıq
+Doğru cavab: A
+
+Kimyәvi yük daşıyan tankerlәrdә yük şlanqlarının qırılma / cırılma sınağı 
+zamanı yoxlama tәzyiqi işçi tәzyiqdәn neçә dәfә çox olmalıdır?
+A) 2 dәfә
+B) 10 dәfә
+C) 5 dəfə
+D) 3 dәfә
+Doğru cavab: C
+
+İnert qazın yük tankının girişindә temperaturu neçә dәrәcәdәn artıq 
+olmamalıdır?
+A) 850 C
+B) 450 C
+C) 1000 C
+D) 650 C
+Doğru cavab: D
+
+Yük zonasının konstruktiv müdafiәsinә görә zәrәrli vә tәhlükәli 
+yükdaşıyan tankerlәrin neçә tipi vardır?
+A) 5
+B) 3
+C) 4
+D) 2
+Doğru cavab: B
+
+Termiki yanıqlarda ilk yardım zamanı nə etmək lazımdır?
+A) Yaraya spirt vurub açiq saxlamaq
+B) Yüksәk temperaturun zәrәrçәkәnә tәsir etmәsinin qarşısını 
+almaq, quru aseptik sarğı qoymaq
+C) Yanıq nahiyәsinә yağ sürtmәk vә sarımaq
+D) Zәrәrçәkәnin paltarını kәsib çıxarmaq vә buz qoymaq
+Doğru cavab: B
+
+Maye yüklərin yüklənməsi zamanı yükün sürətinin minimal / maksimal 
+göstəricisini təyin etmək üçün hansı düsturdan istifadə olunur? 
+1. Q=( πd2 : 4) х v; 
+2. Q=( πd2: 2) х v; 
+3. Q=( πd : 4) х v; 
+4. Q= 900 х πd2; 
+5. Q= 3600 х πd2.
+A) 4,5
+B) 2,3
+C) 1,4
+D) 1,2,3
+Doğru cavab: C
+
+İnsanı hәyata qaytarmaq üçün adi şәraitdә klinik ölümün vaxtı nә qәdәr 
+olmalıdır?
+A) 20-25 dәqiqә
+B) 4-5 dәqiqə
+C) 1-2 dәqiqә
+D) 10-15 dәqiqә
+Doğru cavab: B
+
+Orta yaş insanlarda nәbz bir dәqiqә әrzindә neçә olmalıdır?
+A) 75-80
+B) 90-100
+C) 100-110
+D) 50-60
+Doğru cavab: A
+
+Yükün boşaldılmasının ilkin mәrhәlәsindә yükün axar sürәti neçә m/s 
+olmalıdır?
+A) 1 m/s
+B) 5 m/s
+C) 7 m/s
+D) 10 m/s
+Doğru cavab: A
+
+Yük әmәliyyatları zamanı fövqәladә hallar baş verәrsә hansı tәdbirlәr 
+görülmәlidir?
+A) Problemi tәkbaşına hәll etmәyә çalışmaq
+B) Nasosların sürәtini artırmaq, xәbәrdarlıq siqnalı vermәk
+C) Yalnız gәmi kapitanına mәruzә etmәk vә gözlәmәk
+D) Yük әmәliyyatlarını saxlamaq, terminal nümayәndәlәrinә 
+xәbәr vermәk, plan üzrә hәrәkәt etmәk
+Doğru cavab: D
+
+Yüklә reys zamanı vaxtaşırı nәyi yoxlamaq vacib deyil?
+A) İnert qazın vәziyyәtini
+B) Yük tanklarında tәzyiqi
+C) Gәminin suya oturumunu
+D) Yükün temperaturunu vә sәviyyәsini
+Doğru cavab: C
+
+Yuyucu sistemin kәmәrlәrindә tәzyiq nә qәdәr olmalıdır?
+A) 4 kq/sm2
+B) 8 kq/sm2
+C) 12 kq/sm2
+D) 15 kq/sm2
+Doğru cavab: B
+
+Yükün sәviyyәsinin ölçülmәsinin neçә әsas üsulu mövcuddur?
+A) 5
+B) 1
+C) 3
+D) 7
+Doğru cavab: C
+
+Tankların qurudulması vә tәmizlәnmәsi zamanı neçә üsuldan istifadә 
+olunur?
+A) 2
+B) 1
+C) 3
+D) 5
+Doğru cavab: C
+
+Yük boşaltmazdan әvvәl yük nasosunun klapanları hansı vәziyyәtdә 
+olmalıdır?
+A) Hәr iki klapan açıq
+B) Basma klapanı bağlı ,sovurucu klapanı açıq
+C) Hәr iki klapan bağlı
+D) Basma klapanı açıq, sovurucu klapanı bağlı
+Doğru cavab: B
+
+Tankerlәrin yüklәmә sisteminә nә daxil deyil?
+A) Keser klapanlar
+B) Boru kәmәrlәri
+C) Yüklәmә nasosları
+D) Manifoldlar
+Doğru cavab: C
+
+Tankerlәrdә neçә növ tank mövcuddur?
+A) 5
+B) 4
+C) 3
+D) 2
+Doğru cavab: B
+
+Xüsusi rayonda olan zaman tankların yuyulmasında hansı üsullardan 
+istifadә olunur?
+A) Qapalı dövrlü
+B) Açıq dövrlü
+C) Yarı-açıq dövrlü
+D) Birləşdirilmiş dövrlü
+Doğru cavab: A
+
+Elektrik cәrәyanı ilә zәrәrçәkәnә ilk tibbi yardım zamanı nә etmәk 
+lazımdır?
+A) Zәrәrçәkәnә süni nәfәs vermәyә başlamaq (cərəyanı kəsmədən)
+B) Cәrәyan xәtlәrini şәbәkәdәn ayırmaq
+C) Zәrәrçәkәni ayağa qaldırmağa çalışmaq
+D) Zәrәrçәkәnә dәrhal su vermәk
+Doğru cavab: B
+
+Tankların yuma sisteminә nә daxil deyil?
+A) Yuyucu nasoslar
+B) Qaz-analizator
+C) Yuyucu maşınlar
+D) Boru kәmәrlәri vә klapanlar
+Doğru cavab: B
+
+Tankerlәrdә neçә yanğın söndürәn nasos olmalıdır?
+A) 3
+B) 2
+C) 4
+D) 1
+Doğru cavab: A
+
+Tankların yuyulması zamanı neçә üsuldan istifadә olunur?
+A) 2
+B) 3
+C) 1
+D) 4
+Doğru cavab: B
+
+Tankların yuyulması nә zaman zәruri deyil?
+A) Tәmirdәn çıxan zaman
+B) Yük növünü dәyişәn zaman
+C) Tәmirlә әlaqәdar tanklara daxil olmadan әvvәl
+D) Qalın çöküntülәr tәmizlәnәn zaman
+Doğru cavab: A
+
+“SAZRİUS” abreviaturası hansı prosesdә istifadә olunur?
+A) Xam neftlә yuma sisteminin avtomatik nәzarәtindә
+B) İnert qazın istehsalı vә tәmizlәnmәsi prosesindә
+C) Buxar qayıtma sisteminin tәnzimlәnmәsindә
+D) Yuyucu sistemindә suların avtomatik ölçmә, qeyd edilmә vә 
+tullamanın idarә edilmәsi prosesindә
+Doğru cavab: D
+

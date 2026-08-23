@@ -25,12 +25,16 @@ export default function AdminDashboard() {
   const fetchVisits = async () => {
     try {
       const res = await authFetch('/site-visits/');
-      if (!res || !res.ok) throw new Error('Error');
+      if (!res) throw new Error('No response from server');
+      if (!res.ok) {
+         const errText = await res.text();
+         throw new Error(HTTP : );
+      }
       const data = await res.json();
       if (data && data.error) throw new Error(data.error);
       setVisits(data || []);
     } catch (err) {
-      setError('Veriler alınamadı veya yetkiniz yok.');
+      setError(Xəta: );
     } finally {
       setLoading(false);
     }

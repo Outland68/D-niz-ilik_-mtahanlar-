@@ -1,0 +1,413 @@
+Suya düşmüş adamı xilas etmәk mәqsәdi ilә bir dairә etmә manevri hansı hallarda istifadә olunur?
+A) Gәmidәn adamı suya düşәrkәn görüblәr
+B) Lövbәr dayanacağında gәmini axıntıya qarşı döndәrmәk mәqsәdilә
+C) Gәmi dar kanalda hәrәkәt edәrkәn toqquşmanın qarşısını almaq üçün
+D) Adamın suya düşmәsini heç kim görmәdikdә vә gec mәlum olduqda
+Doğru cavab: A
+
+Gәmini idarә edәn vasitәlәri sadalayın:
+A) Buxar qazanları, hava kompressorları, yağ nasosları, separasiya sistemi
+B) Yük kranları, şvartov qurğuları, yedәk burazları, qaldırıcı mexanizmlәr
+C) Xilasedici qayıqlar, yanğınsöndürmә nasosları, avariya dizel generatoru
+D) Sükan qurğusu, sükanaltı qurğusu, maşın teleqrafı, lövbәr qurğusu, daxili rabitә sistemi
+Doğru cavab: D
+
+Gәminin axıntıdan dreyfini necә hesablayırlar?
+A) Külәyin istiqamәtini vә sürәtini nәzәrә alaraq dreyf cәdvәllәrindәn seçilir
+B) Xәritәdә axıntı üçbucağı çәkilir vә axıntıdan dreyfin bucağı (β) hesablanır
+C) Kompasa vә maşın teleqrafının göstәricilәrinә baxaraq müәyyәn edilir
+D) Lövbәr zәncirinin suya buraxılmış uzunluğuna әsasәn tәyin edilir
+Doğru cavab: B
+
+Gәminin fırlanma mәrkәzinin nöqtәsi sabit sayılırmı?
+A) Gәminin üfüqi müstәvisinin müxtәlif yerlәrindә yerlәşir
+B) Hәmişә gәminin tәn ortasında, midel şpanqoutunda sabit olaraq qalır
+C) Hәmişә gәminin ağırlıq mәrkәzi ilә üst-üstә düşür vә dәyişmәz qalır
+D) Yalnız gәminin korma hissәsindә sükan oxunun üzәrindә yerlәşir
+Doğru cavab: A
+
+Gәmi sirkulyasiya edәndә (dönәndә) ilkin anda hansı yana әyilir?
+A) Sükan çevrilәn tәrәfә
+B) Gәminin burnu istiqamәtindә önә
+C) Dönmә zamanı heç bir yana әyilmә baş vermir
+D) Sükanın çevrildiyi tәrәfin әksinә
+Doğru cavab: A
+
+Gәminin tormoz yolu hansı mәna daşıyır?
+A) Mühәrrik söndürüldükdәn sonra gәminin sәrbәst hәrәkәt etdiyi mәsafә
+B) Lövbәr atıldıqdan sonra gәminin külәk axını ilә sürüklәndiyi mәsafә
+C) Gәminin sabitlәşmiş önә әn tam sürәt rejimindәn, arxaya әn tam sürәt rejiminә komanda verildikdәn sonra, tam dayanma anına qәdәr yolu
+D) Gәminin limana daxil olarkәn lövbәr stansiyasına qәdәr getdiyi mәsafә
+Doğru cavab: C
+
+Gәminin suya oturumu necә tәyin olunur?
+A) Gәminin texniki pasportunda göstәrilәn daimi kәmiyyәtlәrә әsasәn
+B) Trümdәki suyun sәviyyәsini ölçәn sensorların mәlumatlarına görә
+C) Yalnız xoxolotun ölçdüyü dәrinlik fәrqinә әsasәn müәyyәn edilir
+D) Gәmi korpusunun burun, arxa vә midel tәrәflәrindә yerlәşәn yük markalarına görә
+Doğru cavab: D
+
+Standart manevrlәrә nә aiddir?
+A) Axtarış vә xilasetmә әmәliyyatları, radiolaq manevrlәri vә külәk sınaqları
+B) Lövbәrә durma, şvartovka әmәliyyatları, yedәklәmә vә bunkerkәrә mәrhәlәlәri
+C) Gәminin sürәti, sirkulyasiya manevri, qabağa çәkmә, taktiki diametr, “ziqzaq” manevri üzrә sınaqlar, tormoz yolu
+D) Gәminin ballast sularının dәyişdirilmәsi, yük әmәliyyatları vә trüm yuyulması
+Doğru cavab: C
+
+Gәminin manevr elementlәrinә nә aiddir?
+A) Gәminin uzunluğu, eni vә körpücükdәki avadanlıqların sayı
+B) Lövbәr zәncirinin uzunluğu, şvartov kәndirlәrinin qalınlığı
+C) İti getmә (yeyinlik), sirkulyasiya qabiliyyәti, inersiya
+D) Yükdaşıma hәcmi, ballast sularının miqdarı, yanacaq sәrfiyyatı
+Doğru cavab: C
+
+Sirkulyasiyanın (dönmәnin) elementlәrinә nә aiddir?
+A) Lövbәrin qaldırılma vaxtı, mühәrrikin revers müddәti, fırlanma sürәti
+B) Pәrvanәnin fırlanma momenti, şaftın uzunluğu, sükan oxunun bucağı
+C) Qabağa çәkmә, taktiki diametr, sabitlәşmiş diametr, tam sirkulyasiya dövrü
+D) Gәminin yırğalanma tezliyi, diferenti, metamsentrik hündürlüyü
+Doğru cavab: C
+
+Gәminin “ziqzaq” manevri üzrә sınaqlarda sükanı çevirmә bucağı vә istiqamәtin dәyişmә dәrәcәsi nә qәdәr olmalıdır?
+A) 10°/10°
+B) 20°/20°
+C) 35°/35°
+D) 5°/15°
+Doğru cavab: A
+
+Gәminin lövbәrdә dayanmağı üçün dәniz dibinin әlverişli tәrkibi hansı sayılır?
+A) Qayaaltı sәth, mərcan qayaları
+B) Dәrin yarğanlar, vulkanik mәnşәli dib
+C) Gil, daşlıq
+D) Yumşaq lil, qum
+Doğru cavab: C
+
+Gәmi lövbәrdә dayanarkәn, tәhlükәsiz dayanacaq akvatoriyasının radiusunun miqdarı nәdәn asılıdır?
+A) Lövbәrin ağırlığından vә dәniz suyunun duzluluğundan
+B) Gәminin yük tutumundan vә mühәrrikin gücündәn
+C) Gәminin vә suya buraxılan lövbәr zәncirinin uzunluğundan
+D) Yalnız külәyin vә dәniz dalğalarının gücündәn
+Doğru cavab: C
+
+“Fertoinq” üsulu ilә gәmi lövbәrә dayanarkәn, lövbәr zәncirlәri arası tövsiyә olunan bucaq nә qәdәr olmalıdır?
+A) 30° - 40°
+B) 45°
+C) 90°
+D) 180°
+Doğru cavab: D
+
+Gәminin “şprinq”ə qoyulması nә demәkdir?
+A) Gәminin lövbәri dәnizin dibindәn çıxmırsa, onu güclü axıntının kömәyi ilә çıxartmaq
+B) Darısqal limanda gәmini mühәrriksiz yedәklәyәrәk yerinә oturtmaq
+C) Körpüyә yan alarkәn gәminin burnunu şvartovlarla kәskin şәkildә saxlamaq
+D) Gәminin kormasından vә ya burnundan iki zәncirlә eyni anda lövbәr salmaq
+Doğru cavab: A
+
+Dayaz sularda üzmə gәminin idarә olunmasına necә tәsir edir?
+A) Suyun müqavimәti artır, dalğalanma proseslәri artır, gәminin sürәti azalır, gәminin orta su oturumu artır
+B) Gәminin manevr qabiliyyәti artır vә sükanın reaksiyası daha dәqiq olur
+C) Suyun müqavimәti azalır, gәminin sürәti kәskin artır vә idarәetmә asanlaşır
+D) Sirkulyasiya diametri kiçilir vә gәminin tormoz yolu xeyli azalır
+Doğru cavab: A
+
+Gәmi “brideldә durub” mәnasını açıqlayın:
+A) Gәmi üfüqi vәziyyәtdә olan çәllәyә qoyulub
+B) Gәmi tufan zamanı sükanı kilitlәyәrәk dreyf vәziyyәtinә keçib
+C) Gәmi eyni vaxtda dörd lövbәrdәn istifadә edәrәk dayanmışdır
+D) Gәmi yedәk lülәsinin vasitәsilә başqa gәmiyә bәrkidilib
+Doğru cavab: A
+
+Addımı tənzimlənən vint nәdir?
+A) Yalnız mühәrrik söndürüldükdә işlәyәn avariya tormoz vinti
+B) Fırlanma istiqamәtini avtomatik tәnzimlәyәn hәrәkәt mexanizmi
+C) Gәminin sürәtinә uyğun diametrini böyüdüb kiçildәn pәrvanә
+D) Qanadlarının dönmә bucağını dәyişәn vint
+Doğru cavab: D
+
+Diferent gәminin idarә olunmasına necә tәsir edir?
+A) Korma hissәsinә olan diferent gәminin manevrliyini hәmişә pislәşdirir
+B) Diferentin miqdarı sükanın fәaliyyәtinә heç bir tәsir göstәrmir
+C) Diferent gәminin burun hissәsinә nә qәdәr çox olarsa, bir o qәdәr onun idarә olunması çәtinlәşir
+D) Burun diferenti olduqda gәminin inersiyası tamam dәf olunur vә dayanır
+Doğru cavab: C
+
+Sirkulyasiya (dönmə) zamanı gәminin sürәti necә dәyişir?
+A) Sürәt tәdricәn azalır
+B) Gәmi sirkulyasiyada tamamilә dayanır
+C) Sürәt tәdricәn artır
+D) Sürәt heç dәyişmir vә sabit qalır
+Doğru cavab: A
+
+Gәmi körpüdә dayanarkәn, onun әsas vә әlavә burazları necә bәrkidilmәlidir?
+A) Bütün kәndirlәr yalnız fır-fıranın barabanına sarınaraq saxlanılmalıdır
+B) Dәniz qaydalarına görә nәzarәt yalnız botsmanın ixtiyarında olmalıdır
+C) Şәraitdәn asılı olaraq bu әmәliyyata gәmi kapitanı göstәriş verir
+D) Hәmişә ilk növbәdә şprinqlәr verilmәli, sonra prodolnular bәrkidilmәlidir
+Doğru cavab: C
+
+Gәmidә istifadә olunan daxili yanma mühәrriklәrinin revers vaxtı nә qәdәrdir?
+A) Kiçik gәmilәrdә - 5 – 20 saniyә, böyük gәmilәrdә - 1 – 2 dәqiqә
+B) Revers hәrәkәti anında hәyata keçirilir vә vaxt tәlәb etmir
+C) Bütün növ gәmilәrdә standart olaraq 30 saniyәdir
+D) Kiçik gәmilәrdә - 1-2 dәqiqә, böyük gәmilәrdә - 3-5 dәqiqә
+Doğru cavab: A
+
+Gәmi hansısa bir sәbәbdәn sağ vә ya sol borta yan vәziyyәtdә olarsa, o zaman bu vәziyyәt onun hərəkətdə idarә olunmasına necә tәsir edir?
+A) Yan vәziyyәt hәrәkәt xәttinә deyil, ancaq inersiyaya tәsir edir
+B) Gәminin manevr qabiliyyәti yaxşılaşır vә sirkulyasiya azalır
+C) Gәminin kursu yalnız әyilmә olan tәrәfә meyllәnir
+D) Gәminin kursu yan tәrәfdәn әks tәrәfә “qaçır”
+Doğru cavab: D
+
+Suya düşmüş adamı xilas etmәk mәqsәdi ilә “Şarnov” dönmәsi manevri hansı hallarda istifadә olunur?
+A) Adamın suya düşmәsini heç kim görmәdikdә vә gәmini tez bir zamanda keçmiş yoluna qaytarmaq mәqsәdi ilә
+B) Axtarış üçün digәr gәmilәrdәn vә kömәkçi helikopterlәrdәn istifadә edildikdә
+C) Adamı suya düşәrkәn dәrhal gördükdә vә vizual nәzarәt mümkün olduqda
+D) Gәmi dar boğazlarda olduqda vә sirkulyasiya üçün yer çatışmadıqda
+Doğru cavab: A
+
+Suya düşmüş adamı xilas etmәk mәqsәdi ilә “Vilyamson” dönmәsi manevri hansı hallarda istifadә olunur?
+A) Yalnız gәmi lövbәrdәn çıxarkәn baş vermiş hadisәlәrdә
+B) Bütün hallarda istifadә etmәk olar
+C) Yalnız hәrәkәtin bölünmәsi sxemindәn kәnarda olduqda
+D) Adam suya düşdüyü an dәrhal mәlum olmadıqda vә qaranlıqda
+Doğru cavab: B
+
+Gәminin külәkdәn dreyfini necә hesablayırlar?
+A) Külәyin hәqiqi istiqamәtini vә sürәtini hesablayaraq, gәminin dreyf cәdvәlindәn dreyf bucağı (α) seçilir
+B) Sükanın dönmә bucağı vә mühәrrikin dövrlәr sayı ilә tәyin edilir
+C) Xәritәdә axıntı üçbucağı çәkilir vә yalnız suyun istiqamәti nәzәrә alınır
+D) Lövbәr zәncirinin suya buraxılmış uzunluğuna әsasәn ölçülür
+Doğru cavab: A
+
+Gәminin fırlanma mәrkәzi nәdir?
+A) Sükan qurğusunun oxu vә pәrvanәnin ortası kәsişәn nöqtәdir
+B) Gәminin üfüqi müstәvisindә yerlәşәn qüvvә nöqtәsidir
+C) Gәmi sirkulyasiya edәrkәn sürәtin sıfıra düşdüyü hәndәsi nәzәri nöqtәdir
+D) Gәminin tәmәr mәrkәzi ilә sükan pәrinin arasındakı orta xәtdir
+Doğru cavab: B
+
+İnersiya gәminin hansı hәrәkәt rejimlәrindә tәyin olunur?
+A) Sükanın 35 dәrәcә çevrildiyi andan gәminin tam sirkulyasiya etmәsinә qәdәr
+B) Sabitlәşmiş önә әn tam sürәt rejimindә, “stop” komandası verildikdәn sonra, tam dayanan anına qәdәr
+C) Gәminin körpüyә yan alma sürәtindәn tәdricәn şvartovka yerinә çatmasına qәdәr
+D) Gәmi lövbәrә durarkәn zәncirin dartılması vә buraxılması aralığında
+Doğru cavab: B
+
+Gәminin manevr elementlәri barәdә informasiya hansı sәnәdlәrdә göstәrilmәlidir?
+A) Maşın şöbәsinin jurnalında vә bunker әmәliyyatları blankında
+B) Gәminin sanitar vә radiostansiya qeydiyyatı jurnallarında
+C) Losman (bәlәdçi) vərəqəsində, manevr elementlәrinin cәdvәlindә, manevr xüsusiyyәtlәrinin formulyarında
+D) Yük manifestindә vә tәhlükәsizlik әmәliyyatları üzrә tәlimatda
+Doğru cavab: C
+
+İnersiya elementlәrinә nә aiddir?
+A) Mәsafә vә vaxt
+B) Sürәt vә diferent
+C) Lövbәr zәncirinin uzunluğu vә çәkisi
+D) Suyun müqavimәti vә külәyin istiqamәti
+Doğru cavab: A
+
+Gәminin sirkulyasiya elementlәri tәyin edilәrkәn, sükanı çevirmә bucağı nә qәdәr olmalıdır?
+A) 15°
+B) 35°
+C) 20°
+D) 10°
+Doğru cavab: B
+
+Gәmi lövbәr dayanacağı seçәrkәn, әlverişli dәrinliklәr hansılar sayılır?
+A) 20-30m
+B) 5-10m
+C) 50-80m
+D) 100-150m
+Doğru cavab: A
+
+Gәmi lövbәrdə dayanarkən, istiqamәti hansı tәrәfә olmalıdır?
+A) Dalğaların gәlmә istiqamәtinә paralel, gәminin börtünü külәyә doğru çevirmәklә
+B) Yalnız dәniz cәrәyanlarının istiqamәtinә yönәlmәli, külәk nәzәrә alınmamalıdır
+C) Hәmişә şimal istiqamәtinә doğru yönәlmәli vә gәminin burnu xәritә meridianına baxmalıdır
+D) Külәk vә axıntı istiqamәtinә qarşı; onların eyni zamanda birgә tәsiri olarsa, ikisindәn daha güclü tәsirә qarşı
+Doğru cavab: D
+
+Gәmi iki lövbәrә dayanarkәn, lövbәr zәncirlәri arası tövsiyә olunan bucaq nә qәdәr olmalıdır?
+A) 90° - 120°
+B) 180°
+C) 10° - 15°
+D) 30° - 40°
+Doğru cavab: D
+
+Gәminin lövbәrdә dayanması üçün “Fertoinq” üsulu hansı hallarda istifadә olunur?
+A) Güclü qabarma-çәkilmә axıntılar olan vә mәhdud sahәli akvatoriyalarda
+B) Buz şəraitində gәminin buzqıran gәmisini gözlәmәsi lazım olduqda
+C) Şiddәtli qasırğa zamanı açıq sular üzәrindә dreyf etmәmәk üçün
+D) Dәrinliyi 50 metrdәn çox olan açıq dәniz reyidlәrindә dayanarkәn
+Doğru cavab: A
+
+Gәmi lövbәrә dayanarkәn, “lövbәr dayanacağının planşeti” nә üçün çәkilir?
+A) Gәminin tәyin edilmiş yerinə, onun dәyişilmәsinə, naviqasiya cәhәtdәn tәhlükәsizliyinә nәzarәt mәqsәdi ilә
+B) Şvartovka planını tәşkil etmәk vә kәndirlәrin sayını tәyin etmәk üçün
+C) Körpücükdәn lövbәr braşpilinin görünüş sahәsini dәqiqlәşdirmәk üçün
+D) Lövbәr mexanizminin fәaliyyәtini yoxlamaq vә texniki jurnala qeyd etmәk üçün
+Doğru cavab: A
+
+Hansı üsullarla gәmi korma ilә körpüyә yan ala bilәr?
+A) Sәrbәst şәkildә, şәraitdәn asılı olaraq
+B) Lövbәr zәncirlәrini tam buraxaraq, burun tәrәfdәn bәrkidilәrәk
+C) Yalnız külәk quruya tәrәf әsdiyi hallarda, xüsusi şprinqlәr atmaqla
+D) Yalnız xüsusi korma yedәklәri vasitәsilә yedәkçilәrin kömәyi ilә
+Doğru cavab: A
+
+“Bitinq” üsulu ilә yedәklәmә vaxtı, yedәk burazı yedәk olan gәminin hansı hissәsindә bәrkidilir?
+A) Buraz yalnız gәminin burnunda yerlәşәn әsas lövbәr lülәsindәn keçirilәrәk bәrkidilir
+B) Bir qısa buraz kormadan, digәri isә gәminin tәn ortasında midel hissәdә bәrkidilir
+C) Yedәk gәmisindәn yedәk olan gәmiyә iki buraz verilәrәk, onları bak vә ya korma hissәsinә aralayaraq knextlәrdә bәrkidirlәr
+D) Yedәk burazı gәminin börtlәrinә bәrkidilәrәk gәmini fırlanmağa imkan vermәdәn çәkir
+Doğru cavab: C
+
+Dar keçidlәrdә vә kanallarda üzmə gәminin idarә olunmasına necә tәsir edir?
+A) Sahillәr sirkulyasiya diametrini kiçildir vә gәminin tormoz yolu xeyli azalır
+B) Gәminin burnu hәmişә daha dәrin yerә can atır vә idarәetmә tamamilә asanlaşır
+C) Suyun dәrinliyi sabit qaldığından gәminin manevr qabiliyyәti yaxşılaşır vә sәviyyә stabil olur
+D) Gәminin burnu yaxın sahildәn aralanmaq istәyir, kanalda isә gәmilәr arası sorma (çәkmә) effekti әmәlә gәlir
+Doğru cavab: D
+
+“Sleminq” sözü hansı mәnanı daşıyır?
+A) Dar kanalda gәminin burnunun dәniz dibinә sürtünmәsi nәticәsindә yavaşlaması
+B) Gәminin suya baş vurması zamanında dalğaların onun alt hissәsinә zәrbәlәrlә vurulması
+C) Külәyin tәsirindәn gәminin kәskin olaraq yan börtlәrә әyilmәsi vә yırğalanması
+D) İki gәminin yaxın mәsafәdә keçәrkәn bir-birini hidrodinamik olaraq çәkmәsi
+Doğru cavab: B
+
+Gәminin idarәetmәsindә tәnzimlәnәn addım (VRŞ) istifadәsi, onun tormoz yolunun mәsafәsini vә buna sәrf olunan vaxtı dәyişirmi?
+A) Yalnız vaxtı artırır vә manevri gecikdirir
+B) Heç bir dәyişiklik yaratmır vә tәsirsiz qalır
+C) Tormoz yolunu vә vaxtı azaldır
+D) Tormoz yolunu artırır, amma vaxtı azaldır
+Doğru cavab: C
+
+Gәmi yük vә ballast altında olduğu zaman, onun sirkulyasiyası necә dәyişir?
+A) Sirkulyasiya diametri çoxalır
+B) Sirkulyasiya diametri azalır
+C) Dönmә zamanı inersiya qüvvәsi lәğv olur
+D) Heç bir dәyişikliyә mәruz qalmır
+Doğru cavab: A
+
+Gәmi körpüdә dayanarkәn, onun burazları hansı dartma qüvvәsinә mәruz qalırlar?
+A) Korma hissәsindәki kәndirlәr hәmişә daha az dartma qüvvәsinә tabe olur
+B) Gәminin bort üzrә yuxarı hissәsindәn verilibsә, onda dartma qüvvәsi dә bir o qәdәr yüksәkdir, bort üzrә aşağı tәrәfә dartma qüvvәsi azalır
+C) Bütün kәndirlәr hәmişә eyni bәrabәr dartma qüvvәsinә mәruz qalırlar
+D) Kәndirlәrin dartma qüvvәsi yalnız suyun duzluluğundan vә qabarmadan asılıdır
+Doğru cavab: B
+
+Gәmi lövbәrdә dayanarkәn onu döndәrmәk mәqsәdi ilә, eyni zamanda baş mühәrriki istifadә etmәk olarmı?
+A) Olar
+B) Qәti qadağandır, çünki zәncir qırıla bilәr
+C) Yalnız yedәk gәmisi vasitәsilә hәyata keçirmәk lazımdır
+D) Yalnız burun tәrәfә diferent olduqda mümkündür
+Doğru cavab: A
+
+Hansı rәhbәr sәnәdin gәmi sürücülüyünün tәhlükәsizliyinә dair tәlәblәrinә görә, dәnizdә gәminin yerinin tәyin etmәsinin diskretliyinә dair tövsiyәlәr verilib?
+A) Beynәlxalq Dәniz Tәşkilatının (IMO) sәrnişin daşıma qaydalarında
+B) Liman Nәzarәti vә Tәhlükәsizliyi İdarәsinin daxili nizamnamәsindә
+C) şturman xidmәtinin tәşkili üzrә tövsiyәlәrdə (РШС-89)
+D) Gәminin beynәlxalq tonnaj sertifikatı әlavәlәrindә
+Doğru cavab: C
+
+Gәmi hәrәkәtin bölünmә sisteminә hansı qaydalara әsasәn daxil olmalı və sistemi tәrk etmәlidir?
+A) Gәmi ayrılma zolağından keçәrәk әks istiqamәtli yola birbaşa hәrәkәtlә qoşulmalıdır
+B) Sistemә istәnilәn yerdәn 90 dәrәcәlik bucaq altında sürәtlә girmәk vә tәrk etmәk mütlәqdir
+C) Hәmişә yalnız mәrkәzi xәtdәn daxil olmalı vә kәskin manevrlәrlә onu tәrk etmәlidir
+D) Hәrәkәtin bölünmә sisteminin başlanğıc v.y. axırıncı nöqtәsindә, əgər bu mümkün deyilsә, bölünmә sisteminin istiqamәti üzrә kiçik bucaq altında
+Doğru cavab: D
+
+Gәmi hәrәkәtin bölünmә sisteminin üzәrindәn hansı qaydada keçmәlidir?
+A) Zәruri şәraitdә hәrәkәtin bölünmә sisteminin istiqamәtinә 900 bucaq altında keçmәlidir
+B) Mümkün qәdәr dreyf edәrәk, 45 dәrәcә bucaq altında digәr xәttә keçmәklә
+C) Yalnız minimum sürәtlә bölünmә zonasının tәn ortasından diaqonal üzrә
+D) Hәmişә ümumi axınla eyni istiqamәtdә paralel vә ziqzaq şәklindә keçmәlidir
+Doğru cavab: A
+
+Gәmilәr hәrәkәtin bölünmә sistemindә üzәrkәn, qaydalara görә hansı üstünlüklәrә malikdirlәr?
+A) Heç bir üstünlüklәri yoxdur
+B) Digәr sulara nisbәtәn üstünlük hüququna malikdirlәr vә yol onlara verilmәlidir
+C) Yalnız yelkәnli gәmilәrә qarşı üstünlüklәri var, motorlu gәmilәr tәhvil verir
+D) Bölünmә sxemindә sürәti az olan gәmilәrin üstünlüyü beynәlxalq qaydalarla tәsdiqlәnir
+Doğru cavab: A
+
+“Qak” üsulu ilә yedәklәmә vaxtı, yedәk burazı yedәk gәmisindә harada bәrkidilir?
+A) Yedәk gәmisinin burun lövbәr braşpilindә
+B) Gәminin midel hissәsindәki şvartov knextlәrinә
+C) Yedәk gәmisinin mәrkәzindәki yük kranlarına
+D) Yedәk gәmisinin korma hissәsindә
+Doğru cavab: D
+
+“Sancma” üsulu ilә yedәklәmә vaxtı yedәk gәmisi öz işini necә aparır?
+A) Şәraitdәn asılı olaraq, yedәk gәmisi yedәklənən gәmini müxtәlif istiqamәtlәrdәn burun hissәsi ilә itәliyir vә lazımi vәziyyәtә gәtirir
+B) Yedәk gәmisi digәr gәmiyә paralel yan alaraq hәrәkәti birlikdә tәmin edir
+C) Yedәk gәmisi öz kormasından kәndir verәrәk onu yalnız uzaq mәsafәdәn çәkir
+D) Bütün fәaliyyәtini lövbәr salaraq statik şәkildә vinç vasitәsilә hәyata keçirir
+Doğru cavab: A
+
+Fırtına zamanı gәmi hansı hallarda fırtınanın tәsirinә daha çox mәruz qalır?
+A) Gәmi korma hissәsini külәyә doğru çevirib hәrәkәt etdikdә vә mühәrrik tam gücü ilә işlәdikdә
+B) Gәmi dayaz sularda hәrәkәt edәrkәn vә dalğalar yalnız sәth boyunca irәlilәdikdә
+C) Gәmi dalğaya qarşı laqla dayananda, dalğanın uzunluğu gәminin uzunluğundan çox olanda, gәminin mühәrriklәri “stop” vәziyyәtindә olanda, gәmi öz istiqamәtini xeyli dәyişәndә, sürәti dalğanın sürәtindәn çox vә ya xeyli az olanda, dalğanın zirvәsindә olanda
+D) Gәmi burunla dalğaya qarşı yavaş hәrәkәt etdikdә vә dalğalar hündür olduqda
+Doğru cavab: C
+
+Gәminin helikopterlә birgә işlәməsi üçün, onu açıq göyәrtәdә qәbul etmәk mәqsәdilә hazırlanan sahә neçә metrdәn az olmamalıdır?
+A) 10 metr
+B) 5 metr
+C) 20 metr
+D) 15 metr
+Doğru cavab: B
+
+Gәmi lövbәrinin oxunun pәncәlәrinә görә dәniz dibinin sәviyyәsindәn qalxan vәziyyәtdә olması, lövbәrin saxlama qüvvәsinə necə təsir edir?
+A) Heç bir tәsir göstәrmir, qüvvә sabit qalır
+B) Lövbәr zәnciri qırılana qәdәr qüvvә bәrabәrlәşir
+C) Lövbәrin saxlama qüvvәsi kәskin olaraq artır
+D) Lövbərin saxlama qüvvəsi azalır
+Doğru cavab: D
+
+Niyə “matrosov” lövbәrinin saxlama gücü, “xol” lövbәrinə nisbətən daha çoxdur?
+A) ”matrosov” lövbәrinin pәncәlәri onun oxuna daha yaxın yerlәşir
+B) “matrosov” lövbәri daha ağır metallurgiya әrintisindәn hazırlanır
+C) “xol” lövbәrindә ox olmadığına görә yerә möhkәm yapışmır
+D) “matrosov” lövbәrinin qolları daha uzun vә ağır olduğu üçün
+Doğru cavab: A
+
+Hansı hallarda beynәlxalq dәniz hüququna әsasәn, açıq dәnizdә hәrbi gәmilәr tәrәfindәn gәmiyə baxış keçirilir?
+A) Gәminin AIS sistemi vә radiolokasiya stansiyası sıradan çıxdıqda
+B) Gәmi kapitanı müvafiq icazә olmadan naviqasiya işıqlarını söndürdükdә
+C) Әgәr gәmi qanunsuz radio ötürmә (tele ötürmә) ilә mәşğuldursa
+D) Gәmi hәr hansı limana yan almadan açıq dәnizdә yanacaq qәbul etdikdә
+Doğru cavab: C
+
+Lövbәri vermәklә körpüyә yan almaq olarmı?
+A) Olar
+B) Mümkün deyil, çünki sirkulyasiya pozulur
+C) Yalnız fırtınalı havalarda icazә verilir
+D) Beynәlxalq liman qaydaları ilә qadağandır
+Doğru cavab: A
+
+Axtarış-xilasetmә işlәrini apararkәn, tövsiyə olunmuş axtarış sxemlәri hansı sәnәddә göstәrilib?
+A) IAMSAR
+B) SOLAS
+C) MARPOL
+D) ISPS Code
+Doğru cavab: A
+
+Suya düşmüş insanı xilas etmәk üçün standart manevrlәrdәn hansı “dәrhal manevr” kimi istifadә olunmur?
+A) Tәk sirkulyasiya (Dairә) manevri
+B) Şarnov manevri
+C) Bütün sadalananlar dәrhal manevr kimi hәmişә istifadә olunur
+D) Vilyamson manevri
+Doğru cavab: B
+
+Dәniz axıntılarını yaradan әsas faktorlar hansılardır?
+A) Gәmilәrin hәrәkәti, dәnizaltı kabellәr vә estakadaların olması
+B) Dәniz dibinin relyefi vә süni dәrinlәşdirmә işlәri
+C) Buzlaqların әrimәsi vә gәmilәrin ballast sularının axıdılması
+D) Külәk, atmosfer tәzyiqi, qabarma-çәkilmәnin baş vermәsi
+Doğru cavab: D
+

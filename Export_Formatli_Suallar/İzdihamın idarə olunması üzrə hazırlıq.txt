@@ -1,0 +1,490 @@
+1. Ro-Ro olmayan digər sərnişin gəmiləri üçün DHDNÇ-78 tənzimlənməsi hansı qaydada öz əksini tapır?
+A) A-II/3
+B) A-VI/4
+C) A-III/1
+D) A-V/2
+Doğru cavab: D
+
+2. Ro-Ro sərnişin gəmiləri üçün DHDNÇ-78 tənzimlənməsi hansı qaydada öz əksini tapır?
+A) A-IV/2
+B) A-III/4
+C) A-I/6
+D) A-V/2
+Doğru cavab: D
+
+3. Üç davamlı uzun səs siqnalı nəyi bildirir?
+A) Dumanlı havada lövbər siqnalını
+B) Gəmini tərk etmə siqnalını
+C) Yanğın həyəcan siqnalını
+D) Suda adam həyəcan siqnalını
+Doğru cavab: D
+
+4. Yeddi qısa bir uzun səs siqnalı aşağıdakılardan hansını bildirir?
+A) Gəmini tərk etmə siqnalını
+B) Liman yedəyi çağırma siqnalını
+C) Sükan zədələnməsi siqnalını
+D) Suda adam siqnalını
+Doğru cavab: A
+
+5. Yeddi qısa bir uzun səs siqnalı aşağıdakılardan hansını bildirir?
+A) Yalnız gəminin rənglənməsi xəbərdarlığını
+B) Ümumgəmi həyəcan siqnalını
+C) Yalnız maşın bölməsində lokal yanğın siqnalını
+D) Yalnız lövbər qaldırma siqnalını
+Doğru cavab: B
+
+6. “Qısa səs” termini təqribən neçə saniyə davamiyyəti olan siqnalı bildirir?
+A) 1 saniyə
+B) 10 saniyə
+C) 15 saniyə
+D) 5 saniyə
+Doğru cavab: A
+
+7. “Uzun səs” termini davamiyyəti neçə saniyəyə kimi olan siqnalı bildirir?
+A) 4-6 saniyə
+B) 1-2 saniyə
+C) 12-15 saniyə
+D) 20-30 saniyə
+Doğru cavab: A
+
+8. Arakəsmələrin alt göyərtələrində hər sukeçirməyən bölmədən neçə təxliyyə yolu nəzərdə tutulmuşdur?
+A) 1
+B) 5
+C) 2
+D) Təxliyyə yolu nəzərdə tutulmur
+Doğru cavab: C
+
+9. Arakəsmələrin alt göyərtələrində hər əsas şaquli zonadan azı neçə təxliyyə yolu olmalıdır?
+A) 1
+B) 6
+C) 2
+D) 4
+Doğru cavab: C
+
+10. Bir təxliyyə yoluna malik 36 nəfərdən çox sərnişin daşıyan gəmilər üçün dəhlizin uzunluğu maksimum neçə metr nəzərdə tutulmuşdur?
+A) 13 metr
+B) 25 metr
+C) 5 metr
+D) 40 metr
+Doğru cavab: A
+
+11. Bir təxliyyə yoluna malik 36 nəfərdən az sərnişin daşıyan gəmilər üçün dəhlizin uzunluğu maksimum neçə metr nəzərdə tutulmuşdur?
+A) 18 metr
+B) 7 metr
+C) 2 metr
+D) 30 metr
+Doğru cavab: B
+
+12. Maşın bölməsində neçə təxliyyə yolu nəzərdə tutulmuşdur?
+A) 4
+B) 1
+C) Təxliyyə yolu tələb olunmur
+D) 2
+Doğru cavab: D
+
+13. Təxliyyə yolu boyu işıqsaçan işarələr yerdən hansı hündürlükdə olmalıdır?
+A) 15 sm
+B) 5 sm
+C) 200 sm
+D) 150 sm
+Doğru cavab: A
+
+14. Elektrik işığı olmadığı halda təxliyyə yolu boyu işıqsaçan işarələr hansı müddət ərzində işıqlanmalıdır?
+A) 5 dəq
+B) 24 saat
+C) 10 dəq
+D) 60 dəq
+Doğru cavab: D
+
+15. İşıq və tüstü verən buylarla komplektləşdirilmiş və kapitan körpüsündə quraşdırılması zəruri hesab edilən xilasedici dairələr minimum neçə ədəd olmalıdır?
+A) 10
+B) 1
+C) 2
+D) 6
+Doğru cavab: C
+
+16. Təlim-məşq həyəcanları və fövqəladə hallar zamanı liftdən eyni zamanda maksimum neçə nəfərin istifadə etməsinə icazə verilir?
+A) Maksimum 4 nəfər
+B) İcazə verilmir
+C) Yalnız kapitanın icazəsi ilə 2 nəfər
+D) Maksimum 10 nəfər
+Doğru cavab: B
+
+17. Xilasedici vasitələr neçə hissəyə bölünür?
+A) Bölünmür
+B) 5
+C) 2 (Fərdi və Kollektiv)
+D) 10
+Doğru cavab: C
+
+18. Aşağıdakılardan hansı fərdi xilasedici vasitə deyil?
+A) Xilasedici gödəkcə
+B) Hidrotermokostyum
+C) Xilasedici dairə
+D) Xilasedici sal
+Doğru cavab: D
+
+19. Aşağıdakılardan hansı fərdi xilasedici vasitə deyil?
+A) Xilasedici dairə
+B) Xilasedici qayıq
+C) İstilikqoruyucu vasitə (TPU)
+D) Xilasedici jilet
+Doğru cavab: B
+
+20. Xilasedici dairəyə bərkidilən ipin uzunluğu neçə metr nəzərdə tutulmuşdur?
+A) 10 m
+B) 50 m
+C) 30 m
+D) 5 m
+Doğru cavab: C
+
+21. Uzunluğu 60 metrə qədər olan sərnişin gəmilərində minimum neçə ədəd xilasedici dairə olmalıdır?
+A) 8
+B) 2
+C) 15
+D) 20
+Doğru cavab: A
+
+22. Uzunluğu 60-120 metrə qədər olan sərnişin gəmilərində minimum neçə ədəd xilasedici dairə olmalıdır?
+A) 30
+B) 12
+C) 25
+D) 4
+Doğru cavab: B
+
+23. Uzunluğu 120-180 metrə qədər olan sərnişin gəmilərində minimum neçə ədəd xilasedici dairə olmalıdır?
+A) 35
+B) 50
+C) 18
+D) 6
+Doğru cavab: C
+
+24. Uzunluğu 180-240 metrə qədər olan sərnişin gəmilərində minimum neçə ədəd xilasedici dairə olmalıdır?
+A) 24
+B) 10
+C) 60
+D) 45
+Doğru cavab: A
+
+25. Xilasedici dairənin minimal çəkisi neçə kq olmalıdır?
+A) 0.5 kq
+B) 2.5 kq
+C) 10 kq
+D) 15 kq
+Doğru cavab: B
+
+26. Xilasedici dairə komplektinin tərkib hissəsi olan tüstü azı neçə dəqiqə işlək vəziyyətdə olmalıdır?
+A) 15 dəq
+B) 120 dəq
+C) 2 dəq
+D) 60 dəq
+Doğru cavab: A
+
+27. Xilasedici dairə komplektinin tərkib hissəsi olan işıq azı neçə saat işlək vəziyyətdə olmalıdır?
+A) 10 dəqiqə
+B) 2 saat
+C) 24 saat
+D) 30 dəqiqə
+Doğru cavab: B
+
+28. Xilasedici dairələrin ən azı neçə faizi işıq verən buylarla təmin olunmalıdır?
+A) 50%
+B) 100%
+C) 5%
+D) 10%
+Doğru cavab: A
+
+29. Xilasedici dairələr hansı maksimal hündürlükdən atılmağa davamlı olmalıdırlar?
+A) 5 m
+B) 30 m
+C) 2 m
+D) 100 m
+Doğru cavab: B
+
+30. Xilasedici dairənin daxili diametri neçə mm olmalıdır?
+A) 800 mm
+B) 1000 mm
+C) 400 mm
+D) 100 mm
+Doğru cavab: C
+
+31. Xilasedici dairənin xarici diametri neçə mm olmalıdır?
+A) 400 mm
+B) 800 mm
+C) 200 mm
+D) 1500 mm
+Doğru cavab: B
+
+32. Xilasedici dairələrin odadavamlılığı nə qədərdir?
+A) 2 saniyə
+B) 30 saniyə
+C) 1 saat
+D) 10 dəqiqə
+Doğru cavab: A
+
+33. Körpələr üçün nəzərdə tutulmuş xilasedici gödəkçə hansı boy və çəki standartına uyğun istehsal edilmişdir?
+A) Çəki məhdudiyyəti olmadan bütün körpələrə
+B) Boy-190 sm-ə qədər, çəki 80 kq-a qədər
+C) Boy-155 sm-dən artıq, çəki 43 kq-dan artıq
+D) Boy-100 sm-ə qədər, çəki 15 kq-a qədər
+Doğru cavab: D
+
+34. Uşaqlar üçün nəzərdə tutulmuş xilasedici gödəkçə hansı boy və çəki standartına uyğun istehsal edilmişdir?
+A) Boy-155 sm-ə qədər, çəki 43 kq-a qədər
+B) Boy-200 sm-dən artıq, çəki 100 kq-a qədər
+C) Boy-80 sm-ə qədər, çəki 10 kq-a qədər
+D) Yalnız 18 yaşdan yuxarı uşaqlara
+Doğru cavab: A
+
+35. Böyüklər üçün nəzərdə tutulmuş xilasedici gödəkçə hansı boy və çəki standartına uyğun istehsal edilmişdir?
+A) Boy-100 sm-dən az, çəki 10 kq-dan az
+B) Yalnız boyu 2 metr olan insanlara
+C) Boy-155 sm-dən artıq, çəki 43 kq-dan artıq
+D) Yalnız çəkisi 120 kq olan insanlara
+Doğru cavab: C
+
+36. Xilasedici gödəkçə geyinilmiş vəziyyətdə hansı maksimal hündürlükdən suya tullanmaq olar?
+A) 50 m
+B) 1 m
+C) 20 m
+D) 4,5 m
+Doğru cavab: D
+
+37. Xilasedici gödəkçə hansı maksimal müddət ərzində kənardan kömək olmadan geyinilməlidir?
+A) 10 dəq
+B) 5 san
+C) 30 dəq
+D) 60 san
+Doğru cavab: D
+
+38. Xilasedici gödəkçənin üzərində silinməyən rəng ilə yazılır:
+A) İMO rəhbərinin adı və soyadı
+B) Gəminin və qeydiyyat limanının adı
+C) Sərnişin biletinin qiyməti
+D) Gəmi kapitanının ev ünvanı
+Doğru cavab: B
+
+39. Xilasedici gödəkçənin lampası neçə saat yanmalıdır?
+A) 8 saat
+B) 1 saat
+C) 10 dəqiqə
+D) 48 saat
+Doğru cavab: A
+
+40. Xilasedici gödəkçə təchiz olunmalıdır:
+A) Yalnız balıq tutmaq üçün tilov
+B) Yalnız radioötürücü antenna
+C) Fit, işıq lampası, batareya
+D) Yalnız güzgü və kompas
+Doğru cavab: C
+
+41. Sərnişin gəmilərində uşaqlar və körpələr üçün ümumi xilasedici gödəkçənin neçə faizi qədər əlavə xilasedici gödəkçə olmalıdır?
+A) 2%
+B) 10%
+C) 100%
+D) 50%
+Doğru cavab: B
+
+42. Hidrotermokostyum geyinilmiş vəziyyətdə hansı maksimal hündürlükdən suya tullanmaq olar?
+A) 1 m
+B) 4,5 m
+C) 15 m
+D) 30 m
+Doğru cavab: B
+
+43. Hidrotermokostyum hansı maksimal müddət ərzində kənardan kömək olmadan geyinilməlidir?
+A) 2 dəq
+B) 10 saniyə
+C) 30 dəq
+D) 15 dəq
+Doğru cavab: A
+
+44. Uşaqlar üçün nəzərdə tutulmuş hidrotermokostyum hansı boy və çəki standartına uyğun istehsal edilmişdir?
+A) Boy-150 sm-ə qədər, çəki 50 kq-a qədər
+B) Çəki məhdudiyyəti olmadan yalnız kişilərə
+C) Boy-70 sm-ə qədər, çəki 5 kq-a qədər
+D) Boy-200 sm-dən artıq, çəki 100 kq-dan artıq
+Doğru cavab: A
+
+45. Böyük ölçülü hidrotermokostyum hansı boy və çəki standartına uyğun istehsal edilmişdir?
+A) Yalnız uşaqlar üçün
+B) Boy-150 sm-ə qədər, çəki 40 kq-a qədər
+C) Boy-120 sm-ə qədər, çəki 30 kq-a qədər
+D) Boy-206 sm-ə qədər, çəki 170 kq-a qədər
+Doğru cavab: D
+
+46. Universal ölçülü hidrotermokostyum hansı boy və çəki standartına uyğun istehsal edilmişdir?
+A) Boy-190 sm-ə qədər, çəki 150 kq-a qədər
+B) Boy-100 sm-ə qədər, çəki 20 kq-a qədər
+C) Boy-250 sm-dən artıq, çəki 200 kq-dan artıq
+D) Yalnız yeni doğulmuş körpələrə
+Doğru cavab: A
+
+47. Hidrotermokostyum təchiz olunmalıdır:
+A) Yalnız dalğıc balonu
+B) Yalnız balıqçı toru
+C) Yalnız kompas və seyr xəritəsi
+D) Fit, işıq lampası, batareya
+Doğru cavab: D
+
+48. İstilikqoruyucu vasitə (TPU) hansı boy və çəki standartına uyğun istehsal edilmişdir?
+A) Boy-206 sm-ə qədər, çəki 170 kq-a qədər
+B) Çəkisindən asılı olaraq yalnız körpələrə
+C) Boy-250 sm-dən artıq, çəki 200 kq-dan artıq
+D) Boy-100 sm-ə qədər, çəki 10 kq-a qədər
+Doğru cavab: A
+
+49. İstilikqoruyucu vasitə hansı temperatur aralığında öz funksiyasını yerinə yetirməlidir?
+A) -30°C +20°C
+B) +30°C +80°C
+C) 0°C +50°C
+D) -100°C +100°C
+Doğru cavab: A
+
+50. Hansı qorxu və gərginlikdən yaranan reaksiya deyil?
+A) Qeyri-ixtiyari qışqırıq və təşviş
+B) Sevinc
+C) Şok və donub qalma (stupor)
+D) Panika
+Doğru cavab: B
+
+51. Beynəlxalq səfərlər həyata keçirən gəmilərdə sərnişinlərin təlim toplanışı gəmiyə mindirildikdən sonra neçə saat ərzində keçirilməlidir?
+A) Təlim toplanışı keçirilməsi tələb olunmur
+B) 24 saat
+C) 72 saat
+D) 1 ay ərzində
+Doğru cavab: B
+
+52. Gəmini tərk etmə komandasını kim verir?
+A) Növbətçi matros
+B) Gəmi aşpazı
+C) Sərnişinlərin böyüyü
+D) Kapitan
+Doğru cavab: D
+
+53. Gəmidə təlim həyəcanları kimin göstərişi üzrə elan edilir?
+A) Liman agentinin
+B) Liman bələdçisinin (pilotun)
+C) İstənilən sərnişinin
+D) Kapitanın
+Doğru cavab: D
+
+54. Kayut kartoçkası harada yerləşir?
+A) Sərnişinlərin yataq yerlərinin yanında
+B) Kapitan körpüsündə radarın yanında
+C) Maşın bölməsində karterin üstündə
+D) Liman müfəttişliyinin ofisində
+Doğru cavab: A
+
+55. Kayut kartoçkasında qeyd edilmir:
+A) Həyəcan siqnallarının növləri
+B) Xilasedici gödəkçənin geyilmə qaydası
+C) Heyətin vəzifələri haqqında məlumat
+D) Toplanış yeri (Muster station)
+Doğru cavab: C
+
+56. Kollektiv xilasedici vasitədə olarkən kimlər dəniz xəstəliyinə qarşı dərman qəbul etməlidirlər?
+A) Heç kim dərman qəbul etməməlidir
+B) Yalnız mühərrik ustası
+C) Yalnız gəmi kapitanı
+D) Hər kəs
+Doğru cavab: D
+
+57. “STARBOARD” termininin düzgün açıqlamasını göstərin:
+A) Gəminin kiyl hissəsi
+B) Gəminin arxa hissəsi (qutma)
+C) Gəminin burun istiqamətinə durduqda sağ tərəfi
+D) Gəminin burun istiqamətinə durduqda sol tərəfi
+Doğru cavab: C
+
+58. Fövqəladə hal zamanı insan davranışları bölünür:
+A) Sakit, aqressiv, şən
+B) Aktiv, passiv, panik
+C) Məntiqi, riyazi, fiziki
+D) Yuxulu, yorğun, gürbüz
+Doğru cavab: B
+
+59. Kollektiv xilasedici vasitələrdə “MAYDAY” fəlakət siqnalını ötürmək üçün UQD radiostansiyasının hansı kanalına köklənmək lazımdır?
+A) UQD Kanal 16
+B) UQD Kanal 12
+C) UQD Kanal 6
+D) UQD Kanal 70
+Doğru cavab: A
+
+60. Minimum neçə sərnişin götürən gəmi sərnişin gəmisi adlanır?
+A) 2 nəfərdən artıq sərnişin daşıyan gəmi
+B) 500 nəfərdən artıq sərnişin daşıyan gəmi
+C) 1000 nəfərdən artıq sərnişin daşıyan gəmi
+D) 12 nəfərdən artıq sərnişin daşıyan gəmi
+Doğru cavab: D
+
+61. Konstruksiyasına görə xilasedici sallar neçə növə ayrılırlar?
+A) Ayrılmırlar
+B) 10
+C) 2
+D) 5
+Doğru cavab: C
+
+62. Konstruksiyasına görə xilasedici sallar ayrılır:
+A) Hava ilə doldurulmuş sal, sərt konstruksiyalı sal
+B) Sualtı sal, suüstü sal
+C) Motorlu sal, avtomatik sal
+D) Taxta sal, dəmir sal
+Doğru cavab: A
+
+63. Xilasedici salın suda istifadəsi azı neçə gün nəzərdə tutulub?
+A) 365 gün
+B) 5 saat
+C) 1 gün
+D) 30 gün
+Doğru cavab: D
+
+64. Su xaricində olan xilasedici qayığın mühərriki maksimum hansı müddət ərzində işləyə bilər?
+A) 5 dəq
+B) Su xaricində mühərrik işlədilə bilməz
+C) 24 saat
+D) 60 dəq
+Doğru cavab: A
+
+65. Tam yanacaq ehtiyatına malik xilasedici qayıq hansı sürətlə hansı müddətə hərəkətini davam etdirə bilər?
+A) 6 uzel-ən azı 24 saat
+B) 12 uzel-ən azı 48 saat
+C) 20 uzel-ən azı 2 saat
+D) 2 uzel-ən azı 5 saat
+Doğru cavab: A
+
+66. Fövqəladə hal zamanı “Aktiv insan” davranışını seçin.
+A) Şəraitdən asılı olaraq fəaliyyətə başlayırlar
+B) Heç bir qərar vermədən yuxuya gedirlər
+C) Hər tərəfə qışqıraraq panika yaradırlar
+D) Olduğu yerdə donub qalırlar (stupor)
+Doğru cavab: A
+
+67. Fövqəladə hal zamanı “Passiv insan” davranışını seçin.
+A) Gəmini tərk etmə əmrini şəxsən verirlər
+B) Fəal şəkildə insanları təxliyyə edirlər
+C) Xilasedici qayığı dərhal suya endirirlər
+D) Bu tip insanlar heç bir hərəkət etmirlər
+Doğru cavab: D
+
+68. Aşağıdakı qazlardan hansı yanğının söndürülməsi zamanı əlverişlidir?
+A) Oksigen qazı (O2)
+B) Metan qazı (CH4)
+C) Karbon qazı (CO2)
+D) Propan qazı (C3H8)
+Doğru cavab: C
+
+69. Təhlükəli qaz ifraz edən yüklə doldurulmuş bölməyə daxil olmazdan əvvəl ilkin olaraq hansı önləyici tədbir görülməlidir?
+A) Elektrik işıqlarını tam söndürmək
+B) Bölməyə dərhal açıq alovla daxil olmaq
+C) Bölmənin qapılarını bağlayıb gözləmək
+D) Hava-qaz mühitini yoxlamaq
+Doğru cavab: D
+
+70. Həyəcan siqnalları üzrə məşqlər günün hansı vaxtı keçirilə bilər?
+A) Yalnız gecə saat 03:00-da
+B) Yalnız günortadan sonra saat 12:00-da
+C) Günün istənilən vaxtı
+D) Yalnız gəmi limanda olanda
+Doğru cavab: C
+

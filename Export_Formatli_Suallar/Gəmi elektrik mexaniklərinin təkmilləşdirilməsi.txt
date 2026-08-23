@@ -1,0 +1,329 @@
+Gəminin elektrik sxemlərində və elektrik avadanlıqlarında həyata  keçirilmiş dəyişikliklər haqqında məlumatlar harada öz əksini tapmalıdır?
+A) Gündəlik maşın jurnalında
+B) Baş mühərrikin formulyarında
+C) Elektrik təhlükəsizliyi jurnalında
+D) Gəminin texniki sənədlərində
+Doğru cavab: D
+
+Cərəyanla qurutma, izolyasiyasının müqavimətinin neçə Mom olan  elektrik maşınlarında həyata keçirilməsinə icazə verilir?
+A) 0.01 Mom-dan az olmayan elektrik maşınlarında
+B) 1.0 Mom-dan az olmayan elektrik maşınlarında
+C) 0.1 Mom-dan az olmayan elektrik maşınlarında
+D) 0.5 Mom-dan az olmayan elektrik maşınlarında
+Doğru cavab: C
+
+Akkumulyator batareyalarında keçirilən texniki baxışların mütəmadilik,  dövrilik müddətini qeyd edin?
+A) Hər ayda bir dəfədən az olmayan müddət ərzində
+B) Hər həftə bir dəfədən az olmayan müddət ərzində
+C) Altı ayda bir dəfədən az olmayan müddət ərzində
+D) Hər üç aydan bir dəfədən az olmayan müddət ərzində
+Doğru cavab: A
+
+Tullantılara nəzarət olunmayan rayonlarda tərkibində kükürdün faiz  miqdarı neçə faizdən az və ya çox olduqda həmin yanacaqdan istifadə  etməyə icazə verilir?
+A) 2.00-dən çox olmadıqda
+B) 1.50-dən çox olmadıqda
+C) 4.50-dən çox olmadıqda
+D) 3.50-dən çox olmadıqda
+Doğru cavab: D
+
+Tullantılara nəzarət rayonlarından keçid zamanı tərkibində neçə faiz  kükürd olan yanacaqdan istifadə edilməsinə icazə verilir?
+A) 0.50 %-dən çox olmayan
+B) 2.50 %-dən çox olmayan
+C) 1.00 %-dən çox olmayan
+D) 0.10 %-dən çox olmayan
+Doğru cavab: C
+
+Ən yaxın sahildən 12 mil məsafədə olduqda MARPOL-73/78 BK-nın V  əlavəsinə əsasən nələrin dənizə tullanmasına icazə verilir?
+A) Sürtkü yağları və neft qalıqları
+B) Dondurulmuş halda balıq, ət, digər qida məhsulları və  xırdalanmış ərzaq tullantıları
+C) Qablaşdırma materialları və kağız tullantıları
+D) Gəminin təmizlənməsi zamanı yaranan plastik tullantılar
+Doğru cavab: B
+
+Əl yanğın xəbərdarlıq edicilər harada yerləşdirilməlidirlər?
+A) Hər bir yanğın zonasında
+B) Yalnız gəmi kapitanının körpücüyündə
+C) Qorunan sahələrdən kənarda, açıq göyərtədə
+D) Yalnız baş mühərrik otağında
+Doğru cavab: A
+
+Növbətçi qayıq hansı sürətlə manevr etmək imkanlarına malik  olmalıdır?
+A) 12 uzel
+B) 6 uzel
+C) 8 uzel
+D) 4 uzel
+Doğru cavab: B
+
+Gəmidə təmir işləri yerinə yetirildiyi zaman yanğın təhlükəsizliyinin  təmin olunmasına kim cavabdehdir?
+A) Növbətçi mexanik
+B) Gəmi təmiri müəssisəsi
+C) Baş mexanik
+D) Gəminin kapitanı
+Doğru cavab: B
+
+Gəminin heyət üzvlərindən hansı vəzifəli şəxs gəminin bütün mexaniki  qurğularının texniki vasitələrini və gövdə konstruksiyalarını rəhbər heyət  üzvləri arasında təhkimatlar üzrə bölüşdürür?
+A) Baş mexanik
+B) Baş köməkçi
+C) Kapitan
+D) Elektrik mexaniki
+Doğru cavab: A
+
+Gəminin qəzaya uğraması nəticəsində heyət üzvünün əmlakına zərər  dəydikdə və ya əmlak itirildikdə, məhv olduqda həmin ziyan heyət üzvünə  kim tərəfindən ödənilməlidir?
+A) Kadrlar şöbəsi tərəfindən
+B) Gəmi sahibi tərəfindən
+C) Liman rəhbərliyi tərəfindən
+D) Sığorta şirkəti tərəfindən
+Doğru cavab: D
+
+“Transducer” sözünün düzgün tərcüməsini qeyd edin?
+A) Ötürücü cihaz
+B) Transformator
+C) Düzləndirici
+D) Tranzistor
+Doğru cavab: A
+
+“Sea-chest” sözünün düzgün tərcüməsini qeyd edin?
+A) Kinqston
+B) Dəniz sandığı
+C) Su pompası
+D) Hava kompressoru
+Doğru cavab: A
+
+“Seal” sözünün düzgün tərcüməsini qeyd edin?
+A) Sızdırmazlıq klapanı
+B) Kipləndirici, salnik
+C) Qoruyucu örtük
+D) Elektrik izolyasiyası
+Doğru cavab: B
+
+“Assembly” sözünün düzgün tərcüməsini qeyd edin?
+A) Sökmək, demontaj etmək
+B) Tənzimləmək, kalibrləmək
+C) Yığmaq, montaj etmək
+D) Yoxlamaq, test etmək
+Doğru cavab: C
+
+Baş paylayıcı lövhədə quraşdırılmış voltmetrlər nəyi göstərir?
+A) Şəbəkənin aktiv gücünü
+B) Xəttdə olan cərəyan gərginliyini
+C) Fazalararası müqaviməti
+D) Generatordan keçən cərəyan şiddətini
+Doğru cavab: B
+
+Orqanizmdən keçən 50 Hz tezliklə, dəyişən elektrik cərəyanı hansı  ölçüdə olduqda insan onu hiss etmiş olur?
+A) 1.1 mA
+B) 10 mA
+C) 0.1 mA
+D) 50 mA
+Doğru cavab: A
+
+Cərəyan göstəricisinin əvəzinə nəzarət elektrik lampasından istifadə  etmək olarmı?
+A) Yalnız alçaq gərginliklərdə olar
+B) Qətiyyən olmaz
+C) Yalnız fövqəladə hallarda olar
+D) Kapitanın icazəsi ilə olar
+Doğru cavab: B
+
+Dəyişən cərəyanlı elektromaqnitin lövbərinin ilişməsi nəyə səbəb ola  bilər?
+A) Elektromaqnitin sarğısının yanmasına
+B) İzolyasiya müqavimətinin yüksəlməsinə
+C) Şəbəkədə gərginliyin düşməsinə
+D) Generatorda tezliyin artmasına
+Doğru cavab: A
+
+Gəmi şəraitində möhürlərin çıxarılması, nəzarət ölçü cihazlarının  açılması və təmir edilməsi gəmi heyət üzvlərindən kimin nəzarəti altında  həyata keçirilməlidir?
+A) Elektrik mexanikinin
+B) Baş mexanikin
+C) Növbətçi motorçunun
+D) Kapitanın növbə köməkçisinin
+Doğru cavab: D
+
+Cərəyanın güc transformatorunun paralel iş rejiminə ardıcıl olaraq  düzgün qoşulma qaydasını qeyd edin:
+A) Eyni vaxtda hər iki şəbəkədən qoşulur
+B) Paralel qoşulma ancaq yüksək gərginlik tərəfdən aparılır
+C) Paralel qoşulma öncə birinci, sonra isə ikinci şəbəkədən  qoşulmaqla həyata keçirilir
+D) Əvvəlcə neytral xətt, sonra isə fazalar qoşulur
+Doğru cavab: C
+
+İstismarda olan yarımkeçirici dəyişdiricilərin izolyasiyasının normal  müqavimətini qeyd edin?
+A) 1.0 Mom
+B) 10.0 Mom
+C) 0.5 Mom
+D) 5.0 Mom
+Doğru cavab: A
+
+Uzun müddət istismar edilməyən elektrik cihazlarının dövri texniki  baxışlarının keçirilməsi və yoxlanması hansı müddətlərdə həyata keçirilir?
+A) Üç ayda bir dəfədən az olmayaraq
+B) Hər həftə bir dəfə
+C) Bir ayda bir dəfədən az olmayaraq
+D) Altı ayda bir dəfədən az olmayaraq
+Doğru cavab: C
+
+Qoruyucu qurğunun işə düşməsi nəticəsində iş rejimindən çıxarılan və  ya çıxardılan mexanizmin (qurğunun) avtomatik və ya məsafədən işə  salınması üçün nə etmək lazım olduğunu qeyd edin:
+A) İdarəetmə pultundan siqnalı sıfırlamaq
+B) Şəbəkə gərginliyini kəsib yenidən vermək
+C) Avtomatik açarı birbaşa dövrədən xaric etmək
+D) Əl vasitəsi ilə qoruyucu qurğunu əvvəlki vəziyyətə  gətirmək
+Doğru cavab: D
+
+Nəzarət Məlumat Ölçü Sistemlərinin (MÖS) kanalının funksiyası  nədən ibarətdir?
+A) Mexanizmlərin avtomatik işə salınması və dayandırılması
+B) Elektrik enerjisinin paylanmasına nəzarət
+C) Nəzarət edilən parametrlərin normadan kənara çıxdığı  hallarda işıq siqnallarının formalaşdırılması
+D) Generatorda yaranan sinxronizasiya xətalarının düzəldilməsi
+Doğru cavab: C
+
+Danışıq aparatlarının quraşdırılması zaman hansı tədbirləri həyata  keçirmək lazımdır?
+A) Yalnız baş mexanikin otağına qoşulmasının təmin edilməsi
+B) Mexanizmlərin işləməsi zaman yaxşı eşitmə imkanlarının  təmin edilməsi
+C) Kabellərin yüksək gərginlikli xətlərlə birgə çəkilməsi
+D) Cihazların mühərrik otağından tamamilə izolyasiya edilməsi
+Doğru cavab: B
+
+Aşağıda qeyd edilənlərdən hansı cihazdan istifadə edərək Avtomatik  İdarəetmə Sistemlərində gərginliyin ölçülməsi yerinə yetirilə bilər?
+A) Cərəyan transformatorundan istifadə edərək
+B) Elektron voltmetrdən və ya yüksək çıxış müqaviməti olan  əqrəbli voltmetrdən istifadə edərək
+C) Alçaq çıxış müqaviməti olan rəqəmsal ampermetrdən istifadə edərək
+D) Megometrdən və ya ommetrdən istifadə edərək
+Doğru cavab: B
+
+Dəyişən cərəyanlı gəmi elektroenergetik sistemlərinin paylama  şəbəkələrinin bütün şaxələrində hansı növ qoruma quraşdırılmalıdır?
+A) Yalnız tezliyin artmasından
+B) Yalnız gərginlik düşməsindən
+C) Həddindən artıq yüklənmədən və qısa qapanmadan
+D) Yalnız fazalararası asimmetriyadan
+Doğru cavab: C
+
+Avral siqnalizasiyanın işinin hansı müddətlərdə yoxlanması gərəkdir?
+A) Yalnız həyəcan siqnalı verildikdə
+B) Hər növbə dəyişimində
+C) Gəmi səfərə çıxmazdan öncə və hər 10 gündən bir
+D) Gəmi limana çatdıqda və hər 30 gündən bir
+Doğru cavab: C
+
+İşləmək bacarığının (qabiliyyətinin) itirilməsinə nəzarət siqnalizasiyası  hansı növ gəmilərdə quraşdırılır?
+A) Yalnız sərnişin gəmilərində
+B) Maşın bölməsində növbəçəkmə bir nəfər tərəfindən  aparılan və maşın bölməsində növbəçəkmə xidməti aparılmayan  gəmilərdə
+C) Yalnız təhlükəli yük daşıyan tankerlərdə
+D) Bütün tip hərbi gəmilərdə
+Doğru cavab: B
+
+Yük əməliyyatları zaman tryumlarda işıqların yandırılıb  söndürülməsinə və tryum işıqlarının istifadəsinə nəzarət kim tərəfindən  həyata keçirilir?
+A) Elektrik mexaniki tərəfindən
+B) Gəmi kapitanının növbə köməkçisi tərəfindən
+C) Baş mexanik tərəfindən
+D) Bosman tərəfindən
+Doğru cavab: B
+
+Gəminin akkumulyator batareyalarının qidalandırılmasına dair başqa  bir özəl, xüsusi göstəriş olmadığı təqdirdə (akkumulyatorların nominal  həcmi miqdarına bərabər olan 0.25 A-saat cərəyanla) normal  qidalandırılması hansı müddətlərdə həyata keçirilməlidir?
+A) 24 saat
+B) 10 saat
+C) 6 saat
+D) 12 saat
+Doğru cavab: C
+
+Akumulyator batareyalarının sürətləndirilmiş qidalandırılmasını  (normal qidalandırma cərəyan şiddətindən iki dəfə çox cərəyan şiddəti ilə)  neçə saat ərzində yerinə yetirmək lazımdır?
+A) 3 ssat
+B) 8 saat
+C) 1 saat
+D) 6 saat
+Doğru cavab: A
+
+Gəmidə gəmi elektrik avadanlıqlarının, habelə ehtiyat hissələrinin sərf  edilməsinin və qalıqlarının qeydiyyatı aparılmalıdır. Bu qeydiyyat  kitablarının formasını və qaydalarını kim müəyyən edir?
+A) Gəmi sahibi
+B) Baş mexanik
+C) Klassifikasiya Cəmiyyəti
+D) Dəniz Administrasiyası
+Doğru cavab: A
+
+Gəmidə istismara yararlı və saz vəziyyətdə olan elektrik  avadanlıqlarını və qurğularını istismara hazırlanmasına və istismar  edilməsinə icazə verilir. Nasaz olan elektrik avadanlıqlarının üzərində  asılan xəbərdarlıq lövhələri hansı məzmunlu olmalıdırlar?
+A) Ehtiyat hissə. İstifadəsi məhduddur
+B) Təmir gözlənilir. İdarə pultuna yaxınlaşmayın
+C) Nasazlıq var. Yalnız təcili hallarda qoşun
+D) Nasazlıq var. İşə salmaq qəti qadağandır
+Doğru cavab: D
+
+Nə üçün düzləndiricinin çıxışına paralel olaraq, fırçasız generatorun  rotorunun üzərində varistor birləşdirilir?
+A) Fırçaların qığılcım verməsinin qarşısını almaq üçün
+B) Yarımkeçirici düzləndiricinin elektrik cərəyanından  qorunması üçün
+C) Generatorda tezliyi sabit saxlamaq üçün
+D) Rotorun qızmasının qarşısını almaq üçün
+Doğru cavab: B
+
+Generatorların texniki baxışlarının orta hesabla keçirilmə müddətlərini  qeyd edin:
+A) Hər səfərdən sonra
+B) 2-4 il
+C) 1-3 ay
+D) 6-12 ay
+Doğru cavab: D
+
+Paylayıcı lövhələr bağlanılmalıdır?
+A) Standart asma qıfılla və açarı baş mexanikdə saxlanmaqla
+B) Avtomatik kilidləmə sistemi ilə
+C) Yalnız rezin izolyasiyalı bağlayıcılarla
+D) Az gərginlikli elektrik paylayıcılarının qapılarını bağlamaq  üçün təyin edilmiş açarlardan fərqli olan, xüsusi açarla
+Doğru cavab: D
+
+Lokal şəbəkə və kompüterlər arasında ikipanelli məlumat mübadiləsini  təmin etmək üçün istifadə edilir:
+A) Prosessor
+B) Qidalanma bloku
+C) Şəbəkə adapteri
+D) Keş yaddaşı
+Doğru cavab: C
+
+Kompüter sistem və şəbəkələrində istifadə edilən “Protokol” sözü nə  deməkdir?
+A) Qonşu şəbəkə qovşaqları arasındakı fiziki bağlantını təmin edən kabellər sistemidir
+B) Şəbəkədə məlumatların şifrələnməsini və təhlükəsizliyini təmin edən proqram təminatıdır
+C) İstismar zamanı avadanlıqlarda yaranan xətaların qeydiyyat jurnalının formasıdır
+D) Kompüter sistem və şəbəkələrində eyni səviyyədə, lakin  müxtəlif şəbəkələrdə yerləşən məlumatların mübadiləsinin formatını və  prosedurlarını nizama (müəyyən qaydaya) salan qaydalar məcmusudur
+Doğru cavab: D
+
+Kompüter sistem və şəbəkələrində istifadə edilən “Interfeys” sözü nə  deməkdir?
+A) Kompüter sistem və şəbəkələrində qonşu səviyyələrdə,  lakin eyni şəbəkədə yerləşən məlumatların mübadiləsinin formatını və  prosedurlarını nizama (müəyyən qaydaya) salan qaydalar məcmusudur
+B) Tətbiqlərin yaddaş resurslarına birbaşa çıxışını məhdudlaşdıran sistem xidmətidir
+C) Yalnız şəbəkə istifadəçilərinin giriş hüquqlarını təyin edən qaydalardır
+D) İki fərqli əməliyyat sistemi arasında məlumatı ötürən xüsusi proqramdır
+Doğru cavab: A
+
+Registrin qaydalarına əsasən gəmi sinxron maşınlarında hava  zazorlarında qeyri müntəzəmliyin aralıqlarının kəmiyyətinin qiyməti nə  qədər təşkil edir?
+A) Orta aralığa nisbətdə ± 20%
+B) Orta aralığa nisbətdə ± 5%
+C) Orta aralığa nisbətdə ± 15%
+D) Orta aralığa nisbətdə ± 10%
+Doğru cavab: D
+
+Fırçalı və kontakt üzüklü sinxron generatorlarda kontakt üzüklərinin  qütblərinin dəyişdirilməsi hansı səbəblərdən yerinə yetirilir?
+A) Üzüklərin yeyilməsinin müntəzəm şəkildə, bərabər  səviyyədə həyata keçməsinin təmin edilməsi üçün
+B) Çıxış gərginliyinin fazalarının dəyişdirilməsi üçün
+C) Rotorun tezliyinin sabitləşdirilməsi üçün
+D) Fırçaların qığılcımlanmasının qarşısının tam alınması üçün
+Doğru cavab: A
+
+Üç fazalı asinxron elektrik mühərrikinin nominal cərəyan şiddəti 200A  bərabərdir. Yüklənmədən birbaşa şəbəkəyə qoşulma zamanı cərəyan  sıçrayışı neçə amper təşkil edəcək?
+A) 2000 A
+B) 1000 A
+C) 400 A
+D) 600 A
+Doğru cavab: B
+
+Üç fazalı asinxron elektrik mühərriki nominal cərəyanlı yüklə işləyir. Bu  zaman qəflətən bir faza qırılır. Elektrik mühərrikinin istehlak etdiyi cərəyan  necə dəyişəcək?
+A) Dəyişməz qalacaq
+B) Artacaq
+C) Azalacaq
+D) Sıfıra bərabər olacaq
+Doğru cavab: B
+
+Sinxron elektrik mühərrikinin cərəyan gərginliyi 10 % azaldıqda  mühərrikin dövrlər sayı nə cür dəyişir?
+A) Dəyişməz olaraq sabit qalır
+B) Sürətlə sıfıra düşür
+C) 10 % azalır
+D) 10 % artır
+Doğru cavab: A
+
+Özü havalandırılan elektrik mühərrikini xaricdən, asılı olmayan üfürmə  ilə təchiz etsək onun daimi qızma saatı nə cür dəyişəcəkdir?
+A) Artacaq
+B) Dəyişməz qalacaq
+C) Mühərrik dərhal yanacaq
+D) Azalacaq
+Doğru cavab: D
+

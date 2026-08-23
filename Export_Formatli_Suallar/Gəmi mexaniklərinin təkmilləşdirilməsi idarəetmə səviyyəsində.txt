@@ -1,0 +1,343 @@
+Gəmi elektrik avadanlıqlarının sxemlərində və konstruksiyalarında aparılan dəyişikliklər hansı sənədlərdə əks edilməlidir?
+A) Gəminin maşın jurnalında
+B) Avtomatlaşdırma və nəzarət sistemlərinin qeydiyyat jurnalında
+C) Gəminin texniki istismar sənədlərində
+D) Gəmi layihəsinin ilkin çertyojlarında
+Doğru cavab: C
+
+Akkumulyator batareyalarının üzərində keçirilən texniki baxışların mütəmadilik müddətini qeyd edin.
+A) Altı ayda bir dəfədən az olmayaraq
+B) Ayda bir dəfədən tez olmayaraq
+C) Hər reysdən əvvəl və sonra
+D) Həftədə bir dəfədən tez olmayaraq
+Doğru cavab: B
+
+Hansı hallarda generatorun qurudulmasına ehtiyac olduğunu qeyd edin:
+A) Generator nəm olduğu təqdirdə, generatorun izolyasiyasının müqaviməti aşağı düşdüyü təqdirdə
+B) Kömür fırçalarının aşınması artdıqda, kollektor qığılcımlandıqda
+C) Tezlik tənzimləyicisi sıradan çıxdıqda və gərginlik sabit olmadıqda
+D) Generator uzun müddət tam yükdə işlədikdə, soyutma sistemi qızdıqda
+Doğru cavab: A
+
+Gəmidə asılmış yük gəminin dəyanətliliyinə necə təsir edir?
+A) Gəminin dəyanətliliyini azaldır
+B) Metasentrik hündürlüyü artıraraq dəyanətliliyi yaxşılaşdırır
+C) Yükün ağırlıq mərkəzi asma nöqtəsindən asılı olmadığı üçün dəyanətliliyə təsir etmir
+D) Uzununa dəyanətliliyi artırır, lakin eninə dəyanətliliyə təsir etmir
+Doğru cavab: A
+
+Hansı hallarda gəmidən dənizə tərkibində neft olan maye qarışığının və ya neftin tullanmasına dair MARPOL-73/78 BK-nın qaydaları tətbiq edilmir?
+A) Xüsusi rayonlardan kənarda neft tərkibi 15 ppm-dən yuxarı olduqda
+B) Gəminin zədələnməsi, onun təhlükəsizliyinin təmin edilməsi, habelə insan həyatının qorunması məqsədi ilə baş verdikdə
+C) Maşın şöbəsində tutumu aşan yağlı suların axıdılması zərurəti yarandıqda
+D) Neft süzgəc avadanlığı (OWS) nasaz olduqda və ballast qəbulu vacib olduqda
+Doğru cavab: B
+
+Gəminin neft əməliyyatları jurnalı hansı hallarda doldurulur?
+A) Yalnız yağ separatörü təmizləndikdə və çöküntülər yığıldıqda
+B) Neft məhsullarının gəmidən xaric edildiyi zaman, maşın bölməsinin döşəmə altı sularının gəmidən xaric edildiyi zaman, yanacaq çənlərinə ballast qəbul edildiyi zaman və ya onların təmizlənməsi zamanı
+C) Yalnız liman dövləti nəzarəti (PSC) yoxlamasından dərhal əvvəl
+D) Gündəlik növbə təhvil-təslimində maşın jurnalına əlavə kimi
+Doğru cavab: B
+
+DHDNÇ-78 BK-ya edilmiş əlavələr onun tərkib hissəsi sayılırmı?
+A) Bəli sayılır
+B) Yalnız Bayraq Administrasiyası tərəfindən ratifikasiya olunduqdan sonra sayılır
+C) Xeyr, əlavələr ayrı-ayrı müstəqil konvensiya kimi qəbul edilir
+D) Xeyr, onlar sadəcə tövsiyə xarakterlidir
+Doğru cavab: A
+
+Konvensiyaya istinad etmək Konvensiyanın əlavələrinə istinad etmək hesab edilirmi?
+A) Yalnız Beynəlxalq Dəniz Təşkilatı (IMO) xüsusi qərar qəbul etdikdə edilir
+B) Xeyr, əlavələrə ayrıca istinad olunmalıdır
+C) Xeyr, istinad yalnız əsas mətnin maddələrinə şamil olunur
+D) Bəli edilir
+Doğru cavab: D
+
+DHDNÇ-78 əlavələr edilmiş Beynəlxalq Konvensiya hansı dənizçilərə tətbiq edilir?
+A) Limanda fəaliyyət göstərən köməkçi gəmilərin mexaniklərinə
+B) Yalnız xüsusi təhlükəli yüklər daşıyan gəmilərin heyətinə
+C) Dəniz gəmilərində çalışan dənizçilərə
+D) Yalnız sərnişin gəmilərində çalışan rəhbər heyətə
+Doğru cavab: C
+
+Gəminin kapitanına və ya rəhbər heyət üzvlərinə Bayraq Administrasiyası tərəfindən verilən diploma hər hansı bir təsdiqləyici sənəd verilirmi, verilirsə o sənəd Beynəlxalq Konvensiyanın hansı qaydalarına əsasən verilir?
+A) Bəli, belə bir sənəd DHDNÇ-78 BK-nın 1/2 qaydalarında qeyd olunmuş formaya uyğun olmalıdır
+B) Bəli, MARPOL Konvensiyasının əlavələrinə uyğun qeydiyyata alınır
+C) Bəli, ISM Məcəlləsinin sənədləşdirmə tələblərinə uyğun olaraq verilir
+D) Xeyr, yalnız əsas diplom kifayət edir və əlavə təsdiqləmə tələb olunmur
+Doğru cavab: A
+
+Liman Dövlətinin nəzarətçi müfəttişi hansı hallarda gəmidə DHDNÇ-78 BK-nın tələblərinə riayət edildiyini yoxlamaq hüququna malikdir?
+A) Gəminin maşın şöbəsində planlı profilaktik təmir işləri aparıldıqda
+B) Gəminin yanacaq sərfiyyatı norma həddini aşdıqda
+C) Mühərrikin işlənmiş qazlarının istilik dərəcəsi artdıqda
+D) Gəmi təhlükəli manevr etdiyi zaman
+Doğru cavab: D
+
+Liman Dövlətinin nəzarətçi müfəttişi gəminin limanda olduğu zaman heyət üzvlərinin diplomlarının, onlaların tutduqları vəzifələrə uyğun olub olmamasını yoxlaya bilərmi?
+A) Xeyr, bunu yalnız gəmi sahibi edə bilər
+B) Yalnız gəmi qəzaya uğradıqdan sonra yoxlaya bilər
+C) Xeyr, bu səlahiyyət yalnız gəminin qeydiyyat limanına aiddir
+D) Bəli yoxlaya bilər
+Doğru cavab: D
+
+DHDNÇ Konvensiyasının tələblərinə əsasən tələb edilən diplom onun sahibinin çalışdığı gəmidə saxlanılmalıdırmı?
+A) Xeyr, əsilləri gəmiçilik şirkətinin kadrlar şöbəsində saxlanılmalıdır
+B) Yalnız beynəlxalq reyslər həyata keçirən gəmilərdə tələb olunmur
+C) Bəli, saxlanılmalıdır
+D) Xeyr, liman idarəsində depozitə qoyulmalıdır
+Doğru cavab: C
+
+Diplomun təsdiqnaməsində onun sahibinin işləməyə icazəsi olduğu vəzifə göstərilməlidirmi?
+A) Xeyr, təsdiqnamədə yalnız gəminin tipi və tonnajı qeyd olunur
+B) Bəli, göstərilməlidir
+C) Xeyr, vəzifə yalnız dənizçinin kitabçasında yazılır
+D) Yalnız 3000 kVt-dan yuxarı güc qurğusu olan gəmilər üçün göstərilməlidir
+Doğru cavab: B
+
+İstilik izolyasiyalı materialdan hazırlanmış hidrokostyum geyinmiş insan neçə saat ərzində temperaturu 2 dərəcə selsi olan soyuq suda sağ qala bilər?
+A) 2 saat
+B) 12 saat
+C) 24 saat
+D) 6 saat
+Doğru cavab: D
+
+İstilik izolyasiyalı olmayan materialdan hazırlanmış hidrokostyum geyinmiş insan neçə saat ərzində temperaturu 5 dərəcə S olan suda sağ qala bilər?
+A) Bir saat ərzində
+B) Üç saat ərzində
+C) Yarım saat ərzində
+D) Beş saat ərzində
+Doğru cavab: A
+
+Xilasedici salı neçə metr hündürlükdən təhlükəsiz olaraq bədən xəsarəti almadan, jiletin özünü zədələmədən və yerdəyişməsinə yol vermədən suya tullamaq olar?
+A) 8 metr hündürlükdən
+B) 15 metr hündürlükdən
+C) 4.5 metr hündürlükdən
+D) 10 metr hündürlükdən
+Doğru cavab: C
+
+Növbətçi qayıq hansı sürətlə manevr etmə imkanlarına malik olmalıdır?
+A) 4 uzel sürətdən az olmayaraq
+B) 12 uzel sürətdən az olmayaraq
+C) 10 uzel sürətdən az olmayaraq
+D) 6 uzel sürətdən az olmayaraq
+Doğru cavab: D
+
+Xilasedici qayığın tam yüklənmiş və sakit suda olduğu halda sürəti neçə uzel olmalıdır?
+A) 12 uzeldən az olmamalıdır
+B) 8 uzeldən az olmamalıdır
+C) 6 uzeldən az olmamalıdır
+D) 4 uzeldən az olmamalıdır
+Doğru cavab: C
+
+Təhlükə yarandığı zaman, xilasedici salı zədələmədən hansı hündürlükdən tullamaq olar?
+A) 18 metr hündürlükdən
+B) 12 metr hündürlükdən
+C) 30 metr hündürlükdən
+D) 25 metr hündürlükdən
+Doğru cavab: A
+
+Həyacan siqnalları üzrə cədvəllər harada saxlanılmalıdır?
+A) Kapitan körpüsündə və heyət üzvlərinin kayutlarında
+B) Təcridxana və akkumulyator otağının qarşısında
+C) Yalnız Mərkəzi İdarəetmə Postunda (MİP) və yeməkxanada
+D) Maşın şöbəsinin çıxışlarında və ballast idarəetmə otağında
+Doğru cavab: A
+
+Gəmi stasionar yanğınsöndürmə sistemlərini hansı əlamətlərinə görə təsnifləndirmək olar?
+A) Yanğınsöndürmə prinsipinə və otaqların kateqoriyasına görə
+B) Detektorların həssaslığına və avtomatika səviyyəsinə görə
+C) Köpük konsentratının markasına və saxlanma müddətinə görə
+D) Boruların diametrinə və su nasoslarının ümumi məhsuldarlığına görə
+Doğru cavab: A
+
+Mühərrikin dövrlərnin sayı artdıqda, onun indikator Faydalı İş Əmsalında hansı dəyişikliklər baş verir?
+A) Termodinamik itkilər azaldığı üçün əmsal yüksəlir
+B) İndikator Faydalı İş Əmsalı kəskin artır
+C) Dəyişməz qalır, çünki bu mühərrikin konstruksiyasından asılıdır
+D) İndikator Faydalı İş Əmsalı azalır
+Doğru cavab: D
+
+İşçi maddənin temperaturu və tərkibi dəyişdikdən sonra, silindirdə işçi maddənin termodinamiki xassələri ilə yanaşı daha hansı xassələr dəyişir ?
+A) Mühərrikin sıxılma dərəcəsi və pistonun gedişi
+B) Kavitasiya əmsalı və kinematik özlülük
+C) Süxurların sıxlığı və özlülük əmsalı
+D) Entalpiya, İstilik həcmi, Daxili energiya
+Doğru cavab: D
+
+İş tsikli dirsəkli valın iki dövrü ərzində, yəni iş prosesi porşenin dörd yolu (dörd takt ərzində) baş verən dizel mühərriklərinə?
+A) Buxar porşenli maşınlar deyilir
+B) İki taktlı mühərriklər deyilir
+C) Qazturbin qurğuları deyilir
+D) Dörd taktlı mühərriklər deyilir
+Doğru cavab: D
+
+Mühərrikin dirsəkli valının bir qaydada, qeyri müntəzəm olaraq fırlanması mühərrikin işinə necə təsir edir?
+A) Mənfi təsir edir
+B) Müsbət təsir edir, sürtünməni azaldır
+C) Dövrlərin orta sayı sabit qaldıqda təsir etmir
+D) Silindrlərin doldurulmasını yaxşılaşdırır
+Doğru cavab: A
+
+Yanacağın püskürülməsinin hidrodinamikası asılıdır:
+A) Gəmiyə qəbul edilmiş və istifadə edilən yanacağın sıxlığından və sıxlaşma qabiliyyətindən
+B) Porşenin soyudulma intensivliyindən və yağın özlülüyündən
+C) Egzoz qazlarının turbokompressora daxil olma sürətindən
+D) Soyutma suyunun nasosda yaratdığı dinamik təzyiqdən
+Doğru cavab: A
+
+Buxar maşınının əsas iş prinsipini qeyd edin.
+A) Termoelektrik generator effekti əsasında istiliyin enerjiyə çevrilməsi
+B) Daxili yanmanın kinetik enerjiyə çevrilməsi
+C) Suyun kavitasiyası nəticəsində yaranan hidrodinamik gücün istifadəsi
+D) Buxarın potensial enerjisinin istifadə edilməsi
+Doğru cavab: D
+
+Daxili yanma mühərrikinin əsas iş prinsipini qeyd edin.
+A) Mühərrik daxilindəki mayenin hidravlik təzyiqinin fırlanma hərəkətinə çevrilməsi
+B) Elektrik enerjisinin maqnit sahəsi vasitəsilə mexaniki hərəkətə çevrilməsi
+C) Yanmış yanacağın kimyəvi enerjisinin mexaniki işə çevrilməsi
+D) Sıxılmış havanın potensial enerjisinin birbaşa istifadəsi
+Doğru cavab: C
+
+Turbin pilləsi hansı elementlərdən ibarətdir?
+A) Maqnit statorundan, rotor sarğılarından, kollektordan
+B) Diskdən, gövdə elementlərindən, işçi dairəvi reşotkadan, soplovoy dairəvi reşotkadan
+C) Krank-şatun mexanizmindən, silindr qapağından, forsunkadan
+D) Reduktor dişlilərindən, ara valdan və pərvanədən
+Doğru cavab: B
+
+Gəmi baş mühərriklərinin parametrlərinə nəzarət etmənin vaxtaşırılığı kim tərəfindən təyin edilir?
+A) Beynəlxalq Dəniz Təşkilatı (IMO) rəsmi inspektorları tərəfindən
+B) Liman Dövlətinin Nəzarəti (PSC) tərəfindən
+C) Yalnız gəmi kapitanı tərəfindən
+D) Baş mexanik tərəfindən
+Doğru cavab: D
+
+Qəza yanğın söndürmə nasoslarının və digər qəza aqreqatlarının iş qabiliyyətliliyinin və işə salınmaya hazır olmasının yoxlanmasının vaxtaşırılıq müddəti nə qədərdir ?
+A) Hər həftədə
+B) Ayda bir dəfə
+C) Altı ayda bir dəfə
+D) Gündəlik növbə zamanı
+Doğru cavab: A
+
+Dövri yağ sistemindəki yağın təzyiqi, yağ soyuducusundakı suyun təzyiqindən az yoxsa çox saxlanmalıdır?
+A) Yüksək təzyiqdə saxlanılmalıdır
+B) Bunun heç bir əhəmiyyəti yoxdur, çünki yağ və su qarışmır
+C) Aşağı təzyiqdə saxlanılmalıdır ki, su asanlıqla dövr etsin
+D) Bərabər saxlanılmalıdır ki, hidravlik zərbə yaranmasın
+Doğru cavab: A
+
+Mühərrikin yastıqlarında və ya digər sürtünən hissələrində temperaturun artması zamanı yerinə yetirilən tədbirləri qeyd edin?
+A) Mühərriki dərhal tam gücünə çatdırmalı ki, dövran artsın və qızma azalsın
+B) Mühərrikin yükünü dəyişmədən yalnız xaricdən hava ilə soyutmalı
+C) Mühərrikin yükünü azaltmalı, temperaturda baş verən dəyişikliklərə nəzarəti gücləndirməli, temperatur artımı müşahidə olunan yastıqlara yükü azaltmalı və bütün mümkün olan vasitələrdən istifadə etməklə yağ verilməni artırmalı
+D) Yağ verilməsini dayandırmalı və suyu birbaşa yastıqlara yönləndirməli
+Doğru cavab: C
+
+Dizel mühərrikinin yağlama sistemində, turbokompressorda, reduktorda, hidromuftada, val qurğusunun yastıqlarında yağın təzyiqinin kəmiyyəti (miqdarı) kim tərəfindən müəyyən edilir?
+A) İstehsalçı müəssisə və gəmi sahibi tərəfindən
+B) Yalnız klas cəmiyyətinin mühəndisləri tərəfindən
+C) Gəminin kapitanı və ikinci mexanik tərəfindən
+D) Beynəlxalq standartlar təşkilatı (ISO) tərəfindən standart olaraq
+Doğru cavab: A
+
+Mühərrikin silindirlərinin yağlanmasının lubrikatorlarının tənzimlənməsi zamanı hansı rəhbər sənədlərin tələblərinə riayət etmək lazımdır?
+A) Mühərriki istehsal edən müəssisənin və gəmi sahibinin təlimatlarına
+B) Ballast sularının idarəolunması planına
+C) Gəminin yanğınla mübarizə planına
+D) Liman maşınqayırma zavodunun standartlarına
+Doğru cavab: A
+
+Mühərrikin dövri yağ sistemində yağın təzyiqinin qəflətən düşməsi və ya sistemdəki yağın temperaturunun qəflətən həddindən artıq artması zamanı yerinə yetirilən hərəkətləri qeyd edin?
+A) Yağ pompalarının sürətini maksimuma qaldırıb işə davam etməli
+B) Mühərrikin gücünü 50%-ə qədər endirib limana qədər hərəkət etməli
+C) Mühərrikin dərhal fəaliyyətini dayandırmalı
+D) Bypass klapanlarını açaraq soyuducunu dövrədən kənarlaşdırmalı
+Doğru cavab: C
+
+Turbokompressorların yağ sistemlərinin yağ axıdan, navalça sistemlərində hansı faktor daimi nəzarətdə saxlanılmalıdır?
+A) Çirklənmiş qazların navlçaya daxil olması faktoru
+B) Suyun olmaması faktoru
+C) Yağ təzyiqinin 10 bar-ı keçməsi faktoru
+D) Yağın tamamilə buxarlanması faktoru
+Doğru cavab: B
+
+Mühərrikdə istifadə edilən yağın növü nəyə müvafiq olmalıdır?
+A) Gəminin hərəkət etdiyi dənizin suyunun duzluluğuna
+B) Mühərrikin istifadə edildiyi iqlim zonasının temperaturuna
+C) Səs-küyün azaldılması standartlarına
+D) İstifadə edilən yanacağın növünə
+Doğru cavab: D
+
+Mühərrikin anker birləşmələrinin boşalmasını müəyyən etdikdən sonra hansı tədbirləri yerinə yetirmək lazımdır?
+A) Nəzarət müddətini azaltmalı
+B) Bütün mühərrik detallarını söküb yenidən yığmalı
+C) Bağlantıların ətrafına xüsusi yapışqan tətbiq etməli
+D) Mühərrikin fırlanma sürətini həddən artıq artırmalı
+Doğru cavab: A
+
+Neçə müddətdən bir baş mexaniklər tərəfindən plan qrafiklərinin aparılması və onların yerinə yetirilməsi yoxlanılmalıdır?
+A) Hər altı ayda bir dəfə klas yoxlamasından əvvəl
+B) Hər reysdən əvvəl və reys bitdikdən dərhal sonra
+C) İldə iki dəfə, yalnız quru dok təmiri ərəfəsində
+D) Hər ayda bir dəfə
+Doğru cavab: D
+
+Manevr etmənin göstəricisini hansı hallarda söndürmək icazəsi verilir?
+A) Maşın şöbəsində yalnız gündəlik yoxlamalar aparıldıqda
+B) Nasazlıqların aradan qaldırılması zamanı
+C) Gündüz vaxtı aydın hava şəraitində
+D) Gəmi lövbərdə dayanarkən enerjiyə qənaət etmək üçün
+Doğru cavab: B
+
+Gəminin davamlılığı uğrunda mübarizəyə dair sənədlər toplusunun qovluğu harada saxlanılmalıdır?
+A) Baş mexanikin kayutunda
+B) Maşın şöbəsinin nəzarət postunda
+C) Kapitan körpüsündə
+D) Mərkəzi karantin otağında
+Doğru cavab: C
+
+Dizel mühərriyinin əhəmiyyət kəsb edən detallarının defektoloji nəzarətinin yerinə yetirilməsi zamanı istifadə edilən əsas rəhbəredici sənədləri qeyd edin?
+A) Gəminin yükləmə-boşaltma təlimatları
+B) Həyat xilasedici vasitələrin (LSA) beynəlxalq məcəlləsi
+C) Dəniz mühitinin qorunması qaydaları (MARPOL)
+D) Mühərrikin təmirinə dair texniki şərtlər və istehsalçı müəssisənin təlimatı
+Doğru cavab: D
+
+Dörd taktlı mühərriklərin “şatun” boltlarına dair vaxt aşırı yerinə yetirilməsi vacib olan işləri qeyd edin?
+A) Qalıq uzunluğunun ölçülməsi və defektoskopik nəzarət
+B) Səthlərinin xüsusi antifriksion boya ilə rənglənməsi
+C) Yalnız gözlə baxış və yağ sızıntılarının təmizlənməsi
+D) Tork açarı istifadə edilmədən çəkiclə vuraraq möhkəmləndirilməsi
+Doğru cavab: A
+
+Elastik, asanlıqla əyilə bilən, əyilgənli rotora malik olan turboaqreqatların fırlanma tezliyinin kritik nöqtəsini keçmə üsulunu qeyd edin.
+A) Rotoru isitdikdən sonra yalnız minimum gücdə
+B) Tez bir zamanda
+C) Yavaş-yavaş, pilləli şəkildə
+D) Mühərriki bir neçə dəfə dayandırıb-işə salmaqla
+Doğru cavab: B
+
+Aqreqatı fövqəladə hallarda işə salarkən hansı parametrlərin qoruyucularının işdən çıxarılmasına icazə verilir?
+A) Soyutma suyunun maksimal temperatur qoruyucularını
+B) Baş sürtkü yağının minimum təzyiq qoruyucularını
+C) Rotorun oxu üzrə tərpənməsinə və kondensatda vakuma görə qoruyucuları
+D) Silindr daxilindəki maksimal partlayış təzyiqi qoruyucularını
+Doğru cavab: C
+
+Ən yaxın məsafələrdən hansı məsafədə üzmə qabiliyyətinə malik olan materialların dənizə tullanmasına icazə verilir?
+A) 12 mil
+B) 25 mil
+C) 3 mil
+D) 50 mil
+Doğru cavab: B
+
+Gəmi texniki vasitələrinin avtomatlaşdırma sistemlərini işdən ayırdıqda (söndürdükdə) aşağıda qeyd edilən tədbirlərin hansını yerinə yetirmək vacibdir?
+A) Sistemə yalnız yeni proqram təminatı yükləndikdən sonra yenidən işə salmalı
+B) Yalnız kapitanı xəbərdar etməli və jurnalda heç bir qeyd aparmamalı
+C) Baş mexanikdən icazə almalı, növbətçi mexaniki xəbərdar etməli, söndürülmə əməliyyatının yerinə yetirilməsi haqqında maşın jurnalında müvafiq qeydlər aparmalı
+D) Gəminin gediş sürətini dərhal sıfıra endirməli və lövbər atmalı
+Doğru cavab: C
+

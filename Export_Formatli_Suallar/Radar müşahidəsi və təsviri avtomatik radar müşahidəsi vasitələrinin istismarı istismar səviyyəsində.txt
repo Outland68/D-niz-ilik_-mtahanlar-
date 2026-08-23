@@ -1,0 +1,350 @@
+Sual 1. ARPA-nın (Automatic Radar Plotting Aids) məlumatının düzgünlüyü nədən asılıdır?
+A) Laqın, kompasın və radarın səhvlərindən
+B) Yalnız radarın gücündən
+C) Gəminin sürətindən və kursundan
+D) Hava şəraitindən və dənizin dalğalanmasından
+Doğru cavab: A
+
+Sual 2. ARPA-da hərəkətsiz gəmi hansı sayılır?
+A) Gəmi lövbərdədir
+B) Gəminin sürəti 0 düyündür
+C) Gəminin sürəti 1,5–2,0 düyündən azdır
+D) Gəminin sürəti 5 düyündən azdır
+Doğru cavab: C
+
+Sual 3. Radarda həqiqi hərəkət xətti rejimində işləyərkən, müşahidə edən gəminin sürəti və kursu daxil etmə yalnışları nəticəsində hansı səhvlər ola bilər?
+A) Ekranın işıqlandırılmasında səhv olar
+B) Antenin fırlanma sürətində səhv olar
+C) Vəziyyətin dəyərləndirilməsində və manevrin seçilməsində səhvlər ola bilər
+D) Yalnız məsafə ölçmədə səhv olar
+Doğru cavab: C
+
+Sual 4. ARPA manevr etdikdən sonra, müşayiət edilən hədəfin və ya bizim gəmimizin hərəkət proqnozu hesablamaları haqqında məlumatı nə vaxt verə bilər?
+A) Dərhal
+B) Təxminən 10 dəqiqədən sonra
+C) Yalnız təxminən 3 dəqiqədən sonra
+D) Təxminən 30 saniyədən sonra
+Doğru cavab: C
+
+Sual 5. ARPA manevr etdikdən sonra, müşayiət edilən hədəfin və ya bizim gəmimizin yeni hərəkət parametrləri haqqında məlumatı nə vaxt verə bilər?
+A) Dərhal
+B) Təxminən 5 dəqiqədən sonra
+C) Yalnız təxminən 1 dəqiqədən sonra
+D) Təxminən 3 dəqiqədən sonra
+Doğru cavab: C
+
+Sual 6. ARPA hər bir vəziyyətdə, 1 dəqiqədən çox olmayan sabit avtomatik müşayiətdən sonra hansı məlumatı verməlidir?
+A) Gəminin öz kursu və sürəti
+B) Hədəfin nisbi kursu, hədəfin nisbi sürəti, gəmilərin arasındaki ən qısa məsafə
+C) Yalnız CPA və TCPA
+D) Hədəfin həqiqi kursu və sürəti
+Doğru cavab: B
+
+Sual 7. ARPA hər bir vəziyyətdə, 3 dəqiqədən çox olmayan sabit avtomatik müşayiətdən sonra hansı məlumatı verməlidir?
+A) Yalnız gəminin həqiqi kursu
+B) Yalnız hədəfin nisbi kursu və sürəti
+C) Hədəfin nisbi kursu, hədəfin nisbi sürəti, gəmilərin arasındaki ən qısa məsafə, gəminin həqiqi kursu, gəminin sürəti, gəmilərin ən qısa məsafədə olan vaxt
+D) Yalnız CPA məlumatı
+Doğru cavab: C
+
+Sual 8. Gəmilərin yana yırğalanması və ya baş vurması halları RLS-nın işləməsinə necə təsiri edir?
+A) Heç bir təsiri yoxdur
+B) Əks edilmiş siqnallar dəyişkən olur və gəmidən gələn əkssəda siqnallarının nişanı ekranda antenin hər dövründə göstərilmir
+C) Antenin fırlanma sürəti dəyişir
+D) Ekranın parlaqlığı azalır
+Doğru cavab: B
+
+Sual 9. RLS-nın işləməsinə yağıntılar necə təsir edə bilərlər?
+A) Yalnız uzaq məsafədəki hədəflər itir
+B) Antenin gücü artır
+C) Ekranın çox hissəsi yüksək işıqlandırma təsiri altında olarkən, obyektlərin nişanları ekranda göstərilmir
+D) Ekranda əlavə yalnış hədəflər yaranır
+Doğru cavab: C
+
+Sual 10. RLS-nın işləməsinə çox sayda əks-səda siqnalları necə təsir edə bilərlər?
+A) Yalnış siqnallar yalnız yaxın məsafədə görünür
+B) Ekranda heç bir dəyişiklik olmur
+C) Yalnış əks-səda siqnalları həqiqi əks-səda siqnallarının arxasında və eyni pelenqdə yerləşirlər
+D) Ekranın işıqlandırılması artır
+Doğru cavab: C
+
+Sual 11. Kölgəli sektorların yerləşməsi və sərhədləri gəmidə harada göstərilməlidir?
+A) Göstərilməsinə ehtiyac yoxdur
+B) Yalnız radar ekranında qırmızı rənglə işarələnməlidir
+C) Yalnız kapitan jurnalında qeyd olunmalıdır
+D) Təyin olunmalı və RLS-nın indikatorunun yanındakı sxemdə göstərilməlidir
+Doğru cavab: D
+
+Sual 12. RLS-nın işləməsinə yalnış əks-səda siqnalları necə təsir edə bilərlər?
+A) Yalnız yaxın məsafədə görünür
+B) Ekranın parlaqlığı azalır
+C) Ekranda ətraflı vəziyyətə uyğun olmayan nişanlar əmələ gələ bilər
+D) Antenin işləməsi dayanır
+Doğru cavab: C
+
+Sual 13. RLS-nın işləməsinə digər radiolokatorların işləməsi necə təsir edə bilər?
+A) Ekran tamamilə qaralır
+B) Heç bir təsiri olmur
+C) RLS-nın ekranında nöqtə, xətt, punktir halında əks-səda siqnalları əmələ gəlir
+D) Antenin fırlanması dayanır
+Doğru cavab: C
+
+Sual 14. «Subrefraksiya» nə deməkdir?
+A) Dalğaların normal atmosfer şəraitindən daha uzağa yayılması
+B) Radar dalğalarının tamamilə udulması
+C) Hündürlükdə hava rütubətinin çoxalması nəticəsində və ya hava temperaturunun kəskin aşağı düşməsi nəticəsində əmələ gəlir
+D) Antenin lazımınca işləməməsi
+Doğru cavab: C
+
+Sual 15. Dumanın intensivliyindən asılı olaraq obyektləri aşkar etmə məsafəsi nə qədər azala bilər?
+A) 1, 3, 4 cavabları doğrudur (100m-10%, 25-30m-30%, <30m-40-50%)
+B) 100 metrə qədər vizual görünüşdə – 20%
+C) 100 metrə qədər vizual görünüşdə – 10%
+D) Yalnız 50% azala bilər
+Doğru cavab: A
+
+Sual 16. Radiolokasiya anteninin funksiyasına nə aid deyil?
+A) Siqnalın qəbulu
+B) Həddən yüksək tezliyin əks edilməsi
+C) Siqnalın ötürülməsi
+D) Şüalanmanın istiqamətləndirilməsi
+Doğru cavab: B
+
+Sual 17. Müasir radarda nə istifadə olunmur?
+A) LCD monitor
+B) Elektron kursor
+C) Rəqəmsal ekran
+D) Mexaniki kursor
+Doğru cavab: D
+
+Sual 18. Böyük miqdarda hədəflərə rast gəldikdə, yüklənmə boğulan ola bilər, hərçənd CPA təyin olunması üçün əllə yolçəkmə yaxşı işləyir.
+A) Böyük miqdarda hədəflərə
+B) Antenin aşağı yerləşdirilməsində
+C) Aşağı görünürlük şəraitində
+D) Zəif siqnal gücündə
+Doğru cavab: A
+
+Sual 19. Dəniz radiolokasiyasında Mövqeyin plan indikatoru (Plan Position Indicator) PPİ ixtisarıdır.
+A) Mövqeyin plan indikatoru (Plan Position Indicator)
+B) Pulse Position Indicator
+C) Primary Position Indicator
+D) Precise Plotting Instrument
+Doğru cavab: A
+
+Sual 20. S diapazonlu radarı X diapazonlu radarıyla müqayisədə nə olacaq?
+A) Daha yüksək təsvir dəqiqliyinə malik
+B) Pis dəniz şəraitində dənizin dalğalanmasından yaranan maneələrin ən böyük yatırılmasına malik
+C) Yaxın məsafədə daha yaxşı görünürlük təmin edir
+D) Daha kiçik antenaya ehtiyac duyur
+Doğru cavab: B
+
+Sual 21. Dəniz radarının söndürülməsinin düzgün metodu: Qidalanmanı söndürən düyməni Gözləmə rejimi (Stand by) vəziyyətinə, sonra isə söndürmə (Off) vəziyyətinə keçirmək.
+A) Söndürmə (Off); gözləmə rejimi (Stand by)
+B) Gözləmə rejimi (Stand by); söndürmə (Off)
+C) Birbaşa qida mənbəyini kəsmək
+D) Yalnız ekranı söndürmək
+Doğru cavab: B
+
+Sual 22. Gəminin yerinin təyini üçün radardan istifadənin ən yaxşı üsulu nədir?
+A) Ən yavaş dəyişən distansiyanı sonuncu ölçmək
+B) Yalnız pelenqlərdən istifadə etmək
+C) Distansiyalardan istifadə edərək, ən tez dəyişən distansiya sonuncu ölçülür
+D) Yalnız bir distansiya ölçmək kifayətdir
+Doğru cavab: C
+
+Sual 23. Siz radarın ekranında Racon-la təchiz edilmiş buyu müşahidə edirsiniz. Bu hədəf ekranda necə çıxmalıdır?
+A) Tiredən başlayaraq və hədəfin buyundan xaricə uzanan radial
+B) Buyundan içəriyə doğru radial
+C) Yalnış nöqtə şəklində
+D) Buyun üzərində dairəvi işarə
+Doğru cavab: A
+
+Sual 24. Radiolokasiya impulsunun uzunluğu diapazonun şkalasından asılı olaraq dəyişir. Aşağıda göstərilənlərdən hansı düzgündür?
+A) İmpuls uzunluğu diapazondan asılı deyil
+B) Qısa impuls üçün böyük diapazon
+C) Qısa impuls üçün kiçik diapazon
+D) Uzun impuls üçün kiçik diapazon
+Doğru cavab: C
+
+Sual 25. Gəmi öz kursunu dəyişəndə və ya dalğalarda vurnuxanda hansı təqdim etmə rejimində, radarın hədəfi qeyri-stabil olacaq və radarın təsviri yayılacaq?
+A) Head Up
+B) Course Up
+C) North Up
+D) True Motion
+Doğru cavab: A
+
+Sual 26. «Təhlükəli yaxınlaşma» anlayışı nə deməkdir?
+A) Gəmilər eyni kursda hərəkət etdikdə
+B) Radar ekranında hədəf görünəndə
+C) Bilavasitə toqquşmanın qarşısının alınması üçün tələb ola bilər tədbirlər qaçılmaz olduqda
+D) Gəmilər arasında məsafə 1 mildən az olduqda
+Doğru cavab: C
+
+Sual 27. Yelkənli gəmi hərəkətdə olarkən yol verməlidir:
+A) Tənha üzən gəmiyə
+B) Balıq ovu ilə məşğul olan, manevr imkanları məhdud olan gəmilərə və balıq ovu ilə məşğul olan gəmilərə
+C) Mühərrikli gəmiyə
+D) Sahildən çıxan gəmiyə
+Doğru cavab: B
+
+Sual 28. North Up və Course Up oryentasiyaları üçün, radar haradan siqnal almalıdır?
+A) GYRO-dan
+B) GPS-dən
+C) AIS-dən
+D) Log-dan (sürətölçəndən)
+Doğru cavab: A
+
+Sual 29. Növbəti amillərdən hansı aşkar etmə uzaqlığının radiolokasiya maksimumuna aid deyil?
+A) Video zolağın eni
+B) Ötürücünün gücü
+C) Antenin hündürlüyü
+D) Antenin diaqram enliyi
+Doğru cavab: A
+
+Sual 30. Uzaqlığa görə həll etmə qabiliyyətini müəyyən edən əsas amilə nə aiddir?
+A) Ötürücünün gücü
+B) İmpulsun uzunluğu
+C) Antenin diaqram enliyi
+D) Antenin fırlanma sürəti
+Doğru cavab: B
+
+Sual 31. Mexaniki mühərrikli gəmi hərəkətdə olarkən yol verməlidir:
+A) Yelkənli gəmiyə
+B) Tənha üzən gəmiyə
+C) Balıq ovu ilə məşğul olan, yelkənli gəmilərə, manevr imkanları məhdud olan gəmiyə və balıq ovu ilə məşğul olan gəmilərə
+D) Sahildən çıxan gəmiyə
+Doğru cavab: C
+
+Sual 32. Hədəfin nisbi hərəkət xətti radar ekranının mərkəzindəki açılma nöqtəsinin üstündən və ya onun yaxınlığından keçirsə, bu nə deməkdir?
+A) Situasiya gəmilərin toqquşmasına gətirir
+B) Hədəf lövbərdədir
+C) Hədəf sürətini artırır
+D) Gəmilər təhlükəsiz məsafədə keçəcək
+Doğru cavab: A
+
+Sual 33. Növbəti xarakteristikalardan hansı yanlış əks-sədanın xarakteristikası deyil?
+A) Yanlış əks-səda təkrarlanan intervallarla görünür
+B) Yanlış əks-sədanın pelenqi hədəfin pelenqi kimidir
+C) Yanlış əks-səda simmetrik formada olur
+D) Yanlış əks-səda adətən daha uzaq məsafədə görünür
+Doğru cavab: B
+
+Sual 34. Dənizin maneələrini azaltmaq üçün, sadalananlardan nə səhvdir?
+A) Qısa impuls seçirlər
+B) STC (Sensitivity Time Control) tənzimləyicisindən istifadə edirlər
+C) Anti-clutter tənzimləyicisindən istifadə edirlər
+D) Antenin dairəvi polyarlaşmasından istifadə edirlər
+Doğru cavab: D
+
+Sual 35. Radiolokatordan naviqasiyada istifadə zamanı naviqasiya avadanlıqlarından hansılar radarla bağlı olmalıdır?
+A) Yalnız GPS
+B) Girokompas, laq, AIS, GPS (electronic position-fixing system)
+C) Yalnız Girokompas
+D) Yalnız AIS və Radar
+Doğru cavab: B
+
+Sual 36. Yağışdan maneələri azaltmaq üçün, aşağıdakı əməliyyatlardan hansı səhvdir?
+A) FTC (Fast Time Constant) tənzimləyicisindən istifadə edirlər
+B) Antenin dairəvi polyarlaşmasından istifadə edirlər
+C) Qısa impuls seçirlər
+D) Anti-clutter tənzimləyicisini artırırlar
+Doğru cavab: B
+
+Sual 37. Növbəti iddialardan hansı nisbi vektor (RV) üçün yanlışdır?
+A) Nisbi vektorun uzunluğu nisbi sürəti göstərir
+B) Nisbi vektor CPA təyin etmək üçün istifadə olunur
+C) Nisbi vektorun (RV) dəqiqliyi, həqiqi vektorun (TV) dəqiqliyindən daha azdır
+D) Nisbi vektor iki gəmi arasındakı nisbi hərəkəti göstərir
+Doğru cavab: C
+
+Sual 38. Toqquşmanın qarşısının alınması zamanı radiolokatordan istifadə vaxtı qeyd edilən naviqasiya avadanlıqlarından hansılar olmalıdır?
+A) Yalnız GPS
+B) Girokompas, laq, DGPS
+C) Yalnız Laq və Radar
+D) Yalnız Girokompas və AIS
+Doğru cavab: B
+
+Sual 39. Sağa (hədəf tərəfə) dönmə və sürətin artırılması manevrini yerinə yetirərkən, hədəfin Nisbi Hərəkət Xətti (NHX) və nisbi sürət vektoru (VN) necə dəyişir?
+A) NHX dəyişmir, nisbi sürət artır
+B) NHX dəyişmir, nisbi sürət azalır
+C) NHX dəyişir, nisbi sürət artır
+D) NHX dəyişir, nisbi sürət dəyişmir
+Doğru cavab: A
+
+Sual 40. Sola dönmə və sürətin azaldılması manevrini yerinə yetirərkən, hədəfin Nisbi Hərəkət Xətti (NHX) və nisbi sürət vektoru (VN) necə dəyişir?
+A) NHX dəyişmir, nisbi sürət azalır
+B) NHX dəyişir, nisbi sürət dəyişmir
+C) NHX dəyişir, nisbi sürət azalır
+D) NHX dəyişmir, nisbi sürət artır
+Doğru cavab: A
+
+Sual 41. Sağa (hədəf tərəfə) dönmə və sürətin azaldılması manevrini yerinə yetirərkən, hədəfin NHX və VN necə dəyişir?
+A) NHX dəyişmir, nisbi sürət artır
+B) NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət artır
+C) NHX gəmimizin arxa tərəfinə dəyişir, nisbi sürət azalır
+D) NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət azalır
+Doğru cavab: B
+
+Sual 42. Sürətin iki dəfə azaldılması manevrini yerinə yetirərkən, hədəfin NHX və VN necə dəyişir?
+A) NHX dəyişmir, nisbi sürət azalır
+B) NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət artır
+C) NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət azalır
+D) NHX gəmimizin arxa tərəfinə dəyişir, nisbi sürət artır
+Doğru cavab: C
+
+Sual 43. Sürətin artırılması manevrini yerinə yetirərkən, hədəfin NHX və VN necə dəyişir?
+A) NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət artır
+B) NHX dəyişmir, nisbi sürət artır
+C) NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət azalır
+D) NHX gəmimizin arxa tərəfinə dəyişir, nisbi sürət artır
+Doğru cavab: C
+
+Sual 44. Sağa (hədəf tərəfə) dönmə manevrini yerinə yetirərkən, hədəfin NHX və VN necə dəyişir?
+A) NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət artır
+B) NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət azalır
+C) NHX dəyişmir, nisbi sürət artır
+D) NHX gəmimizin arxa tərəfinə dəyişir, nisbi sürət azalır
+Doğru cavab: A
+
+Sual 45. Sola dönmə manevrini yerinə yetirərkən, hədəfin NHX və VN necə dəyişir?
+A) NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət artır
+B) NHX dəyişmir, nisbi sürət azalır
+C) NHX gəmimizin arxa tərəfinə dəyişir, nisbi sürət artır
+D) NHX gəmimizin arxa tərəfinə dəyişir, nisbi sürət azalır
+Doğru cavab: D
+
+Sual 46. Aşağıda göstərilən manevrlərdən hansı təhlükəli sayılır?
+A) Sola dönməklə sürətin artırılması, sağa dönməklə sürətin azaldılması
+B) Sola dönməklə sürətin azaldılması, sağa dönməklə sürətin artırılması
+C) Yalnız kursu dəyişməmək
+D) Yalnız sürəti sabit saxlamaq
+Doğru cavab: B
+
+Sual 47. Aşağıda göstərilən manevrlərdən hansı effektiv sayılır?
+A) Sola dönməklə sürətin artırılması, sağa dönməklə sürətin azaldılması
+B) Yalnız sürəti artırmaq
+C) Sola dönməklə sürətin azaldılması, sağa dönməklə sürətin artırılması
+D) Yalnız kursu saxlamaq
+Doğru cavab: A
+
+Sual 48. Toqquşma təhlükəsi hansı meyarlara əsasən qiymətləndirilir?
+A) Yalnız radar ekranındakı görüntü
+B) Yalnız gəmilərin sürəti
+C) Yalnız gəmilərin kursu
+D) Gəmilərin arasındakı olan ən qısa məsafə və ən qısa məsafədə olan zaman
+Doğru cavab: D
+
+Sual 49. Qarşıdan gələn gəminin sürəti 25 düyündür. Bizim gəmimizin sürəti 10 düyündür. Əgər gəmilərin arasındakı məsafə 5 mil olarsa, bizim gəmimizin kursdan sağa dönmə bucağı nə qədər olmalıdır?
+A) 60 dərəcədən az olmamalıdır
+B) 90 dərəcə olmalıdır
+C) 30 dərəcədən az olmamalıdır
+D) 45 dərəcədən az olmamalıdır
+Doğru cavab: A
+
+Sual 50. Qarşıdan gələn gəminin sürəti 25 düyündür. Bizim gəmimizin sürəti 10 düyündür. Əgər gəmilərin arasındakı məsafə 3,5 mil olarsa, bizim gəmimizin kursdan sağa dönmə bucağı nə qədər olmalıdır?
+A) 60 dərəcədən az olmamalıdır
+B) 90 dərəcə olmalıdır
+C) 30 dərəcə olmalıdır
+D) 120 dərəcədən çox olmalıdır
+Doğru cavab: B
+

@@ -1,0 +1,322 @@
+1. Buz şəraitinə dair xəritələrdə ovalın içində qırmızı fonda qeyd edilən rəqəmlər nəyi xarakterizə edir?
+A) buzun sıxılma ehtimalı
+B) buzun təbəqələşmə dərəcəsi
+C) buzun yaşı
+D) buzun dreyf sürəti və istiqaməti
+Doğru cavab: C
+
+2. “AİS” sisteminin avadanlıqları adaların, çayların, döngələrinin arxasında olan hədəfləri göstərirmi ?
+A) xeyr, çünki radio dalğaları optik görünüş xəttindən asılıdır
+B) bəli, ancaq VHF əhatə dairəsində hədəflər aktiv rejimdə olduqda
+C) bəli, lakin yalnız VTS mərkəzinin təkrar ötürücü stansiyaları vasitəsilə
+D) bəli
+Doğru cavab: D
+
+3. “Dənizin gəmilərdən çirkləndirilməsinin qarşısının alınması haqqında” (MARPOL) Beynəlxalq Konvensiyaya uyğun olaraq məişət tullantılarının dənizə atılmasının şərtini qeyd edin.
+A) gəmidəki tullantı yandırıcısı (incinerator) nasaz olduqda
+B) sahildən 12 mil məsafədə, xüsusi zonalar xaricində hərəkət edərkən
+C) məişət tullantılarının gəmidən dənizə atılması qadağandır
+D) xüsusi zonalarda yalnız qida tullantıları ilə qarışdırıldıqda
+Doğru cavab: C
+
+4. Birləşmiş Millətlər Təşkilatının “Dəniz hüququ haqqında” Beynəlxalq Konvensiyasına ğörə ərazi sularının eni “əsas xətdən” ölçülür. “Əsas xətt” nə deməkdir?
+A) sahilyanı dövlətin rəsmi tanıdığı iri miqyaslı dəniz xəritəsində göstərilən qabarma-çəkilmə hadisələrində sahilboyu dəniz səviyyəsinin ən çox çəkilmə xətti
+B) eksklüziv iqtisadi zonanın daxili sərhədini müəyyən edən şərti xətt
+C) beynəlxalq boğazlarda ayrılmış hərəkət zolaqlarının mərkəzi xətti
+D) sahil dövlətinin daxili suları ilə ərazi sularını ayıran koordinat xətti
+Doğru cavab: A
+
+5. Beynəlxalq Dəniz Təşkilatının A.1052 (27) qətnaməsinə uyğun olaraq Dövlət liman nəzarəti müfəttişliyi tərəfindən gəmilərin yoxlanması prosedurları hansı gəmilərin yoxlanması üçün tərtib edilib?
+A) Xarici dövlətlərin bayrağı altında üzən gəmilər üçün
+B) Limana giriş icazəsi istəyən bütün daxili və beynəlxalq gəmilər üçün
+C) Yalnız ISM məcəlləsinin tələblərinə uyğun gəlməyən riskli gəmilər üçün
+D) Yalnız təhlükəli yüklər (IMDG Code) daşıyan xüsusi təyinatlı gəmilər üçün
+Doğru cavab: A
+
+6. Gəminin dayanaqlığının azalmasının əlamətlərini (xarici şəraitin dəyişilməməsi şərti ilə) qeyd edin:
+A) gəminin fırlaq momenti (metasentrik hündürlüyü) kəskin şəkildə artır
+B) sərbəst səthlərin təsiri nəticəsində dalğaya qarşı müqavimət yüksəlir
+C) gəminin yırğalanma periodu artır, gəminin yırğalanması zamanı “kren” bucağı artır
+D) yırğalanma periodu kiçilir və gəmi ani olaraq tarazlığa qayıdır
+Doğru cavab: C
+
+7. Gəminin yük qəbulu zamanı üzmə ehtiyatı hansı sənəd ilə tənzimlənir?
+A) Beynəlxalq tonaj şəhadətnaməsi (ITC-69)
+B) Gəminin dənizə yararlılıq haqqında təsnifat cəmiyyətinin aktı
+C) Gəmi konstruksiyasının təhlükəsizliyi haqqında şəhadətnamə
+D) yük nişanı haqqında şəhadətnamə
+Doğru cavab: D
+
+8. “Konosament”-in neçə (orijinal) nüsxəsi yük göndərən şəxsə verilə bilər?
+A) yük sahibinin tələbi əsasında qeyri-məhdud sayda, eyni seriya ilə
+B) hər nüsxədə “Konosament” orijinallarının sayını göstərməklə bir neçə nüsxə
+C) fraxt müqaviləsinə uyğun olaraq maksimum 5 orijinal nüsxə
+D) kapitanın qərarı ilə yalnız 3 nüsxədən ibarət olmaqla
+Doğru cavab: B
+
+9. Meteoroloji xəritənin məlumatına görə şimali atlantikanın hansı rayonunda maksimal külək müşahidə edilir?
+A) Süveyş kanalından Cəbəllütariq boğazına gedən yolda
+B) Nyufaundlend adasının cənub-şərq akvatoriyasında
+C) Azor adaları və Kanar adaları arasındakı antisiklon zonasında
+D) Skandinaviyanın şimal-qərb sahilində
+Doğru cavab: D
+
+10. Şəkildə göstərilən axtarış üsulunun adını qeyd edin:
+A) təqib edən axtarış modeli (Track line search)
+B) koordinatlı sektor axtarışı (Sector search)
+C) paralel “qals”lar ilə axtarış
+D) genişlənən kvadrat axtarışı (Expanding square search)
+Doğru cavab: C
+
+11. Bayraq Administrasiyası tərəfindən hansı gəmi heyət üzvlərinin sertifikatlarına təsdiqnamə verilir?
+A) kapitan və komandir heyəti üzvlərinə
+B) ISM məcəlləsinə görə məsul olan bütün şirkət nümayəndələrinə
+C) yalnız qlobal dəniz fəlakət rabitəsi (GMDSS) operatorlarına
+D) yalnız STCW konvensiyasının VI fəslinə aid olan dənizçilərə
+Doğru cavab: A
+
+12. Gəmi baroqrafı hansı atmosfer hadisəsini qeyd edib?
+A) tropik siklon
+B) genişmiqyaslı duman zolağının yaranması
+C) güclü qütb antisiklonu
+D) yerli termal qabarma tufanı
+Doğru cavab: A
+
+13. Kapitan “Təhlükəli yüklərin dəniz yolu ilə daşınmasına dair” Beynəlxalq Məcəlləyə (IMDG Code) əsasən qablaşdırılmış təhlükəli yükün dənizdə itirilməsi ilə bağlı insident haqqında məlumatı kimə verməlidir?
+A) yükün sığorta şirkətinə (P&I Club) və fraxtedənə
+B) təhlükəli yüklərin beynəlxalq dəniz qeydiyyatı mərkəzinə (IMDG Center)
+C) ən yaxın olan sahilyanı dövlətə
+D) gəminin qeydiyyatda olduğu Bayraq Dövləti İdarəsinə (Administration)
+Doğru cavab: C
+
+14. Gəminin uzununa davamlılığı nə ilə təmin edilir?
+A) Gəmi davamlılığının nəzarət diaqramı vasitəsi ilə yük planını tərtib edərkən davamlılığın hesablanması
+B) yük markasının (Plimsoll line) batma səviyyəsinin yoxlanması ilə
+C) ballast sularının idarəetmə planına əsasən tankların doluluq səviyyəsi ilə
+D) gəminin eninə metasantr hündürlüyünün daim müsbət saxlanması ilə
+Doğru cavab: A
+
+15. Dənizin gəmilərdən zibil ilə çirkləndirilməsinin qarşısının alınmasına dair qaydalar “Dənizin gəmilərdən çirkləndirilməsinin qarşısının alınmasına dair” Beynəlxalq Konvensiyanın hansı əlavəsində qeyd edilib?
+A) Əlavə 1 (Neftlə çirklənmənin qarşısının alınması)
+B) Əlavə 4 (Gəmi çirkab suları ilə çirklənmənin qarşısının alınması)
+C) Əlavə 6 (Havanın gəmilər tərəfindən çirklənməsinin qarşısının alınması)
+D) 5
+Doğru cavab: D
+
+16.Gəminin saya oturması hallarında gəmi sürücüsü nə etməməlidir?
+A) baş mühərrikləri tam gücü ilə “arxaya” (Full Astern) rejimində işlətmək
+B) sərbəst səth effekti yaranmasın deyə bütün ballast tanklarını boşaltmaq
+C) gəminin xilasedici vasitələrini suya salıb heyəti təcili təxliyə etmək
+D) yükün yerini “vater” xətin üstündə yerləşən bölmələrdən “vater” xətdən aşağıda yerləşən bölmələrə dəyişmək
+Doğru cavab: D
+
+17. Müşahidə etdiyiniz gəmidən verilən üç qısa səs siqnalı nə deməkdir?
+A) mən öz kursumu sola (port) dəyişirəm
+B) mən hərəkət edə bilmirəm, mənə yol verin
+C) “mənim baş mühərriklərim arxaya işləyir”
+D) mən öz kursumu sağa (starboard) dəyişirəm
+Doğru cavab: C
+
+18. Sükançıya “Starboard, steer two one eight” verilən komanda nə deməkdir?
+A) sükan sağ borta və 218º kursa istiqamət götürmək
+B) sağ borta tərəf yavaş-yavaş (slow ahead) 218 fırlanma ilə irəli
+C) sükan diametral müstəvidə (midships) və kurs 218º olsun
+D) sükan sol borta və gəmi sürəti 21.8 uzel olsun
+Doğru cavab: A
+
+19. Hava şəraiti haqqında xəritədə göstərilən Hind okeanının şərq hissəsində yaranan “Frontal” siklon necə adlandırılır?
+A) çox mərkəzli (iki mərkəzli)
+B) antisiklonik cərəyan modeli
+C) qütb hava kütlələrinin hərəkəti
+D) ekvatorial dumanlı front
+Doğru cavab: A
+
+20. Şəkildə göstərilən yanalma qurğusuna aid olan “braşpil”i qeyd edin?
+A) 4
+B) 2
+C) qurğu ümumiyyətlə yanalma üçün deyil
+D) 3
+Doğru cavab: D
+
+21. Şəkildə göstərilən buz şəraitinə dair xəritələrdə qeyd edilən işarə nəyi göstərir?
+A) su səthinin donma temperaturunu
+B) buz kütləsinin qırılma ehtimalını
+C) buzun dreyf istiqamətini
+D) buz sahəsinin sıxılması dərəcəsini
+Doğru cavab: D
+
+22. “RLS”-nin ekranında (RLS nisbi hərəkət rejimindədir, sabitləşmə - “N”, məsafə rejimi – 6 mildir, 1-məsafə halqası 1-mildir) qeyd edilən hədəflərdən hansı daha təhlükəli hədəf hesab edilir (hədəflərin vektorları nisbidir, uzunluğu 6 dəqiqədir)?
+A) 4-nömrəli hədəf
+B) 1-nömrəli hədəf
+C) 2-nömrəli hədəf
+D) 3-nömrəli hədəf
+Doğru cavab: C
+
+23. Atlantik okeanın şimal hissəsinin hansı rayonunda dalğaların maksimal hündürlüyü müşahidə edilir?
+A) Berinq dənizinin cənub hissəsində
+B) Biskay körfəzində
+C) Madaqaskar adasının şərq sahillərində
+D) La-Manş boğazının qərb çıxışında
+Doğru cavab: B
+
+24. Losmanın “What is your heading” sualına necə cavab verilməlidir?
+A) my course over ground is zero, three, seven
+B) my bearing to the target is zero, three, seven
+C) my heading is zero, three, seven degrees
+D) I am turning to starboard zero, three, seven
+Doğru cavab: C
+
+25. “Dənizdə insan həyatının mühafizəsi haqqında” Beynəlxalq Konvensiyanın tələblərinə əsasən “girokompas” avadanlığı hansı gəmilərdə quraşdırılır?
+A) yalnız sərnişin və təhlükəli yük daşıyan ro-ro tipli gəmilərdə
+B) tam tutumu 300 registr ton və artıq olan gəmilərdə
+C) yalnız 500 registr ton və artıq olan beynəlxalq səfər edən gəmilərdə
+D) sahilyanı sular daxilində (A1 rayonu) üzən bütün ticarət gəmilərində
+Doğru cavab: B
+
+26. “Binokl”dan baxdıqda hansı buyu görürsünüz?
+A) Şimal koordinal buyu
+B) Cənub buyu
+C) Təhlükəsiz sular (Safe water) buyu
+D) Şərq koordinal buyu
+Doğru cavab: B
+
+27. Qərb “koordinal” buyu hansı kurs bucağındadır?
+A) 90° sağ bort (Starboard beam)
+B) 180° arxa (Astern)
+C) 45° sol bort
+D) 0° ön (Head on)
+Doğru cavab: C
+
+28. Şəkildə gördüyünüz gəminin işıqlarının mənasını açıqlayın?
+A) lövbərdə dayanaraq yük əməliyyatı edən gəmi
+B) manevr qabiliyyəti məhdud olan gəmi (RAM)
+C) sualtı əməliyyat və ya tral çəkən gəmi
+D) losman işlərini yerinə yetirən gəmi
+Doğru cavab: D
+
+29. Gəminin “Top” işığının üfüqi görünmə sektoru neçə dərəcədir?
+A) gəminin diametral müstəvisindən hər iki borta 135° olmaqla cəmi 270°
+B) gəminin “deametral“ müstəvisindən sağ və sol bortlara tərəf gəminin arxa tərəfinə istiqamətində 112,5°
+C) yalnız sağ və sol bortlara 112,5° olmaqla ümumilikdə 225°
+D) bütün üfüq boyu 360° kəsintisiz sektor
+Doğru cavab: B
+
+30. “RLS”-in ekranında (RLS nisbi hərəkət rejimindədir, sabitləşmə - “N”, məsafə rejimi – 6 mildir, bir məsafə halqası 1-mildir) bizim kurs 310°, sürətimiz 10 düy, hədəfin kursunu və sürətini aşağıda qeyd edilənlər seçin (hədəfin vektoru nisbidir, uzunluğu 6 dəqiqədir)?
+A) hədəfin kursu 130°, sürəti 5 düyün
+B) hədəfin kursu 180°, sürəti 12 düyün
+C) hədəfin kursu 090°, sürəti 15 düyün
+D) hədəfin kursu 310°, sürəti 10 düyün
+Doğru cavab: A
+
+31. Gəmi fiti ilə üç qısa səs siqnalı verilməlidir:
+A) gəmi hərəkət edərkən mühərrik dayandıqda
+B) lövbərə qalxmazdan dərhal əvvəl xəbərdarlıq kimi
+C) dar kanalda qarşıdan gələn gəmini xəbərdar etdikdə
+D) baş mühərrikə “arxaya hərəkət” komandası verilməmişdən öncə
+Doğru cavab: D
+
+32. Şəkildə göstərilən “RLS”–in ekranında 1 rəqəmi ilə işarə edilib:
+A) pelenq kəsişmə xətti (EBL)
+B) head line / kurs xətti
+C) paralel indeks xətti (PI)
+D) hədəfin nisbi hərəkət vektoru (RM)
+Doğru cavab: B
+
+33. Radarın ekranında göstərilən 1 №-li hədəf hansı istiqamətdə hərəkət edir?
+A) Şərqə
+B) Cənub-qərbə
+C) Cənub-şərqə
+D) Şimal-qərbə
+Doğru cavab: A
+
+34. Şəkildə gördüyünüzün adını qeyd edin.
+A) Klyuz (Hawsepipe)
+B) Rolks (Roller fairlead)
+C) Knext (Bollard)
+D) “Şpiqat”
+Doğru cavab: D
+
+35. Siz 1 saylı gəmidəsiniz. Sizin gəminizin kursu hansı hərf ilə qeyd edilmişdir?
+A) “A”
+B) “E”
+C) “D”
+D) “B”
+Doğru cavab: A
+
+36. Şəkildə buludların hansı növü göstərilmişdir?
+A) Yüksək-qatlı buludlar (Altostratus)
+B) Laylı-yağışlı buludlar (Nimbostratus)
+C) “Lələkli” (Ci)
+D) Topa-yağışlı buludlar (Cumulonimbus)
+Doğru cavab: C
+
+37. Şəkildə göstərilən dor ağacında qaldırmış işarəyə görə gəmi haqqında məlumatı qeyd edin?
+A) Gəmi sualtı kabellərin çəkilməsi ilə məşğuldur
+B) Gəmi balıq ovu ilə məşğuldur
+C) Gəmi minadan təmizləmə əməliyyatı həyata keçirir
+D) Gəminin manevr qabiliyyəti məhduddur
+Doğru cavab: B
+
+38. Kapitanın növbə köməkçisi hansı halda öz vəzifələrin icrasından azad olmuş hesab edilir?
+A) Növbəti köməkçi körpüyə qalxdığı ilk anda
+B) Kapitan gəminin idarə edilməsini qəbul etdiyi halda
+C) Gəmi limana tam yan aldıqdan və mühərriklər dayandıqdan sonra
+D) Gəmi lövbər saldıqdan sonra kapitan körpünü tərk etdikdə
+Doğru cavab: B
+
+39. Gəminiz 38,0 ° kurs üzrə 12,5 düyün sürətlə hərəkət edir. RLS-nın ekranında “pelenq”i və məsafəsi dəyişilməyən hədəf müşahidə edilir. Hədəf hansı kurs və sürətlə hərəkət edir?
+A) Kurs 038,0 °, sürət 0 düyün
+B) Kurs 180,0 °, sürət 15,0 düyün
+C) Kurs 38,0 °, sürət 12,5 düyün
+D) Kurs 218,0 °, sürət 12,5 düyün
+Doğru cavab: C
+
+40. Gəmilərdə quraşdırılan qəza radiobuylarının yoxlamadan keçmə müddətini qeyd edin?
+A) hər 5 ildən bir gəminin sinif yenilənməsində
+B) hər 6 aydan bir xüsusi təsdiqlənmiş laboratoriyada
+C) hər səfərdən əvvəl liman nəzarəti tərəfindən
+D) ildə bir dəfə
+Doğru cavab: D
+
+41. Şəkildə gördüyünüz buyun hansı tərəfində naviqasiya təhlükəsi mövcuddur?
+A) şərq tərəfdən
+B) şimal tərəfdən
+C) qərb tərəfdən
+D) cənub tərəfdən
+Doğru cavab: D
+
+42. “GMDSS” sisteminə aid təcililik siqnalını qeyd edin?
+A) “PANPAN”
+B) “SILENCE FINI”
+C) “MAYDAY”
+D) “SECURITE”
+Doğru cavab: A
+
+43. Şəkildə gördüyünüz buy necə adlandırılır?
+A) təhlükəsiz su (safe water) buyu
+B) təcrid olunmuş təhlükə buyu
+C) sağ tərəf (starboard) lateral buyu
+D) xüsusi təyinatlı buy
+Doğru cavab: D
+
+44. Sektor üsulu ilə axtarış xilasetmə əməliyatlarında gəminin hər dəfə kursu neçə dərəcə dəyişməlidir?
+A) 45°
+B) 120°
+C) 60°
+D) 90°
+Doğru cavab: B
+
+45. Şəkildə gördüyünüz bayraq gəmidə nə zaman qaldırılır?
+A) gəmidə gömrük və sərhəd yoxlaması aparılarkən
+B) gəmidə infeksion xəstəlik olmaması barədə karantin siqnalı verərkən
+C) gəmiyə yardıma ehtiyac olanda
+D) gəmi təhlükəli yüklərlə əməliyyat apararkən
+Doğru cavab: C
+
+46. Sükançıya verilən “Keep the buoy on starboard side” komandası nə deməkdir?
+A) buyu birbaşa diametral kəsikdə qarşıla
+B) buyu sol bortda saxla
+C) buyu sağda saxla
+D) buydan tamamilə uzaqlaş (clear the buoy)
+Doğru cavab: C
+

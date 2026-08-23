@@ -1,0 +1,336 @@
+1. Təhlükəli yüklərin dəniz nəqliyyatı vasitəsi ilə daşınması hansı Beynəlxalq Məcəllənin tələbləri əsasında tənzimlənir?
+A) Təhlükəli yüklərin dənizdə daşınmasının Beynəlxalq Məcəlləsi (IMDG Code)
+B) Qlobal Dəniz Fəlakət Məcəlləsi (GMDSS Code)
+C) Gəmilərin və Liman Vasitələrinin Mühafizəsi Məcəlləsi (ISPS Code)
+D) Əmniyyətli İdarəetmə Haqqında Beynəlxalq Məcəllə (ISM Code)
+Doğru cavab: A
+
+2. “Dəniz çirkləndirici”nin tərifi hansı Beynəlxalq sənəddə göstərir?
+A) MARPOL-73/78 Konvensiyasının III əlavəsi
+B) COLREG-72 Beynəlxalq Qaydaları
+C) STCW-78/95 Konvensiyasının B bölməsi
+D) SOLAS-74 Konvensiyasının I fəsli
+Doğru cavab: A
+
+3. Təhlükəli yüklərin daşınmasına qoyulan tələblər SOLAS-74 Konvesniyasının hansı fəslinin tərkibinə daxildir?
+A) III Fəsil
+B) IX Fəsil
+C) XII Fəsil
+D) VII Fəsil
+Doğru cavab: D
+
+4. Zərərli maddələr dəniz çirkləndiriciləri MARPOL-73/78 Konvensiyasının hansı əlavəsində göstərilir?
+A) III Əlavə
+B) V Əlavə
+C) I Əlavə
+D) VI Əlavə
+Doğru cavab: A
+
+5. “Zərərli maddələrə” nələr daxildir?
+A) Yalnız təmiz dəniz qumu və çınqıl
+B) Yalnız içməli qablaşdırılmış su
+C) Yalnız təzə meyvə və tərəvəz
+D) İnsanların sağlamlığına və ətraf mühitə zərər vura biləcək maddələr
+Doğru cavab: D
+
+6. Gəmilərin təhlükəli yüklərin daşınması üçün yararlı olması haqqında sənədləri hansı təşkilat verir?
+A) Dəniz Turizm Agentliyi
+B) Şəhər İcra Hakimiyyəti
+C) Bayraq Dövlətinin Administrasiyası
+D) Liman Polisi İdarəsi
+Doğru cavab: C
+
+7. Təhlükəli yüklərin daşınması zamanı gəmi heyətinin icra edəcəyi tədbirlər hansı sənəddə göstərilir?
+A) Gəmi teleqraf jurnalı qeydlərində
+B) Qəza tədbirləri üzrə göstərişlərdə
+C) Gəmi aşpazının menyu cədvəlində
+D) Gəminin lövbər dayanacağı cədvəlində
+Doğru cavab: B
+
+8. TXDDBM (IMDG Code) neçə cilddən ibarətdir?
+A) 2
+B) 1
+C) 10
+D) 5
+Doğru cavab: A
+
+9. Təhlükəli yüklərin dəniz nəqliyyatı ilə daşınması hansı Beynəlxalq təşkilatın tələbləri əsasında tənzimlənir?
+A) Beynəlxalq Mülki Aviasiya Təşkilatı (ICAO)
+B) Beynəlxalq Dəniz Təşkilatı (IMO)
+C) Ümumdünya Səhiyyə Təşkilatı (WHO)
+D) Beynəlxalq Valyuta Fondu (IMF)
+Doğru cavab: B
+
+10. Qısaldılmış EMS yazılışı nəyi ifadə edir?
+A) Elektrik mühərriklərinin sınaq cədvəli
+B) Elektron naviqasiya xəritələri sistemi
+C) Ekologiya və meşə təsərrüfatı xidməti
+D) Qəza tədbirləri üzrə göstərişlər qəza kartoçkaları
+Doğru cavab: D
+
+11. Qısaldılmiş MFAQ yazılışı nəyi ifadə edir?
+A) Gəmi yanacaq filtrlərinin təmizlənmə qaydası
+B) Dənizdə meteoroloji proqnozlaşdırma mərkəzi
+C) Gəmi mühərriklərinin avtomatlaşdırma dərəcəsi
+D) İlkin tibbi yardım göstərilməsi üzrə rəhbərlik
+Doğru cavab: D
+
+12. HAZMAT termini nəyi ifadə edir?
+A) Hidrostatik azadölçən cihazlar
+B) Avtomatik sükan aparatları
+C) Təhlükəli materiallar
+D) Gəmi havalandırma sistemləri
+Doğru cavab: C
+
+13. Qısaldılmış CFR US yazılışı nəyi ifadə edir?
+A) Fransa Dəniz Təsnifat Cəmiyyəti
+B) Kanada Dəniz Mühafizəsi Qaydaları
+C) ABŞ-ın Federal Qaydalar Məcəlləsi
+D) Böyük Britaniya Dənizçi Şəhadətnaməsi
+Doğru cavab: C
+
+14. “MARİNE POLLUTANTE” yazısı nəyi ifadə edir?
+A) Yanğın söndürən maddə
+B) Dəniz çirkləndiricisi
+C) İçməli dəniz suyu
+D) Zərərsiz neytral yük
+Doğru cavab: B
+
+15. Hidrogen peroksid 3% nə üçün işlədilir?
+A) Yaraları yumaq üçün dezinfeksiya edici maddə
+B) Gəmi korpusunu rəngləmək üçün
+C) Buxar qazanının soyudulması üçün
+D) Gəmi mühərrikinə yanacaq əlavəsi kimi
+Doğru cavab: A
+
+16. Ammonyakla zəhərlənmə zamanı zərərçəkənə neçə %-li süd məhlulu verilməlidir?
+A) 0.1%-li
+B) 50%-li
+C) 3%-li
+D) 20%-li
+Doğru cavab: C
+
+17. Yanıq toxumaların zədələnməsi neçə qrupa bölünür?
+A) 1
+B) 10
+C) 3
+D) 15
+Doğru cavab: C
+
+18. Ağırlığına görə yanıqlar neçə dərəcəyə bölünür?
+A) 2-dək
+B) 10-dək
+C) 7-dək
+D) 4-dək
+Doğru cavab: D
+
+19. Təhükəli yüklər neçə sinifə bölünülər?
+A) 3 sinifə
+B) 15 sinifə
+C) 20 sinifə
+D) 9 sinifə
+Doğru cavab: D
+
+20. Oksidləşdirici və üzvi peroksidlər hansı sinifə aiddir?
+A) 8 sinif
+B) 5 sinif
+C) 2 sinif
+D) 1 sinif
+Doğru cavab: B
+
+21. Tez alışan mayelər hansı sinifə aiddir?
+A) 1 sinif
+B) 7 sinif
+C) 9 sinif
+D) 3 sinif
+Doğru cavab: D
+
+22. Tez alışan bərk maddələr hansı sinifə aiddir?
+A) 4 sinif
+B) 8 sinif
+C) 6 sinif
+D) 2 sinif
+Doğru cavab: A
+
+23. Qazlar hansı sinifə aiddir?
+A) 5 sinif
+B) 2 sinif
+C) 3 sinif
+D) 9 sinif
+Doğru cavab: B
+
+24. Partlayıcı maddələr hansı sinifə aiddir?
+A) 8 sinif
+B) 1 sinif
+C) 6 sinif
+D) 4 sinif
+Doğru cavab: B
+
+25. Radioaktiv maddələr hansı sinifə aiddir?
+A) 5 sinif
+B) 3 sinif
+C) 1 sinif
+D) 7 sinif
+Doğru cavab: D
+
+26. Aşılayıcı və korroziya doğuran maddələr hansı sinifə aiddir?
+A) 8 sinif
+B) 2 sinif
+C) 7 sinif
+D) 4 sinif
+Doğru cavab: A
+
+27. Digər təhlükəli yüklər hansı sinifə aiddir?
+A) 9 sinif
+B) 1 sinif
+C) 5 sinif
+D) 3 sinif
+Doğru cavab: A
+
+28. Zəhərli və yoluxucu maddələr hansı sinifə aiddir?
+A) 2 sinif
+B) 6 sinif
+C) 4 sinif
+D) 8 sinif
+Doğru cavab: B
+
+29. 2-ci sinifin neçə yarım sinifi var?
+A) 1 yarım sinif
+B) 6 yarım sinif
+C) 2 yarım sinif
+D) 4 yarım sinif
+Doğru cavab: D
+
+30. 1-ci sinifin neçə yarım sinifi var?
+A) 1 yarım sinif
+B) 4 yarım sinif
+C) 8 yarım sinif
+D) 2 yarım sinif
+Doğru cavab: B
+
+31. 3-cü sinifin neçə yarım sinifi var?
+A) 8 yarım sinif
+B) 1 yarım sinif
+C) 5 yarım sinif
+D) 3 yarım sinif
+Doğru cavab: D
+
+32. Alışma temperaturu aşağı (-18˚S) olan yüklər hansı yarım sinifə aiddir?
+A) 4.2 yarım sinifinə
+B) 3.1 yarım sinifinə
+C) 5.1 yarım sinifinə
+D) 3.3 yarım sinifinə
+Doğru cavab: B
+
+33. Alışma temperatur (-18˚C-dən + 23˚C) qədər olan yüklər hansı yarım sinifə aiddir?
+A) 4.1 yarım sinifinə
+B) 3.1 yarım sinifinə
+C) 6.2 yarım sinifinə
+D) 3.2 yarım sinifinə
+Doğru cavab: D
+
+34. Alışma temperatur (+23˚C-dən + 61˚C) qədər olan yüklər hansı yarım sinifə aiddir?
+A) 8.2 yarım sinifinə
+B) 2.1 yarım sinifinə
+C) 3.1 yarım sinifinə
+D) 3.3 yarım sinifinə
+Doğru cavab: D
+
+35. Qida yükü neçə yarım sinifə bölünür?
+A) 10 yarım sinifə
+B) 3 yarım sinifə
+C) Bölünmür
+D) 1 yarım sinifə
+Doğru cavab: B
+
+36. Qida yükləri hansı sinifə aiddir?
+A) 3 sinifə
+B) 7 sinifə
+C) 1 sinifə
+D) 8 sinifə
+Doğru cavab: A
+
+37. L.V.J. abreviaturası hansı sinifə aiddir?
+A) 9 sinifə
+B) 3 sinifə
+C) 5 sinifə
+D) 1 sinifə
+Doğru cavab: B
+
+38. L.V.T. abreviaturası hansı sinfinə aiddir?
+A) 4 sinifinə
+B) 2 sinifinə
+C) 6 sinifinə
+D) 8 sinifinə
+Doğru cavab: A
+
+39. “SQ” abreviaturası hansı sinifə aiddir?
+A) 2 sinifə
+B) 9 sinifə
+C) 4 sinifə
+D) 7 sinifə
+Doğru cavab: A
+
+40. “V.M” abreviaturası hansı yarım sinifə aiddir?
+A) 5 sinifə
+B) 3 sinifə
+C) 8 sinifə
+D) 1 sinifə
+Doğru cavab: D
+
+41. Qatı bitki yağlarının daşınması zamanı yükün temperaturuna nəzarət neçə saatdan bir keçirilir?
+A) Hər 10 dəqiqədən bir
+B) 24 saatdan bir
+C) 4 saatdan bir
+D) Yalnız limandan çıxarkən
+Doğru cavab: C
+
+42. Piy və bitki yağlarının boşaldılması zamanı temperatur göstəricisinin aşağı həddi neçə dərəcədir?
+A) -10˚C
+B) 0˚C
+C) 20˚C
+D) 80˚C
+Doğru cavab: C
+
+43. Partlayıcı maddələrin xüsusi yığımın neçə növü mövcuddur?
+A) 10 növü
+B) 20 növü
+C) 1 növü
+D) 3 növü
+Doğru cavab: D
+
+44. V sinif təhlükəli yüklərin I yarım sinifi nece adlanır?
+A) Zəhərli qazlar
+B) Turşu əmələ gətirən maddələr
+C) Partlayıcı maddələr
+D) Radioaktiv maddələr
+Doğru cavab: B
+
+45. V sinif təhlükəli yüklərin II yarım sinifi nece adlanır?
+A) Üzvi maddələr
+B) İnert qazlar
+C) Quru tikinti qumu
+D) Aşılayıcı mayelər
+Doğru cavab: A
+
+46. VI sinif təhlükəli yüklərin I yarım sinifi necə adlanır?
+A) Oksidləşdirici peroksidlər
+B) Radioaktiv maddələr
+C) Zəhərli maddələr
+D) Tez alışan bərk maddələr
+Doğru cavab: C
+
+47. VI sinif təhlükəli yüklərin II yarım sinifi nece adlanır?
+A) Sıxılmış hava balonu
+B) Dəniz duzu
+C) Partlayıcı sursatlar
+D) Yoluxucu maddələr
+Doğru cavab: D
+
+48. VII sinif təhlükəli yüklər nece adlanır?
+A) Zəhərli qazlar
+B) Tez alışan mayelər
+C) Korroziya doğuran maddələr
+D) Radioaktiv maddələr
+Doğru cavab: D
+

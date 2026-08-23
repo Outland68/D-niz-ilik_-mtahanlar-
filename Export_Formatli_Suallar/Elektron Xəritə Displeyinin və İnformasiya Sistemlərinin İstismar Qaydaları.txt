@@ -1,0 +1,350 @@
+Bir dəqiqə ərzində 50-60 işıltı hansı işığa aiddir?
+A) Mürəkkəb qrup işıltılı işıq
+B) Qrup işıltılı işıq
+C) Tez-tez işıltılı işıq
+D) Fasiləsiz sabit işıq
+Doğru cavab: C
+
+Beynəlxalq şərti işarə (FI (2)) hansı işığa aiddir?
+A) Tez-tez işıltılı işığına
+B) Tək-tək işıltılı işığına
+C) Qrup işıltılı işığına
+D) Davamlı işıltılı işığına
+Doğru cavab: C
+
+Beynəlxalq şərti işarə “Q” hansı işığa aiddir?
+A) Sabit davamlı işığa
+B) İzo-faza işığına
+C) Tez-tez işıltılı işığına
+D) Qrup işıltılı işığına
+Doğru cavab: C
+
+Beynəlxalq şərti işarə “Q (9) L FI” hansı işığa aiddir?
+A) Mürəkkəb qrup tez-tez işıltılı işığa
+B) Davamlı qrup işıltılı işığa
+C) Fasiləli qrup işıltılı işığa
+D) Qrup tez-tez davamlı işıltı işığına
+Doğru cavab: D
+
+“İşığın rəngi - Qırmızı, xüsusiyyəti - FI 3s” hansı işarəyə aiddir?
+A) Kardinal işarə, məni şimal tərəfdən keç buyu
+B) Təhlükəsiz sular işarəsi
+C) Xüsusi təyinatlı təhlükə işarəsi
+D) Lateral işarə, farvaterin (kanalın) sağ tərəfi buyu
+Doğru cavab: D
+
+“İşığın rəngi – Ağ, xüsusiyyəti – Q” hansı işarəyə aiddir?
+A) Lateral işarə, farvaterin sol tərəfi buyu
+B) Kardinal işarə, məni şimal tərəfdən keç buyu
+C) Tək yerləşən təhlükəni göstərən işarə
+D) Kardinal işarə, məni cənub tərəfdən keç buyu
+Doğru cavab: B
+
+“İşığın rəngi – Ağ, xüsusiyyəti – Q (6) L FI 15s” hansı işarəyə aiddir?
+A) Kardinal işarə, məni cənub tərəfdən keç buyu
+B) Kardinal işarə, məni qərb tərəfdən keç buyu
+C) Kardinal işarə, məni şimal tərəfdən keç buyu
+D) Kardinal işarə, məni şərq tərəfdən keç buyu
+Doğru cavab: A
+
+“İşığın rəngi – Ağ, xüsusiyyəti – FI (2) 5s” hansı işarəyə aiddir?
+A) Təhlükəsiz sular işarəsi, ox boyu hərəkət buyu
+B) Xüsusi təyinatlı sahəni göstərən işarə
+C) Kiçik ölçülü tək-tək yerləşən təhlükəni göstərən işarə
+D) Yeni təhlükəni göstərən buy
+Doğru cavab: C
+
+“İşığın rəngi – Sarı, xüsusiyyəti – FI 5s” hansı işarəyə aiddir?
+A) Xüsusi təyinatlı təhlükə işarəsi
+B) Təhlükəsiz sular işarəsi
+C) Lateral işarə, farvaterin sol tərəfi buyu
+D) Tək yerləşən kiçik ölçülü təhlükə işarəsi
+Doğru cavab: A
+
+Buya aid olan top fiquru: Buyun boyalanmasını göstərin.
+A) Qara Sarı Qara
+B) Sarı Qara Sarı
+C) Qırmızı Yaşıl Qırmızı
+D) Yaşıl Qırmızı Yaşıl
+Doğru cavab: D
+
+Buya aid olan top fiquru: buyun boyalanmasını göstərin.
+A) Qara Sarı
+B) Sarı Qara Sarı
+C) Qara Sarı Qara
+D) Sarı Qara
+Doğru cavab: B
+
+Beynəlxalq tələblərə görə «ECDIS» -in əsas komplektlərinə hansı naviqasiya sistemləri mütləq qoşulmalıdırlar?
+A) Radar, AIS, exolot
+B) Gəminin yerini təyin etmək üçün sistem, girokompas, laq
+C) NAVTEX, Inmarsat, maqnit kompas
+D) AIS, laq, VDR (Reys məlumat qeydiyyatçısı)
+Doğru cavab: B
+
+Kartoqrafik sistemindən istifadə edərkən, Beynəlxalq tələblərə görə, gəmidə hansı sənədlər olmalıdır?
+A) Heyətin diplomları, sağlamlıq sertifikatları
+B) Gəminin dənizə yararlılıq şəhadətnaməsi, ekoloji sənədlər
+C) Nümunənin bəyənmə şəhadətnaməsi, naviqasiya düzəlişləri üçün müqavilə, müvafiq sənədi, texniki rəhbər sənədi
+D) Sığorta sənədləri, gəmi jurnalı, radiostansiya jurnalı
+Doğru cavab: C
+
+Beynəlxalq şərti işarə “FI” hansı işığa aiddir?
+A) İzo-faza işığına
+B) Fasiləli işığa
+C) İşıltılı işığa
+D) Davamlı işığa
+Doğru cavab: C
+
+Beynəlxalq şərti işarə “L FI” hansı işığa aiddir?
+A) Davamlı işıltılı işığa
+B) Qısa işıltılı işığa
+C) Tez-tez işıltılı işığa
+D) Qrup işıltılı işığa
+Doğru cavab: A
+
+Beynəlxalq şərti işarə “Q (9)” hansı işığa aiddir?
+A) Tək-tək işıltılı işığa
+B) Qrup tez-tez işıltılı işığa
+C) Mürəkkəb qrup işıltılı işığa
+D) Davamlı işıltılı işığa
+Doğru cavab: B
+
+Beynəlxalq şərti işarə “FI (2+1)” hansı işığa aiddir?
+A) Qrup tez-tez işıltılı işığa
+B) Mürəkkəb qrup işıltılı işığa
+C) Fasiləsiz işıltılı işığa
+D) Tez-tez işıltılı işığa
+Doğru cavab: B
+
+“İşığın rəngi - Qırmızı, xüsusiyyəti - FI (2+1) 9s” hansı işarəyə aiddir?
+A) Lateral işarə, əsas farvater sağdadır buyu
+B) Lateral işarə, əsas farvater soldadır buyu
+C) Kardinal işarə, məni şimalda saxla
+D) Tək yerləşən təhlükə işarəsi
+Doğru cavab: A
+
+“İşığın rəngi – Ağ, xüsusiyyəti – Q (3) 10s” hansı işarəyə aiddir?
+A) Kardinal işarə, məni şimalda saxla
+B) Kardinal işarə, məni şərqdə saxla
+C) Kardinal işarə, məni cənubda saxla
+D) Kardinal işarə, məni qərbdə saxla
+Doğru cavab: D
+
+“İşığın rəngi – Ağ, xüsusiyyəti – Q (9) 15s” hansı işarəyə aiddir?
+A) Kardinal işarə, məni cənubda saxla
+B) Lateral işarə, kanalın sol tərəfi
+C) Kardinal işarə, məni qərbdə saxla
+D) Kardinal işarə, məni şərqdə saxla
+Doğru cavab: D
+
+Gəmilərdə hansı elektron kartoqrafik sistemləri istifadə olunur?
+A) GMDSS, AIS, VDR
+B) RCDS, ECS, ECDİS
+C) ARPA, Radar, Navtex
+D) GPS, GLONASS, Galileo
+Doğru cavab: B
+
+Elektron xəritələrin üçüncü miqyaslar diapazonunun təyinatı nədir?
+A) Xülasə (okeanlarda üzmənin planlaşdırılması)
+B) General (əsas elektron xəritələrdə keçid)
+C) Sahilboyu (sahili görmə zonasında və ya məhdudlaşmış naviqasiya şəraitlərində keçidin təmin edilməsi)
+D) Planlar (limanlarda manevr edilməsi)
+Doğru cavab: C
+
+Elektron xəritələrin ikinci miqyas diapazonunun təyinatı nədir?
+A) Planlar (yanalma zamanı üzgüçülük)
+B) Sahilboyu (sahili görmə zonasında naviqasiya)
+C) General (əsas elektron xəritələrdə keçidinin təmin edilməsi)
+D) Hövzələr (limanların akvatoriyasında hərəkət)
+Doğru cavab: C
+
+Elektron xəritələrin dördüncü miqyaslar diapazonunun təyinatı nədir?
+A) Xülasə (okean üzgüçülüyü)
+B) Planlar (yanalma əməliyyatları)
+C) General (açıq dənizdə keçid)
+D) Sahilə yaxınlaşmalar (sahilə yaxınlaşmanın təmin edilməsi)
+Doğru cavab: D
+
+Elektron xəritələrin beşinci miqyas diapazonunun təyinatı nədir?
+A) Xülasə xəritələri (marşrutun planlaşdırılması)
+B) Sahilboyu (sahili görmə zonasında keçid)
+C) Hövzələr (limanların akvatoriyasında, buxtalarda, hövzələrdə v.s. hərəkətin təmin edilməsi)
+D) Sahilə yaxınlaşmalar (sahilə yaxınlaşmanın təmin edilməsi)
+Doğru cavab: C
+
+Elektron xəritələrin altıncı miqyas diapazonunun təyinatı nədir?
+A) Sahilboyu (məhdudlaşmış naviqasiya şəraitində)
+B) Planlar (yanalma zamanı və limandan çıxan zaman üzgüçülüyün eləcə də təhlükəsizliyin təmin edilməsi)
+C) General (əsas elektron xəritələrdə keçid)
+D) Hövzələr (limanların akvatoriyasında hərəkət)
+Doğru cavab: B
+
+Elektron naviqasiya xəritələri Beynəlxalq Hidroqrafiya Təşkilatının (İHO) hansı standartında olmalıdırlar?
+A) S-100
+B) S-63
+C) S-52
+D) S-57
+Doğru cavab: D
+
+Elektron naviqasiya xəritələri haqqında olan məlumat qutusunun adı neçə simvoldan ibarətdir?
+A) 8
+B) 10
+C) 12
+D) 6
+Doğru cavab: A
+
+Elektron naviqasiya xəritələri haqqında olan məlumat qutusunun adındakı “PP” simvolların açıqlaması nədir?
+A) Xəritənin miqyas kodu
+B) İstehsal edən ölkənin kodu
+C) Xəritənin yenilənmə tarixi kodu
+D) Nəşr olunan ilin kodu
+Doğru cavab: B
+
+Elektron naviqasiya xəritələri haqqında olan məlumat qutusunun adındakı “S” simvolunun açıqlaması nədir?
+A) Miqyaslar sırasının kodu
+B) İstehsal edən ölkənin kodu
+C) Xəritənin təhlükəsizlik kodu
+D) Xəritə nömrəsinin seriyası
+Doğru cavab: A
+
+Miqyaslar sırasının kodu neçə diapazondan ibarətdir?
+A) 6
+B) 4
+C) 10
+D) 8
+Doğru cavab: A
+
+Elektron naviqasiya xəritələri haqqında olan məlumat qutusunun simvolu göstərilənlərdən hansıdır?
+A) SSPPCCCC
+B) CCCCPPSP
+C) PPCCCCCC
+D) PPSCCCCC
+Doğru cavab: D
+
+Elektron naviqasiya xəritələrinin korrekturası rəhbər sənədi hansı servis dərəcələrini təyin edir?
+A) Avtomatik servis, yarı-avtomatik servis, əl ilə servis
+B) Lokal servis, regional servis, qlobal servis
+C) Gündəlik servis, həftəlik servis, aylıq servis
+D) Vaxt cədvəlinə əsasən servis, tələblə servis, fövqəladə servis
+Doğru cavab: D
+
+Elektron naviqasiya xəritələrinin korrektura etmə üsullarının kateqoriyası hansıdır?
+A) Yalnız əl ilə korrektura
+B) Yalnız avtomatik korrektura
+C) Əl ilə korrektura və avtomatik korrektura
+D) Peyk vasitəsilə və radiostansiya vasitəsilə korrektura
+Doğru cavab: C
+
+Buyun göstərilən top fiquru işarəsini izah edin.
+A) Məni qərbdə saxla, işıq - Qırmızı, boyalanma - qara sarı, xüsusiyyət - Q(9)
+B) Məni şərqdə saxla, işıq - Sarı, boyalanma - qara sarı, xüsusiyyət - Q(3)
+C) Məni cənubda saxla, işıq - Ağ, boyalanma - qara sarı, xüsusiyyət - Q
+D) Məni şimalda saxla, işıq - Ağ, boyalanma - qara sarı, xüsusiyyət - Q
+Doğru cavab: C
+
+Buyun göstərilən top fiquru işarəsini izah edin.
+A) Məni şimal tərəfdən keç, işıq - Ağ, boyalanma - qara sarı, xüsusiyyət - Q
+B) Məni qərb tərəfdən keç, işıq - Ağ, boyalanma - sarı qara sarı, xüsusiyyət - Q (9) 15s
+C) Məni şərq tərəfdən keç, işıq - Ağ, boyalanma - qara sarı qara, xüsusiyyət - Q (3) 10s
+D) Məni cənub tərəfdən keç, işıq - Ağ, boyalanma - sarı qara, xüsusiyyət - Q (6) L Fl 15s
+Doğru cavab: C
+
+Şəkildəki top fiquru olan buyun tam xarakteristikasını göstərin.
+A) Boyalanma - sarı qara sarı, işıq - Ağ, xüsusiyyət - Q (9). Kardinal işarə
+B) Boyalanma - yaşıl qırmızı yaşıl, işıq - Yaşıl, xüsusiyyət - Fl(2+1). Lateral işarə
+C) Boyalanma - qırmızı ağ qırmızı, işıq - Ağ, xüsusiyyət - Iso 5s. Təhlükəsiz sular işarəsi
+D) Boyalanma - qara qır qara, işıq - Ağ, xüsusiyyət - FI (2) 5s. Kiçik ölçülü təhlükələrin çəpərlənməsi buyu, hər tərəfdən keçmək olar. Təhlükənin üstündə qoyulur
+Doğru cavab: D
+
+Buyun göstərilən top fiquru işarəsini izah edin.
+A) Məni şimalda saxla. İşıq - Ağ, boyalanma - qara sarı, xüsusiyyət - Q
+B) Məni şərqdə saxla. İşıq - Ağ, boyalanma - sarı qara sarı, xüsusiyyət - Q (9) 15s
+C) Məni qərbdə saxla. İşıq - Ağ, boyalanma - sarı qara sarı, xüsusiyyət - Q (9) 15s
+D) Məni cənubda saxla. İşıq - Ağ, boyalanma - sarı qara, xüsusiyyət - Q (6) L Fl 15s
+Doğru cavab: B
+
+Lateral işarələr hansı buylardan ibarətdir?
+A) xüsusi təyinatlı buylar, yeni təhlükə buyları
+B) təhlükəsiz sular buyları, liman giriş buyları
+C) təhlükəni tək-tək çəpərləyən buylar, kardinal buylar
+D) kanal buyları, farvaterin tərəfini göstərən buylar
+Doğru cavab: D
+
+Lateral işarələr neçə buydan ibarətdir?
+A) 6
+B) 2
+C) 4
+D) 8
+Doğru cavab: C
+
+BMXA (MAMC) sisteminə görə A və B reqionları nə ilə fərqlənir?
+A) Buyların top fiqurlarına görə
+B) Buyların rənginə görə
+C) Buyların işıq xüsusiyyətinə görə
+D) Buyların ölçüsünə görə
+Doğru cavab: B
+
+Kardinal işarələr neçə buydan ibarətdir?
+A) 2
+B) 6
+C) 4
+D) 8
+Doğru cavab: C
+
+Elektron xəritələr hansı formatda olur?
+A) Yalnız vektor formatda
+B) Rastr və vektor
+C) PDF və JPEG formatında
+D) Yalnız rastr formatda
+Doğru cavab: B
+
+Beynəlxalq tələblərinə görə ECDİS -in komplektinə əlavə olaraq hansı naviqasiya avadanlıqları qoşulmalıdır?
+A) VDR, SSAS, EPIRB
+B) GMDSS, Inmarsat-C, MF/HF radio
+C) SART, BNWAS, maqnit kompas
+D) Radar (ARPA), Exolot, AIS, NAVTEX
+Doğru cavab: D
+
+Elektron naviqasiya xəritələrinin korrekturası Beynəlxalq Hidroqrafiya Təşkilatının (IHO) tələblərinə görə hansı standarlarda aparılır?
+A) S-57
+B) S-52
+C) S-100
+D) S-63
+Doğru cavab: B
+
+Elektron xəritələrin nömrələnməsində Azərbaycanın kodu necə göstərilir?
+A) AZ
+B) 4J
+C) 99
+D) 7A
+Doğru cavab: D
+
+Elektron naviqasiya xəritələrində ümumi (General) xəritələrin miqyas diapozonu neçədir?
+A) 1:300 000 – 1:80 001
+B) 1:2 250 000 – 1:300 001
+C) 1:80 000 – 1:20 001
+D) 1:20 000 – 1:4 001
+Doğru cavab: B
+
+Elektron naviqasiya xəritələrində sahilboyu xəritələrin miqyas diapozonu neçədir?
+A) 1:80 000 – 1:20 001
+B) 1:20 000 – 1:4 001
+C) 1:300 000 – 1:80 001
+D) 1:2 250 000 – 1:300 001
+Doğru cavab: C
+
+Beynəlxalq səviyyədə Elektron Naviqasiya xəritələrinin standartlarа uyğun hazırlanmasına və istifadəsinə hansı təşkilatlar nəzarət edir?
+A) ITU və WMO
+B) IMO və IHO
+C) IMSO və IHO
+D) IALA və ICS
+Doğru cavab: B
+
+Elektron naviqasiya xəritələrində xülasə xəritələrin miqyas diapozonu neçədir?
+A) 1:300 000 – 1:80 001
+B) 1 : 2 250 000-dən kiçik
+C) 1:2 250 000 – 1:300 001
+D) 1:4000-dən böyük
+Doğru cavab: B
+

@@ -1,0 +1,363 @@
+1. Göyərtədə yükləri yükləməzdən əvvəl hansı proseduraları yerinə yetirmək lazımdır?
+1. yük ötürmələrinin etibarlığını yoxlamaq;
+2. şpiqatları çirkdən təmizləmək, onların sazlığını yoxlamaq;
+3. gəminin uzunluğunu nəzərə almaq;
+4. yüklərin ölçülərinin yoxlanılmadan bərkidilməsi;
+5. lövbər bucurqadının işlək vəziyyətdə olmasını yoxlamaq
+A) 2,4
+B) 3,4,5
+C) 1,2
+D) 1,3,5
+Doğru cavab: C
+
+2. Yükün daşınması üçün Agentlik və müstəqil sürveyer nəyi yoxlayır?
+A) yük otaqlarının hazırlığını
+B) kapitanın şəxsi sənədlərini
+C) liman kranlarının rəngini
+D) gəmi aşpazının tibbi arayışını
+Doğru cavab: A
+
+3. İstifadə olunan bərkitmə sistemindən asılı olaraq yüklər neçə sayda bölünürlər?
+A) 10
+B) Bölünmürlər
+C) 1
+D) 3
+Doğru cavab: D
+
+4. Standart yük hansı yüklərdir?
+A) konteynerlər, lixterlər, vaqonlar
+B) xam neft və mazut
+C) tikinti daşı və qum
+D) dökülmə buğda və arpa
+Doğru cavab: A
+
+5. Özüyeriyən texnikanın apparel üzərinə çıxma sürəti neçə km/saat-ı aşmamalıdır?
+A) 10 km/saat
+B) 50 km/saat
+C) 2 km/saat
+D) 100 km/saat
+Doğru cavab: A
+
+6. Özüyeriyən texnikanın gəmiyə sürülərək gətirilməsi, qoyulması və bərkidilməsi kimlər təfəfindən həyata keçirilir?
+A) liman polisi tərəfindən
+B) sərnişinlərin özləri tərəfindən
+C) yalnız gəmi kapitanı tərəfindən
+D) liman dokerləri briqadası təfəfindən
+Doğru cavab: D
+
+7. Hərəkət edən texnikanı daşımaq üçün təyin edilən yük otağı nələr ilə təmin edilməlidir?
+1. su ilə yanğınsöndürmə sistemi ilə;
+2. su səpələmə və su örtüyü ilə;
+3. köpüklə yanğınsöndürmə ilə;
+4. koşma ilə;
+5. karbon qazlı yanğınsöndürmə ilə
+A) 3,4
+B) 1,4
+C) 1,2,3,5
+D) 2,4,5
+Doğru cavab: C
+
+8. RO-RO tipli sərnişin gəmilərində yük yerlərinin bərkidilməsi üçün hansı amilləri nəzərə almaq lazımdır?
+1. gəminin yırğalanması zamanı təsir gösterən qüvvələri;
+2. gəminin zədələnməsi və ya su ilə basılması nəticəsində yana əyilmə bucağını;
+3. gəminin sürətinin azaldılmasını;
+4. gəminin yanğın sistemlərinin işlək vəziyyətdə olmasını;
+5. yükün bərkidilməsi üçün qurğuların istifadəsinin effektivliyini
+A) 1,4
+B) 1,2
+C) 3,4,5
+D) 2,3,4
+Doğru cavab: B
+
+9. Roll-treylerlər və qoşqular hansı tip gəmilərdə daşınmalıdır?
+A) Ro-Ro tipli xüsusi gəmilərdə və ya avto-sərnişin bərələrində
+B) Yalnız qazdaşıyan LNG gəmilərində
+C) Yalnız balıqçı tankerlərində
+D) Yalnız sualtı qayıqlarda
+Doğru cavab: A
+
+10. Minik avtomobillərinin yerləşdirilməsi zamanı bortlar və bamperlər arasında məsafə nə qədər olmalıdır?
+A) bortlar 100-30 mm; bamperlər-10 mm
+B) bortlar 10 mm; bamperlər-2 mm
+C) bortlar 1000 mm; bamperlər-500 mm
+D) Məsafə qoyulması tələb olunmur
+Doğru cavab: A
+
+11. Rol-treyler arasındakı eninə və uzununa məsafə nə qədər olmalıdır?
+A) Eninə -300 mm, uzununa -600 mm
+B) Eninə -50 mm, uzununa -100 mm
+C) Eninə -2000 mm, uzununa -5000 mm
+D) Məsafə qoyulmur
+Doğru cavab: A
+
+12. Hərəkət edən texnikanın bərkidilməsi üçün olan naytovlar nəyə malik olmalıdır?
+A) plastik örtüyə
+B) markalanmaya və şəhadətnaməyə
+C) yalnız taxta tutacağa
+D) yalnız al-qırmızı rəngə
+Doğru cavab: B
+
+13. Yükü bərkitmək üçün gəmi vasitələri neçə növə bölünür?
+A) 2
+B) Bölünmür
+C) 10
+D) 5
+Doğru cavab: A
+
+14. Konteynerin daxilində yüklərin yer dəyişməsi nəticəsində orada olan əşyaların xarab olması və sınması ilə əlaqədar cavabdehlik kimin üzərinə düşür?
+A) gəmi aşpazının
+B) gəmi növbətçi matrosunun
+C) liman mühafizəçisinin
+D) yük göndərənin
+Doğru cavab: D
+
+15. Konteynerdə ev əşyaları daşınan zaman konteynerdə yerləşdirilən əşyaların siyahısı neçə nüsxədə tərtib olunur?
+A) 1
+B) 10
+C) 2
+D) 5
+Doğru cavab: C
+
+16. Konteynerlə daşınan ev əşyalarının siyahısı kimlərdə və haralarda olur?
+A) yalnız liman bələdçisinin cibində olur
+B) kapitanın seyfində saxlanılır
+C) konteynerə qoyulur, yük göndərənə təqdim edilir və yük göndərən limanda qalır
+D) dənizə atılır
+Doğru cavab: C
+
+17. Təhlükəli yüklərin daşınması zamanı yaradılmış gəmi komissiyası nələri yoxlamalıdır?
+A) yalnız sərnişinlərin geyim tərzini
+B) gəmi sistemlərinin texniki vəziyyətini, texniki təlimatını, yük yerlərinin vəziyyətini
+C) yalnız gəmi mətbəxinin yemək menyusunu
+D) yalnız liman binasının rəngini
+Doğru cavab: B
+
+18. Avtomobil göyərtəsində yükləmə və boşaltma işləri aparan zaman xəbərdarlıq işarələri hansı rəngdə olmalıdır?
+A) şəffaf
+B) qara
+C) boz
+D) parlaq
+Doğru cavab: D
+
+19. Avtomobil göyərtəsində yükləmə və boşaltma işlərində çalışan personalın iş geyimi necə olmalıdır?
+A) tünd göy
+B) qara
+C) rəngsiz
+D) parlaq
+Doğru cavab: D
+
+20. Təhlükəli yüklərin daşınması zamanı gəmi komissiyası hansı tərkibdə yaradılır?
+A) liman polisi və gömrük işçisi
+B) kapitanın baş köməkçisi, 2-ci köməkçi, 2-ci mexanik, elektrik mexaniki və bosman
+C) kapitan, baş mexanik və aşpaz
+D) yalnız 3 nəfər matros
+Doğru cavab: B
+
+21. Təhlükəli yüklərin konteynerdə və ya nəqliyyat vasitəsində düzgün yığılmadığı və bərkidilmədiyi səbəbindən baş verən hadisəyə görə cavabdehlik kimin üzərinə düşür?
+A) gəmi həkiminin
+B) yük göndərənin və ya yükləmə işləri aparan limanın
+C) növbətçi matrosun
+D) gəminin sükançısının
+Doğru cavab: B
+
+22. Təhlükəli yüklər yüklənərkən və boşaldılarkən yükləmə üçün gözləyən yük avtomobilləri gəmidən neçə metr kənarda saxlanılmalıdır?
+A) 25 metrdən az olmayaraq
+B) 100 metrdən çox
+C) 1 metr
+D) Məsafə tələb olunmur
+Doğru cavab: A
+
+23. RO-RO gəmilərində yanğın təhlükəli yüklərin yüklənməsi əməliyyatları zamanı gəminin yük yerlərində və ya apareli hissəsində siqaret çəkilməsinin qadağan olduğu barədə neçə dildə xəbərdarlıq lövhələri qoyulmalıdır?
+A) yalnız fransız dilində
+B) yalnız alman dilində
+C) gəminin işçi və ingilis dillərində
+D) lövhə qoyulması tələb olunmur
+Doğru cavab: C
+
+24. RO-RO gəmilərində yanğın təhlükəli yüklərlə işləyən zaman gəminin radioqovşağı ilə gündə neçə dəfə gəmi üzrə yanğın əleyhinə rejimə riayət olunmasının zəruriliyi barədə əmrdən çıxarış səslənməlidir?
+A) ayda 1 dəfə
+B) səslənməməlidir
+C) yazda 1 dəfə
+D) gündə 2 dəfədən az olmayaraq
+Doğru cavab: D
+
+25. Dəniz donanması gəmilərində hərəkətli texnikanın təhlükəsiz daşınması üçün hansı qanunlar nəzərə alınmalıdır?
+A) Yalnız yol hərəkəti haqqında qanun
+B) Yalnız şəhər nəqliyyatı tarifləri
+C) Yüklərin yerləşdirilməsi və bərkidilməsi üzrə təhlükəsiz təcrübə kodeksi (CSS Code)
+D) Yalnız aviasiya təhlükəsizlik kodeksi
+Doğru cavab: C
+
+26. Konteynerdə partlayıcı maddə daşınırsa hansı qaydalar yerinə yetirilməlidir?
+A) Dəniz gəmilərində konteynerdə partlayıcı maddələrin daşınması qaydaları
+B) Şəhər tramvay istismar qaydaları
+C) Dəmir yolu sərnişin daşıma qaydaları
+D) Mülki aviasiya baqaj daşıma qaydaları
+Doğru cavab: A
+
+27. Ro-Ro tipli gəmilərdə təhlükəli yük yüklənmiş hərəkətli texnika daşındıqda hansı qaydalar yerinə yetirilməlidir?
+A) Yalnız dəniz balıqçılığı qaydaları
+B) Yalnız gəmi rəngləmə standartları
+C) Yalnız liman tikinti normaları
+D) Təhlükəli yüklərin dəniz yolu ilə daşınması haqqında Beynəlxalq Məcəllə (IMDG Code)
+Doğru cavab: D
+
+28. Hansı gəmiyə Ro-Ro gəmisi deyilir?
+A) Yalnız maye qaz daşıyan izolyasiyalı tanker
+B) Avtomobilləri, treylerləri və digər təkərli texnikanı müstəqil surətdə və ya dartıcıların köməyi ilə yükləyib-boşaltmağa imkan verən arxa və ön (burun) hissələrində apareli olan xüsusi konstruksiyalı, üfüqi üsulla yüklənilib-boşaldılan gəmi
+C) Yalnız ağac və kütük daşıyan açıq göyərtəli gəmi
+D) Yalnız sualtı elmi-tədqiqat gəmisi
+Doğru cavab: B
+
+29. Ro-Ro sərnişin gəmilərində əsasən hansı yüklər daşınır?
+A) Yalnız kömür tozu
+B) Yalnız dəniz suyu
+C) Yalnız xam neft
+D) hər cür ümumi yüklər (hərəkətli texnika, tara-ədədli yüklər, paket şəklində olan yüklər və s.), konteynerlər, ağır çəkili və iri həcmli yüklər
+Doğru cavab: D
+
+30. Hansı vasitəyə “treyler” deyilir?
+A) təkəri olmayan dəmir konteyner
+B) gəmi fitinin səs qurğusu
+C) qabaq və arxa təkərləri olan avtoyol qoşqusu
+D) yalnız motorlu dəniz qayığı
+Doğru cavab: C
+
+31. Hansı vasitəyə “semitreyler” deyilir?
+A) gəmi crane kranı
+B) xilasedici sal
+C) dörd təkərli minik avtomobili
+D) qabaq təkərləri olmayan avtoyol qoşqusu
+Doğru cavab: D
+
+32. Hansı vasitəyə “roll-treyler” deyilir?
+A) xilasedici jilet
+B) uzunluğu 6-12 metr olan xüsusi yük sahəli qoşqu və yarım qoşqu
+C) radar antenası
+D) gəmi pərinin valı
+Doğru cavab: B
+
+33. Hərəkətli texnikanın gəmiyə yerləşdirilməsi yoxlama və ya qəza zamanı qapılara, lyuklara, yanğına qarşı avadanlıqlara və s. yetişmək üçün keçidlərin eni, mexanizmlər və avadanlıqlar arasında azad məsafə nə qədər olmalıdır?
+A) Məsafə tələb olunmur
+B) 0,6 metrdən az olmamalıdır
+C) 0,01 metrdən az olmamalıdır
+D) 5 metrdən az olmamalıdır
+Doğru cavab: B
+
+34. Hərəkətli texnika daşınan zaman yoxlama və ya qəza zamanı (qapılara, lyuklara, yanğına qarşı avadanlıqlara və s. yetişmək və istifadə etmək üçün) mexanizmlər və avadanlıqlar arasında azad sahə nə qədər olmalıdır?
+A) 0.1x0.1 m
+B) 1x1 m
+C) Sahə tələb olunmur
+D) 10x10 m
+Doğru cavab: B
+
+35. Ro-Ro sərnişin gəmilərində hərəkətli texnika yüklənərkən yüngül avtomobillər arasındakı məsafə nə qədər olmalıdır?
+A) 0,001 metrdən az olmayaraq
+B) 5 metrdən az olmayaraq
+C) 0,2 metrdən az olmayaraq
+D) Məsafə saxlanılmır
+Doğru cavab: C
+
+36. Ro-Ro sərnişin gəmilərində hərəkətli texnika yüklənərkən avtobuslar arasındakı məsafə nə qədər olmalıdır?
+A) 10 metrdən az olmayaraq
+B) Məsafə saxlanılmır
+C) 0,05 metrdən az olmayaraq
+D) 0,6 metrdən az olmayaraq
+Doğru cavab: D
+
+37. Ro-Ro sərnişin gəmilərində hərəkətli texnika yüklənərkən roll-treyler və qoşqular arasındakı məsafə nə qədər olmalıdır?
+A) 0,01 metrdən az olmayaraq
+B) Məsafə saxlanılmır
+C) 0,3 metrdən az olmayaraq
+D) 4 metrdən az olmayaraq
+Doğru cavab: C
+
+38. Ro-Ro sərnişin gəmilərində hərəkətli texnikanın apparelə keçid sürəti və gəmiyə hərəkəti neçə km/saat olmalıdır?
+A) apparelə keçid sürəti 10 km/saatdan, gəmiyə hərəkəti 20 km/saatdan artıq olmamalıdır
+B) sürət 1 km/saatdan az olmalıdır
+C) apparelə keçid 100 km/saat, gəmiyə 150 km/saat olmalıdır
+D) sürət məhdudiyyəti yoxdur
+Doğru cavab: A
+
+39. Sərnişinlərin minmə və enməsi zamanı nələrə riayət edilməlidir?
+A) gəmi pərinin maksimum fırlanmasına
+B) təhlükəsizliyin təmin olunmasına, hərəkət yerlərinin yaxşı işıqlandırılmasına, müdafiə olunmasına
+C) bütün işıqların söndürülməsinə
+D) sərnişinlərin tək-tək qaçmasına
+Doğru cavab: B
+
+40. Gəmi limandan ayrıldıqdan sonra sərnişinlərin toplanma təlimləri neçə saat ərzində keçirilməlidir?
+A) 24 saat
+B) 72 saat
+C) Təlim keçirilməsi tələb olunmur
+D) 1 ay ərzində
+Doğru cavab: A
+
+41. Gəmidə hərəkətli texnika yaxınlığında hansı təhlükəsizlik işarələri (yazıları) olmalıdır?
+A) “kapitan kayutası sağdadır”
+B) “balıq tutmaq qadağandır”
+C) “biletlərin qiyməti 50 AZN”
+D) “açıq alovdan istifadə qadağandır”, “siqaret çəkmək qadağandır”
+Doğru cavab: D
+
+42. Ümumgəmi həyəcan siqnalı və qayıq həyəcan siqnalına əsasən nizamlayıcıların vəzifələrinə nə aiddir?
+A) sərnişinlərdən gəmi bileti tələb etmək
+B) gəmi mətbəxində yemək bişirmək
+C) kayutların qapılarını kilidləyib açarları götürmək
+D) sərnişinlərin tıxac, yığın olmadan, tez, mütəşəkkil və fasiləsiz xilasedici vasitələrə çıxarılması
+Doğru cavab: D
+
+43. Gəmini tərk etmək komandasını kim verir?
+A) növbətçi matros
+B) gəmi aşpazı
+C) sərnişinlərin böyüyü
+D) kapitan
+Doğru cavab: D
+
+44. Bütün həyəcan siqnalları üzrə məşqlər hansı vaxtda keçirilir?
+A) yalnız gəmi limanda olanda
+B) sutkanın istənilən vaxtı
+C) yalnız gecə saat 03:00-da
+D) yalnız günortadan sonra saat 12:00-da
+Doğru cavab: B
+
+45. Yanğınla mübarizə üçün vasitələr harada olmalıdır?
+A) anbarın dərinliyində
+B) istənilən yerdə
+C) xüsusi olaraq ayrılmış yerdə
+D) kapitan kayutunda
+Doğru cavab: C
+
+46. Gəmidə təhlükəli yüklə doldurulmuş bölməyə daxil olduqda hansı təhlükəsizlik qaydalarına riayət etmək lazımdır?
+A) elektrik işıqlarını tam söndürmək
+B) hava-qaz mühitini yoxlayaraq daxil olmaq
+C) bölmənin qapılarını bağlayıb gözləmək
+D) bölməyə dərhal açıq alovla daxil olmaq
+Doğru cavab: B
+
+47. Yanğın zamanı yığılmış su nə vaxt xaric edilir?
+A) heç vaxt
+B) yanğın söndürüldükdən sonra
+C) yanğın başlamazdan əvvəl
+D) yanğının söndürülməsi ilə eyni vaxtda
+Doğru cavab: D
+
+48. Yanğın mənbəyini və ya onun əlamətlərini aşkar edən hər bir heyət üzvü nə etməlidir?
+A) gəmidən dənizə tullanmalıdır
+B) bölməni bağlayıb təkbaşına gizlənməlidir
+C) kapitan körpüsünə xəbər verməli və yanğının aradan qaldırılmasına başlamalıdır
+D) heç kimə xəbər vermədən yatmalıdır
+Doğru cavab: C
+
+49. SOLAS-74/78 Beynəlxalq Konvensiyaya müvafiq olaraq aşağıda qeyd olunan hansı hallarda gəminin dənizə çıxışı qadağan edilir?
+1. qayıqlar, sallar, üzən cihazlar tam komplektdə olmayarkən və ya onlar təyin edilmiş yerlərində olmayan zaman;
+2. qayıqlar, sallar nasaz olduğu zaman;
+3. buraxıcı (endirici) qurğular nasaz olduğu zaman;
+4. stasionar işıqlandırma vasitələri nasaz olduğu zaman;
+5. kapitanın baş köməkçisi məzuniyyətdə olan zaman.
+A) 1,5
+B) 3,5
+C) 1,2,3,4
+D) 2,4,5
+Doğru cavab: C
+

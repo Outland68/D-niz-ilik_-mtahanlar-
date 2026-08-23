@@ -1,0 +1,210 @@
+1. Sərnişin gəmisi:
+A) 2 nəfərdən artıq sərnişin daşıyan gəmidir
+B) 500 nəfərdən artıq sərnişin daşıyan gəmidir
+C) 12 nəfərdən artıq sərnişin daşıyan gəmidir
+D) 1000 nəfərdən artıq sərnişin daşıyan gəmidir
+Doğru cavab: C
+
+2. Sərnişin gəmilərində uşaqlar və körpələr üçün aşağıdakı sayda əlavə xilasedici jiletlər nəzərdə tutulmalıdır:
+A) 50%
+B) 100%
+C) 10%
+D) 2%
+Doğru cavab: C
+
+3. 36 nəfərdən artıq sərnişin daşıyan gəmilər üçün yalnız bir təxliyə yoluna malik olan dəhlizin uzunluğu aşağıdakını aşmamalıdır:
+A) 13 metr
+B) 5 metr
+C) 25 metr
+D) 40 metr
+Doğru cavab: A
+
+4. Xilasedici dairələrin ümumi çəkisi nə qədər olur?
+A) 0.5 kq
+B) 2.5 kq
+C) 15 kq
+D) 10 kq
+Doğru cavab: B
+
+5. Xilasedici dairələr necə işarələnirlər?
+A) Gəmi kapitanının ev ünvanı ilə
+B) Gəminin adı və qeydiyyat limanı ilə
+C) Sərnişin biletinin qiyməti ilə
+D) İMO rəhbərinin adı və soyadı ilə
+Doğru cavab: B
+
+6. Xilasedici dairələr gəmidə harada yerləşdirilir?
+A) Bütün açıq göyərtələrdə
+B) Yalnız gəmi mətbəxində
+C) Yalnız kapitan kayutasının içində
+D) Yalnız maşın şöbəsinin karterində
+Doğru cavab: A
+
+7. Xilasedici gödəkçələr nə ilə komplektləşdirilir?
+A) İşıq lampası, batareya və fitverən ilə
+B) Yalnız radioötürücü antenna ilə
+C) Yalnız güzgü və kompas ilə
+D) Yalnız balıq tutmaq üçün tilov ilə
+Doğru cavab: A
+
+8. Xilasedici salda olarkən işarəverici raketdən və falşveyerdən necə istifadə edilməlidir?
+A) Gündüz saat 12:00-da avtomatik
+B) Hər 5 dəqiqədən bir fasiləsiz olaraq
+C) Xilasedici salın komandirinin göstərişinə əsasən
+D) İstənilən sərnişinin öz istəyinə əsasən
+Doğru cavab: C
+
+9. Üç davamlı uzun səs siqnalı nəyi bildirir?
+A) Dumanlı havada lövbər siqnalını
+B) Yanğın həyəcan siqnalını
+C) Gəmini tərk etmə siqnalını
+D) Suda adam həyəcan siqnalını
+Doğru cavab: D
+
+10. Gəmini tərk etmə komandasını kim verir?
+A) Sərnişinlərin böyüyü
+B) Kapitan
+C) Növbətçi matros
+D) Gəmi aşpazı
+Doğru cavab: B
+
+11. Həyəcan cədvəli harada yerləşməlidir?
+A) Yalnız maşın şöbəsinin altında
+B) Kapitan körpüsündə və heyətin yerləşdiyi yerdə
+C) Liman müfəttişliyinin ofisində
+D) Yalnız gəminin avar valında
+Doğru cavab: B
+
+12. Xilasedici dairələr hansı maksimal hündürlükdən suya atılmağa davamlı olmalıdır?
+A) 5 metr
+B) 2 metr
+C) 100 metr
+D) 30 metr
+Doğru cavab: D
+
+13. Xilasedici jileti geyinib suya hansı maksimal hündürlükdən tullanmaq olar?
+A) 20 metr
+B) 4.5 metr
+C) 50 metr
+D) 1 metr
+Doğru cavab: B
+
+14. Xilasedici jilet hansı maksimal müddət ərzində kənardan kömək olmadan geyinilməlidir?
+A) 60 saniyə
+B) 5 saniyə
+C) 30 dəqiqə
+D) 10 dəqiqə
+Doğru cavab: A
+
+15. Hidrotermokostyum ilə suya hansı maksimal hündürlükdən tullanmaq olar?
+A) 15 metr
+B) 4.5 metr
+C) 30 metr
+D) 1 metr
+Doğru cavab: B
+
+16. Hidrotermokostyum hansı maksimal müddət ərzində kənardan kömək olmadan geyinilməlidir?
+A) 30 dəqiqə
+B) 15 dəqiqə
+C) 2 dəqiqə
+D) 10 saniyə
+Doğru cavab: C
+
+17. Hidrotermokostyum hansı müddət ərzində huşunu itirmiş insanın ağzını su üzərində olan vəziyyətə çevirməlidir?
+A) 1 dəqiqə ərzində
+B) Çevirmir
+C) 5 saniyə ərzində
+D) 10 dəqiqə ərzində
+Doğru cavab: B
+
+18. Su xaricində olan xilasedici qayığın mühərriki maksimum hansı vaxt ərzində işləyə bilər?
+A) 24 saat
+B) Su xaricində mühərrik işlədilə bilməz
+C) 5 dəqiqə
+D) 60 dəqiqə
+Doğru cavab: C
+
+19. Xilasedici qayıqla tam yanacaq ehtiyyatı neçə saat və hansı sürətlə manevr etməyə imkan yaradır?
+A) 20 uzel ilə azı 2 saat
+B) 2 uzel ilə azı 5 saat
+C) 6 uzel ilə azı 24 saat
+D) 12 uzel ilə azı 48 saat
+Doğru cavab: C
+
+20. Hava təchizatı ilə təmin olunmuş tam örtülü qayıqlar azı hansı müddətə nəfəs almağa şərait yaradır?
+A) 10 dəqiqə
+B) 24 saat
+C) 60 dəqiqə
+D) 2 dəqiqə
+Doğru cavab: A
+
+21. Oda davamlı xilasedici qayıqların minimal mühafizə müddəti nə qədərdir?
+A) 60 dəqiqə
+B) 24 saat
+C) 1 dəqiqə
+D) 8 dəqiqə
+Doğru cavab: D
+
+22. Kolektiv xilasedici vasitədə olarkən dəniz xəstəliyinə karşı dərmanı kim qəbul etməlidir?
+A) Yalnız gəmi kapitanı
+B) Heç kim dərman qəbul etməməlidir
+C) Hamı
+D) Yalnız mühərrik ustası
+Doğru cavab: C
+
+23. Bütün həyəcan siqnalları üzrə məşqlər hansı vaxtda keçirilir?
+A) Sutkanın istənilən vaxtı
+B) Yalnız gecə saat 03:00-da
+C) Yalnız gəmi limanda olanda
+D) Yalnız günortadan sonra saat 12:00-da
+Doğru cavab: A
+
+24. Gəmidə hansı yerlərdə siqaret çəkməyə icazə verilir?
+A) Bütün qapalı hissələrdə
+B) Yalnız kayutlarda
+C) Əmrlə təyin olunmuş yerlərdə
+D) Yalnız yanacaq tanklarının üstündə
+Doğru cavab: C
+
+25. Xilasedici salda (qayıqda) UQD radiostansiya “MAYDAY” fəlakət siqnalını ötürmək üçün hansı kanala köklənməlidir?
+A) UQD kanal 16
+B) UQD kanal 70
+C) UQD kanal 6
+D) UQD kanal 12
+Doğru cavab: A
+
+26. Xilasedici qayıqda balıq tutmaq üçün avadanlıq varmı?
+A) Bəli
+B) Yalnız buzqıran gəmilərdə var
+C) Xeyr
+D) Yalnız hərbi gəmilərdə var
+Doğru cavab: A
+
+27. Gəmidə həyəcan siqnalları üzrə məşqlər əən geci hansı müddətdə keçirilir?
+A) Yalnız gəmi satılarkən
+B) İldə bir dəfədən az olmayaraq
+C) Məşq keçirilməsi tələb olunmur
+D) 10 ildən bir
+Doğru cavab: B
+
+28. Ümumgəmi həyəcan siqnalı necə verilir?
+A) 3 uzun
+B) 7 qısa 1 uzun
+C) Fasiləsiz 24 saat
+D) 1 qısa 1 uzun
+Doğru cavab: B
+
+29. Yanğınla mübarizə üçün vasitələr harada olmalıdır?
+A) Anbarın dərinliyində
+B) Xüsusi olaraq ayrılmış yerdə
+C) Kapitan kayutunda
+D) İstənilən yerdə
+Doğru cavab: B
+
+30. Gəmidə təhlükəli yüklə doldurulmuş bölməyə girdikdə hansı təhlükəsizlik qaydalarına riayət etmək lazımdır?
+A) Bölməyə dərhal açıq alovla daxil olmaq
+B) Bölmənin qapılarını bağlayıb gözləmək
+C) Hava-qaz mühitini yoxlayaraq daxil olmaq
+D) Elektrik işıqlarını tam söndürmək
+Doğru cavab: C
+

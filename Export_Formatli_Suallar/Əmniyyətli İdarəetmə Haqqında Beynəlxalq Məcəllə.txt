@@ -1,0 +1,476 @@
+1. Əmniyyətli İdarəetmə haqqında Beynəlxalq Məcəlləyə nə aiddir?
+A) Liman rüsumlarının hesablanması qaydaları
+B) Ətraf mühitinin qorunması
+C) Yük konteynerlərinin icarə şərtləri
+D) Yalnız gəmilərin sürət həddinin tənzimlənməsi
+Doğru cavab: B
+
+2. Əmniyyətli İdarəetmə haqqında Beynəlxalq Məcəllənin məqsədləri nədir?
+A) Tərsanələrdə gəmi tikintisi qiymətlərinin müəyyən edilməsidir
+B) Gəmi heyətinin əmək haqlarının tənzimlənməsidir
+C) Gəmilərin təhlükəsiz istismarına aid beynəlxalq standartın yaradılmasıdır
+D) Dəniz daşımalarında gəlirlərin artırılmasıdır
+Doğru cavab: C
+
+3. ƏİBM hansı gəmilərə şamil olunur?
+A) Yalnız hərbi gəmilərə və dövlət katerlərinə
+B) Yalnız avadansız balıqçı qayıqlarına
+C) Qross tonnajı 500 və yuxarı olan gəmilərə
+D) Qross tonnajı 100-dən aşağı olan bütün gəmilərə
+Doğru cavab: C
+
+4. ƏİBM hansı gəmilərə şamil olunur?
+A) Yalnız mühərriksiz barjalara
+B) Yalnız uzunluğu 10 metrdən az olan gəmilərə
+C) Bütün sərnişin daşıyan gəmilərə şamil olunur
+D) Yalnız taxta gövdəli yelkənli gəmilərə
+Doğru cavab: C
+
+5. SOLAS 74/78 Beynəlxalq Konvensiyasının IX Fəslinin 2-ci Qaydasına əsasən, ƏİBM hansı gəmilərə şamil olunur?
+A) Yalnız dənizdə idman yaxtalarına
+B) Yalnız yedək katerlərinə
+C) Yalnız elmi-tədqiqat sualtı aparatlarına
+D) Bütün sərnişin daşıyan gəmilərə
+Doğru cavab: D
+
+6. Beynəlxalq Dəniz Təşkilatı (İMO) nədir?
+A) Yalnız dəniz quldurluğu ilə mübarizə aparan hərbi ittifaqdır
+B) Liman kranlarını istehsal edən holdinqdir
+C) Beynəlxalq dənizçilik standartları yaradan təşkilatdır
+D) Gəmi yanacağı satan kommersiya şirkətidir
+Doğru cavab: C
+
+7. Gəmidə qəza baş versə və batma təhdidi yaransa, birinci növbədə nəyi qorumaq lazımdır?
+A) İnsan həyatını
+B) Karterdəki işlənmiş yağı
+C) Gəmi ambarındakı yükləri
+D) Gəmi dokumentasiyasını
+Doğru cavab: A
+
+8. Gəmidə qəza baş versə və batma təhdidi yaransa, ikinci növbədə nəyi qorumaq lazımdır?
+A) Ətraf mühiti
+B) Buxar qazanını
+C) Gəmi kapitanının şəxsi əşyalarını
+D) Seyr fənərlərini
+Doğru cavab: A
+
+9. Gəmidə qəza baş versə və batma təhdidi yaransa, üçüncü növbədə nəyi qorumaq lazımdır?
+A) Liman binalarını qorumaq lazımdır
+B) Gəmini qorumaq lazımdır
+C) Sahil fənərlərini qorumaq lazımdır
+D) Radioötürücü antenanı qorumaq lazımdır
+Doğru cavab: B
+
+10. Gəmidə qəza baş versə və batma təhdidi yaransa, dördüncü növbədə nəyi qorumaq lazımdır?
+A) Ətrafda olan balıqları qorumaq lazımdır
+B) Liman yedəklərini qorumaq lazımdır
+C) Gəmidə olan yükləri qorumaq lazımdır
+D) Tərsanə kranlarını qorumaq lazımdır
+Doğru cavab: C
+
+11. ƏİBM neçə hissədən, neçə bölmədən ibarətdir?
+A) 3 hissə 12 bölmə
+B) 1 hissə 10 bölmə
+C) 4 hissə 20 bölmə
+D) 2 hissə 16 bölmə
+Doğru cavab: D
+
+12. ƏİBM Şirkətin qarşısında hansı tələblər qoyur?
+A) Gəmi kapitanı hər gün İMO-ya şəxsi hesabat göndərməlidir
+B) Bütün heyət üzvləri ən azı 3 xarici dil bilməlidir
+C) Gəmi hər ay tərsanədə doka qaldırılmalıdır
+D) Gəmidə olan kapitan və gəmi heyəti tələb olunan biliklərə sahib olmalıdır
+Doğru cavab: D
+
+13. ƏİBM baxımından aşağıdakı tələblərdən hansı düzgündür?
+A) Dənizçilər hər 2 ildən bir diplomlarını yenidən imtahansız dəyişməlidir
+B) Gəmi kapitanı gəmi mühərrikini şəxsən söküb yığmalıdır
+C) Bütün gəmi heyəti tibbi baxımdan sağlam olmalıdır
+D) Gəmi heyəti yalnız sahildə yaşamaq hüququna malikdir
+Doğru cavab: C
+
+14. ƏİBM baxımından ƏİS nə etməlidir?
+A) ƏİS kapitanın bütün qərarlarını ləğv etməlidir
+B) ƏİS gəmi naviqasiyasını avtomatik idarə etməlidir
+C) ƏİS kapitanın səlahiyyətlərini təsdiq etməlidir
+D) ƏİS yalnız Maliyyə Nazirliyinə hesabat verməlidir
+Doğru cavab: C
+
+15. Gəmi kapitanı ƏİS üzrə təhlili ildə necə dəfə aparmalıdır?
+A) Azı ildə 1 dəfə
+B) Ayda 10 dəfə
+C) Təhlil aparılması tələb olunmur
+D) Hər 5 ildən bir
+Doğru cavab: A
+
+16. Hansı tarixdə BDT A.741(18) qətnaməsini qəbul edib?
+A) 15.05.15
+B) 04.11.93
+C) 12.12.05
+D) 01.01.80
+Doğru cavab: B
+
+17. Hansı tarixdə BDT SOLAS 74/78 Beynəlxalq Konvensiyasının tərkibinə IX Fəsil əlavə edib?
+A) 01.01.00
+B) 24.05.94
+C) 20.08.10
+D) 10.10.85
+Doğru cavab: B
+
+18. SOLAS 74/78 Beynəlxalq Konvensiyasının IX Fəsli necə adlanır?
+A) Təhlükəsizliyin idarə edilməsi
+B) Radiotəhlükəsizlik və GMDSS
+C) Yüklərin yerləşdirilməsi və bərkidilməsi
+D) Yanğınsöndürmə vasitələri
+Doğru cavab: A
+
+19. Bayraq Administrasiyası tərəfindən hansı yoxlamalar keçirilir?
+A) Yalnız heyətin tibbi yoxlamaları
+B) Xarici yoxlamalar
+C) Şirkətdaxili gündəlik auditlər
+D) Yalnız maliyyə-mühasibat yoxlamaları
+Doğru cavab: B
+
+20. Şirkət tərəfindən hansı yoxlamalar keçirilir?
+A) Bayraq dövlətinin rəsmi beynəlxalq sertifikatlaşdırması
+B) Gömrük və sərhəd keçid yoxlamaları
+C) Liman Müfəttişliyi (PSC) tərəfindən rəsmi yoxlama
+D) Daxili yoxlamalar
+Doğru cavab: D
+
+21. Audit üçün əsas tələb nədir?
+A) Audit keçirən şəxs yoxladığı işindən asılı olmamalıdır
+B) Audit yalnız gəmi lövbərdə olarkən aparılmalıdır
+C) Auditor yoxladığı obyektdə şəxsən cavabdeh mexanik olmalıdır
+D) Audit yalnız gecə vaxtı həyata keçirilməlidir
+Doğru cavab: A
+
+22. ƏİBM məqsədlərini göstərin:
+A) Gəmilərdə bütün maşın növbələri ləğv edilməlidir
+B) Hər bir dənizçilik şirkətində ƏİS yaradılmalıdır
+C) Yalnız xarici ölkə vətəndaşları gəmiyə işə götürülməlidir
+D) Bütün gəmilərin dizel mühərrikləri elektrik mühərriki ilə əvəz edilməlidir
+Doğru cavab: B
+
+23. ƏİBM məqsədlərini göstərin:
+A) Gəmi kapitanının məsuliyyəti tam ləğv olunsun
+B) Limanlarda yükboşaltma vaxtı maksimum azaldılsın
+C) Dənizdə insanlarla bədbəxt hadisələrin qarşısı alınsın
+D) Gəmilərin sürəti 2 dəfə artırılsın
+Doğru cavab: C
+
+24. ƏİBM əsas tələbini göstərin:
+A) Bütün dənizçilər üçün pulsuz təlim mərkəzləri tikilsin
+B) Əmniyyətli İdarəetmə Sistemi (ƏİS) yaradılsın
+C) Gəmilər üçün yeni naviqasiya fənərləri istehsal olunsun
+D) Gəmilərdə yanacaq sərfi 50% azaldılsın
+Doğru cavab: B
+
+25. ƏİBM əsas tələbini göstərin:
+A) Gəmilərdə bütün yanğın balonları çıxarılsın
+B) Gəmiçilik şirkətində Təyin Olunmuş Şəxs vəzifəsi yaradılsın
+C) Bütün naviqasiya xəritələri kağız formadan çıxarılsın
+D) Hər gəmidə ən azı 3 baş mexanik vəzifəsi yaradılsın
+Doğru cavab: B
+
+26. Aşağıdakılardan hansı ƏİBM tələblərinə aid deyil?
+A) Şirkətin təhlükəsizlik siyasətinin işlənib hazırlanması
+B) Kapitanın səlahiyyət və məsuliyyətinin müəyyən edilməsi
+C) Gəmilərdə Mühafizənin İdarəedilməsi haqqında Sistem yaradılması
+D) Fövqəladə hallara hazırlaşma prosedurlarının yaradılması
+Doğru cavab: C
+
+27. ƏİS hansı təşkilatların tövsiyələrinə riayət etmir?
+A) Təsnifat Cəmiyyətləri (Recognized Organizations)
+B) Beynəlxalq Dəniz Təşkilatı (İMO)
+C) Bayraq Administrasiyaları
+D) Sahil Mühafizə Xidməti
+Doğru cavab: D
+
+28. ƏİS-in fəaliyyətinə təsir göstərə biləcək təşkilatı göstərin
+A) Dəniz Turizmi Agentliyi
+B) Quru Yük Gəmi Sahiblərinin Beynəlxalq Assosiasiyası (INTERCARGO)
+C) Liman Tikinti Şirkətləri İttifaqı
+D) Dəniz Aviasiyası Assosiasiyası
+Doğru cavab: B
+
+29. ƏİBM üçün Rəhbər Sənəd hesab olunmayanı göstərin
+A) MARPOL-73/78 Beynəlxalq Konvensiyası
+B) STCW-78/95 Beynəlxalq Konvensiyası
+C) Təsnifat Cəmiyyətinin Əsasnaməsi
+D) SOLAS-74 Beynəlxalq Konvensiyası
+Doğru cavab: C
+
+30. ƏİS nədir?
+A) Gəmilərin Yanğından Mühafizə Sistemidir
+B) Gəmilərin Avtomatik İdentifikasiya Sistemidir (AIS)
+C) Qlobal Dəniz Fəlakət və Əmniyyətli Rabitə Sistemidir (GMDSS)
+D) Əmniyyətli İdarəetmə Sistemidir (Safety Management System)
+Doğru cavab: D
+
+31. ƏİS hansı tələblərə uyğun olmalıdır?
+A) Yalnız liman yükləmə operatorlarının tələblərinə
+B) Yalnız gəmi sahibinin şəxsi arzularına
+C) Yalnız gəmi aşpazının tərtib etdiyi menyuya
+D) Təhlükəsizlik və ətraf mühitə aid bütün beynəlxalq standartlara
+Doğru cavab: D
+
+32. ƏİBM-in 2-ci bölməsinin tələbləri əsasında şirkətdə hansı təhlükəsizlik siyasətinin yaradılması tələb olunur?
+A) Şirkətin kadrların ixtisarı siyasəti
+B) Şirkətin təhlükəsizlik və ətraf mühitinin çirkləndirilməməsi siyasəti
+C) Şirkətin reklam və marketinq siyasəti
+D) Şirkətin kommersiya qiymət siyasəti
+Doğru cavab: B
+
+33. Gəmiyə verilən Əmniyyətli İdarəetmə Şəhadətnaməsi hansı halda öz qüvvəsini itirir?
+A) Gəmi heyəti dəyişdirildikdə
+B) Böyük uyğunsuzluq sübut olunarsa
+C) Gəmi başqa limana lövbər saldıqda
+D) Gəmi rəngləndikdə və ya təmizləndikdə
+Doğru cavab: B
+
+34. Şirkətə verilən uyğunluq haqqında sənəd hansı halda öz qüvvəsini itirir?
+A) Böyük uyğunsuzluq sübut olunarsa
+B) Şirkətin telefon nömrəsi dəyişdikdə
+C) Gəmi mühərrikinin yağı dəyişdirildikdə
+D) Şirkətin veb-saytı yeniləndikdə
+Doğru cavab: A
+
+35. Gəmiyə verilən Əmniyyətli İdarəetmə Şəhadətnaməsi hansı halda öz qüvvəsini itirir?
+A) Gəmi kapitanı istirahətə çıxdıqda
+B) Uyğunluq haqqında sənəd ləğv olunarsa
+C) Gəmidə seyr fənərləri yandırıldıqda
+D) Gəmi 10 uzel sürətlə üzdükdə
+Doğru cavab: B
+
+36. Uyğunluq haqqında sənəd (DOC) kimə verilir?
+A) Yük sahibinə
+B) Şəxsən gəmi kapitanına
+C) Liman agentinə
+D) Şirkətə
+Doğru cavab: D
+
+37. Əmniyyətli İdarəetmə üzrə Şəhadətnamə (SMC) kimə verilir?
+A) Gəmiçilik şirkətinin mərkəzi ofisinə
+B) Gəmiyə
+C) Liman müfəttişliyinə
+D) Təsnifat cəmiyyətinin baş direktoruna
+Doğru cavab: B
+
+38. Müvəqqəti uyğunluq sənədi (Interim DOC) hansı müddətə verilə bilər?
+A) 10 il
+B) 5 il
+C) 12 ay
+D) 1 ay
+Doğru cavab: C
+
+39. Müvəqqəti Əmniyyətli İdarəetmə üzrə Şəhadətnamə (Interim SMC) hansı müddətə verilə bilər?
+A) 6 ay
+B) 3 il
+C) 24 ay
+D) 5 il
+Doğru cavab: A
+
+40. ƏİBM əsas hansı nöqsanlara diqqət yetirir?
+A) Gəmi korpusunun rənginin solması
+B) Karter yağının azca çirklənməsi
+C) Uyğunsuzluq və böyük uyğunsuzluq
+D) Kayıtlarda orfoqrafik xətalar
+Doğru cavab: C
+
+41. Uyğunsuzluq nədir?
+A) ƏİBM-in tələblərinə uyğun olmayan nöqsan
+B) Küləyin istiqamətinin dəyişməsi
+C) Gəminin nəzərdə tutulan vaxtdan 5 dəqiqə gecikməsi
+D) Gəmi kütləsinin 1 ton artıq olması
+Doğru cavab: A
+
+42. Böyük uyğunsuzluq nədir?
+A) Gəmi aşpazının yeməyi gecikdirməsi
+B) Qəzaya səbəb ola biləcək təkrar olunan uyğunsuzluq
+C) Seyr fənərinin şüşəsinin çirklənməsi
+D) Gəmi lövbərinin paslanması
+Doğru cavab: B
+
+43. ƏİBM neçə bölmədən ibarətdir?
+A) 8 bölmə
+B) 30 bölmə
+C) 24 bölmə
+D) 16 bölmə
+Doğru cavab: D
+
+44. ƏİBM neçə hissədən ibarətdir?
+A) 2 hissə
+B) 10 hissə
+C) 5 hissə
+D) 1 hissə
+Doğru cavab: A
+
+45. ƏİBM-in A hissəsi necə adlanır?
+A) Texniki xidmət
+B) Həyata keçirmə
+C) Şəhadətləndirmə və yoxlama
+D) Maliyyə auditi
+Doğru cavab: B
+
+46. ƏİBM-in B hissəsi necə adlanır?
+A) Həyata keçirmə
+B) Şəhadətləndirmə və yoxlama
+C) Dənizçilərin diplomlaşdırılması
+D) Qəzaların araşdırılması
+Doğru cavab: B
+
+47. SOLAS 74/78 Beynəlxalq Konvensiyanın hansı fəsli ƏİBM-ə aiddir?
+A) XII Fəsil
+B) III Fəsil
+C) V Fəsil
+D) IX Fəsil
+Doğru cavab: D
+
+48. Əmniyyətli İdarəetmə Sisteminin (ƏİS) Normativ Hüquq bazasına hansı aid deyil?
+A) MARPOL-73/78 Beynəlxalq Konvensiyası
+B) Yer Kürəsinin Nizamnaməsi (The Earth Charter 2000)
+C) STCW-78/95 Beynəlxalq Konvensiyası
+D) SOLAS-74 Beynəlxalq Konvensiyası
+Doğru cavab: B
+
+49. Əmniyyətli İdarəetmə Sisteminin (ƏİS) normativ hüquq bazasına hansı aid deyil?
+A) MARPOL-73/78 Beynəlxalq Konvensiyası
+B) SOLAS-74 Beynəlxalq Konvensiyası
+C) Hərbi Gəmilərin Nizamnaməsi
+D) Dənizdə Yük Nişanı haqqında Beynəlxalq Konvensiya
+Doğru cavab: C
+
+50. Gəmidə hansı adda sənəd olmur?
+A) Tibbi arayış haqqında Şəhadətnamə
+B) Gəmi maşın jurnalı
+C) Uyğunluq haqqında Sənədin surəti (DOC)
+D) Əmniyyətli İdarəetmə Şəhadətnaməsi (SMC)
+Doğru cavab: A
+
+51. SOLAS 74/78 neçə fəsildən ibarətdir?
+A) 14 Fəsil
+B) 5 Fəsil
+C) 8 Fəsil
+D) 20 Fəsil
+Doğru cavab: A
+
+52. MARPOL 73/78-in neçə əlavəsi var?
+A) 3 Əlavə
+B) 10 Əlavə
+C) 12 Əlavə
+D) 6 Əlavə
+Doğru cavab: D
+
+53. “Dənizçilərin hazırlanmasına, onlara diplom verilməsinə və növbə çəkməyə dair” Beynəlxalq Məcəllə (STCW – 78/95, DHDNÇ BM – 78/95) hansı sahəyə aid olan sənəddir?
+A) Gəmi mühərriklərinin təmir qiymətlərini müəyyən edən sənəddir
+B) Liman kranlarının texniki parametrlərini göstərən kataloqdur
+C) Gəmilərin satışı və icarəsi haqqında müqavilədir
+D) Dənizçilərin sertifikatlaşdırılması, diplomların verilməsi haqqında qaydaları təyin edən Məcəllədir
+Doğru cavab: D
+
+54. ƏİS təlimat qovluğuna aşağıdakılardan hansılar aid deyil?
+A) Gəmi heyətinin vəzifə təlimatları
+B) Fövqəladə hallarda fəaliyyət prosedurları
+C) Gəmiyə xidmət və texniki qulluq prosedurları
+D) Mühafizə haqqında təlimat
+Doğru cavab: D
+
+55. Şirkətə ƏİBM üzrə verilən Müvəqqəti Uyğunluq Sənədi hansı müddətə verilir?
+A) 5 il
+B) 6 ay
+C) 12 ay
+D) 30 gün
+Doğru cavab: C
+
+56. Təyin olunmuş Şəxsin (DPA) əsas vəzifəsi nədir?
+A) Gəmilərin satışı üçün alıcı tapmaq
+B) Gəmilərə ərzaq və içməli su almaq
+C) Liman rüsumlarını ödəmək
+D) Şirkətin gəmilərində təhlükəsizlik və ətraf mühitin çirkləndirilməməsini təmin etmək
+Doğru cavab: D
+
+57. Hansı təşkilat Uyğunluq haqqında sənədi (DOC) verə bilər?
+A) Bayraq Administrasiyası
+B) Liman Polisi
+C) Şəhər Bələdiyyəsi
+D) Dəniz Turizm Şirkəti
+Doğru cavab: A
+
+58. Təyin Olunmuş Şəxs (DPA) kim ola bilər?
+A) Xarici ölkənin konsulu
+B) Təcrübəçi matros
+C) Liman gömrük müfəttişi
+D) Gəmiçilik şirkətinin işçisi
+Doğru cavab: D
+
+59. Təyin Olunmuş Şəxs hansılara görə cavabdehdir?
+A) Yalnız gəmi restoranının gəlirlərinə görə
+B) Yalnız liman işçilərinin əmək haqqına görə
+C) Yalnız gəmi biletlərinin satışına görə
+D) Şirkətin gəmilərində təhlükəsizliyə və ətraf mühitin çirkləndirilməməsinə görə cavabdehdir
+Doğru cavab: D
+
+60. Təyin olunmuş şəxsin vəzifələrinə aid olmayanları göstərin:
+A) Rəhbərliklə birbaşa əlaqə saxlamaq
+B) Təhlükəsizlik monitorinqini təmin etmək
+C) Gəmi heyətini cəzalandırmaq
+D) Gəmilərin resurslarla təminatına nezaret etmək
+Doğru cavab: C
+
+61. Şirkətin siyasətləri ƏİS-də öz əksini tapır?
+A) Yalnız liman müfəttişinin tələbi ilə
+B) Yalnız gəmi kapitanının istəyi ilə
+C) Xeyr, qadağandır
+D) Bəli
+Doğru cavab: D
+
+62. Gəmidə ƏİS üzrə təlimat qovluğunda nə yazılıb?
+A) Gəmi aşpazının reseptləri
+B) Gəmi heyətinin vəzifələri
+C) Dəniz balıqlarının növləri
+D) Liman şəhərlərinin mənzərələri
+Doğru cavab: B
+
+63. ƏİBM baxımından şirkətdə hansı növ yoxlamalar olur?
+A) Yalnız gizli polislə yoxlamalar
+B) Daxili və xarici yoxlamalar
+C) Yalnız şifahi sorğu yoxlamaları
+D) Yalnız vergi müfəttişliyi yoxlamaları
+Doğru cavab: B
+
+64. ƏİBM baxımdan gəmidə hansı xarici yoxlama keçirilmir?
+A) Aralıq yoxlama (Intermediate audit)
+B) Yenidən sertifikatlaşdırma yoxlaması (Renewal audit)
+C) İlkin yoxlama (Initial audit)
+D) İllik yoxlama
+Doğru cavab: D
+
+65. Xarici yoxlama üçün tələb olunan vaxta gəmi limana gəlib çatmır. Xarici yoxalamanı maksimum hansı müddətə yubatmaq olar?
+A) 1 ay
+B) 3 ay
+C) 6 ay
+D) 1 il
+Doğru cavab: B
+
+66. İlkin yoxlamanı keçirmək üçün hansılar olmalıdır?
+A) Gəmi mühərriki sökülməlidir
+B) Bütün heyət dəyişdirilməlidir
+C) Gəmi boyanmalıdır
+D) Azı bir dəfə daxili yoxlama keçirilməlidir
+Doğru cavab: D
+
+67. Gəmi kapitanının məsuliyyətini kim təyin edir?
+A) Cərəyan şiddəti nominal dəyəri
+B) Növbətçi matroslar
+C) Şirkət və rəhbər sənədlər
+D) Liman agentinin köməkçisi
+Doğru cavab: C
+
+68. Gəminin növbə xidmətinin düzgün təşkil olunması üçün bu xidmət gəmidə:
+A) Yalnız limanda təyin olunur
+B) 24 saat ərzində təyin olunur
+C) Yalnız fırtına zamanı təyin olunur
+D) Yalnız gündüz saatlarında təyin olunur
+Doğru cavab: B
+

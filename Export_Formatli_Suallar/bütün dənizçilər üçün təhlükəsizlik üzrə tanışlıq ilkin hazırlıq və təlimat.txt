@@ -1,0 +1,609 @@
+Dəniz suyunu içmək olarmı?
+A) Yalnız qaynadıldıqdan sonra
+B) Qəti olmaz
+C) Yalnız şirin su ilə qarışdırıldıqda
+D) Bəli, istənilən miqdarda
+Doğru cavab: B
+
+Əgər salın hər iki girişi bağlı olarsa, orada rahat nəfəs almaq olarmı?
+A) Yalnız ilk 1 saat ərzində
+B) Xeyr, boğulma yaradar
+C) Yalnız ventilyasiya dəliyi açıldıqda
+D) Bəli
+Doğru cavab: D
+
+Üç davamlı uzun səs siqnalı nəyi bildirir?
+A) Yanğın həyəcanını
+B) Dumanlı havada xəbərdarlığı
+C) Suda adam həyəcan siqnalını
+D) Gəmini tərk etmək siqnalını
+Doğru cavab: C
+
+Yük gəmilərində təlim siqnalları üzrə məşqlər hansı tezliklə keçirilir?
+A) Ayda 1 dəfə
+B) 3 ayda 1 dəfə
+C) İldə 1 dəfə
+D) Həftədə 1 dəfə
+Doğru cavab: A
+
+Gəmini tərk etmək komandasını kim verir?
+A) Baş mexanik
+B) Baş başçı (Senior Officer)
+C) Qəza partiyasının rəhbəri
+D) Kapitan
+Doğru cavab: D
+
+Gəmi hərəkətdə olarkən lyallardakı suyun səviyyəsi hansı müddətdən bir ölçülür?
+A) Hər növbədə bir dəfə
+B) Yalnız fırtınalı havada
+C) Gün ərzində 1 dəfə
+D) Saatda bir dəfə
+Doğru cavab: A
+
+Həyəcan cədvəli harada yerləşməlidir?
+A) Yalnız maşın şöbəsində
+B) Kapitan körpüsündə və heyətin yerləşdiyi yerlərdə
+C) Yalnız yeməkxanada
+D) Yalnız kayutlarda
+Doğru cavab: B
+
+Yanğının karbon qazı ilə söndürülməsinin effektivliyi nə ilə bağlıdır?
+A) Suyun vurulması ilə
+B) Temperaturun kəskin düşməsi ilə
+C) Qazın təzyiqinin yüksək olması ilə
+D) Bölmənin qapalı olması ilə
+Doğru cavab: D
+
+Hansı bölmələrdə köpüklə stasionar yanğınsöndürmə sistemi istifadə olunur?
+A) Qazanxanalarda və maye yanacaq qurğularında
+B) Filge (bilge) quyularında
+C) Kapitan körpüsündə və kayutlarda
+D) Yük ambarlarında və ballast çənlərində
+Doğru cavab: A
+
+Xilasedici vasitələrdə olarkən pirotexniki vasitələrin istifadəsinin icazəsini kim verir?
+A) Xilasetmə vasitəsinin komandiri
+B) Ən təcrübəli dənizçi
+C) Növbətçi matros
+D) İstənilən dənizçi
+Doğru cavab: A
+
+Salda insanın hərarətinin qəflətən kəskin düşməsinə nə səbəb olur?
+A) Külək
+B) Qida çatışmazlığı
+C) Qorxu
+D) Günəş şüaları
+Doğru cavab: A
+
+Hansı tip xilasedici vasitə fərdi sayılmır?
+A) 2
+B) 1
+C) 3
+D) 5
+Doğru cavab: D
+
+Xilasedici dairələrin üzərində nə qeyd olunur?
+A) Kapitanın adı və soyadı
+B) Gəminin suya oturumu və uzunluğu
+C) Heyətin sayı
+D) Qeydiyyat limanı, gəminin adı
+Doğru cavab: D
+
+Xilasedici dairələr hansı maksimal hündürlükdən suya atılmağa davamlı olmalıdır?
+A) 20 m
+B) 30 m
+C) 10 m
+D) 45 m
+Doğru cavab: B
+
+Xilasedici canlığı hansı müddət ərzində huşunu itirmiş insanın ağzını su üzərində olan vəziyyətə çevirməlidir?
+A) 30 saniyə
+B) 10 saniyə
+C) 5 saniyə
+D) 1 dəqiqə
+Doğru cavab: C
+
+Xilasedici canlığı hansı maksimal müddət ərzində kənardan kömək olmadan geyinilməlidir?
+A) 2 dəqiqə
+B) 3 dəqiqə
+C) 60 saniyə
+D) 30 saniyə
+Doğru cavab: C
+
+Hidrotermokostyum ilə suya hansı maksimal hündürlükdən tullanmaq olar?
+A) 2 m
+B) 10 m
+C) 15 m
+D) 4,5 m
+Doğru cavab: D
+
+Hidrotermokostyumun odadavamlılıq müddəti nə qədərdir?
+A) 2 saniyə
+B) 1 saniyə
+C) 10 saniyə
+D) 5 saniyə
+Doğru cavab: A
+
+Hidrotermokostyum hansı müddət ərzində kömək olmadan geyinilməlidir?
+A) 5 dəqiqə
+B) 3 dəqiqə
+C) 2 dəqiqə
+D) 1 dəqiqə
+Doğru cavab: C
+
+Hidrotermokostyum hansı müddət ərzində huşunu itirmiş insanın ağzını su üzərində olan vəziyyətə çevirməlidir?
+A) Çevirmir
+B) 1 dəqiqə ərzində
+C) 10 saniyə ərzində
+D) 5 saniyə ərzində
+Doğru cavab: A
+
+Su xaricində olan xilasedici qayığın mühərrikini maksimum hansı vaxt ərzində işlətmək olar?
+A) 1 dəqiqə
+B) 5 dəqiqə
+C) 10 dəqiqə
+D) 15 dəqiqə
+Doğru cavab: B
+
+Xilasedici qayığın tam yanacaq ehtiyatı neçə saat və hansı sürətlə manevr etməyə imkan yaradır?
+A) 8 uzel ilə azı 48 saat
+B) 6 uzel ilə azı 24 saat
+C) 4 uzel ilə azı 12 saat
+D) 10 uzel ilə azı 6 saat
+Doğru cavab: B
+
+Növbətçi qayığın tam yanacaq ehtiyatı neçə saat və hansı sürətlə manevr etməyə imkan yaradır?
+A) 8 uzel ilə azı 24 saat
+B) 4 uzel ilə azı 2 saat
+C) 6 uzel ilə azı 4 saat
+D) 6 uzel ilə azı 12 saat
+Doğru cavab: C
+
+Xilasedici salın daxilində və xaricində yerləşən işıq qoşulduqdan sonra hansı müddət ərzində sizi işıqla təmin etməlidir?
+A) Azı 48 saat
+B) Azı 24 saat
+C) Azı 12 saat
+D) Azı 6 saat
+Doğru cavab: C
+
+Hava təchizatı ilə təmin olunmuş tam örtülü qayıqlar azı hansı müddət ərzində nəfəs almağa şərait yaradır?
+A) 20 dəqiqə
+B) 30 dəqiqə
+C) 5 dəqiqə
+D) 10 dəqiqə
+Doğru cavab: D
+
+Odadavamlı xilasedici qayıqların minimal mühafizə müddəti nə qədərdir?
+A) 20 dəqiqə
+B) 15 dəqiqə
+C) 8 dəqiqə
+D) 5 dəqiqə
+Doğru cavab: C
+
+Xilasedici qayığın mühərriki ən azı hansı müddətdən bir yoxlanılmalıdır?
+A) Həftədə bir dəfə, 3 dəqiqə ərzində
+B) Ayda bir dəfə, 10 dəqiqə ərzində
+C) İldə bir dəfə
+D) Hər gün 1 dəqiqə
+Doğru cavab: A
+
+Növbətçi qayıq heyəti ilə birlikdə neçə dəqiqəyə tir ilə suya salınmalıdır?
+A) 10 dəqiqə
+B) 2 dəqiqə
+C) 5 dəqiqə
+D) 15 dəqiqə
+Doğru cavab: C
+
+İşə salınma kəndirini kəsmək üçün istifadə edilən suda batmayan bıçaq xilasedici salda harada yerləşir?
+A) Salın alt hissəsində
+B) Təchizat çantasının daxilində
+C) Salın cibində
+D) Örtüyün üstündə
+Doğru cavab: D
+
+Kollektiv xilasedici vasitədə olarkən dəniz xəstəliyinə qarşı dərmanı kim qəbul etməlidir?
+A) Hamı
+B) Yalnız ürəyi bulananlar
+C) Yalnız kapitanın icazəsi olanlar
+D) Yalnız uşaqlar və qadınlar
+Doğru cavab: A
+
+Bütün həyəcan siqnalları üzrə məşqlər hansı vaxtda keçirilir?
+A) Yalnız növbə dəyişməsi zamanı
+B) Sutkanın istənilən vaxtı
+C) Yalnız gündüz vaxtı
+D) Yalnız limanda olarkən
+Doğru cavab: B
+
+Açılan metal dayağı harada istifadə olunur?
+A) Qayıqların endirilməsində
+B) Dəliklərin tutulmasında
+C) Lövbər vurularkən
+D) Trapların bərkidilməsində
+Doğru cavab: B
+
+D sinif yanğınlar nə ilə söndürülür?
+A) Su ilə
+B) Köpüklə
+C) Karbon qazı ilə
+D) Xüsusi tərkibli tozla
+Doğru cavab: D
+
+Örtük (koşma) nə üçün istifadə edilir?
+A) Otağı qızdırmaq üçün
+B) Suyun qarşısını almaq üçün
+C) Yanan səthi havadan izolyasiya etmək üçün
+D) Yaralının üstünü örtmək üçün
+Doğru cavab: C
+
+Gəmidə hansı yerlərdə siqaret çəkməyə icazə verilir?
+A) İsti bölmələrin hamısında
+B) Əmrlə təyin olunmuş yerlərdə
+C) Yalnız göyərtədə
+D) Kayutlarda
+Doğru cavab: B
+
+Kəşfiyyat qrupu üçün hava nəfəsalma aparatlarının hesabatını kim aparır?
+A) Baş mexanik
+B) Növbətçi matros
+C) Hər dənizçi özü
+D) Qəza partiyasının rəhbəri
+Doğru cavab: D
+
+Nəfəsalma aparatları hansı qazla doldurulur?
+A) Azot
+B) Karbon qazı
+C) Sıxılmış hava
+D) Saf oksigen
+Doğru cavab: C
+
+C sinif yanğınların baş verməsi nə ilə əlaqədardır?
+A) Maye maddələr ilə
+B) Yanan qazlar ilə
+C) Bərk maddələr ilə
+D) Yanar metallar ilə
+Doğru cavab: B
+
+Gəminin hansı bölməsindəki yanğın daha təhlükəlidir?
+A) Göyərtədə
+B) Maşın bölməsindəki yanğın
+C) Yaşayış kayutlarında
+D) Yeməkxanada
+Doğru cavab: B
+
+Xilasedici salda (qayıqda) UQD radiostansiya "MAYDAY" fəlakət siqnalını ötürmək üçün hansı kanala köklənməlidir?
+A) 16
+B) 70
+C) 12
+D) 06
+Doğru cavab: A
+
+Ümumi gəmi həyəcan siqnalı necə verilir?
+A) 1 uzun 7 qısa
+B) 3 uzun səs
+C) Fasiləsiz zəng
+D) 7 qısa 1 uzun
+Doğru cavab: D
+
+Köpüklə hansı yanğınları söndürmək olmaz? Yanar metalları; Bərk maddələri; Maye maddələri; Gərginlik altında olan elektrik avadanlıqlarını
+A) 1, 2
+B) 2, 3
+C) 3, 4
+D) 1, 4
+Doğru cavab: D
+
+Yanğın nədir?
+A) İşıq saçan reaksiya
+B) Maddi ziyan vuran nəzarətsiz yanmadır
+C) Qazların alovlanması
+D) İstilik ayıran hər bir kimyəvi reaksiya
+Doğru cavab: B
+
+Yanğınla mübarizə üçün vasitələr harada olmalıdır?
+A) Kapitan kayutasında
+B) Xüsusi olaraq ayrılmış yerdə
+C) Yalnız maşın şöbəsində
+D) Filgedə
+Doğru cavab: B
+
+Yanmış bölmə və ərazini, yanğın təhlükəsinin aradan qaldırılmasından sonra hansı müddət ərzində izləmək lazımdır?
+A) 2 saat
+B) 12 saat
+C) 6 saat
+D) 24 saat
+Doğru cavab: B
+
+Yanğın zamanı hansı faktorlar insan həyatına təhlükə yarada bilər? Köpük; Yanğından ayrılan qazlar; Yüksək temperatur; Zəif tüstü.
+A) 2, 3
+B) 1, 4
+C) 3, 4
+D) 1, 2
+Doğru cavab: A
+
+Yanğını kəşfiyyat edərkən hansı təhlükəsizlik qaydalarına riayət etmək lazımdır?
+A) Bölməyə maskasız daxil olmaq
+B) Su vurmadan içəri girmək
+C) Qapıları və pəncərələri ehtiyatla açmaq
+D) Qapıları sürətlə gen açmaq
+Doğru cavab: C
+
+Nəfəsalma aparatlarında hansı yoxlamalar aparılır?
+A) Həftəlik və aylıq
+B) Yalnız illik yoxlama
+C) Gündəlik və döyüş yoxlaması
+D) İki ildən bir
+Doğru cavab: C
+
+Yanğına qarşı mübarizə əməliyyatlarında nə ən mühüm əhəmiyyət kəsb edir?
+A) Gəminin yükünün xilas edilməsi
+B) Yanğınsöndürmə avadanlıqlarının qorunması
+C) İnsanların xilasedilməsi
+D) Gəmi sənədlərinin qorunması
+Doğru cavab: C
+
+Gəmidə təhlükəli yüklə doldurulmuş bölməyə girdikdə hansı təhlükəsizlik qaydalarına riayət etmək lazımdır?
+A) Hava-qaz mühitini yoxlayaraq daxil olmaq
+B) Yalnız respiratorla daxil olmaq
+C) Bölmənin qapılarını bağlamaq
+D) İşıqları yandıraraq dərhal daxil olmaq
+Doğru cavab: A
+
+Gəmidə SOLAS-74 Beynəlxalq Konvensiyasının tələblərinə uyğun olaraq yanğınsöndürmə ləvazimatları dəstinin minimal sayı nə qədər olmalıdır?
+A) 2 dəst
+B) 1 dəst
+C) 6 dəst
+D) 4 dəst
+Doğru cavab: A
+
+Yanğına qarşı su sisteminə nə daxildir?
+A) Köpük balonu və generator
+B) Yalnız su çəni
+C) Boru xətti, yanğın nasosu, yanğın şlanqı və lüləsi
+D) Sprinkler sistemi və hidrantlar
+Doğru cavab: C
+
+Yanğın zamanı yığılmış su nə vaxt xaric edilir?
+A) Yanğın tam söndürüldükdən sonra
+B) Yanğının söndürülməsi ilə eyni vaxtda
+C) Yalnız kapitan dəyişdikdə
+D) Gəmi limana çatdıqda
+Doğru cavab: B
+
+Yanğının baş verməsi üçün havada oksigenin miqdarı minimum nə qədər olmalıdır?
+A) 21%
+B) 16%
+C) 10%
+D) 25%
+Doğru cavab: B
+
+Açıq göyərtədə baş verən yanğınlar nə ilə söndürülür?
+A) Yalnız karbon qazı ilə
+B) Yalnız tozla
+C) Köpük və su ilə eyni vaxtda
+D) Qum ilə
+Doğru cavab: C
+
+Dəm qazının hansı konsentrasiyası insan üçün ölüm təhlükəsi yaradır?
+A) 5.0%
+B) 1.1%
+C) 0.5%
+D) 0.1%
+Doğru cavab: B
+
+Yanğın həyəcan siqnalı verilərkən hansı fəaliyyətləri yerinə yetirmək lazımdır?
+A) Fəaliyyəti davam etdirmək
+B) İşi dayandırmaq, qapıları örtüb toplantı məntəqəsinə getmək və növbəti əmri gözləmək
+C) Dərhal xilasedici salı suya buraxmaq
+D) Kayuta qaçıb gözləmək
+Doğru cavab: B
+
+Bu faktorlardan hansı yanğının yaranmasına səbəb olmur?
+A) Açıq alov
+B) Qısaqapanma
+C) Yanar material
+D) Karbon qazı
+Doğru cavab: D
+
+Ətraf mühitin temperaturu 800 °C olduqda, istiliyə davamlı kostyumun mühafizə təsiri hansı müddəti təşkil etməlidir?
+A) 3 dəqiqə
+B) 5 dəqiqə
+C) 10 dəqiqə
+D) 1 dəqiqə
+Doğru cavab: A
+
+Yanğınsöndürmədə hansı qazdan istifadə edilir?
+A) Oksigen
+B) Karbon qazı
+C) Propan
+D) Metan
+Doğru cavab: B
+
+Zərərli mühitə daxil olarkən nəfəsalma aparatındakı balonda (200 bar) minimum təzyiq nə qədər olmalıdır?
+A) 100% (200 bar)
+B) 80% (160 bar)
+C) 90% (180 bar)
+D) 50% (100 bar)
+Doğru cavab: B
+
+Qəza nəfəsalma aparatının (EEBD) hava ehtiyatı ən azı nə qədər olmalıdır?
+A) 15 dəqiqə
+B) 10 dəqiqə
+C) 5 dəqiqə
+D) 20 dəqiqə
+Doğru cavab: B
+
+Qəza nəfəsalma aparatının (EEBD) minimal sayı nə qədər olmalıdır?
+A) Hər göyərtədə 1 dəst
+B) Hər kayutda 1 dəst
+C) Hər göyərtədə 2 dəst
+D) Bütün gəmi üçün 2 dəst
+Doğru cavab: C
+
+Şlanq xətti hansı şəkildə yığılır?
+A) 1 qat və 2 qat
+B) Düyün şəklində
+C) Yalnız bir qat
+D) Yalnız spiralla
+Doğru cavab: A
+
+Xilasedici dairənin çəkisi azı nə qədər olur?
+A) 4.0 kq
+B) 5.0 kq
+C) 1.5 kq
+D) 2.5 kq
+Doğru cavab: D
+
+Xilasedici salın suda istifadəsi hər bir hava şəraitində azı neçə sutka nəzərdə tutulub?
+A) 15 sutka
+B) 60 sutka
+C) 30 sutka
+D) 10 sutka
+Doğru cavab: C
+
+Atılan tipli sala sudan birinci kim daxil olur?
+A) Gəmi kapitanı
+B) Güclü insan
+C) Qadınlar və uşaqlar
+D) Xəstələr
+Doğru cavab: B
+
+Xilasedici salda radiolokasiya cavabvericisi işə salındıqdan sonra RLS-nın gözləmə rejimi hansı müddət ərzində işlək vəziyyətdə olur?
+A) 4 gün
+B) 10 gün
+C) 24 saat
+D) 48 saat
+Doğru cavab: A
+
+Xilasedici salın konteyneri hansı hündürlükdən suya atılmağa davamlı olmalıdır?
+A) 30 m
+B) 25 m
+C) Azı 18 m
+D) 10 m
+Doğru cavab: C
+
+Xilasedici qayıqların və salların təchizatında dəniz xəstəliyinə qarşı hər bir insan üçün hansı miqdarda dərman dozası ayrılır?
+A) 6 ədəd
+B) 2 ədəd
+C) 4 ədəd
+D) 10 ədəd
+Doğru cavab: A
+
+Neçə vaxtdan bir xilasedici salın təchizatı yoxlanılmalıdır?
+A) Bir ildən bir
+B) 6 aydan bir
+C) 2 ildən bir
+D) 5 ildən bir
+Doğru cavab: A
+
+Partlayıcı maddələr nə ilə söndürülür?
+A) Köpüklə
+B) Karbon qazı ilə
+C) Su ilə
+D) Qumla
+Doğru cavab: C
+
+Sıxıcı sarğılar əsasən nə vaxt işlədilir?
+A) Qanaxmaları dayandırmaq üçün
+B) Sümük sınanda
+C) Oynaq çıxanda
+D) Yanıqlar zamanı
+Doğru cavab: A
+
+Xarici qanaxmanın hansı qorxuludur?
+A) Venoz
+B) Arterial
+C) Kapilyar
+D) Qarışıq
+Doğru cavab: B
+
+Daxili qanaxmanın əlamətləri hansılardır?
+A) Yüksək hərarət və qızartı
+B) Güclü öskürək və asqırma
+C) Arterial təzyiqin aşağı enməsi, halsızlıq, ürəyin tez-tez döyünməsi, soyuq tər
+D) Şişkinlik və göyərmə
+Doğru cavab: C
+
+Güclü burun qanaxmasında ilk tibbi yardım necə göstərilir?
+A) Başı arxaya qatlamaqla
+B) İsti kompres qoymaqla
+C) Uzadıb ayaqlarını qaldırmaqla
+D) Buruna tampon qoymaqla
+Doğru cavab: D
+
+İsti vurma nəticəsində ilk yardım necə göstərilir?
+A) Spirtlə sürtməklə
+B) İsti çay verməklə
+C) Soyuq su ilə vannaya salmaqla
+D) Bərk sarımaqla
+Doğru cavab: C
+
+3 %-li hidrogen peroksid nə üçün işlədilir?
+A) Yaraları yumaq üçün dezinfeksiyaedici maddə
+B) Ağrıkəsici kimi
+C) Yanıqları yağlamaq üçün
+D) Gözləri yumaq üçün
+Doğru cavab: A
+
+Karbon qazı ilə zəhərlənmədə ilk yardım necə göstərilir?
+A) Su içizdirməklə
+B) Süni qidalandırmaqla
+C) Qaranlıq otaqda uzatmaqla
+D) Təmiz havaya çıxartmaqla
+Doğru cavab: D
+
+Dəniz xəstəliyinin şikayətləri hansılardır?
+A) Dəridə səpkilər
+B) Oynaq ağrıları
+C) İştahsızlıq, zəiflik, baş gicəllənmə, ürək bulanma və qusma
+D) Yüksək qızdırma və öskürək
+Doğru cavab: C
+
+Normal arterial təzyiq neçə olmalıdır?
+A) 150/100
+B) 100/60
+C) 140/90
+D) 120/80
+Doğru cavab: D
+
+Xilasedici vasitələr hansı təsirlərə davam gətirmirlər?
+A) Neft ləkələrinə
+B) Zərbəyə və normadan çox hündürlükdən suya atılmaya
+C) Günəş işığına
+D) Dəniz suyuna və soyuğa
+Doğru cavab: B
+
+Hansı kollektiv xilasedici vasitənin gəminin bir bortundan digər bortuna daşınması mümkündür?
+A) Filge nasosunun
+B) Xilasedici salın konteynerini
+C) Növbətçi qayığın
+D) Tam örtülü qayığın
+Doğru cavab: B
+
+Fərdi xilasedici vasitələr hansı məqsədlər üçün istifadə olunur?
+A) Yalnız üzməyi öyrənmək üçün
+B) İnsanın suyun üzərində saxlanması, sudan və soyuqdan təcrid olunması üçün
+C) Gəmini təmizləmək üçün
+D) Qəza işlərini görmək üçün
+Doğru cavab: B
+
+SOLAS-74 nədir?
+A) Yükdaşıma qaydaları
+B) Dənizdə İnsan Həyatının Mühafizəsinə dair Beynəlxalq Konvensiyadır
+C) Əmək müqavilələri konvensiyası
+D) Dəniz çirklənməsinin qarşısını alan konvensiya
+Doğru cavab: B
+
+"Bütün dənizçilər üçün təhlükəsizlik üzrə tanışlıq, ilkin hazırlıq və təlimat" kursu "Dənizçilərin hazırlanmasına onlara diplom verilməsinə və növbə çəkməyə dair" (STCW / DHDNÇ-78) Beynəlxalq Konvensiyanın hansı bölmələrinə əsasən keçirilir?
+A) A-I/2
+B) A-II/1
+C) A-VI/1-1, 2, 3, 4
+D) B-III/5
+Doğru cavab: C
+
+Xilasedici salda neçə ədəd və hansı növdə pirotexnika vasitələr olmalıdır?
+A) 2 falşfeyer, 2 paraşütlü raket
+B) 4 falşfeyer, 6 paraşütlü raket, 1 tüstü şaşkası
+C) 12 paraşütlü raket
+D) 6 falşfeyer, 4 paraşütlü raket, 2 tüstü şaşkası
+Doğru cavab: D
+

@@ -1,0 +1,352 @@
+Nominal gücün 45-50% aşmayan yüklə işləyən dizel generatorların paralel rejimdə işləməsinin müddəti, davamiyyəti nə qədər olmalıdır?
+A) Minimal
+B) 4 saatdan çox olmamaq şərtilə
+C) Maksimal (şəbəkənin tələbatına uyğun)
+D) Yanacaq sərfi sabitləşənə qədər
+Doğru cavab: A
+
+Mürəkkəb şəraitlərdə üzmə zamanı valogeneratorların və ya utilizasiyalı turbogeneratorların istifadə edilməsinə icazə verilirmi?
+A) Heç bir halda icazə verilmir, yalnız dizel-generatorlar istifadə edilməlidir
+B) Sükan maşınının elektrik təchizatı tamamilə valogeneratordan asılı olduqda icazə verilir
+C) Energetik qurğunun istismar rejimlərində qəflətən yarana bilən əhəmiyyətli dəyişikliklər zamanı elektrik enerjisinin fasiləsiz təchizatı təmin edildiyi hallarda icazə verilir
+D) Yalnız baş mühərrik nominal dövrlər sayında işlədikdə icazə verilir
+Doğru cavab: C
+
+Cərəyanla qurutma üsulundan hansı izolyasiya müqavimətinə malik olan elektrik maşınlarında tətbiq edilməsinə icazə verilir?
+A) 0.1 Mom-dan az olmayanda
+B) 5 Mom və daha yuxarı olduqda
+C) Yalnız qısaqapanma sınaqlarından sonra
+D) 0.5 Mom-dan çox olduqda
+Doğru cavab: A
+
+Akkumulyator batareyalarının texniki baxışlarının dövrilik (vaxtaşırılıq) müddətlərini qeyd edin?
+A) Hər növbə təhvili zamanı
+B) Bir ayda bir dəfədən az olmayaraq
+C) Altı ayda bir dəfə
+D) İldə iki dəfə, mövsüm dəyişkənliyində
+Doğru cavab: B
+
+Sinxron generatorların işə salınma və paralel iş rejiminə keçirilmə qaydaları nə ilə müəyyən edilir?
+A) Baş mühərrikin gücü və faza gərginliyi ilə
+B) Köməkçi qazanların buxar istehsalı gücü ilə
+C) Mövcud olan sinxronlaşdırma vasitələri və elektrik stansiyasının avtomatlaşdırma səviyyəsi ilə
+D) Gəminin baş mexanikinin şəxsi təlimatı ilə
+Doğru cavab: C
+
+Gəminin kəmiyyət mərkəzinin müəyyən edilməsini qeyd edin (center buoyancy)?
+A) Yük ambarlarının həndəsi mərkəzlərinin cəmi
+B) Suyun gəmiyə təsir edən hidrostatik təyziq qüvvələrinin əlavə nöqtəsi
+C) Gəminin ağırlıq mərkəzinin su səthi ilə kəsişdiyi nöqtə
+D) Gəminin burun və qıç hissələrinin kəsişmə kütlə mərkəzi
+Doğru cavab: B
+
+Gəminin batmazlıq qabiliyyətini təmin edən əsas konstruktiv tədbirləri qeyd edin.
+A) Balast tanklarının daimi olaraq təmiz su ilə doldurulması
+B) Köməkçi mexanizmlərin ikiqat dibdə yerləşdirilməsi
+C) Gəmi gövdəsinin sukeçirməyən arakəsmələrə, göyərtələrə və platformalara bölüşdürülməsi
+D) Baş mühərrikin ağırlıq mərkəzinin aşağı salınması
+Doğru cavab: C
+
+Gəminin üzmə ehtiyatının müəyyən edilməsini qeyd edin:
+A) Gəminin tam yüklü halda suya oturduğu dərinlik
+B) Balast sularının ümumi həcminin gəmi həcminə nisbəti
+C) Kiloqramla ifadə olunan xalis yük tutumu
+D) Gəmi gövdəsinin su keçirməzliyinin həcmi yük vater xəttindən yüksəkdə
+Doğru cavab: D
+
+DHDNÇ-78 Beynəlxalq Konvensiyasının tələblərinə əsasən baş mühərriklərinin gücü 750 kVt-dan 3000 kVt-dək olan 2-ci mexanik vəzifəsində işləmək üçün tələb edilən gəmidə minimal iş stajını qeyd edin.
+A) 6 ay
+B) 36 ay
+C) 24 ay
+D) 12 ay
+Doğru cavab: D
+
+Dənizdə baş vermiş hadisələrin baxılması qaydalarını hansı beynəlxalq sənəd nizamlayır (müəyyən edir)?
+A) “Dənizdə gəmilərin toqquşmasının qarşısının alınması haqqında” Beynəlxalq Qaydalar (COLREG)
+B) “Dəniz qəza hadisələrinin və anlaşılmazlıqlarının araşdırılmasına dair” Beynəlxalq Məcəllə
+C) “Beynəlxalq Dənizçilik Təşkilatının (IMO) Ümumi Qaydaları”
+D) “Gəmilərin ölçülməsi haqqında” Beynəlxalq Konvensiya
+Doğru cavab: B
+
+Dənizin gəmilərdən çirkləndirilməsi qaydalarını hansı beynəlxalq sənəd nizamlayır (müəyyən edir)?
+A) “Dənizdə İnsan Həyatının Mühafizəsinə dair” Beynəlxalq Konvensiya (SOLAS)
+B) “Dənizçilərin Hazırlanması, Diplomlandırılması və Növbə çəkməsi haqqında” Konvensiya
+C) “Dənizin gəmilərdən çirkləndirilməsinin qarşısının alınması haqqında” 1973-cü il tarixli Beynəlxalq Konvensiya
+D) “Gəmilərin Yük markası haqqında” Beynəlxalq Konvensiya
+Doğru cavab: C
+
+DHDNÇ Beynəlxalq Konvensiyasının tələblərinə əsasən gəmidə hansı vəzifələr “idarəetmə” səviyyəsi üzrə məsuliyyətə malikdirlər?
+A) Gəmi kapitanı, 2-ci mexanik, baş mexanik, kapitanın baş köməkçisi
+B) Bütün naviqasiya zabitləri və bosman
+C) Növbətçi mexanik, elektrik mexaniki və motorçular
+D) Yalnız gəmi kapitanı və baş mexanik
+Doğru cavab: A
+
+MARPOL-73/78 BK-nın V Əlavəsi gəmidə aşağıda qeyd edilənlərdən hansını tələb edir?
+A) Yanacaq sərfi jurnalı, Xüsusi təhlükəli yüklərin qeydiyyatı, Emissiya kontrol cədvəli
+B) Zibillərin idarə edilməsi planı, Zibillərlə əməliyyatlara dair təşviqat plakatları, Zibillərlə əməliyyatların qeydiyyat jurnalı
+C) Yük əməliyyatları planı, Gəmi maşın jurnalı, Dəniz mühitinin qorunması təlimatı
+D) Neft əməliyyatları jurnalı, Çirkab suların qeydiyyatı, Ballast sularının idarə edilməsi planı
+Doğru cavab: B
+
+MARPOL-73/78 BK-nın V Əlavəsində qeyd edilmiş “Xüsusi rayonlarda” gəmilərdən bortdan kənara, dənizə aşağıda qeyd edilənlərdən hansılarının tullanması qadağan edilmişdir?
+A) Yalnız təhlükəli kimyəvi qalıqlar və xam neft çöküntüləri
+B) Separasiya materialları, əsgi, metal, şüşə və plasmasdan hazırlanan məmulatlar, qablaşdırma materialları;
+C) Yalnız qida tullantıları və heyvan cəmdəkləri
+D) Heç bir tullantının atılmasına məhdudiyyət yoxdur
+Doğru cavab: B
+
+MARPOL-73/78 BK-nın V Əlavəsində qeyd edilmiş “Xüsusi rayonlarda” sahilboyu üzgüçülükdə, sahildən 12 mildən az olmayan məsafədə olduqda, gəmilərdən bortdan kənara aşağıda qeyd edilənlərdən hansıların tullanmasına icazə verilir?
+A) Təmizlənmiş neft suları və sürtkü yağları
+B) Diri balıq, xırdalanmış qida məhsulları
+C) Yalnız plastik butulkalar və kağız tullantıları
+D) Sənaye tullantıları və taxta qırıntıları
+Doğru cavab: B
+
+Yanğın təhlükəsizliyinə dair təlimatlandırmanın həyata keçirilməsi hansı şəkildə qeydiyyata alınır?
+A) Təlimatlandırma haqqında jurnalda müvafiq qeydlərin həyata keçirilməsi
+B) Şəxsi gəmiçilik kitabçasında qeyd olunması ilə
+C) Baş mühərrikin formulyarında imzalanması ilə
+D) Yalnız kapitanın şifahi təsdiqi ilə
+Doğru cavab: A
+
+Gəminin yanğınsöndürmə sisteminin tərkibinə daxildir?
+A) Balast nasosları, foseptik tankları, separasiya klapanları
+B) İqlimləndirmə sisteminin havalandırma şaxtaları və freon kompressorları
+C) Sükan maşını hidravlikası, baş mühərrik soyutma boruları
+D) Boru xəttləri, Yanğınsöndürmə nasosları, Sistemin kran və klapanları, Yanğınsöndürmə qoltuqları və yanğınsöndürmə lülələri
+Doğru cavab: D
+
+İdarəetmə postlarının otaqlarında saxlanması qadağandır:
+A) Qazların, yanacaq materiallarının, oddan təhlükəli, tez yanan materialların
+B) İstismar jurnallarının və qeydiyyat kitablarının
+C) Rabitə avadanlıqlarının və naviqasiya xəritələrinin
+D) Qəza işıqlandırma fənərlərinin və xilasedici jiletlərin
+Doğru cavab: A
+
+Gəminin texniki istismarına dair gəminin baş mexanikinin göstərişləri və sərəncamları hansı növ heyət üzvləri üçün mütləqdir?
+A) Yalnız elektrik mexanikləri üçün
+B) Gəminin bütün növ heyət üzvləri üçün
+C) Yalnız mühərrik motoristləri və təmizləyicilər üçün
+D) Yalnız maşın şöbəsinin heyəti üçün
+Doğru cavab: B
+
+Gəmi jurnallarının qeydiyyatını kim aparır?
+A) Gəmi sahibi şirkətin nümayəndəsi
+B) Gəmi kapitanı
+C) Gəminin baş mexaniki
+D) Dəniz limanının kapitanı
+Doğru cavab: D
+
+P = const sabit təyziqdə keçən bərabərçəkili proses necə adlanır?
+A) Adiabatik proses
+B) İzoxora prosesi
+C) İzotermik proses
+D) İzobara prosesi
+Doğru cavab: D
+
+Nizam-intizam qaydalarına zidd olan hərəkətlərə yol vermiş nəqliyyat donanması işçilərinə hansı növ intizam tənbehləri tətbiq edilə bilər?
+A) Yalnız şifahi xəbərdarlıq və növbədən uzaqlaşdırma
+B) Məzəmmət, töhmət, işdən azad edilmə, şiddətli töhmət, xidmətə uyğunsuzluq haqqında xəbərdarlıq etmə
+C) Cərimə, maaş kəsilməsi, məzuniyyətin ləğvi
+D) Rütbənin aşağı salınması və gəmidən deportasiya
+Doğru cavab: B
+
+Gəminin limanda və ya lövbərdə durduğu zaman maşın jurnalında hansı qeydlər aparılır?
+A) Gəminin güc qurğularının hazırlığı, baş mühərriklərin iş rejimi, gəminin durduğu limanın adı, baş mühərriklərin işə salınma və işdən çıxarılma saatları, köməkçi mühərriklərin işi barədə məlumatlar
+B) Yük əməliyyatlarının gedişatı və liman işçilərinin adları
+C) Yalnız yanacaq sərfi və balast əməliyyatları barədə məlumatlar
+D) Naviqasiya xəbərdarlıqları və hava proqnozu məlumatları
+Doğru cavab: A
+
+Biləvasitə mühərrikin silindirinin daxilində mexaniki işi nə yerinə yetirir?
+A) Dirsəkli valın fırlanma ətaləti
+B) Porşen halqalarının sürtünmə qüvvəsi
+C) Turboüfləyicinin yaratdığı hava təzyiqi
+D) Yanmış yanacağın istilik enerjisi
+Doğru cavab: D
+
+Mühərrikin Silindir Porşen Qrupuna yanma kamerasında yaranan hansı qüvvələr təsir edir?
+A) Mərkəzdənqaçma və kariolez qüvvələri
+B) Yalnız elektromaqnit qüvvələr
+C) Hidrodinamik və aerodinamik qüvvələr
+D) Termiki və mexaniki qüvvələr
+Doğru cavab: D
+
+Şəkillərdə iki növ Yüksək Təyziqli Yanacaq nasosları (YTYN/ТНВД) göstərilmişdir. Zolotnik tipli YTYN-nu göstərin?
+1.
+2.
+A) 1
+B) 2
+C) Hər ikisi
+D) Heç biri
+Doğru cavab: A
+
+İsti ehtiyat rejimində olmayan köməkçi dizel generatorların yüklənməsini qeyd edin?
+A) Ən azı 1 saat boş rejimdə işlədikdən sonra
+B) 3-5 dəqiqə qızdırılmaqla
+C) Dövrələr sayı nominala çatan kimi 100% yüklə
+D) İşə salınan kimi dərhal tam yüklənməklə
+Doğru cavab: B
+
+Addımı tənzimlənən vint (ATV/ВРШ) qurğusuna işləyən dizel mühərrikini sınaq məqsədi ilə işə salarkən pərin addımını hansı vəziyyətdə qoymaq lazımdır?
+A) “50% irəli” vəziyyətinə
+B) “Tam irəli” vəziyyətinə
+C) “0” vəziyyətinə
+D) “Tam geri” vəziyyətinə
+Doğru cavab: C
+
+Dəniz registeri ilə yanğına qarşı xüsusi konstruktiv tədbirlərin qəbul edilməsi haqqında razılaşma olmadığı təqdirdə dəniz gəmilərində yanma temperaturu neçə dərəcədən az olan yanacağın istifadəsi qadağan edilmişdir?
+A) 100-dən az olan
+B) 45-dən az olan
+C) 80-dən az olan
+D) 60-dan az olan
+Doğru cavab: D
+
+Baş mühərrikin qəza zamanı qoruyucu sisteminin işdən ayrılması kim tərəfindən və hansı hallarda yerinə yetirilə bilər (və ya işdən ayrılmasına göstəriş verilə bilər)?
+A) İstənilən şvartov əməliyyatları zamanı yalnız baş mexanik tərəfindən
+B) Gəminin qəzaya uğraması təhlükəsi mövcud olduğu təqdirdə kapitanın növbə köməkçisi və kapitanın növbə köməkçisinin göstərişi ilə növbətçi mexanik tərəfindən
+C) Yalnız liman nəzarətçisi tələb etdikdə kapitan tərəfindən
+D) Mühərrikdə yağ təzyiqi düşdükdə avtomatik olaraq siqnalizasiya sistemi tərəfindən
+Doğru cavab: B
+
+Xüsusi qızdırılma sistemi olmadığı təqdirdə yağı hansı üsul ilə qızdırmaq olar?
+A) Buxar borularını birbaşa karterə yönləndirməklə
+B) Karterin xaricdən açıq alovla qızdırılması ilə
+C) Yağın mühərrikin yağlama sisteminə vurub yenidən xaric etməklə (məcburi yağvurma ilə)
+D) Yağa qaynar su qarışdırmaqla
+Doğru cavab: C
+
+Mühərrikin gücünün bərabər olaraq silindirlər üzrə paylanılması nə ilə təmin edillir?
+A) Tsikllıq yanacağın verilməsi ilə
+B) Valın fırlanma tezliyinin dəyişdirilməsi ilə
+C) Soyutma suyunun temperaturunun tənzimlənməsi ilə
+D) Sübutedici klapanların bağlanması ilə
+Doğru cavab: A
+
+Məsafədən idarəetmə sisteminin işinin yoxlanılması məqsədi ilə bütün mövcud olan idarəetmə postlarından turboaqreqatın sınaq üçün işə salınmasını nə zaman yerinə yetirmək lazımdır?
+A) Mühərrik soyuq vəziyyətdə olduqda
+B) Turbinin qızdırılması üzrə işlər başa çatdıqdan sonra
+C) Yük əməliyyatları tam gücü ilə davam edərkən
+D) Gəmi limana çatdıqdan dərhal sonra
+Doğru cavab: B
+
+Silindirlər üzrə yanmanın maksimal təzyiqinin buraxıla bilən qiymətini qeyd edin (istismar təlimatında digər kənara çıxmalar göstərilmədiyi təqdirdə).
+A) 10,5
+B) 1,5
+C) 7,0
+D) 3,5
+Doğru cavab: D
+
+Termotənzimləyici vintelin (TTV/ТРВ) borucuqlarının və daxiledici ştuser daxil olmaqla TTV/ТРВ-dən sonrakı armaturlarının üst səthinin donması nəyin əlaməti olduğunu qeyd edin.
+A) Sistemin yağla dolmasının əlamətidir
+B) Normal işin əlamətidir
+C) Freon sızmasının əlamətidir
+D) Kompressorun həddən artıq isinməsinin əlamətidir
+Doğru cavab: B
+
+Gəminin heyət üzvləri sırasından kim səfər zamanı sükan qurğusunu və onun idarəetmə mexanizmini vaxtaşırı olaraq yoxlamalıdır?
+A) növbətçi mexanik
+B) bosman
+C) elektrik mexaniki
+D) motorçu
+Doğru cavab: A
+
+Kapitan körpüsündən gəmi baş dizel mühərrikinin və addımı tənzimlənən pər qurğusunun (ATP/ВРШ) məsafədən idarə edilməsi zamanı manevr və revers etməyə hazırlıq üzrə işlər kimin tərəfindən yerinə yetirilir?
+A) gəminin elektrik mexaniki tərəfindən
+B) baş mexanik tərəfindən
+C) növbətçi motorist tərəfindən
+D) kapitanın növbə köməkçisi tərəfindən
+Doğru cavab: D
+
+Baş mühərriklərin (ATP/ВРШ) idarə edilməsi kapitan körpüsünə verildiyi bütün hallarda hansı qurğunun yoxlayaraq istismara hazır vəziyyətə gətirilməsi lazımdır?
+A) Köməkçi qazanların avtomatikasını əllə idarəetməyə keçirmək lazımdır.
+B) Sükan maşınlarının hər iki nasosunu eyni anda dayandırmaq lazımdır.
+C) Yanacaq separasiya sistemini söndürmək lazımdır.
+D) Maşın teleqrafını yoxlayaraq istismara hazır vəziyyətə gətirmək lazımdır.
+Doğru cavab: D
+
+Sutka ərzində gəminin növbətçi mexanikinə neçə saat ərzində istirahət saatı verilməlidir?
+A) Ən azı 6 saat
+B) Ən azı 14 saat
+C) Ən azı (minimum) 10 saat
+D) Ən azı 8 saat
+Doğru cavab: C
+
+Vaxtaşırı olaraq növbəsiz istismar edilən maşın bölmələrinə növbətçi mexaniki neçə saatdan bir gəlməlidir?
+A) İstənilən anda çağırışa əsasən
+B) Hər 2 saatdan bir
+C) Gündə cəmi 1 dəfə
+D) Yalnız növbə təhvili zamanı
+Doğru cavab: A
+
+Növbətçi mexanik növbədən kimin icazəsi olmadan uzaqlaşa (ayrıla) bilməz?
+A) Növbətçi naviqatorun və sükançının icazəsi olmadan
+B) Yalnız gəmi kapitanının icazəsi olmadan
+C) Motoristin və elektrik mexanikinin razılığı olmadan
+D) Gəminin baş mexanikinin və ya onun gəmidə olmadığı hallarda isə ikinci mexanikin müvafiq icazəsi olmadan növbəçəkmə yerini tərk edə bilməz;
+Doğru cavab: D
+
+“Sea – chest” sözünün düzgün olan tərcüməsini qeyd edin.
+A) Kinqston
+B) Dalğaqıran
+C) Trüm qapağı
+D) Dəniz sandığı
+Doğru cavab: A
+
+“Idle – running” sözünün düzgün olan tərcüməsini qeyd edin.
+A) Qəza dayanması
+B) Boş – boşuna iş
+C) Sınaq gedişi
+D) Tam güclə iş
+Doğru cavab: B
+
+“Frequency” sözünün düzgün tərcüməsini qeyd edin.
+A) Tezlik
+B) Gərginlik
+C) Cərəyan
+D) Müqavimət
+Doğru cavab: A
+
+“Crankcase” sözünün düzgün tərcüməsini qeyd edin.
+A) Silindr qapağı
+B) Karter
+C) Porşen barmağı
+D) Dirsəkli val
+Doğru cavab: B
+
+“Camshaft” sözünün düzgün tərcüməsini qeyd edin.
+A) Dirsəkli val
+B) İtələyici
+C) Şatun
+D) Paylayıcı val
+Doğru cavab: D
+
+Birləşmə üsulunu üç bucaqlı birləşmədən ulduzvari birləşməyə dəyişdikdə dəyişən cərəyanlı asinxron elektrik mühərrikinin gücü necə dəyişər?
+A) Dəyişməz qalar
+B) 3 dəfə artar
+C) 3 dəfə azalar
+D) 1.5 dəfə artar
+Doğru cavab: C
+
+Cərəyan göstəricisinin əvəzinə nəzarət elektrik lampasından istifadə etmək olarmı?
+A) Qəza vəziyyətində 2 saatlıq icazə verilir
+B) Qətiyyən olmaz
+C) Yalnız aşağı gərginlik dövrələrində olar
+D) Elektrik mexanikinin nəzarəti altında olar
+Doğru cavab: B
+
+Dəyişən cərəyanın ölçülməsi məqsədi ilə ampermetrlərin ölçmə həddlərinin genişləndirilməsi üçün istifadə edilir:
+A) Cərəyan ölçmə transformatoru
+B) Şuntlayıcı müqavimət
+C) Tezlik çeviricisi
+D) Potensiometr
+Doğru cavab: A
+
+Gəmi elektrik maşınlarının xidmət müddəti adətən nə ilə ölçülür?
+A) Rulmanların dəyişdirilmə intervalı ilə
+B) Kollektorun aşınma dərəcəsi ilə
+C) İzolyasiyanın istismar müddəti ilə
+D) Stator sarğılarının sayı ilə
+Doğru cavab: C
+

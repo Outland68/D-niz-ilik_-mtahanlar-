@@ -1,0 +1,210 @@
+If 25% of the crew -or more- has not participated in Fire drill during the last month, what is the time limit to conduct such a drill after the vessel has left a port?
+A) Within 48 hrs
+B) Within 24 hrs
+C) Within 72 hrs
+D) Within 12 hrs
+Doğru cavab: B
+
+What kind of information must be posted in all passenger cabins?
+A) Names and ranks of all senior officers on board
+B) The meal times and daily recreational activities
+C) Ship’s speed, current location, and weather forecast
+D) The route to muster station, how to put on lifejacket and different emergency signals used onboard the ship
+Doğru cavab: D
+
+Select emergencies which could lead to fires or the foundering of ships.
+A) Failure of main steering gear in calm seas
+B) Minor oil leaks in dry store
+C) Loss of internet connectivity
+D) Collision and hull failure
+Doğru cavab: D
+
+Select emergencies which could lead to fires or the foundering of ships.
+A) Anchor drag in soft mud
+B) Shifting of cargo and engine-room explosion or fire
+C) Scheduled generator maintenance
+D) Failure of pantry equipment
+Doğru cavab: B
+
+How can you avoid and/or reduce potential panic among passengers if a dangerous situation occurs?
+A) Lock passengers inside their cabins until the situation is resolved
+B) Sound the abandon ship signal immediately without explanation
+C) Inform passengers at frequent intervals over the public announcement system about the situation and how they shall act. Use as many of the ship’s officers and crew among the passengers to assist
+D) Direct all passengers to immediately head to the lifeboats without instructions
+Doğru cavab: C
+
+Where would you find details of your tasks and duties in case of an emergency?
+A) In the vessel's deck logbook
+B) In the muster list
+C) On your personal discharge book
+D) In the chief engineer's standing orders
+Doğru cavab: B
+
+How many separate means of escape routes from passengers and crew spaces shall passenger ships carrying less than 36 passengers have? (SOLAS II-2/28)
+A) One
+B) Three
+C) Four
+D) Two
+Doğru cavab: D
+
+Emergency instructions in appropriate languages shall be posted in passenger cabins. Which one of the given instructions has to be included according to present SOLAS regulations?
+A) The contact details of the port authority
+B) The method of donning lifejackets
+C) Instructions on how to operate communication radios
+D) Guidelines on how to deploy liferafts manually
+Doğru cavab: B
+
+If some of the passengers are disabled, i.e. using wheelchair, cane, blind etc., what precaution should the crew take?
+A) Assign them to the top deck cabins for quicker access
+B) Instruct them to evacuate ahead of all other passengers automatically
+C) Ensure they remain in their cabins throughout the entire voyage
+D) All passengers that will require some form of assistance in case of evacuation, etc. must be registered, so there can be crew sent to assist them if needed
+Doğru cavab: D
+
+If the general/fire alarm is sounding, and evacuation is required, what is the best way to ensure that all passengers are aware of the situation?
+A) Blowing the ship's horn continuously without giving oral instructions
+B) Using public announcement system to inform about situation. Inform passengers to report to designated area for head count
+C) Turning off all power on board to signal immediate action
+D) Sending crew members to knock on every cabin door individually without using public systems
+Doğru cavab: B
+
+Who usually gives the order to abandon ship?
+A) Chief Officer
+B) Safety Officer
+C) Master
+D) Chief Engineer
+Doğru cavab: C
+
+What do the letters E.P.I.R.B. stand for?
+A) Emergency Personal Identification Radio Beacon
+B) Emergency Position Indicating Radio Beacon
+C) Electronic Position Indicator Rescue Device
+D) Emergency Pressure Indicating Rescue Beacon
+Doğru cavab: B
+
+What equipment might be used to give Abandon Ship command?
+A) Public address or a megaphone
+B) VHF hand-held radio set on Channel 16 only
+C) The ship’s whistle only
+D) Signal flags and flares
+Doğru cavab: A
+
+What is the best posture in the water to reduce your body temperature loss?
+A) Vertical survival posture
+B) Starfish position
+C) HELP
+D) Tread water vigorously
+Doğru cavab: C
+
+What is the best posture in the water to reduce your body temperature loss?
+A) Huddle
+B) Horizontal swimmer position
+C) Side-stroke position
+D) Back float position
+Doğru cavab: A
+
+Can you drink sea water?
+A) Yes, if mixed with fresh water
+B) Yes, in small controlled amounts
+C) No
+D) Yes, provided it is taken from open seas
+Doğru cavab: C
+
+Using spoken radio communication, what is the code word used to indicate a distress message.
+A) SECURITE
+B) MAYDAY
+C) URGENT
+D) PAN PAN
+Doğru cavab: B
+
+What are types of lifeboats?
+A) Fast rescue, slow rescue, and survival craft
+B) Partially enclosed, self-righting partially enclosed and totally enclosed
+C) Open wood, steel frame, and fiberglass
+D) Inflatable, rigid, and semi-rigid
+Doğru cavab: B
+
+What number of lifeboats are required on cargo Ship?
+A) One lifeboat on the stern of the vessel only
+B) Capacity for 50% on the port side and 50% on the starboard side
+C) Capacity is twice the number of persons the ship is certified to carry with at least one lifeboat on each side of the ship
+D) Sufficient capacity for 100% of persons on board placed anywhere
+Doğru cavab: C
+
+What number of lifeboats is required in Passenger Ship?
+A) Sufficient for the number of persons that the ship is certified to carry
+B) Exactly 4 lifeboats regardless of passenger count
+C) Twice the number of total certified capacity
+D) Enough for 75% of passengers, with liferafts covering the rest
+Doğru cavab: A
+
+What equipment level within a Liferaft is usually referred to?
+A) “Class 1 Pack” or “Class 2 Pack”
+B) “Standard Pack” or “Emergency Pack”
+C) “SOLAS A pack” or “SOLAS B pack”
+D) “IMO Pack Alpha” or “IMO Pack Beta”
+Doğru cavab: C
+
+What is the minimum number of rescue boats on passenger ships with 500 g.t. and over?
+A) No rescue boats required if lifeboats are present
+B) At least 1 rescue boat on any side of the ship
+C) At least 1 rescue boat on each side of the ship
+D) At least 4 rescue boats total
+Doğru cavab: C
+
+What is the minimum number of rescue boats on passenger ships, less than 500 g.t?
+A) No rescue boats are mandated below 500 g.t.
+B) At least 2 rescue boats on each side
+C) At least 1 rescue boat on both sides
+D) At least 1 rescue boat on any side of the ship
+Doğru cavab: D
+
+What is the minimum number of rescue boats on cargo ships?
+A) Cargo ships do not require rescue boats
+B) At least 1 rescue boat
+C) At least 2 rescue boats
+D) 1 rescue boat for every 15 crew members
+Doğru cavab: B
+
+How many Immersion suits should be assigned to the crew of the rescue boat?
+A) Only for the boat commander
+B) For every person
+C) At least 2 suits per boat
+D) For half of the team
+Doğru cavab: B
+
+How many immersion suits shall there be on open lifeboats of passenger and cargo ships?
+A) At least 3 immersion suits
+B) One for each person on board
+C) None required on open lifeboats
+D) At least 5 immersion suits
+Doğru cavab: A
+
+In fire prevention principles what does STARVATION means?
+A) Restricting the oxygen flow to the flame source
+B) Reducing the chemical reaction rate using powder
+C) Removing the fuel from a fire. It is unable to sustain combustion
+D) Cooling the temperature below flash point using water
+Doğru cavab: C
+
+In fire prevention principles what does SMOTHERING means?
+A) Stopping the chain reaction chemically
+B) Lowering the heat using water mist
+C) This is achieved by reducing the oxygen (air) surrounding the fire
+D) Removing combustible material from the room
+Doğru cavab: C
+
+In fire prevention principles what does COOLING means?
+A) Isolating the burning space completely
+B) This is usually achieved by using water to reduce the temperature of the burning substance below its ignition temperature
+C) Eliminating fuel source from surrounding area
+D) Cutting off oxygen supply with a fire blanket
+Doğru cavab: B
+
+In fire prevention principles what does INTERFERENCE means?
+A) Depriving the fire of oxygen completely
+B) Lowering thermal radiation using foam spray
+C) Washing away the liquid fuel surface
+D) This is an anti-catalytic effect which breaks the chemical chain reaction that sustains a fire
+Doğru cavab: D
+

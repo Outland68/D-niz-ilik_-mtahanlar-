@@ -152,7 +152,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'imtahanlaridnizcilik@gmail.com'
-EMAIL_HOST_PASSWORD = 'gygn zevm brrf pylr'
+EMAIL_HOST_PASSWORD = 'qfja gynf njgn cylb'
 EMAIL_TIMEOUT = 5 # Prevent server hang-ups if Google is unreachable (Max 5 seconds timeout)
 DEFAULT_FROM_EMAIL = 'SeaPass <imtahanlaridnizcilik@gmail.com>'
 

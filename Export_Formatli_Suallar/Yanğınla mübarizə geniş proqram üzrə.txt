@@ -1,0 +1,665 @@
+1. Hansı səbəbdən gəmidə yanğın baş verə bilər?
+A) Pis hava şəraitində
+B) Yükün düzgün bağlanmaması nəticəsində
+C) Gəmi çox sürətlə hərəkət etdikdə
+D) Təhlükəsizlik qaydalarına əməl etmədikdə
+Doğru cavab: D
+
+2. Maşın bölməsi qrupuna kim rəhbərlik edir?
+A) Kapitan
+B) Baş mexanik
+C) Baş köməkçi
+D) 2-ci mexanik
+Doğru cavab: B
+
+3. Yanğınsöndürmə zamanı hansı faktor insan həyatına təhlükə yaradır?
+A) Yüksək rütubət
+B) Yüksək istilik
+C) Aşağı təzyiq
+D) Küləyin istiqaməti
+Doğru cavab: B
+
+4. Yanğın zamanı insan həyatına təhlükə yaradan faktor hansıdır?
+A) Elektrik naqillərinin rəngi
+B) Suyun temperaturu
+C) Gəminin tərpənməsi
+D) Yanğından ayrılan qazlar
+Doğru cavab: D
+
+5. Yanğın zamanı gəmi kapitanı hansı qrupa rəhbərlik edir?
+A) Köməyə gəlmiş qrupa
+B) Kəşfiyyat qrupuna
+C) Maşın bölməsi qrupuna
+D) Tibbi yardım qrupuna
+Doğru cavab: A
+
+6. Yanğının təhlükəli faktoru hansıdır?
+A) Külək, yağış, dalğa
+B) Alov, istilik, tüstü
+C) Səs-küy, işıq, rütubət
+D) Təzyiq, temperatur, sürət
+Doğru cavab: B
+
+7. Yanğına qarşı təhlükəsizlik tədbirləri hansı gəmilərə şamil olunur?
+A) Bütün gəmilərə
+B) Yalnız sərnişin gəmilərinə
+C) Yalnız hərbi gəmilərə
+D) Yalnız yük gəmilərinə
+Doğru cavab: A
+
+8. Maşın bölməsində yanğının söndürülməsini kim idarə edir?
+A) Baş mexanik
+B) Kapitan
+C) 2-ci mexanik
+D) Baş köməkçi
+Doğru cavab: A
+
+9. “Yanğınsöndürmənin əməliyyat taktiki planı” kimin üçün əsas sənəddir?
+A) Baş mexanik üçün
+B) Bütün heyət üçün
+C) Kapitan üçün
+D) Qəza partiyasının komandiri üçün
+Doğru cavab: D
+
+10. A sinif yanğınlar hansılardır?
+A) Metallar
+B) Bərk materiallar
+C) Yanar mayelər
+D) Yanar qazlar
+Doğru cavab: B
+
+11. B sinif yanğınlar hansılardır?
+A) Yanar mayelər
+B) Elektrik avadanlıqları
+C) Bərk materiallar
+D) Yanar qazlar
+Doğru cavab: A
+
+12. C sinif yanğınlar hansılardır?
+A) Metal tozları
+B) Yanar qazlar
+C) Yanar mayelər
+D) Bərk materiallar
+Doğru cavab: B
+
+13. D sinif yanğınlar hansılardır?
+A) Bərk materiallar
+B) Metallar və metal tozları
+C) Elektrik avadanlıqları
+D) Yanar qazlar
+Doğru cavab: B
+
+14. E sinif yanğınlar hansılardır?
+A) Yanar mayelər
+B) Bərk materiallar
+C) Metallar
+D) Elektrik avadanlıqlarının yanması
+Doğru cavab: D
+
+15. “Yanğın” nədir?
+A) Nəzarət altında aparılan yanma prosesidir
+B) Maddi ziyan vuran nəzarətsiz yanmadır
+C) İstilik ayıran kimyəvi reaksiyadır
+D) Yalnız tüstü əmələ gətirən prosesdir
+Doğru cavab: B
+
+16. Anbarda taxta yanır. Bu hansı sinif yanğındır?
+A) B sinif
+B) D sinif
+C) C sinif
+D) A sinif
+Doğru cavab: D
+
+17. Göyərtədə neft məhsulu yanır. Bu hansı sinif yanğındır?
+A) E sinif
+B) C sinif
+C) A sinif
+D) B sinif
+Doğru cavab: D
+
+18. Bütün maddələr neçə aqreqat halında olur?
+A) 4
+B) 2
+C) 5
+D) 3
+Doğru cavab: D
+
+19. Açıq göyərtədə baş verən yanğınları nə ilə söndürmək olar?
+A) karbon qazı ilə
+B) köpük və su eyni vaxtda olmamaq şərti ilə
+C) yalnız köpüklə
+D) yalnız su ilə
+Doğru cavab: B
+
+20. Neçə cür su şırnağı növu var?
+A) 5 cür
+B) 4 cür
+C) 3 cür
+D) 2 cür
+Doğru cavab: D
+
+21. Yanğın üçbucağı hansı birləşmələrdən ibarətdir?
+A) tüstü, alov, qaz
+B) oksigen, istilik, yanar maddə
+C) su, hava, torpaq
+D) təzyiq, temperatur, rütubət
+Doğru cavab: B
+
+22. Su ilə yanğının söndürülməsi zamanı nəyi nəzərə almaq lazımdır?
+A) Suyun temperaturunu
+B) Suyun mənbəyini
+C) Suyun gəminin dayanıqlığına olan təsirini
+D) Suyun rəngini
+Doğru cavab: C
+
+23. Gəmidə yanğınla mübarizə üzrə əməliyyat planı neçə yanğın mənbəyinə əsaslanaraq tərtib olunur?
+A) bütün mənbələrə görə
+B) iki yanğın mənbəyinə görə
+C) bir yanğın mənbəyinə görə
+D) üç yanğın mənbəyinə görə
+Doğru cavab: C
+
+24. Əgər gəmi daxili sularda üzürsə yanğınsöndürmənin “Əməliyyat-taktiki xəritəsi” hansı dildə tərtib olunur?
+A) işçi və ingilis
+B) yalnız rus
+C) işçi və rus
+D) yalnız ingilis
+Doğru cavab: C
+
+25. Əl yanğın lülələri ilə iş əsas neçə vəziyyətdə yerinə yetirilir?
+A) 4
+B) 5
+C) 3
+D) 2
+Doğru cavab: D
+
+26. Qapalı yerlərdə yanğının baş verməsi üçün havada oksigenin miqdarı minimum nə qədər olmalıdır?
+A) 10%
+B) 16%
+C) 21%
+D) 25%
+Doğru cavab: B
+
+27. Hansı yanğın köpüklə söndürülmür?
+A) Bərk materiallar
+B) Yanar metallar
+C) Neft məhsulları
+D) Yanar mayelər
+Doğru cavab: B
+
+28. Hansı yanğını köpüklə söndürmək qadağandır?
+A) Taxta materialları
+B) Gərginlik altında olan elektrik avadanlıqlarını
+C) Kağız materiallarını
+D) Neft məhsullarını
+Doğru cavab: B
+
+29. Yanan partlayıcı maddələr nə ilə söndürülməlidir?
+A) yalnız köpüklə
+B) karbon qazı ilə
+C) toz ilə
+D) yalnız su ilə
+Doğru cavab: D
+
+30. Yanğın zamanı yığılmış su nə vaxt xaric edilir?
+A) yanğının söndürülməsi ilə eyni vaxtda
+B) yanğın söndürüldükdən sonra
+C) yanğın başlamazdan əvvəl
+D) heç vaxt
+Doğru cavab: A
+
+31. Rəhbər heyətin yanğının söndürülməsi üzrə iş fəaliyyəti neçə əsas mərhələdən ibarətdir?
+A) 4
+B) 3
+C) 5
+D) 2
+Doğru cavab: B
+
+32. Şəxsi heyətin yanğınla mübarizəsinə biləvasitə kim rəhbərlik edir?
+A) Baş mexanik
+B) Kapitanın baş köməkçisi
+C) 2-ci mexanik
+D) Kapitan
+Doğru cavab: B
+
+33. Yanğınla uğurlu mübarizənin şərtləri hansılardır?
+A) vəziyyəti düzgün qiymətləndirmək, müvafiq qərarın qəbul edilməsi
+B) yalnız suyu tez tökmək
+C) yalnız kapitanı gözləmək
+D) yalnız sürətli hərəkət etmək
+Doğru cavab: A
+
+34. “Yanğınsöndürmənin əməliyyat-taktiki planı” nə üçün istifadə edilir?
+A) Heyətin əmək haqqını hesablamaq üçün
+B) Baş komanda məntəqəsindən heyəti idarə etmək üçün
+C) Gəminin marşrutunu təyin etmək üçün
+D) Yükün siyahısını aparmaq üçün
+Doğru cavab: B
+
+35. Yanğını söndürərkən hansı maddə gəminin dayanıqlığına təsir edir?
+A) Toz
+B) Köpük
+C) Su
+D) Karbon qazı
+Doğru cavab: C
+
+36. Açıq göyərtədə yanğın zamanı gəmini necə döndərmək lazımdır?
+A) sahilə tərəf döndərmək lazımdır
+B) dayanmaq lazımdır, dönmək olmaz
+C) elə döndərmək lazımdır ki, alov təhlükəli yük və materialdan əks tərəfə yönəlsin
+D) küləyin əksinə döndərmək lazımdır
+Doğru cavab: C
+
+37. Yanğına qarşı mübarizə əməliyyatlarında əsas mühüm əhəmiyyət kəsb edir:
+A) gəminin sürətinin artırılması
+B) yükün xilas edilməsi
+C) insanların xilas edilməsi
+D) sənədlərin qorunması
+Doğru cavab: C
+
+38. Həcmli yanğınsöndürmə sisteminin işə salınması zamanı hansı tələblər yerinə yetirilməlidir?
+A) havalandırmanı işə salmaq
+B) qəza bölməsində heyəti yığıb təlimatlandırmaq
+C) bölməni açıq saxlamaq
+D) bölməni tam hermetikləşdirmək və heyəti təxliyyə etmək
+Doğru cavab: D
+
+39. Bölmədən karbon qazını tam çıxarmaq üçün bölməni neçə dəqiqə havalandırmaq lazımdır?
+A) 60 dəqiqə
+B) 30 dəqiqə
+C) 15 dəqiqə
+D) 10 dəqiqə
+Doğru cavab: C
+
+40. Yanğınsöndürmədə hansı qazdan istifadə edilir?
+A) Oksigen
+B) Hidrogen
+C) Azot
+D) Karbon qazı
+Doğru cavab: D
+
+41. Quru yük bölməsində yanğın karbon qazı ilə söndürülübsə bölmənin açılmasına nə vaxt icazə verilir?
+A) 1 saat sonra
+B) dərhal
+C) kapitanın istənilən vaxt icazəsi ilə
+D) limana gəldikdən sonra
+Doğru cavab: D
+
+42. Həcmli kimyəvi yanğınsöndürmə sisteminin qoşulması əmrini kim verir?
+A) 2-ci mexanik
+B) Qəza partiyasının komandiri
+C) Kapitan
+D) Baş mexanik
+Doğru cavab: C
+
+43. Nə zaman havalandırma sistemini işlətmək qadağandır?
+A) Yanğın kəşfiyyatı zamanı
+B) Həcmli yanğınsöndürmə zamanı
+C) Həmişə qadağandır
+D) Su ilə söndürmə zamanı
+Doğru cavab: B
+
+44. Gəminin hansı hissəsində siqaret çəkməyə icazə verilir?
+A) Yalnız kayutlarda
+B) İstənilən yerdə
+C) Yalnız göyərtədə
+D) Təyin olunmuş yerdə
+Doğru cavab: D
+
+45. Yanğının karbon qazı ilə söndürülməsinin effektivliyi nə ilə bağlıdır?
+A) havanın temperaturu ilə
+B) sahələrin qapalı olması ilə
+C) küləyin sürəti ilə
+D) gəminin sürəti ilə
+Doğru cavab: B
+
+46. Sprinkler stasionar yanğınsöndürmə sistemi nə zaman işə düşür?
+A) Kapitan əmr verdikdə
+B) Gəmi lövbər saldıqda
+C) Temperatur yüksəldikdə
+D) Tüstü yarandıqda
+Doğru cavab: C
+
+47. Sprinkler stasionar yanğınsöndürmə sisteminin qoşulması əmrini kim verir?
+A) Avtomatik işə düşür
+B) Kapitan verir
+C) Baş mexanik verir
+D) 2-ci mexanik verir
+Doğru cavab: A
+
+48. Qığılcımsöndürmə sistemi gəminin hansı sistemində olur?
+A) Elektrik sistemində
+B) Qazxaricedici sistemində
+C) Havalandırma sistemində
+D) Su təchizatı sistemində
+Doğru cavab: B
+
+49. Gəmidə suvarma sistemi nə üçün istifadə edilir?
+A) İçməli su təmin etmək üçün
+B) Yükü sərinlətmək üçün
+C) Gəmini yumaq üçün
+D) Gəmini istinin təsirindən qorumaq üçün
+Doğru cavab: D
+
+50. Köpüklə söndürmə sistemi əsasən harada quraşdırılır?
+A) Qazanxanalarda və maye yanacaq qurğularında
+B) Kayutlarda
+C) Göyərtədə
+D) Anbarlarda
+Doğru cavab: A
+
+51. Köpüklü odsöndürənlərin tərkibinə görə neçə növü var?
+A) 3
+B) 2
+C) 5
+D) 4
+Doğru cavab: B
+
+52. Gəmidə odsöndürən balonlar harada yerləşdirilir?
+A) Xüsusi yerlərdə
+B) Kayutlarda
+C) İstənilən yerdə
+D) Anbarda
+Doğru cavab: A
+
+53. Hansı odsöndürən balonlardan əlcəksiz istifadə etmək təhlükəlidir?
+A) Sulu
+B) Köpüklü
+C) Tozlu
+D) Karbonlu (CO2)
+Doğru cavab: D
+
+54. “SOLAS-74” Beynəlxalq Konvensiyasının tələblərinə görə yanğınsöndürmə vasitələrinin “Texniki xidmət və təmiri planı”nda hansı bənd öz əksini tapmır?
+A) avadanlığın siyahısı
+B) təmir aparan işçilər haqqında məlumat
+C) xidmət müddətləri
+D) yoxlama tarixləri
+Doğru cavab: B
+
+55. Köpüklü odsöndürən balonların işləmə müddəti nə qədərdir?
+A) 30 saniyə
+B) 1 dəqiqə
+C) 2 dəqiqə
+D) 5 dəqiqə
+Doğru cavab: B
+
+56. Kəşfiyyat qrupunun tərkibinə daxildir?
+A) Yalnız iki matros
+B) Başçı, başçının müavini, sığortalayıcı, rabitəçi
+C) Yalnız kapitan və baş mexanik
+D) Yalnız həkim və mexanik
+Doğru cavab: B
+
+57. Yanğını kəşfiyyat edərkən hansı təhlükəsizlik qaydalarına riayət etmək lazımdır?
+A) Qapıları sürətlə açmaq
+B) Bütün işıqları söndürmək
+C) Qapıları və pəncərələri ehtiyatla açmaq
+D) Tənha hərəkət etmək
+Doğru cavab: C
+
+58. Yanğını kəşfiyyat edərkən istinin təsirindən necə qorunmaq olar?
+A) Köpük pərdəsinin köməyi ilə
+B) Toz pərdəsinin köməyi ilə
+C) Su şırnağının yaratdığı pərdənin köməyi ilə
+D) Qoruyucu geyimsiz hərəkət edərək
+Doğru cavab: C
+
+59. Yanğını kəşfiyyat edərkən hansı addımlarla hərəkət etmək lazımdır?
+A) Sıçrayışlarla hərəkət etmək
+B) Ehtiyatlı sürüşən addımlarla hərəkət etmək
+C) Sürətli qaçaraq hərəkət etmək
+D) Adi addımlarla hərəkət etmək
+Doğru cavab: B
+
+60. Oda davamlı arakəsmələrin neçə tipi var?
+A) 3
+B) 2
+C) 4
+D) 5
+Doğru cavab: A
+
+61. Yanğın həyəcan siqnalı verilərkən hansı fəaliyyətləri yerinə yetirmək lazımdır?
+A) işi davam etdirmək
+B) dərhal gəmini tərk etmək
+C) işi dayandırmaq, qapıları örtüb toplantı məntəqəsinə getmək və növbəti komandanı gözləmək
+D) kayutda gizlənmək
+Doğru cavab: C
+
+62. Bölmənin hermetikləşdirilməsi hansı həyəcan siqnalında həyata keçirilir?
+A) Adam suya düşdü siqnalında
+B) Ümumgəmi həyəcan siqnalında
+C) Sükut siqnalında
+D) Yanğın kəşfiyyatı siqnalında
+Doğru cavab: B
+
+63. Yanmış bölmə və ərazini yanğın təhlükəsinin aradan qaldırılmasından sonra neçə vaxt izləmək lazımdır?
+A) 6 saat
+B) 1 saat
+C) 24 saat
+D) 12 saat
+Doğru cavab: C
+
+64. “Gəminin davamlılığı uğrunda mübarizə” tələblərinə əsasən “Əməliyyat-taktiki xəritələr planı”nı kimlər mükəmməl bilməlidirlər?
+A) yalnız baş mexanik
+B) yalnız qəza partiyası
+C) bütün heyət üzvü
+D) yalnız kapitan
+Doğru cavab: C
+
+65. Yük bölməsinin “Yanğınsöndürmənin əməliyyat taktiki-planı (ƏTP)”na hansı vaxtda düzəlişlər oluna bilər?
+A) ildə bir dəfə
+B) heç vaxt
+C) yalnız qəza baş verdikdə
+D) hər səfərdə
+Doğru cavab: D
+
+66. Gəmidə qapalı yərlərdə neçə metrlik yanğın şlanqlarından istifadə olunur?
+A) 60 m
+B) 10 m
+C) 15-20 m
+D) 40 m
+Doğru cavab: C
+
+67. A tipli konstruksiyaların xüsusiyyəti hansıdır?
+A) Alov keçirmir, tüstü keçir
+B) Heç bir təsirə davam gətirmir
+C) Alov və tüstü keçmir
+D) Yalnız istiliyi saxlayır
+Doğru cavab: C
+
+68. B tipli konstruksiyaların xüsusiyyəti hansıdır?
+A) İstilik keçirmir
+B) Alov və tüstü keçmir
+C) Alov keçirmir
+D) Tüstü keçirmir
+Doğru cavab: C
+
+69. C tipli oda davamlı arakəsmələr digər arakəsmələrdən nə ilə fərqlənir?
+A) C tipli arakəsmələr suya davamlıdır
+B) C tipli arakəsmələr daha qalındır
+C) A və B tipli arakəsmələrə dair tələblər C tipli arakəsmələrə aid edilmir
+D) C tipli arakəsmələr yalnız metaldan hazırlanır
+Doğru cavab: C
+
+70. Yanğınla mübarizə üçün vasitələr harada olmalıdır?
+A) Xüsusi olaraq ayrılmış yerdə
+B) Kapitan kayutunda
+C) Anbarın dərinliyində
+D) İstənilən yerdə
+Doğru cavab: A
+
+71. Şlanq xətti neçə cür yığılır?
+A) 2 və 3 qat
+B) 1 və 2 qat
+C) 3 qat
+D) yalnız 1 qat
+Doğru cavab: B
+
+72. Tozlu odsöndürənlərin istifadəsində hansı çatışmazlıq olur?
+A) yalnız ağırlıq
+B) görmənin zəifləməsi və nəfəsalmanın çətinləşməsi
+C) yalnız qısa müddətli işləmə
+D) yalnız yüksək qiymət
+Doğru cavab: B
+
+73. Yanğın kəşfiyyatının nəticəsi və gəminin vəziyyətinin qiymətləndirilməsi rəhbərliyə hansı əsası verir?
+A) kapitana hesabat vermək üçün əsas
+B) gəmini tərk etmək üçün əsas
+C) heyəti dəyişmək üçün əsas
+D) yanğının söndürülmə qərarının verilməsi
+Doğru cavab: D
+
+74. Yük anbarlarında yanğın zamanı nəyi nəzərə almaq lazımdır?
+A) Yükün dəyərini
+B) Anbarın işıqlandırılmasını
+C) Anbarların hermetikləşməsinin vacibliyini
+D) Anbarın havalandırılmasının vacibliyini
+Doğru cavab: C
+
+75. Yanğın kranları, şlanqları və lülələri hansı tezliklə yoxlanılmalıdır?
+A) Aylıq
+B) Rüblük
+C) İllik
+D) Həftəlik
+Doğru cavab: A
+
+76. Hansı yanğınlar genişlənmiş yanğınlar sayılır?
+A) Yalnız göyərtədə olanlar
+B) Sahəsi 1 kvadratmetrdən çox olanlar
+C) Yalnız iki mərtəbəni əhatə edənlər
+D) Sahəsi 1 kvadratmetrdən az olanlar
+Doğru cavab: B
+
+77. Yanğını görən şəxs Kapitanın növbə köməkçisinə xəbər verdikdən sonra nə etməlidir?
+A) Bölmədə qalıb gözləməlidir
+B) Yanğını təkbaşına söndürməyə davam etməlidir
+C) Digər heyət üzvlərini axtarmalıdır
+D) Bölməni tərk etməlidir
+Doğru cavab: D
+
+78. Gəmidə yanğınla mübarizə üzrə əməliyyat planı hansı bölmələr üçün hazırlanır?
+A) Yalnız maşın bölməsi üçün
+B) Yalnız yük bölmələri üçün
+C) Bütün bölmələr üçün
+D) Yalnız kayutlar üçün
+Doğru cavab: C
+
+79. Nəfəsalmada çətinlik olduqda və qəbul edilən havanın temperaturu yüksəldikdə qəza qrupu nə etməlidir?
+A) kapitanı gözləməlidir
+B) su içməlidir
+C) təcili qəza bölməsini tərk etməlidir
+D) işi davam etdirməlidir
+Doğru cavab: C
+
+80. Nəfəsalma aparatı ASV-2-də minimum təzyiq nə qədər olmalıdır?
+A) 100% (200 bar)
+B) 80% (160 bar)
+C) 50% (100 bar)
+D) 60% (120 bar)
+Doğru cavab: B
+
+81. Maskası dəyişilmədən ASV-2 nəfəsalma aparatı ilə suyun neçə metrə qədər dərinliyinə düşmək olar?
+A) 50 metrə qədər
+B) 20 metrə qədər
+C) 10 metrə qədər
+D) 5 metrə qədər
+Doğru cavab: B
+
+82. Kəşfiyyat keçirilən zaman ən azı neçə kəşfiyyatçı qəza bölməsinə daxil olmalıdır?
+A) 2 nəfər
+B) 3 nəfər
+C) 1 nəfər
+D) 4 nəfər
+Doğru cavab: A
+
+83. Aşağıdakılardan hansılar yanğın kəşfiyyatının vəzifələrinə daxil deyil?
+A) yanğının yerinin müəyyən edilməsi
+B) insanların axtarışı və onlarla birlikdə kəşfiyyatın aparılması
+C) yanğının səbəbinin araşdırılması
+D) yanma sahəsinin ölçülməsi
+Doğru cavab: B
+
+84. Kəşfiyyat qrupunun hazırlığına kim rəhbərlik edir?
+A) kapitan
+B) qəza partiyasının komandiri
+C) kapitanın baş köməkçisi
+D) baş mexanik
+Doğru cavab: B
+
+85. Beynəlxalq sahil birləşməsi dənizin sahilindən su qəbul edilməsi üçün hansı ölçüdə olmalıdır?
+A) xarici 178 mm, daxili 64 mm
+B) xarici 150 mm, daxili 70 mm
+C) xarici 100 mm, daxili 50 mm
+D) xarici 200 mm, daxili 80 mm
+Doğru cavab: A
+
+86. Yüngül dərəcəli zəhərlənmənin əlamətləri hansılardır?
+A) huşun tamamilə itirilməsi
+B) nəbzin dayanması
+C) dərinin göyərməsi
+D) baş ağrıları, baş gicəllənməsi, ürək bulanması, ümumi zəiflik
+Doğru cavab: D
+
+87. Karbon qazı ilə zəhərlənmə zamanı ilk yardım olaraq nəyi yerinə yetirmək lazımdır?
+A) zərərçəkənə su içirdilməlidir
+B) təmiz hava ilə tənəffüs etmə üçün şərait yaradılmalıdır
+C) zərərçəkənə isti yemək verilməlidir
+D) zərərçəkən yatırılıb hərəkətsiz saxlanmalıdır
+Doğru cavab: B
+
+88. Karbon qazı ilə zəhərlənmə zamanı nəbz, tənəffüs dayanıbsa ilk yardım olaraq nəyi yerinə yetirmək lazımdır?
+A) zərərçəkmiş şəxsə su verilir
+B) zərərçəkmiş şəxs sərinlədilir
+C) zərərçəkmiş şəxs tənha buraxılır
+D) zərərçəkmiş şəxsə ürəyin qapalı masajı yerinə yetirilir
+Doğru cavab: D
+
+89. Səthi yanıqlara neçənci dərəcəli yanıqlar aiddir?
+A) II, III
+B) I, II
+C) I, IV
+D) III, IV
+Doğru cavab: B
+
+90. Dərin yanıqlara neçənci dərəcəli yanıqlar aiddir?
+A) III, IV
+B) I, II
+C) II, III
+D) I, III
+Doğru cavab: A
+
+91. 4-cü dərəcəli yanığın əlamətləri hansılardır?
+A) yalnız dəri qızarır
+B) yalnız epidermis zədələnir
+C) dəri bütövlükdə, dəri altı və daha dərin toxumalar, əzələlər, sinirlər, sümük toxuması yanıb nevroza uğrayır
+D) şişkinlik və suluqlar yaranır
+Doğru cavab: C
+
+92. Yanıqlar zədələnmənin dərinliyinə görə neçə dərəcəyə bölünür?
+A) 3
+B) 5
+C) 2
+D) 4
+Doğru cavab: D
+
+93. 1-ci dərəcəli yanığın əlamətləri nədir?
+A) sümük zədələnir
+B) şişkinlik, ağrı, epidermis yanır
+C) dəri qızarır, suluqlar yaranır
+D) toxumalar tamamilə yanır
+Doğru cavab: B
+
+94. 2-ci dərəcəli yanığın əlamətləri nədir?
+A) yalnız epidermis yanır
+B) toxumalar tamamilə yanıb nevroza uğrayır
+C) dəri qızarır, şişkinlik artır, suluqlar yaranır
+D) sümük toxuması zədələnir
+Doğru cavab: C
+
+95. Yanıq zamanı ilk yardım olaraq nəyi yerinə yetirmək lazımdır?
+A) yanmış yer bağlanmadan açıq saxlanmalıdır
+B) yanığı törədən termiki amilin dəriyə və toxumalara təsirini dayandırmalı
+C) yanmış yerə dərhal yağ sürtülməlidir
+D) yanmış yer isti su ilə yuyulmalıdır
+Doğru cavab: B
+

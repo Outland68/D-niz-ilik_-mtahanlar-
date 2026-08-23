@@ -1,0 +1,315 @@
+SOLAS-74-ün XI-2 fəslinin neçə qaydası var?
+A) 15 qayda
+B) 13 qayda
+C) 10 qayda
+D) 20 qayda
+Doğru cavab: B
+
+Mühafizәnin neçә sәviyyәsi mövcuddur?
+A) 3
+B) 2
+C) 4
+D) 5
+Doğru cavab: A
+
+Gәmiyә gәlәn şәxslәrin qarşılanması aşağıdakı qaydada yerinә yetirilir?
+A) Dərhal gəmi kapitanına xəbər vermədən şəxsi göyərtəyə buraxmaq
+B) Gələn şəxsin sənədlərini yoxlamaq, kapitanın növbə köməkçisini məlumatlandırmaq və onun göstərişi əsasında fəaliyyəti davam etdirmək
+C) Gələn şəxsi birbaşa gəmi maşın şöbəsinə yönləndirmək
+D) Sənədləri yoxlamadan yalnız şifahi suallar vermək
+Doğru cavab: B
+
+Gəminin mühafizə səviyyəsi limanın mühafizə səviyyəsindən yüksək ola bilərmi?
+A) həmişə eyni olmalıdır
+B) yüksək ola bilməz
+C) liman rəisi tərəfindən qadağan edilir
+D) yüksək ola bilər
+Doğru cavab: D
+
+Mühafizə səviyyəsi 1 – adi səviyyə dedikdə nə nəzərdə tutulur?
+A) riskin minimal səviyyəsidir
+B) gəminin təcili tərk edilməsi vəziyyətidir
+C) beynəlxalq sularda mühafizənin dayandırılmasıdır
+D) pirat hücumu ehtimalının çox yüksək olduğu səviyyədir
+Doğru cavab: A
+
+Gəmilərdə mühafizə səviyyələrini hansı təşkilat təyin edir?
+A) Beynəlxalq Dəniz Təşkilatı (IMO)
+B) gəminin məxsus olduğu dövlətin dəniz Administrasiyası
+C) Gəminin gəldiyi sonuncu liman rəhbərliyi
+D) Birləşmiş Millətlər Təşkilatı
+Doğru cavab: B
+
+Gəminin mühafizə planı hansı təşkilat tərəfindən bəyənilir?
+A) yerli polis orqanları tərəfindən
+B) gəmi sahibi tərəfindən
+C) liman nəzarəti (PSC) tərəfindən
+D) gəmi bayrağının dəniz Administrasiyası tərəfindən
+Doğru cavab: D
+
+Gəminin mühafizəyə məsul şəxsi kim tərəfindən təyin olunur?
+A) şirkət tərəfindən
+B) gəmi kapitanı tərəfindən
+C) liman rəisi tərəfindən
+D) dəniz Administrasiyası tərəfindən
+Doğru cavab: A
+
+Gəmiyə pirat basqını zamanı hansı fəaliyyətlər görülməlidir?
+A) GMXS (SSAS) sistemini işə salmaq, ümumgəmi həyəcan siqnalı vermək və təyin olunmuş yerdə kömək gələnə qədər gizlənmək
+B) Silahlı müqavimət göstərmək və atəş açmaq
+C) Gəminin sürətini azaltmaq və piratlarla danışıqlara başlamaq
+D) Gəmini dərhal tərk etmək və xilasedici qayıqlara minmək
+Doğru cavab: A
+
+Gəmiyə daxil olmaq istəyən şəxs nə etməlidir?
+A) heç bir yoxlama olmadan kapitanın icazəsini gözləməlidir
+B) əl çantasını (varsa) yoxlanılması üçün növbətçi matrosu təqdim etməlidir
+C) yalnız şifahi kimliyini bildirməlidir
+D) çantasını göyərtədə qoyub gəmiyə daxil olmalıdır
+Doğru cavab: B
+
+Aşağıda göstərilən hansı ərazi suları pirat basqını zonaları hesab olunur?
+A) Baltik dənizi, Şimal dənizi
+B) İndoneziya, Filippin, Somali
+C) Xəzər dənizi, Karib dənizi
+D) Aralıq dənizi, Qara dəniz
+Doğru cavab: B
+
+Gəmidə mühafizə üzrə məşqlər neçə müddətdən bir keçirilməlidir?
+A) 6 ayda azı 1 dəfə
+B) hər ay azı 1 dəfə
+C) ildə azı 1 dəfə
+D) 3 ayda azı 1 dəfə
+Doğru cavab: D
+
+Gəminin mühafizə planı harada saxlanılır?
+A) Gəmi jurnalının içində
+B) Maşın şöbəsində
+C) Kapitanın seyfində
+D) Kayutada hər hansı bir şkafda
+Doğru cavab: C
+
+Gəminin mühafizəsi üzrə təlimlər neçə müddətdən bir keçirilməlidir?
+A) 6 ayda ən azı bir dəfə
+B) 12 ayda ən azı bir dəfə
+C) 3 ayda ən azı bir dəfə
+D) 24 ayda ən azı bir dəfə
+Doğru cavab: B
+
+Gəmidə aparılan baxış nə vaxt dayandırılmalıdır?
+A) Gəmi tam yoxlanıldıqdan sonra baxış dayandırılır
+B) Gəmi yola düşdükdən sonra
+C) Gəminin yarısı yoxlanıldıqdan sonra
+D) Liman rəisi icazə verdikdən sonra
+Doğru cavab: A
+
+Gəminin mühafizəsi haqqında beynəlxalq şəhadətnamə neçə müddətə verilir?
+A) 1 il
+B) 5 il
+C) 10 il
+D) 3 il
+Doğru cavab: B
+
+Gəmidə narkotik maddə aşkarlanarsa hansı fəaliyyət görülməlidir?
+A) Narkotik maddəni götürüb kapitana aparmaq
+B) Narkotik maddəyə toxunmamaq və dərhal kapitanın növbə köməkçisini məlumatlandırmaq
+C) Narkotik maddəni dənizə atmaq
+D) Gəmi heyətindən gizlətmək və limanda polisə vermək
+Doğru cavab: B
+
+Gəmiyə keçirilən baxış zamanı baxış qrupu neçə nəfər heyət üzvündən ibarət olmalıdır?
+A) Baxış qrupunda 5 nəfərdən çox heyət üzvü olmalıdır
+B) Baxış qrupunda 2, 3 nəfər heyət üzvləri olmalıdır
+C) Baxış qrupunda 1 nəfər olmalıdır
+D) Baxış qrupunda bütün heyət iştirak etməlidir
+Doğru cavab: B
+
+Gəmiyə zəng vurub təhdid edən şəxslə telefonda necə danışmaq tövsiyə olunur?
+A) Təhdid edən şəxsi hədələmək
+B) Söhbəti kəsmək və polisi gözləmək
+C) Zəng vuran şəxslə söhbəti maksimum uzatmaq və təmkinli danışmaq
+D) Dərhal telefonu söndürmək
+Doğru cavab: C
+
+Məhdudlaşdırılmış giriş sahələri haqqında gəminin hansı sənədində geniş şərh olunur ?
+A) Yük planında
+B) Gəmi rol cədvəlində
+C) Gəminin mühafizə planında
+D) Dənizçinin qeyd kitabçasında
+Doğru cavab: C
+
+Aşağıda göstərilənlərdən hansılar şübhəli şəxslər kateqoriyasına aiddir?
+A) Müntəzəm olaraq gəmiyə gələn təchizatçılar
+B) Yoxlama zamanı aqressiya nümayiş etdirən şəxslər
+C) Sənədlərini vaxtında təqdim edən şəxslər
+D) Gəmi agentləri və liman işçiləri
+Doğru cavab: B
+
+Aşağıda göstərilənlərdən hansı məxfi məlumatdır?
+A) Gəminin yanacaq ehtiyatı
+B) Gəminin mühafizə planı
+C) Gəminin hərəkət cədvəli
+D) Gəminin heyət siyahısı
+Doğru cavab: B
+
+Dəniz quldurları adətən hansı silahlarla silahlanır?
+A) Lazer silahları və qaz balonları
+B) Avtomat, RPQ-7, soyuq silahlar
+C) Yalnız tapançalar
+D) Su topları və səs qumbaraları
+Doğru cavab: B
+
+Növbə matrosu hansı jurnalda qeydlər aparmalıdır?
+A) Gəmi maşın jurnalında
+B) Gələnlərin qeydiyyatı jurnalında
+C) Yük əməliyyatları jurnalında
+D) Gəmi sanitariya jurnalında
+Doğru cavab: B
+
+Mühafizə səviyyəsi 2 dedikdə hansı səviyyə nəzərdə tutulur?
+A) Müstəsna səviyyə
+B) Kritik səviyyə
+C) Adi səviyyə
+D) Yüksəldilmiş səviyyə
+Doğru cavab: D
+
+Gəmi mühafizə xəbərdaretmə sisteminin funksiyası nədir?
+A) Mühafizənin pozulması haqqında sahili xəbərdaretmə
+B) Gəmidə yanğın haqqında xəbərdarlıq
+C) Gəminin sualtı qayıqlarla əlaqəsi
+D) Gəminin mövqeyini peyklə izləmə
+Doğru cavab: A
+
+Mühafizə səviyyəsi 3 dedikdə hansı səviyyə nəzərdə tutulur?
+A) Yüksəldilmiş səviyyə
+B) Müstəsna səviyyə
+C) Adi səviyyə
+D) Aşağı səviyyə
+Doğru cavab: B
+
+Gəmi heyətinin mühafizə üzrə təlimatlandırılmasını kim təmin edir?
+A) Gəminin mühafizəyə məsul şəxsi
+B) Böyük mexanik
+C) Liman rəisi
+D) Gəmi agenti
+Doğru cavab: A
+
+Gəmidə xüsusi mühafizə tədbirlərinin görülməsi hansı mühafizə səviyyəsinə aiddir?
+A) Bütün səviyyələrə
+B) Adi səviyyəyə
+C) Yüksəldilmiş səviyyəyə
+D) Müstəsna səviyyəyə
+Doğru cavab: D
+
+Gəmidə kənar şəxs görən heyər üzvü nə etməlidir?
+A) Kənar şəxsdən gəmiyə niyə gəldiyini soruşmaq və buraxmaq
+B) Dərhal gəminin mühafizəyə məsul şəxsini məlumatlandırmaq
+C) Heç bir tədbir görməmək
+D) Kənar şəxsi gəmidən kənara çıxarmağa cəhd etmək
+Doğru cavab: B
+
+Aşağıda göstərilənlərdən hansı məxfi məlumatdır?
+A) Heyət üzvlərinin maaşları
+B) Gəminin sonuncu dəfə boyanma tarixi
+C) Gəminin sürəti və koordinatları
+D) Gəminin GMXS (SSAS) sisteminin işə salınma proseduru
+Doğru cavab: D
+
+Müşayət olunmayan baqaj dedikdə nə nəzərdə tutulur?
+A) Müşayət olunmayan baqaj, yoxlama və ya baxış keçirilən yerdə müvafiq sərnişin və ya heyət üzvü ilə birgə olmur
+B) Heyət üzvlərinin daşıdığı əl çantaları
+C) Gəmi kapitanının şəxsi əşyaları
+D) Gəmiyə məxsus qida ehtiyatları
+Doğru cavab: A
+
+Gəmilərin və liman vasitələrinin mühafizəsi üzrə beynəlxalq məcəllənin tələblərinə müvafiq olaraq hansı yoxlama növləri mövcuddur?
+A) gündəlik, həftəlik, aylıq
+B) ilkin, aralıq, əlavə, təzələmə
+C) mövsümi, illik, onillik
+D) planlı, plansız, qəfil
+Doğru cavab: B
+
+Gəmi mühafizə xəbərdaretmə sisteminin ən azı neçə düyməsi gəmidə quraşdırılmalıdır?
+A) 3
+B) 1
+C) 4
+D) 2
+Doğru cavab: D
+
+Gəmi mühafizə xəbərdaretmə sisteminin düymələri gəmidə hansı bölmələrdə quraşdırılmalıdır?
+A) 1-ci düymə maşın şöbəsində, 2-ci düymə kambuzda
+B) 1-ci düymə bosmanın kayutasında, 2-ci düymə nasosxanada
+C) 1-ci düymə kapitan körpüsündə, 2-ci düymə isə mühafizə planında göstərilən yerdə
+D) Bütün düymələr gəmi kapitanının kayutasında
+Doğru cavab: C
+
+Gəmi mühafizə xəbərdaretmə sisteminin işə salınması qərarını gəmidə kim verir?
+A) Liman nəzarətçisi
+B) Gəmi sahibi
+C) Gəmi agenti
+D) Kapitan və ya gəminin mühafizəyə məsul şəxsi
+Doğru cavab: D
+
+Gəminin mühafizəsinə dair qeydlər aşağıdakı dillərdən hansında aparılmalıdır?
+A) İngilis, rus və ya ərəb dillərində
+B) İngilis, ispan, fransız dillərindən birinə tərcümə olunmaqla gəminin işçi dilində
+C) Yalnız gəminin işçi dilində
+D) Yalnız ingilis dilində
+Doğru cavab: B
+
+Limanda mühafizənin və təhlükəsizliyin təmini üzrə tədbirlərin tətbiqini özündə qeyd edən sənəd necə adlanır?
+A) Limanın sanitar mühafizə planı
+B) Limanın kommersiya planı
+C) Limanın ekologiya planı
+D) Liman vasitələrinin mühafizə planı
+Doğru cavab: D
+
+Hüquq mühafizə orqanının nümayəndəsi gəmidə olarkən GMMŞ ondan silahının təhvil verilməni tələb edə bilərmi?
+A) Xeyr
+B) Yalnız kapitanın icazəsi ilə
+C) Bəli
+D) Yalnız liman rəisinin icazəsi ilə
+Doğru cavab: A
+
+Statistikaya görə cənub-şərqi Asiyada ən çox pirat təhlükəlisinin olduğu rayonlar hansılardır?
+A) Karib dənizi və Meksika körfəzi
+B) Malakka boğazı və İndoneziya
+C) Şimal dənizi və Baltik dənizi
+D) Aralıq dənizi və Qara dəniz
+Doğru cavab: B
+
+Hansı əşyalar stasionar metal detektorla müəyyən edilir?
+A) Narkotik vasitələr
+B) Partlayıcı maddələr
+C) Bioloji silahlar
+D) Soyuq silahlar
+Doğru cavab: D
+
+Gəminin mühafizə planının elektron şəkildə saxlanılmasına icazə verilirmi?
+A) Yalnız limanda olarkən
+B) Bəli
+C) Yalnız dəniz administrasiyasının xüsusi icazəsi ilə
+D) Xeyr
+Doğru cavab: B
+
+Gəmiyə girişə nəzarət edən növbə matrosunun mühafizə üzrə vəzifəsi aşağıdakılardan hansıdır?
+A) Gələn şəxs barədə kapitanın növbə köməkçisini məlumatlandırmaq
+B) Gələn şəxsin tibbi vəziyyətini yoxlamaq
+C) Gələn şəxsin yükünü daşımaq
+D) Gələn şəxsi birbaşa gəmi kapitanının yanına aparmaq
+Doğru cavab: A
+
+Gəmidə mühafizə üzrə daxili yoxlamanı hansı təşkilat keçirir?
+A) Liman nəzarəti (PSC)
+B) Gəminin məxsus olduğu şirkətin nümayəndələri
+C) Yerli dəniz polisi
+D) Beynəlxalq Dəniz Təşkilatı (IMO)
+Doğru cavab: B
+
+Qəsbkarlar gəmiyə çıxdığı təqdirdə, heyətin təhlükəsiz sahələrə yerləşdirilməsini kim təmin etməlidir?
+A) Gəminin kapitanı
+B) Gəminin mühafizəyə məsul şəxsi
+C) Böyük köməkçi
+D) Növbətçi matros
+Doğru cavab: A
+

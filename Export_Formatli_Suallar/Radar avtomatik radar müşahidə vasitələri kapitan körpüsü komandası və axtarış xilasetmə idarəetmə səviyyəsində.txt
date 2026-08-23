@@ -1,0 +1,350 @@
+1. ARPA-da yaxınlaşma elementlərinə nə aiddir?
+A) BCR və BCT
+B) CPA və TCPA
+C) SOG və COG
+D) XTE və WOP
+Doğru cavab: B
+
+2. RADAR-da «True Motion» (TM) rejimində işləyərkən, müşahidə edən gəminin sürəti və kursu daxil etmə yanlışları nəticəsində hansı xətalar yarana bilər?
+A) Dalğalanma müdaxiləsi artacaq və ekran qaralacaq
+B) Ekranda yalnız sabit hədəflərin itməsi müşahidə ediləcək
+C) Vəziyyətin qiymətləndirilməsində və manevrin seçilməsində
+D) İmpulsun davamlılığı avtomatik olaraq aşağı düşəcək
+Doğru cavab: C
+
+3. ARPA-da manevrin imitasiyası hansı hərəkət rejimində keçirilə bilər?
+A) Yalnız North Up (NU) rejimində
+B) Yalnız Course Up (CU) rejimində
+C) RM (Relative Motion) və TM (True Motion)-da
+D) Yalnız Head Up (HU) rejimində
+Doğru cavab: C
+
+4. RADAR-ın ekranında müşahidəçi vəziyyəti qiymətləndirərkən, ilkin məlumatın təhlilində nəyə diqqət etməlidir?
+A) Antennanın fırlanma sürətinə
+B) Hədəfin və ya hədəflərin əks-səda siqnallarına
+C) Qəbuledicinin gücləndirilməsi səviyyəsinə
+D) İmpulsun təkrarlanma tezliyinə
+Doğru cavab: B
+
+5. Hədəfi tutduqdan sonra, ARPA-da sürət vektorunun ekranda görünməsinə qədər keçən vaxt nə qədər olmalıdır?
+A) 30 saniyədən az olmalıdır
+B) 3 dəqiqədən çox olmamalıdır
+C) 5 dəqiqədən çox olmamalıdır
+D) 1 dəqiqədən çox olmamalıdır
+Doğru cavab: D
+
+6. Hədəfi tutduqdan sonra, ARPA-da hərəkət elementlərinin hesablanmasına qədər keçən vaxt nə qədər olmalıdır?
+A) 10 dəqiqədən çox olmamalıdır
+B) 3 dəqiqədən çox olmamalıdır
+C) 5 dəqiqədən çox olmamalıdır
+D) 1 dəqiqədən çox olmamalıdır
+Doğru cavab: B
+
+7. ARPA-da seçilmiş manevrin statik imitasiyasında nə təsvir olunur?
+A) Manevrin sonuna uyğun vəziyyət
+B) Hədəflərin ancaq nisbi hərəkət sürəti
+C) Radar antennasının quraşdırılma xətası
+D) Gəminin həqiqi hərəkət trayektoriyası
+Doğru cavab: A
+
+8. «Off Center» düyməsindən istifadə edərək, gəmimizin işarəsi, ekranın radiusuna görə, neçə faiz yerini dəyişə bilər?
+A) 25%, 50%, 75%
+B) 33%, 66%, 99%
+C) 22%, 44%, 66%
+D) 10%, 20%, 30%
+Doğru cavab: C
+
+9. Aşağıda göstərilən şəkil nə bildirir? RADAR «Relative Motion» (RM) rejimində işləyir.
+A) Hədəf bizimlə eyni kursda hərəkət edir
+B) Hədəf hərəkətsizdir
+C) Hədəf bizə qarşı hərəkət edir
+D) Hədəfin sürəti bizimkindən çoxdur
+Doğru cavab: B
+
+10. Aşağıda göstərilən şəkil nə bildirir? RADAR «True Motion» (TM) rejimində işləyir.
+A) Hədəfin sürəti 22 uzeldur
+B) Hədəfin pelenqi 220º - dir
+C) Hədəfə qədər məsafə 2.2 mildir
+D) Hədəfin kursu 220º - dir
+Doğru cavab: D
+
+11. Aşağıda göstərilən şəkil nə bildirir? RADAR «Relative Motion» (RM) rejimində işləyir.
+A) Hədəfin kursu bizimkinə əksdir
+B) Hədəf dreyf edir
+C) Hədəf hərəkətsizdir
+D) Hədəfin kursu və sürəti bizim gəmimizinki ilə eynidir
+Doğru cavab: D
+
+12. Aşağıda göstərilən şəkil nə bildirir? RADAR «True Motion» (TM) rejimində işləyir.
+A) Hədəf hərəkətsizdir
+B) Hədəf bizim sürətlə eyni sürətdə hərəkət edir
+C) Hədəf sürətlə bizə yaxınlaşır
+D) Hədəf lövbərə durmaq üzrədir
+Doğru cavab: A
+
+13. Aşağıdakı şəkildə RADAR-ın təsviri hansı rejimində göstərilib?
+A) Hup
+B) Cup
+C) RM
+D) Nup
+Doğru cavab: D
+
+14. Aşağıdakı şəkildə RADAR-ın təsviri hansı rejimində göstərilib?
+A) Nup
+B) Hup
+C) Cup
+D) TM
+Doğru cavab: C
+
+15. Aşağıdakı şəkildə RADAR-ın təsviri hansı rejimində göstərilib?
+A) Nup
+B) Cup
+C) Hup
+D) True Vectors
+Doğru cavab: C
+
+16. İmpulsun davamlığı «MP» nə zaman istifadə etmək daha faydalıdır?
+A) Adi üzmə şəraitində
+B) Qatı duman şəraitində lövbərə durarkən
+C) Yalnız açıq okeanda uzaq hədəflər axtararkən
+D) Kanalda iki gəminin arasından keçərkən
+Doğru cavab: A
+
+17. İmpulsun davamlığı «SP» nə zaman istifadə etmək daha faydalıdır?
+A) Hövzələrdə, körfəzlərdə hədəflərin çox olduğu yerlərdə. Yağışlı və fırtınalı havalarda
+B) Günəşli havada dəniz sakit olarkən
+C) Okeanda uzaq gəmiləri vaxtında aşkarlamaq üçün
+D) Sahildən çox uzaq məsafədə hərəkət edərkən
+Doğru cavab: A
+
+18. İmpulsun davamlığı «LP» nə zaman istifadə etmək daha faydalıdır?
+A) Buzlaq ərazilərində yaxınlıqdakı buzları görərkən
+B) Dar kanallarda və ya çaylarda
+C) Liman akvatoriyasında manevr edərkən
+D) Yaxşı hava şəraitində kiçik ölçülü hədəflərin aşkar edilməsində
+Doğru cavab: D
+
+19. RADAR hansı diapazonda işləyərkən, ölçülərin yüksək dəqiqliyi üçün imkan yaradır?
+A) S Band
+B) C Band
+C) X Band
+D) L Band
+Doğru cavab: C
+
+20. RADAR hansı diapazonda işləyərkən, maneələrə qarşı yüksək dayanıqlıq üçün imkan yaradır?
+A) S Band
+B) X Band
+C) K Band
+D) L Band
+Doğru cavab: A
+
+21. «Subrefraksiya» nə deməkdir?
+A) Radar siqnallarının buz dağlarından qayıtması
+B) Hündürlükdə hava rütübətinin çoxalması nəticəsində və ya hava istiliyinin kəskin aşağı düşməsi nəticəsində əmələ gələn maneə
+C) Hava istiliyinin qəfil artması ilə yaranan vizual aldanma
+D) Dalğaların təsiri altındakı radar şüalarının qırılması
+Doğru cavab: B
+
+22. «No-Return Point» nə deməkdir?
+A) Körpüdə olan bütün cihazların qəfil sıradan çıxması halı
+B) Radar siqnalının geri qayıtmadığı coğrafi mövqe
+C) Dar keçiddə bu nöqtəni keçdikdən sonra, əgər vəziyyət ağırlaşarsa, gəmi açıq dənizə çıxa bilməyəcək
+D) Radarın hədəfi izləmə qabiliyyətini itirdiyi uzaq nöqtə
+Doğru cavab: C
+
+23. Dar keçidlərdə təhlükəsiz üzməni təmin etmək üçün hansı stvorlardan istifadə olunur?
+A) Zonal, radial, xətti stvorlardan
+B) Yalnız lazer stvorlarından
+C) Fırlanan və yanıb-sönən stvorlardan
+D) Aparıcı, kəsən, çəpərləyici
+Doğru cavab: D
+
+24. “Paralel İndeksasiyasından” (PI) nə zaman istifadə olunur?
+A) «RM» hərəkətin və «Nup» təsvirin rejimlərində, gəminin yerinə fasiləsiz nəzarət üçün
+B) TM rejimində ARPA vektorlarını ölçmək üçün
+C) Gəminin sürətini su üzərinə görə hesablamaq üçün
+D) Açıq okeanda avtopilotu tənzimləmək üçün
+Doğru cavab: A
+
+25. Sürətin iki dəfə azaldılması manevrini yerinə yetirərkən, hədəfin Nisbi Hərəkət Xətti (NHX) və nisbi sürət vektoru (VN) necə dəyişir?
+A) NHX dəyişmir, nisbi sürət çoxalır
+B) NHX arxa tərəfə dəyişir, nisbi sürət dəyişmir
+C) NHX gəmimizin bortu istiqamətində olur, nisbi sürət sıfıra bərabər olur
+D) NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət azalır
+Doğru cavab: D
+
+26. Sürətin artırılması manevrini yerinə yetirərkən, hədəfin Nisbi Hərəkət Xətti (NHX) və nisbi sürət vektoru (VN) necə dəyişir?
+A) NHX gəmimizin arxa tərəfinə dəyişir, nisbi sürət artır
+B) NHX gəmimizin burun tərəfinə dəyişir, nisbi sürət artır
+C) NHX dəyişmir, lakin nisbi sürət azalır
+D) NHX sağ tərəfə meyl edir, nisbi sürət sabit qalır
+Doğru cavab: A
+
+27. Sağa dönüb, sürəti artırmaq təhlükəli manevrində hansı hərəkət parametrlərinə diqqət vermək lazımdır?
+A) Yalnız küləyin istiqamətinə
+B) Digər gəmilərin SOG göstəricisinə
+C) Yalnız əks axının sürətinə
+D) Bizim gəmimizin yeni kursuna
+Doğru cavab: D
+
+28. Sola dönüb, sürəti azaltmaq təhlükəli manevrində hansı hərəkət parametrlərinə diqqət vermək lazımdır?
+A) Hədəflərin ancaq COG göstəricisinə
+B) Bizim gəmimizin yeni sürətinə
+C) Radar antennasının hündürlüyünə
+D) Ətrafdakı yelkənli gəmilərin sayına
+Doğru cavab: B
+
+29. Aşağıda göstərilən manevrlərdən hansı təhlükəli ola bilər?
+A) Sağa dönməklə sürətin azaldılması
+B) Sola dönməklə sürətin azaldılması
+C) Sağa dönməklə sürətin artırılması
+D) Heç bir kurs dəyişikliyi etmədən dayandırılması
+Doğru cavab: C
+
+30. Aşağıda göstərilən manevrlərdən hansı effektli sayılır?
+A) Sürəti maksimal dərəcədə artırmaq
+B) Sola dönməklə sürətin artırılması
+C) Yalnız sola dönüş etmək
+D) Sağa dönməklə sürətin azaldılması
+Doğru cavab: D
+
+31. Toqquşma təhlükəsi hansı ölçülərə əsasən qiymətləndirilir?
+A) BCR, BCT
+B) COG, SOG
+C) CPA, TCPA
+D) XTE, BTW
+Doğru cavab: C
+
+32. RADAR “X Band”-də dalğanın uzunluğu və tezliklərin diapazonu nə qədər olmalıdır?
+A) Tezlik: 3000 MHz, dalğanın uzunluğu 10 sm
+B) Tezlik: 1500 MHz, dalğanın uzunluğu 20 sm
+C) Tezlik: 9000 MHz, dalğanın uzunluğu 3 sm
+D) Tezlik: 5000 MHz, dalğanın uzunluğu 5 sm
+Doğru cavab: C
+
+33. RADAR “S Band”-də dalğanın uzunluğu və tezliklərin diapazonu nə qədər olmalıdır?
+A) Tezlik: 9000 MHz, dalğanın uzunluğu 3 sm
+B) Tezlik: 6000 MHz, dalğanın uzunluğu 8 sm
+C) Tezlik: 4000 MHz, dalğanın uzunluğu 7 sm
+D) Tezlik: 3000 MHz, dalğanın uzunluğu 10 sm
+Doğru cavab: D
+
+34. Planşetdə gördüyünüz gəmi (qırmızı nöqtələr) hansı manevr edib?
+A) Hədəf sağa dönərək toqquşma ehtimalını azaldıb
+B) Hədəf sürətini kəskin azaldıb və bizdən uzaqlaşıb
+C) Hədəf 6-cı dəqiqədən sonra sola dönüb və təhlükəli olub
+D) Hədəf dreyf edir və hərəkətsizdir
+Doğru cavab: C
+
+35. Əgər biz öz gəmimizin kursunu 45º sağ tərəfə dəyişsək, bizim üçün planşetdə göstərilən gəmilərdən hansı ən təhlükəli olabilər?
+A) Yalnız E gəmisi
+B) A və D gəmilər
+C) B və C gəmilər
+D) Heç bir gəmi
+Doğru cavab: C
+
+36. Planşetdə gördüyünüz gəmi (qırmızı nöqtələr) hansı manevr edib?
+A) 9-cu dəqiqədən sonra kursunu sol tərəfə dəyişib, sürətini azaldıb
+B) Maşını geri işlədərək təcili dayanıb
+C) Kursunu sağa dəyişib, sürətini artırıb
+D) Sürətini artıraraq bizimlə paralel kursa keçib
+Doğru cavab: A
+
+37. Planşetdə gördüyünüz gəmi (qırmızı nöqtələr) hansı manevr edib?
+A) Hədəf qəflətən yoxa çıxıb, radar siqnalı itib
+B) Hədəf sağa dönüş edərək arxamıza keçib
+C) Hərəkətsiz hədəf 6-cı dəqiqədən sonra hərəkətə başlayıb
+D) Hədəf lövbərə dayanıb
+Doğru cavab: C
+
+38. Planşetdə gördüyünüz gəmi (qırmızı nöqtələr) hansı manevr edib?
+A) Hədəf 90 dərəcə sola dönüb
+B) Hədəf hərəkətsiz vəziyyətə keçib
+C) 12-ci dəqiqədən sonra hədəf bizim gəmimizlə eyni kursla hərəkət edir, sürətini azaldıb
+D) 12-ci dəqiqədən sonra hədəf əks kursla tam sürətlə hərəkətə başlayıb
+Doğru cavab: C
+
+39. Planşetdə gördüyünüz gəmi (qırmızı nöqtələr) hansı manevr edib?
+A) 12-ci dəqiqədən sonra hədəfin sürəti bizimkindən 3 dəfə çoxdur
+B) 12-ci dəqiqədən sonra hədəfin kursu bizim gəmimizin əksidir
+C) Hədəf xəbərdarlıq siqnalı vermədən dayanıb
+D) Hədəf bizimlə paralel kursda hərəkətini davam etdirir
+Doğru cavab: B
+
+40. Qaydalara əsasən yelkənli gəmi hərəkətdə olarkən yol verməlidir:
+A) Bütün mexaniki mühərrikli gəmilərə
+B) Yalnız uzunluğu 50 metrdən çox olan gəmilərə
+C) Balıq ovu ilə məşğul olan gəmiyə
+D) Heç bir gəmiyə yol verməməlidir
+Doğru cavab: C
+
+41. Qaydalara əsasən mexaniki mühərrikli gəmi hərəkətdə olarkən yol verməlidir:
+A) Yalnız digər mexaniki mühərrikli gəmilərə
+B) Balıq ovu ilə məşğul olan, yelkənli gəmilərə
+C) Bütün sərnişin gəmilərinə
+D) Lokmansız gəmilərə
+Doğru cavab: B
+
+42. Qaydalara əsasən, hansı gəminin və ya gəmilərin vəzifə borcu - suya oturumundan çəkinən gəmiyə yol verməkdir?
+A) Bütün mexaniki mühərrikli gəmilərin
+B) Balıq ovu ilə məşğul olan gəmilərin
+C) Heç bir gəminin
+D) Yelkənli gəmilərin
+Doğru cavab: C
+
+43. Hansı manevr imkanı məhdudlaşmış gəmilərdə vertikal xətt boyunca yerləşmiş “qırmızı, ağ, qırmızı” işıqlar və “şar, romb, şar” işarələri göstərilmir?
+A) Dib dərinləşdirmə işləri aparan gəmilərdə
+B) Kabel və ya boru kəməri çəkən gəmilərdə
+C) Dənizdə digər gəmini yedəyə alan gəmilərdə
+D) Mina təhlükəsini aradan qaldırma işləri ilə məşğul olan gəmilərdə
+Doğru cavab: D
+
+44. Suya oturumundan çəkinən gəmiyə aid olan doğru cavabı qeyd edin.
+A) Yaxşı görünən yerdə vertikal xətt boyunca üç dairəvi qırmızı işıq və ya silindir göstərə bilər
+B) Göy bayraq və iki dairəvi sarı işıq göstərməlidir
+C) Vertikal xətt boyunca üç yaşıl işıq və ya konus göstərməlidir
+D) Sadəcə bir ağ lövbər işığı yandırmalıdır
+Doğru cavab: A
+
+45. COLREG-72-də Qayda-18 nə bildirir?
+A) Bütün hərbi gəmilər dar kanallarda xüsusi üstünlüyə malikdir
+B) Yedək gəmiləri ancaq gündüz vaxtı digər gəmilərə yol verməlidir
+C) Ekranoplan havaya qalxarkən, enərkən və səthə yaxın uçarkən bütün gəmilərdən kənarda durmalı və onların hərəkətini çətinləşdirməməlidir. Ekranoplan su üzərində olarkən “B” Hissəsinin Qaydalarını mexaniki mühərrikli gəmi kimi yerinə yetirməlidir
+D) Yelkənli gəmilər hər zaman mühərrikli gəmilərdən yol tələb edə bilər
+Doğru cavab: C
+
+46. Balıq ovu ilə məşğul olan gəmi hərəkətdə olarkən:
+A) Dar kanalda hər zaman üstünlük təşkil edir və yol vermir
+B) Yalnız mühərrikli gəmilərə yol verməlidir
+C) Bütün digər gəmilər ona yol verməlidir
+D) İdarəetmə imkanından məhrum olunmuş və manevretmə imkanı məhdudlaşmış gəmilərə mümkün qədər yol verməlidir, suya oturumundan çəkinən gəminin təhlükəsiz keçidini, əgər vəziyyət imkan verirsə çətinləşdirməməlidir
+Doğru cavab: D
+
+47. RADAR-ın ekranında müşahidəçi vəziyyəti qiymətləndirərkən, ikinci məlumatın təhlilində nəyə diqqət edilməlidir?
+A) Qəbuledicinin tezlik diapazonuna
+B) Hava şəraitinin pisləşməsinə və buludlara
+C) Suyun dərinliyinə və qabarma göstəricisinə
+D) Vektorlara və rəqəmsal məlumatlara
+Doğru cavab: D
+
+48. Hərəkətin bölünmə sistemindən istifadə edən gəmi digər qabağda hərəkət edən gəmini sağ bortu tərəfindən ötmək üçün səs ilə hansı siqnalı verməlidir?
+A) İki qısa səs siqnalı
+B) Heç bir siqnal verməməlidir
+C) Bir uzun və bir qısa səs siqnalı
+D) Üç qısa və iki uzun səs siqnalı
+Doğru cavab: B
+
+49. Dar keçiddə və ya farvaterdə hərəkət edən gəmi digər qabağda hərəkət edən gəmini sağ bortu tərəfindən ötmək üçün (gəmilər məhdud görünüş şəraitində hərəkət edirlər) səs ilə hansı siqnalı verməlidir?
+A) İki uzun və bir qısa siqnal
+B) Heç bir siqnal verməməlidir
+C) Fasiləsiz zəng səsi
+D) Bir qısa səs siqnalı
+Doğru cavab: B
+
+50. Şəkildə gördüyünüz “B” yelkənli gəmi Qaydalara əsasən hansı tədbir görməlidir? (toqquşma təhlükəsi mövcuddur)
+A) Beş qısa səs siqnalı verib öz kursunu qorumalıdır
+B) “A” gəmi tam keçilməyənədək, tam arxada qalmayanadək, “A” gəminin yolundan kənar olmalıdır
+C) Yelkənlərini yığıb mühərriki işə salaraq əks tərəfə getməlidir
+D) Dərhal sürətini artıraraq A gəmisinin önündən keçməlidir
+Doğru cavab: B
+
