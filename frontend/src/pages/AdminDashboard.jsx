@@ -28,13 +28,13 @@ export default function AdminDashboard() {
       if (!res) throw new Error('No response from server');
       if (!res.ok) {
          const errText = await res.text();
-         throw new Error(HTTP : );
+         throw new Error(`HTTP ${res.status}: ${errText}`);
       }
       const data = await res.json();
       if (data && data.error) throw new Error(data.error);
       setVisits(data || []);
     } catch (err) {
-      setError(Xəta: );
+      setError(`Xəta: ${err.message}`);
     } finally {
       setLoading(false);
     }
