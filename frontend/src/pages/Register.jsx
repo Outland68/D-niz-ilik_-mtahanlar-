@@ -68,12 +68,7 @@ export default function Register() {
         </div>
       )}
 
-      {successMessage && (
-        <div className="mb-6 p-4 rounded-xl bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-sm flex items-center gap-3">
-          <CheckCircle2 size={20} className="flex-shrink-0" />
-          <span>{successMessage}</span>
-        </div>
-      )}
+      
 
       <form onSubmit={handleRegisterSubmit} className="space-y-4">
             
