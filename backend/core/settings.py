@@ -94,11 +94,16 @@ WSGI_APPLICATION = 'core.wsgi.application'
 
 import dj_database_url
 
+# Render ucun xususi qeyd: Eger DATABASE_URL yoxdursa, birbasa asagidaki melumatlarla baglanacaq
 DATABASES = {
-    'default': dj_database_url.config(
-        default=f"sqlite:///{BASE_DIR / 'db.sqlite3'}",
-        conn_max_age=600
-    )
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'postgres',
+        'USER': 'postgres.szsfnoxwuflfxdjgphcq', # Supabase IPv4 Pooler Username
+        'PASSWORD': 'BURAYA_SUPABASE_PAROLUNUZU_YAZIN', 
+        'HOST': 'aws-0-ap-northeast-2.pooler.supabase.com',
+        'PORT': '5432',
+    }
 }
 
 
