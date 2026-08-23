@@ -148,52 +148,16 @@ def register_view(request):
     import threading
     from django.core.mail import send_mail
 
-    def send_email_thread(email_address, otp_code, username_val=None):
-        # 1. n8n Webhook integration (Primary) using Python's built-in urllib to avoid external dependency issues
-        import urllib.request
-        import json
-        
-        n8n_url = os.environ.get('N8N_WEBHOOK_URL', '')
-        if not n8n_url and hasattr(settings, 'N8N_WEBHOOK_URL'):
-            n8n_url = getattr(settings, 'N8N_WEBHOOK_URL', '')
-        
-        if n8n_url:
-            try:
-                payload = {
-                    'email': email_address,
-                    'code': otp_code,
-                    'type': 'register',
-                    'username': username_val or 'İstifadəçi'
-                }
-                data_bytes = json.dumps(payload).encode('utf-8')
-                req = urllib.request.Request(
-                    n8n_url,
-                    data=data_bytes,
-                    headers={'Content-Type': 'application/json'},
-                    method='POST'
-                )
-                with urllib.request.urlopen(req, timeout=5) as response:
-                    if response.status in [200, 201]:
-                        print(f"OTP successfully routed via n8n Webhook to {email_address}")
-                        return
-            except Exception as web_err:
-                print("n8n Webhook routing failed, trying SMTP fallback:", web_err)
+    # Send email synchronously to avoid Thread deaths on Render and catch errors
+    from django.core.mail import send_mail
+    try:
+        subject = "Dənizçilik İmtahanları - Qeydiyyat Təsdiq Kodu"
+        message = f"Hərvaxtınız xeyir,\n\nDənizçilik İmtahanları platformasında qeydiyyatdan keçmək üçün təsdiq kodunuz: {code}\n\nBu kodu qeydiyyat pəncərəsinə daxil edərək hesabınızı aktivləşdirin.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
+        send_mail(subject, message, settings.DEFAULT_FROM_EMAIL, [email], fail_silently=False)
+    except Exception as smtp_err:
+        del EMAIL_VERIFICATION_CODES[email]
+        return Response({'error': f'E-poçt göndərilərkən xəta baş verdi. Sistem xətası: {str(smtp_err)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
-        # 2. Django SMTP Fallback
-        try:
-            subject = "Dənizçilik İmtahanları - Qeydiyyat Təsdiq Kodu"
-            message = f"Hərvaxtınız xeyir,\n\nDənizçilik İmtahanları platformasında qeydiyyatdan keçmək üçün təsdiq kodunuz: {otp_code}\n\nBu kodu qeydiyyat pəncərəsinə daxil edərək hesabınızı aktivləşdirin.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
-            send_mail(subject, message, settings.DEFAULT_FROM_EMAIL, [email_address], fail_silently=True)
-        except Exception as smtp_err:
-            print("Background SMTP Fallback Exception:", smtp_err)
-
-    # Start thread
-    thread = threading.Thread(
-        target=send_email_thread,
-        args=(email, code, username)
-    )
-    thread.daemon = True
-    thread.start()
 
     return Response({
         'message': f'6 rəqəmli qeydiyyat təsdiq kodu {email} ünvanına göndərildi!',
@@ -319,48 +283,18 @@ def send_reset_code_view(request):
     import threading
     from django.core.mail import send_mail
 
-    def send_reset_thread(email_address, otp_code, username):
-        n8n_url = os.environ.get('N8N_WEBHOOK_URL', '')
-        if not n8n_url and hasattr(settings, 'N8N_WEBHOOK_URL'):
-            n8n_url = getattr(settings, 'N8N_WEBHOOK_URL', '')
-        
-        if n8n_url:
-            try:
-                import urllib.request
-                import json
-                payload = {
-                    'email': email_address,
-                    'code': otp_code,
-                    'type': 'reset',
-                    'username': username
-                }
-                data_bytes = json.dumps(payload).encode('utf-8')
-                req = urllib.request.Request(
-                    n8n_url,
-                    data=data_bytes,
-                    headers={'Content-Type': 'application/json'},
-                    method='POST'
-                )
-                with urllib.request.urlopen(req, timeout=5) as response:
-                    if response.status in [200, 201]:
-                        print(f"Reset OTP routed via n8n Webhook to {email_address}")
-                        return
-            except Exception as web_err:
-                print("n8n Reset Webhook failed, trying SMTP fallback:", web_err)
+    # Send email synchronously
+    from django.core.mail import send_mail
+    try:
+        subject = "Dənizçilik İmtahanları - Şifrə Sıfırlama Kodu"
+        message = f"Hərvaxtınız xeyir {user.username},\n\nŞifrənizi sıfırlamaq üçün təsdiq kodunuz: {code}\n\nBu kodu heç kimlə paylaşmayın.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
+        send_mail(subject, message, settings.DEFAULT_FROM_EMAIL, [user.email], fail_silently=False)
+    except Exception as e:
+        del RESET_CODES[user.email]
+        if email in RESET_CODES:
+            del RESET_CODES[email]
+        return Response({'error': f'E-poçt göndərilərkən xəta: {str(e)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
-        try:
-            subject = "Dənizçilik İmtahanları - Şifrə Sıfırlama Kodu"
-            message = f"Hərvaxtınız xeyir {username},\n\nŞifrənizi sıfırlamaq üçün təsdiq kodunuz: {otp_code}\n\nBu kodu heç kimlə paylaşmayın.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
-            send_mail(subject, message, settings.DEFAULT_FROM_EMAIL, [email_address], fail_silently=True)
-        except Exception as e:
-            print("Background SMTP Reset Exception:", e)
-
-    thread = threading.Thread(
-        target=send_reset_thread,
-        args=(user.email, code, user.username)
-    )
-    thread.daemon = True
-    thread.start()
 
     return Response({
         'message': f'6 rəqəmli təsdiq kodu {user.email} ünvanına göndərildi!'
