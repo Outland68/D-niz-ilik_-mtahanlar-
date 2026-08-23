@@ -12,56 +12,34 @@ export default function Register() {
   const [loading, setLoading] = useState(false);
 
   // Email verification step states
-  const [step, setStep] = useState(1); // 1: Register Info, 2: Verification Code OTP
-  const [verificationCode, setVerificationCode] = useState('');
-  const [successMessage, setSuccessMessage] = useState('');
+   // 1: Register Info, 2: Verification Code OTP
+  
+  
 
   const handleRegisterSubmit = async (e) => {
     e.preventDefault();
     setError('');
+    setLoading(true);
 
     if (password.length < 8) {
       setError('Şifrə ən azı 8 simvol olmalıdır.');
+      setLoading(false);
       return;
     }
-
-    setLoading(true);
 
     try {
       const res = await apiRegister(username, email, password);
       const data = await res.json();
 
       if (res.ok) {
-        setSuccessMessage(data.message);
-        setStep(2); // Move to OTP confirmation screen
-      } else {
-        setError(data.error || 'Qeydiyyat zamanı xəta baş verdi.');
-      }
-    } catch (err) {
-      console.error(err);
-      setError('Serverlə əlaqə saxlanıla bilmədi.');
-    } finally {
-      setLoading(false);
-    }
-  };
-
-  const handleVerifyOtpSubmit = async (e) => {
-    e.preventDefault();
-    setError('');
-    setLoading(true);
-
-    try {
-      const res = await apiVerifyEmail(email, verificationCode);
-      const data = await res.json();
-
-      if (res.ok) {
+        // Direct Registration Success -> Save tokens and login
         saveTokens(data.access, data.refresh);
         if (data.user) {
           localStorage.setItem('user', JSON.stringify(data.user));
         }
         navigate('/menu');
       } else {
-        setError(data.error || 'Təsdiq kodu yanlışdır.');
+        setError(data.error || 'Qeydiyyat zamanı xəta baş verdi.');
       }
     } catch (err) {
       console.error(err);
@@ -79,7 +57,7 @@ export default function Register() {
         </div>
         <h1 className="text-4xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-emerald-400 via-teal-300 to-cyan-400 tracking-tight">SeaPass</h1>
         <p className="text-white/60 text-sm mt-1 font-medium">
-          {step === 1 ? 'Yeni hesab yaradın' : 'E-poçt ünvanınızı təsdiqləyin'}
+          Yeni hesab yaradın
         </p>
       </div>
 
@@ -97,98 +75,73 @@ export default function Register() {
         </div>
       )}
 
-      {step === 1 ? (
-        /* STEP 1: QEYDİYYAT MƏLUMATLARININ DAXİL EDİLMƏSİ */
-        <form onSubmit={handleRegisterSubmit} className="space-y-4">
-          <div>
-            <label className="block text-sm font-medium text-white/70 mb-1">İstifadəçi adı</label>
-            <input 
-              type="text" 
-              className="input-glass" 
-              placeholder="istifadəçi adı"
-              value={username}
-              onChange={(e) => setUsername(e.target.value)}
-              required 
-            />
-          </div>
-          <div>
-            <label className="block text-sm font-medium text-white/70 mb-1">E-poçt</label>
-            <input 
-              type="email" 
-              className="input-glass" 
-              placeholder="nümunə@mail.com"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-              required 
-            />
-          </div>
-          <div>
-            <label className="block text-sm font-medium text-white/70 mb-1 font-medium">Şifrə (min. 8 simvol)</label>
-            <input 
-              type="password" 
-              className="input-glass" 
-              placeholder="••••••••"
-              value={password}
-              onChange={(e) => setPassword(e.target.value)}
-              required 
-              minLength={8}
-            />
-          </div>
-          
-          <button 
-            type="submit" 
-            disabled={loading}
-            className="w-full btn bg-secondary hover:bg-secondary/80 text-white shadow-[0_0_15px_rgba(59,130,246,0.3)] mt-6 flex items-center justify-center gap-2 disabled:opacity-50 cursor-pointer"
-          >
-            <UserPlus size={20} />
-            {loading ? 'Kod Göndərilir...' : 'Təsdiq Kodu Göndər'}
-          </button>
-        </form>
-      ) : (
-        /* STEP 2: GMAIL OTP TƏSDİQLƏMƏ */
-        <form onSubmit={handleVerifyOtpSubmit} className="space-y-4">
-          <div className="bg-white/5 p-4 rounded-xl border border-white/10 text-center mb-4">
-            <p className="text-xs text-white/60">
-              Biz <strong>{email}</strong> ünvanına 6 rəqəmli doğrulama kodu göndərdik. Zəhmət olmasa daxil edin.
-            </p>
-          </div>
-          
-          <div>
-            <label className="block text-sm font-medium text-white/70 mb-1 text-center font-bold">6 Rəqəmli Təsdiq Kodu</label>
-            <input 
-              type="text" 
-              maxLength={6}
-              placeholder="123456" 
-              className="input-glass text-center text-2xl font-bold tracking-[0.5em] focus:tracking-[0.5em]"
-              value={verificationCode}
-              onChange={(e) => setVerificationCode(e.target.value.replace(/\D/g, ''))}
-              autoComplete="one-time-code"
-              required 
-            />
-          </div>
+      <form onSubmit={handleRegisterSubmit} className="space-y-4">
+            
+            <div className="bg-yellow-500/20 text-yellow-200 p-3 rounded-lg text-sm mb-4 border border-yellow-500/30 flex items-start gap-2">
+              <AlertCircle size={20} className="shrink-0 mt-0.5" />
+              <p>Zəhmət olmasa <strong>öz şəxsi və həqiqi e-poçt ünvanınızla</strong> qeydiyyatdan keçin. Hər e-poçtla yalnız 1 dəfə qeydiyyatdan keçmək mümkündür. Gələcəkdə şifrənizi unutsanız və ya ödəniş etsəniz, hesabınızı bərpa etmək üçün bu e-poçt mütləq lazımdır!</p>
+            </div>
 
-          <button 
-            type="submit" 
-            disabled={loading}
-            className="w-full btn bg-emerald-500 hover:bg-emerald-600 text-black font-black mt-6 flex items-center justify-center gap-2 disabled:opacity-50 cursor-pointer"
-          >
-            <KeyRound size={20} />
-            {loading ? 'Hesab Aktivləşdirilir...' : 'Hesabı Aktivləşdir Və Giriş Et'}
-          </button>
+            <div>
+              <label className="block text-sm font-medium text-white/70 mb-1">İstifadəçi Adı</label>
+              <div className="relative">
+                <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-white/40">
+                  <UserPlus size={18} />
+                </div>
+                <input 
+                  type="text" 
+                  placeholder="İstifadəçi adınızı təyin edin" 
+                  className="input-glass pl-10"
+                  value={username}
+                  onChange={(e) => setUsername(e.target.value)}
+                  required 
+                />
+              </div>
+            </div>
 
-          <button 
-            type="button" 
-            onClick={() => {
-              setStep(1);
-              setSuccessMessage('');
-              setVerificationCode('');
-            }}
-            className="w-full btn bg-white/10 hover:bg-white/20 text-white mt-2 cursor-pointer text-xs"
-          >
-            Məlumatları düzəlt
-          </button>
-        </form>
-      )}
+            <div>
+              <label className="block text-sm font-medium text-white/70 mb-1">E-poçt Ünvanı</label>
+              <div className="relative">
+                <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-white/40">
+                  <Ship size={18} />
+                </div>
+                <input 
+                  type="email" 
+                  placeholder="E-poçt ünvanınız" 
+                  className="input-glass pl-10"
+                  value={email}
+                  onChange={(e) => setEmail(e.target.value)}
+                  required 
+                />
+              </div>
+            </div>
+
+            <div>
+              <label className="block text-sm font-medium text-white/70 mb-1">Şifrə (Ən azı 8 simvol)</label>
+              <div className="relative">
+                <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-white/40">
+                  <KeyRound size={18} />
+                </div>
+                <input 
+                  type="password" 
+                  placeholder="Şifrənizi təyin edin" 
+                  className="input-glass pl-10"
+                  value={password}
+                  onChange={(e) => setPassword(e.target.value)}
+                  minLength={8}
+                  required 
+                />
+              </div>
+            </div>
+
+            <button 
+              type="submit" 
+              className="btn-primary w-full mt-6"
+              disabled={loading}
+            >
+              {loading ? 'Qeydiyyat gedir...' : 'Qeydiyyatdan Keç'}
+            </button>
+          </form>
 
       <div className="mt-6 text-center text-sm text-white/50">
         Artıq hesabınız var?{' '}

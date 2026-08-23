@@ -115,7 +115,7 @@ EMAIL_VERIFICATION_CODES = {}
 def register_view(request):
     """
     POST /api/auth/register/
-    Generates verification code, sends to Gmail, but does not activate account yet.
+    Directly registers the user without email verification.
     """
     username = request.data.get('username')
     email = request.data.get('email', '').strip()
@@ -131,73 +131,34 @@ def register_view(request):
         return Response({'error': 'Bu istifadəçi adı artıq götürülüb.'}, status=status.HTTP_400_BAD_REQUEST)
 
     if User.objects.filter(email=email).exists():
-        return Response({'error': 'Bu e-poçt ünvanı artıq istifadə olunur. Başqa e-poçt daxil edin və ya daxil olun.'}, status=status.HTTP_400_BAD_REQUEST)
+        return Response({'error': 'Bu e-poçt ünvanı artıq istifadə olunur. Hər e-poçtla yalnız bir dəfə qeydiyyatdan keçmək olar.'}, status=status.HTTP_400_BAD_REQUEST)
 
-    # Generate 6-digit OTP
-    import random
-    code = f"{random.randint(100004, 999999)}"
-    
-    # Temporarily cache registration data
-    EMAIL_VERIFICATION_CODES[email] = {
-        'code': code,
-        'username': username,
-        'password': password
-    }
+    # Create actual user in database directly
+    try:
+        user = User.objects.create_user(
+            username=username, 
+            email=email, 
+            password=password
+        )
+        
+        # Authenticate and generate tokens
+        from rest_framework_simplejwt.tokens import RefreshToken
+        refresh = RefreshToken.for_user(user)
+        access_token = refresh.access_token
 
-    # Send confirmation code via n8n Webhook (Primary) and Django SMTP (Fallback)
-    import threading
-    from django.core.mail import send_mail
-
-    # 1. n8n Webhook integration (HTTP over port 443 bypassing Render SMTP blocks)
-    import urllib.request
-    import json
-    
-    n8n_url = os.environ.get('N8N_WEBHOOK_URL', '')
-    if not n8n_url and hasattr(settings, 'N8N_WEBHOOK_URL'):
-        n8n_url = getattr(settings, 'N8N_WEBHOOK_URL', '')
-    
-    if n8n_url:
-        try:
-            payload = {
-                'email': email,
-                'code': code,
-                'type': 'register',
-                'username': username or 'İstifadəçi'
+        return Response({
+            'message': 'Qeydiyyat uğurla tamamlandı!',
+            'access': str(access_token),
+            'refresh': str(refresh),
+            'user': {
+                'id': user.id,
+                'username': user.username,
+                'email': user.email
             }
-            data_bytes = json.dumps(payload).encode('utf-8')
-            req = urllib.request.Request(
-                n8n_url,
-                data=data_bytes,
-                headers={'Content-Type': 'application/json'},
-                method='POST'
-            )
-            with urllib.request.urlopen(req, timeout=10) as response:
-                if response.status not in [200, 201]:
-                    del EMAIL_VERIFICATION_CODES[email]
-                    return Response({'error': f'n8n Webhook xətası: {response.status}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
-        except Exception as web_err:
-            del EMAIL_VERIFICATION_CODES[email]
-            return Response({'error': f'n8n Webhook xətası: {str(web_err)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
-    else:
-        # 2. Django SMTP Fallback (Will likely timeout on Render Free Tier)
-        from django.core.mail import send_mail
-        try:
-            subject = "Dənizçilik İmtahanları - Qeydiyyat Təsdiq Kodu"
-            message = f"Hərvaxtınız xeyir,\n\nDənizçilik İmtahanları platformasında qeydiyyatdan keçmək üçün təsdiq kodunuz: {code}\n\nBu kodu qeydiyyat pəncərəsinə daxil edərək hesabınızı aktivləşdirin.\n\nHörmətlə,\nDənizçilik İmtahanları Komandası"
-            send_mail(subject, message, settings.DEFAULT_FROM_EMAIL, [email], fail_silently=False)
-        except Exception as smtp_err:
-            del EMAIL_VERIFICATION_CODES[email]
-            return Response({'error': f'SMTP Xətası (Render port bloklaması ola bilər): {str(smtp_err)}. Xahiş edirik n8n Webhook qurun.'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+        }, status=status.HTTP_200_OK)
+    except Exception as e:
+        return Response({'error': f'Qeydiyyat zamanı xəta baş verdi: {str(e)}'}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
-
-    return Response({
-        'message': f'6 rəqəmli qeydiyyat təsdiq kodu {email} ünvanına göndərildi!',
-        'email_sent': True
-    }, status=status.HTTP_200_OK)
-
-
-@api_view(['POST'])
-@permission_classes([AllowAny])
 def verify_email_view(request):
     """
     POST /api/auth/verify-email/
