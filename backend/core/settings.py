@@ -11,6 +11,18 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
 from pathlib import Path
+
+import socket
+orig_getaddrinfo = socket.getaddrinfo
+
+def getaddrinfo_ipv4_only(*args, **kwargs):
+    responses = orig_getaddrinfo(*args, **kwargs)
+    # Filter only IPv4 addresses (socket.AF_INET)
+    ipv4_responses = [res for res in responses if res[0] == socket.AF_INET]
+    return ipv4_responses if ipv4_responses else responses
+
+socket.getaddrinfo = getaddrinfo_ipv4_only
+
 from datetime import timedelta
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
